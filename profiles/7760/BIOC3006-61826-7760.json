@@ -1,0 +1,255 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/BIOC3006-61826-7760",
+  "scraped_at": "2026-09-12T13:52:27.504771+00:00",
+  "course_code": "BIOC3006",
+  "class_code": "61826",
+  "semester_code": "7760",
+  "full_course_code": "BIOC3006-61826-7760",
+  "course_title": "Biochemistry of Metabolism in Health & Disease",
+  "study_period": "Semester 2, 2027 (26/07/2027 - 20/11/2027)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemistry & Molec Biosciences",
+  "course_description": "This course provides an introduction to metabolism at the molecular level. The content will be presented in the context of the normal, exercise and disease states. Applications and examples are drawn from current research areas with an emphasis on the metabolic syndrome. The course will build on and extend knowledge gained in the second level course BIOC2000 and will include the modern discipline areas of metabolomics and nutrigenomics. Core topics include aspects of carbohydrate, lipid, protein and amino acid metabolism built around the theme of obesity and the metabolic syndrome as an exemplar of the application of modern knowledge gained through our understanding of the genome and metabolome. The course will show how knowledge from these disciplines aids in our understanding of this health problem affecting many world-wide. The course is designed for those students who are interested or planning careers in the biomedical area, including health science, exercise science, nutrition/dietetics, food science and the biological sciences more broadly.\n\nCells can only function if energy is available to them. An important part of metabolism is understanding the pathways by which the cell obtains energy (bioenergetics) and how nutrients are interconverted to generate energy or the building blocks for our own body constituents. This course covers the main metabolic pathways that are associated with carbohydrate, lipid and protein metabolism in cells and tissues. The pathways interact and are integrated so that we can store energy in times of plenty and use energy from stores when there is no food available. We will focus on the hormones that contribute to this integration. Not only hormones but also the gut microbiota contribute to the regulation of metabolism and we look at the interactions between the host and microbiota. We then use this knowledge to understand how metabolism is altered in common conditions such as obesity, diabetes and liver disease as well as in pregnancy.\n\nThe course will be presented primarily as lectures supplemented by tutorials and workshops (including computer-based practicals) and a short series of laboratory practicals focused on metabolic research.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "BIOC2000",
+      "BIOC2900"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Justin Ridge",
+      "email": "j.ridge@uq.edu.au",
+      "phone": "+61 7 3365 7320"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Justin Ridge",
+      "email": "j.ridge@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Simon Worrall",
+      "email": "s.worrall@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Paul Evans",
+      "email": "p.evans3@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Laura Rix",
+      "email": "l.rix@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease check your timetable and the course Blackboard site regularly for timetable updates.",
+  "course_aims": "This course provides an advanced understanding of metabolic processes and their regulation at systems, cellular and molecular levels. The focus is on placing core metabolic principles and knowledge in the context of lifestyle diseases such as obesity, type 2 diabetes mellitus and the metabolic syndrome. We consider the question \"why is this such a prominent health problem?\". This is an exceptionally complex question that forms an excellent focus for lectures, discussion groups and laboratory-based activities. The course also aims to introduce students to modern metabolic research methods in microbiome analysis.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Analyse how changes in nutritional input affect metabolic processes in the body."
+    },
+    {
+      "number": "LO2.",
+      "description": "Evaluate, with reference to key clinical examples, how metabolic processes are integrated and controlled at the cellular, tissue, and systems levels."
+    },
+    {
+      "number": "LO3.",
+      "description": "Appraise the systemic impact of the normal and abnormal function of key organs and tissues in the setting of pregnancy, obesity, and metabolic disease."
+    },
+    {
+      "number": "LO4.",
+      "description": "Examine the central role of the liver in metabolism and the detoxification of noxious substances to protect cells from toxic environmental factors and metabolites."
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate the role of the microbiome in the regulation of metabolism and assess microbiome changes in diseases with complex aetiologies."
+    },
+    {
+      "number": "LO6.",
+      "description": "Critically evaluate the multifactorial nature of metabolic diseases, including genetic, environmental, and lifestyle factors."
+    },
+    {
+      "number": "LO7.",
+      "description": "Demonstrate familiarity with modern research techniques used in metabolic studies, including microbiome analysis and bioinformatics tools."
+    },
+    {
+      "number": "LO8.",
+      "description": "Communicate complex ideas effectively to diverse audiences using appropriate scientific language and formats and provide constructive feedback on the work of your peers."
+    },
+    {
+      "number": "LO9.",
+      "description": "Analyse, interpret, and present scientific data."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz",
+      "title": "UQ RiPPLE active learning",
+      "weight": "10%",
+      "due_date": "10/08/2026 2:00 pm; 24/08/2026 2:00 pm; 14/09/2026 2:00 pm; 6/10/2026 2:00 pm; 26/10/2026 2:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Participation/ Student contribution, Practical/ Demonstration, Poster",
+      "title": "Xanthine Oxidase practical participation and analysis",
+      "weight": "22.5%",
+      "due_date": "16/09/2026 2:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation, Participation/ Student contribution, Practical/ Demonstration",
+      "title": "Computer exercise",
+      "weight": "17.5%",
+      "due_date": "28/10/2026 2:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "UQ RiPPLE active learning",
+      "mode": "Written",
+      "category": "Quiz",
+      "weight": "10%",
+      "due_date": "10/08/2026 2:00 pm 24/08/2026 2:00 pm 14/09/2026 2:00 pm 6/10/2026 2:00 pm 26/10/2026 2:00 pm",
+      "other_conditions": "Longitudinal. See the conditions definitions",
+      "task_description": "For each module, you have to complete the UQ RiPPLE assignment by the Monday after the end of the module at 2 pm. The RiPPLE assignment consists of: Creating 1 question Moderating 5 questions from your peers Answering 10 questions For each module you can receive a maximum of 2% of your course mark, which makes for 10% of your course mark for the full series of UQ RiPPLE assignments. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Complete the RiPPLE assignment in the UQ RiPPLE online environment.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nApplications for extension\nExtension applications must be received no later than 24 hours after the published assessment due date and time.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "For each module, you have to complete the UQ RiPPLE assignment by the Monday after the end of the module at 2 pm. The RiPPLE assignment consists of: Creating 1 question Moderating 5 questions from your peers Answering 10 questions For each module you can receive a maximum of 2% of your course mark, which makes for 10% of your course mark for the full series of UQ RiPPLE assignments. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Xanthine Oxidase practical participation and analysis",
+      "mode": "Product/ Artefact/ Multimedia",
+      "category": "Participation/ Student contribution, Practical/ Demonstration, Poster",
+      "weight": "22.5%",
+      "due_date": "16/09/2026 2:00 pm",
+      "task_description": "This assessment item has two components: An assessment of completion of each lab session (Pass/Fail). A scientific poster based on the analysis of the real and virtual data collected in the laboratory sessions (22.5%). There are three (3) practical sessions and two (2) tutorial sessions for this assessment task; held in weeks 1-6 of the semester. ATTENDANCE OF THE PRACTICAL SESSIONS IS COMPULSORY. Practical: Determination of xanthine oxidase activity as detailed in the practical manual, additional experiments need to be conducted in the Virtual Laboratory environment. Analysis of real and virtual laboratory data will be discussed in the tutorial sessions for this practical. The results of the practical sessions, analysed as instructed in the tutorial sessions, have to be presented as a poster suitable for a scientific conference. The poster will be assessed on its own e.g. you are not required to do an oral presentation of the poster. Detailed guidelines and instructions will be provided on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Please read the following carefully: 1. If you are absent from a practical session: You must attend and complete 100% of the laboratory component of this course. If you are unable to attend your timetabled practical session due to circumstances beyond your control (e.g., illness) you must submit a practical absence request immediately accompanied by acceptable supporting documentation that covers the date of the missed practical. A list of acceptable reasons and required supporting information is found at: https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension?p=1#1 Requests for practical absences can be submitted via the course Blackboard site under the Assessment tab > Learning Resources > Practical Absence. Your request must be submitted prior to or on the day of the missed practical. It is your responsibility to submit an application and provide correct documentation by the due date and time. Requests without correct supporting documentation may not be approved. If the reason for your absence is not approved, you will be considered as absent form that practical session and the laboratory attendance hurdle may apply. Extensions will not be granted for alternate assessment (unless exceptional circumstances can be demonstrated). Alternate assessment will only be approved for one missed practical (unless exceptional circumstances can be demonstrated). Do not apply for a practical absence for an extension to the submission of the associated assessment. Follow the procedure below. 2. If you require an extension on the poster submission: Follow the instructions listed under Deferral or Extension . Do not apply for an extension for a practical absence. Follow the procedure above. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Submit a PDF of your XO poster through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nApplications for extension\nExtension applications must be received no later than 24 hours after the published assessment due date and time.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment item has two components: An assessment of completion of each lab session (Pass/Fail). A scientific poster based on the analysis of the real and virtual data collected in the laboratory sessions (22.5%). There are three (3) practical sessions and two (2) tutorial sessions for this assessment task; held in weeks 1-6 of the semester. ATTENDANCE OF THE PRACTICAL SESSIONS IS COMPULSORY. Practical: Determination of xanthine oxidase activity as detailed in the practical manual, additional experiments need to be conducted in the Virtual Laboratory environment. Analysis of real and virtual laboratory data will be discussed in the tutorial sessions for this practical. The results of the practical sessions, analysed as instructed in the tutorial sessions, have to be presented as a poster suitable for a scientific conference. The poster will be assessed on its own e.g. you are not required to do an oral presentation of the poster. Detailed guidelines and instructions will be provided on Blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Please read the following carefully: 1. If you are absent from a practical session: You must attend and complete 100% of the laboratory component of this course. If you are unable to attend your timetabled practical session due to circumstances beyond your control (e.g., illness) you must submit a practical absence request immediately accompanied by acceptable supporting documentation that covers the date of the missed practical. A list of acceptable reasons and required supporting information is found at: https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension?p=1#1 Requests for practical absences can be submitted via the course Blackboard site under the Assessment tab > Learning Resources > Practical Absence. Your request must be submitted prior to or on the day of the missed practical. It is your responsibility to submit an application and provide correct documentation by the due date and time. Requests without correct supporting documentation may not be approved. If the reason for your absence is not approved, you will be considered as absent form that practical session and the laboratory attendance hurdle may apply. Extensions will not be granted for alternate assessment (unless exceptional circumstances can be demonstrated). Alternate assessment will only be approved for one missed practical (unless exceptional circumstances can be demonstrated). Do not apply for a practical absence for an extension to the submission of the associated assessment. Follow the procedure below. 2. If you require an extension on the poster submission: Follow the instructions listed under Deferral or Extension . Do not apply for an extension for a practical absence. Follow the procedure above. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Computer exercise",
+      "mode": "Activity/ Performance, Written",
+      "category": "Paper/ Report/ Annotation, Participation/ Student contribution, Practical/ Demonstration",
+      "weight": "17.5%",
+      "due_date": "28/10/2026 2:00 pm",
+      "task_description": "This assessment item has two components: An assessment of completion of the first computer practical session (Pass/Fail). A practical report which is based on the analyses performed in the computer practical sessions (17.5%). High throughput DNA sequencing is a common method to analyse the bacterial community making up the gut microbiome. This practical is designed to provide students with a practical understanding of the workflow and complexities of microbiome analysis and to enable you to critically judge microbiome research that you encounter in other contexts. Students will analyse samples obtained from rodents with different health conditions and varying dietary intake patterns. As a result of these conditions, the composition of the microbiome changes and conclusions may be drawn about the relationship between the microbiome and metabolic health. Students will start with a table containing the abundances of bacteria in the microbiome and an accompanying mapping file that will be analysed with different statistical methods to identify features that are common and/or specific to various metabolic states. You will be guided through this process using a detailed manual. ATTENDANCE AT THE FIRST OF THE TWO COMPUTER PRACTICALS IS COMPULSORY. If you have finished your analyses before the second practical and do not need the support from tutors for your assignment, you do not have to attend this practical. Please note that support will only be provided in the workshops. Students will analyse these data individually and independently and then present these in an individual report that includes a detailed discussion of the results and biological/physiological interpretation. The report contains the results of the analyses done in the computer practical with additional questions on the interpretation of these results. The computer practical manual contains all the instructions on how to do the analyses as well as the interpretation questions that need to be answered. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Please read the following carefully: 1. If you are absent from a practical session: You must attend and complete 100% of the laboratory component of this course. If you are unable to attend your timetabled practical session due to circumstances beyond your control (e.g., illness) you must submit a practical absence request immediately accompanied by acceptable supporting documentation that covers the date of the missed practical. A list of acceptable reasons and required supporting information is found at: https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension?p=1#1 Requests for practical absences can be submitted via the course Blackboard site under the Assessment tab > Learning Resources > Practical Absence. Your request must be submitted prior to or on the day of the missed practical. It is your responsibility to submit an application and provide correct documentation by the due date and time. Requests without correct supporting documentation may not be approved. If the reason for your absence is not approved, you will be considered as absent form that practical session and the laboratory attendance hurdle may apply. Extensions will not be granted for alternate assessment (unless exceptional circumstances can be demonstrated). Alternate assessment will only be approved for one missed practical (unless exceptional circumstances can be demonstrated). Do not apply for a practical absence for an extension to the submission of the associated assessment. Follow the procedure below. 2. If you require an extension on the practical report submission: Follow the instructions listed under Deferral or Extension . Do not apply for an extension for a practical absence. Follow the procedure above. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Submit your computer practical report through the course Turnitin submission point in Blackboard. Before submitting your assessment item to Turnitin please name your file in the following way. FAMILY NAME_GivenName_StudentID_CourseCode_AssignmentName For example: Bob Smith (ID: 54329876) would name his ABCD1234 essay 1 in the following way. SMITH_Bob_54329876_ABCD1234_Essay1\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nApplications for extension\nExtension applications must be received no later than 24 hours after the published assessment due date and time.\nRead the information contained in the following links carefully before submitting an application for extension to assessment due date.\nFor guidance on applying for an extension, information is available here .\nFor the policy relating to extensions, information is available here (Part D).\nInformation on medical certificates\nPlease note the University's requirements for medical certificates here .\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date. For example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period). 10% will be deducted per day for up to 7 calendar days, at which point your submission will receive a mark of zero (0) unless an extension has been approved.\nIn most instances one or more hurdles will apply to your assessment item so you will need to submit it to fulfil the requirements of the course regardless of how late it is and the mark you are likely to be awarded.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assessment item has two components: An assessment of completion of the first computer practical session (Pass/Fail). A practical report which is based on the analyses performed in the computer practical sessions (17.5%). High throughput DNA sequencing is a common method to analyse the bacterial community making up the gut microbiome. This practical is designed to provide students with a practical understanding of the workflow and complexities of microbiome analysis and to enable you to critically judge microbiome research that you encounter in other contexts. Students will analyse samples obtained from rodents with different health conditions and varying dietary intake patterns. As a result of these conditions, the composition of the microbiome changes and conclusions may be drawn about the relationship between the microbiome and metabolic health. Students will start with a table containing the abundances of bacteria in the microbiome and an accompanying mapping file that will be analysed with different statistical methods to identify features that are common and/or specific to various metabolic states. You will be guided through this process using a detailed manual. ATTENDANCE AT THE FIRST OF THE TWO COMPUTER PRACTICALS IS COMPULSORY. If you have finished your analyses before the second practical and do not need the support from tutors for your assignment, you do not have to attend this practical. Please note that support will only be provided in the workshops. Students will analyse these data individually and independently and then present these in an individual report that includes a detailed discussion of the results and biological/physiological interpretation. The report contains the results of the analyses done in the computer practical with additional questions on the interpretation of these results. The computer practical manual contains all the instructions on how to do the analyses as well as the interpretation questions that need to be answered. Use of Artificial Intelligence (AI) and Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Please read the following carefully: 1. If you are absent from a practical session: You must attend and complete 100% of the laboratory component of this course. If you are unable to attend your timetabled practical session due to circumstances beyond your control (e.g., illness) you must submit a practical absence request immediately accompanied by acceptable supporting documentation that covers the date of the missed practical. A list of acceptable reasons and required supporting information is found at: https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-assessment-extension?p=1#1 Requests for practical absences can be submitted via the course Blackboard site under the Assessment tab > Learning Resources > Practical Absence. Your request must be submitted prior to or on the day of the missed practical. It is your responsibility to submit an application and provide correct documentation by the due date and time. Requests without correct supporting documentation may not be approved. If the reason for your absence is not approved, you will be considered as absent form that practical session and the laboratory attendance hurdle may apply. Extensions will not be granted for alternate assessment (unless exceptional circumstances can be demonstrated). Alternate assessment will only be approved for one missed practical (unless exceptional circumstances can be demonstrated). Do not apply for a practical absence for an extension to the submission of the associated assessment. Follow the procedure below. 2. If you require an extension on the practical report submission: Follow the instructions listed under Deferral or Extension . Do not apply for an extension for a practical absence. Follow the procedure above. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "task_description": "This is a 120 minute examination covering the content of all modules. This will be an on-campus, invigilated exam. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "This is a 120 minute examination covering the content of all modules. This will be an on-campus, invigilated exam. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website .",
+    "other_course_materials": "If we've listed something under further requirement, you'll need to provide your own. Required Item Description Further Requirement Lab coat To work in the teaching lab you will need your own lab coat. own item needed Safety glasses/goggles To work in the teaching lab you will need your own safety glasses or safety goggles. Standard prescription glasses are NOT adequate. own item needed",
+    "required": "Item Description Further Requirement Lab coat To work in the teaching lab you will need your own lab coat. own item needed Safety glasses/goggles To work in the teaching lab you will need your own safety glasses or safety goggles. Standard prescription glasses are NOT adequate. own item needed"
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 7",
+      "activity_type": "Practical",
+      "topic": "Xanthine Oxidase practical series and tutorials Assay of xanthine oxidase activity. This is a series of 3 weeks of wet lab and virtual practicals. Alternative sessions available during week. Check SI-net for times and class sign-on. It is followed by two weeks of tutorials where the analysis of the data is discussed."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 2",
+      "activity_type": "Lecture",
+      "topic": "Module 1: Converting Nutrients to Energy Lecturer: TBC The metabolism of carbohydrates, fats and proteins and the response to dietary input."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 3 To Week 4",
+      "activity_type": "Lecture",
+      "topic": "Module 2: Storing Energy Lecturer: TBC will deliver content on how excess energy is stored in the body in different forms. Examples of when this goes awry will be examined."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 7 To Week 13",
+      "activity_type": "Workshop",
+      "topic": "Exam training workshops In these workshops (one in week 7 and one in week 13), you will sit with other students in groups to work through exam questions from past exams. Staff will be around to provide input and advice."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 5 To Week 7",
+      "activity_type": "Lecture",
+      "topic": "Module 3: Integrated Metabolism Lecturer: Associate Professor Marloes Dekker will discuss the hormonal control and integration of metabolism. The impact of metabolic dysfunction focusing on obesity and diabetes as well as pregnancy will be discussed."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 8 To Week 9",
+      "activity_type": "Lecture",
+      "topic": "Module 4: The microbiome in regulating metabolism Lecturer: Dr Paul Evans will discuss the applications of modern research techniques to investigate the role of the microbiome in regulating metabolism"
+    },
+    {
+      "learning_period": "Multiple weeks From Week 10 To Week 11",
+      "activity_type": "Practical",
+      "topic": "Microbiome-computer exercise Dr Rix will oversee the Computer exercises in microbiome analysis. Alternative sessions available during week. Check SI-net for times and class sign-on."
+    },
+    {
+      "learning_period": "Multiple weeks From Week 11 To Week 12",
+      "activity_type": "Lecture",
+      "topic": "Module 5: The liver in metabolic distress Dr Simon Worrall will discuss Specialised topics in metabolism: Review of hepatic metabolism; Alcoholic steatosis; and non-alcoholic fatty liver disease similar pathology but different aetiology. He will also discuss Oxidative stress and how cells deal with it (including biology of selenium); Specialised hepatic metabolism drugs & haem (including biology of iron)."
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Laboratory Occupational Health and Safety Learning activities"
+}

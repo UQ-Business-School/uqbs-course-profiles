@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T06:35:21.353158+00:00",
-  "total_profiles": 9842,
+  "generated_at": "2026-09-12T13:52:31.793383+00:00",
+  "total_profiles": 9846,
   "semesters": {
     "7460": [
       {
@@ -177170,6 +177170,82 @@
         "assessment_count": 2,
         "lo_count": 5,
         "file": "profiles/7660/WRIT7320-60526-7660.json"
+      }
+    ],
+    "7720": [
+      {
+        "course_code": "ENGG7340",
+        "class_code": "21256",
+        "semester_code": "7720",
+        "full_course_code": "ENGG7340-21256-7720",
+        "course_title": "Research Project",
+        "study_period": "Semester 1, 2027 (22/02/2027 - 19/06/2027)",
+        "study_level": "Postgraduate Coursework",
+        "location": "St Lucia",
+        "attendance_mode": "In Person",
+        "units": "4",
+        "coordinating_unit": "Mech & Mine Engineering School",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG7340-21256-7720",
+        "scraped_at": "2026-09-12T13:52:23.999079+00:00",
+        "assessment_count": 6,
+        "lo_count": 9,
+        "file": "profiles/7720/ENGG7340-21256-7720.json"
+      },
+      {
+        "course_code": "HMST4925",
+        "class_code": "21055",
+        "semester_code": "7720",
+        "full_course_code": "HMST4925-21055-7720",
+        "course_title": "Applied Research Training",
+        "study_period": "Semester 1, 2027 (22/02/2027 - 19/06/2027)",
+        "study_level": "Undergraduate",
+        "location": "St Lucia",
+        "attendance_mode": "In Person",
+        "units": "2",
+        "coordinating_unit": "Human Movement & Nutrition Sci",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/HMST4925-21055-7720",
+        "scraped_at": "2026-09-12T13:52:26.108560+00:00",
+        "assessment_count": 4,
+        "lo_count": 3,
+        "file": "profiles/7720/HMST4925-21055-7720.json"
+      }
+    ],
+    "7760": [
+      {
+        "course_code": "BIOC3006",
+        "class_code": "61826",
+        "semester_code": "7760",
+        "full_course_code": "BIOC3006-61826-7760",
+        "course_title": "Biochemistry of Metabolism in Health & Disease",
+        "study_period": "Semester 2, 2027 (26/07/2027 - 20/11/2027)",
+        "study_level": "Undergraduate",
+        "location": "St Lucia",
+        "attendance_mode": "In Person",
+        "units": "2",
+        "coordinating_unit": "Chemistry & Molec Biosciences",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/BIOC3006-61826-7760",
+        "scraped_at": "2026-09-12T13:52:27.504771+00:00",
+        "assessment_count": 4,
+        "lo_count": 9,
+        "file": "profiles/7760/BIOC3006-61826-7760.json"
+      },
+      {
+        "course_code": "ENGG1500",
+        "class_code": "60747",
+        "semester_code": "7760",
+        "full_course_code": "ENGG1500-60747-7760",
+        "course_title": "Thermodynamics: Energy and the Environment",
+        "study_period": "Semester 2, 2027 (26/07/2027 - 20/11/2027)",
+        "study_level": "Undergraduate",
+        "location": "St Lucia",
+        "attendance_mode": "In Person",
+        "units": "2",
+        "coordinating_unit": "Chemical Engineering School",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG1500-60747-7760",
+        "scraped_at": "2026-09-12T13:52:29.929863+00:00",
+        "assessment_count": 4,
+        "lo_count": 7,
+        "file": "profiles/7760/ENGG1500-60747-7760.json"
       }
     ]
   }

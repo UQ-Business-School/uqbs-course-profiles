@@ -1,0 +1,396 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG1500-60747-7760",
+  "scraped_at": "2026-09-12T13:52:29.929863+00:00",
+  "course_code": "ENGG1500",
+  "class_code": "60747",
+  "semester_code": "7760",
+  "full_course_code": "ENGG1500-60747-7760",
+  "course_title": "Thermodynamics: Energy and the Environment",
+  "study_period": "Semester 2, 2027 (26/07/2027 - 20/11/2027)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Chemical Engineering School",
+  "course_description": "Basic concepts in thermodynamics, forms of energy; properties of pure substances, phase diagrams and phase transitions; first law of thermodynamics and applications - mass and energy balances in open and closed systems; entropy and second law of thermodynamics; topical engineering case studies.\n\nThermodynamics is at the heart of many engineering processes and many of the important technical and environmental problems that engineers tackle. This course will help you understand the answers to the following questions:\n\n(1) Will clever engineers one day construct an engine that converts heat into work with one hundred per cent efficiency?\n\n(2) Why is it so hard to reverse the effects of pollution?ﾠ\n\n(3) Why does a hot cup of coffee always cool down and never warm up?\n\n(4) Why are heat pump hot water systems so much more efficient than electrical heaters?\n\nFurthermore, understanding thermodynamics will help you see how all these questions are actually related. Thermodynamics gives a quantitative description of the conversion of different forms of energy such as heat, mechanical and chemical energy and tells us which processes are allowed by physical laws and what are not. It is the basis for most engineering disciplines.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1040"
+    ],
+    "restrictions": [
+      "BE(Hons), BE(Hons) dual degree, and BBioTech students only."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Gilda Carvalho",
+      "email": "g.carvalho@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Tyler Neely",
+      "email": "t.neely@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Georgii Khartcyzov",
+      "email": "g.khartcyzov@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Haijiao Lu",
+      "email": "haijiao.lu@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Gilda Carvalho",
+      "email": "g.carvalho@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Shakil Ahmmed",
+      "email": "s.ahmmed@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Jingjing Wan",
+      "email": "j.wan@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Thomas Molesworth",
+      "email": "t.molesworth@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Alex Anderson",
+      "email": "alexander.anderson@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Michelle Cox",
+      "email": "michelle.cox@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Shreyas Raman",
+      "email": "shreyas.raman@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Jemma Hutchinson",
+      "email": "jemma.hutchinson@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Luke Webster",
+      "email": "l.webster@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Tom Condon",
+      "email": "t.condon@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Martin Bevacqua",
+      "email": "m.bevacqua@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Samuel Martin",
+      "email": "samuel.martin@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Ngoc The Vinh Nguyen",
+      "email": "ngocthevinh.nguyen@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Hugh Tyne",
+      "email": "h.tyne@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Nina Moore",
+      "email": "nina.moore@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Alexandra Nash",
+      "email": "a.nash@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Benjamin Sander",
+      "email": "b.sander@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Pippa Van Der Kooij",
+      "email": "p.vanderkooij@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Rachel Fitzgerald",
+      "email": "rachel.fitzgerald1@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Monishka Kiran",
+      "email": "m.kiran@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Levi Cutler",
+      "email": "l.cutler@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Isabella Vecchio",
+      "email": "i.vecchio@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Miss Jenna Rogers",
+      "email": "jenna.rogers@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Rebecca Miller",
+      "email": "r.miller1@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Armstrong Fong",
+      "email": "armstrong.fong@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Jessnee Ng",
+      "email": "jessnee.ng@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Oscar Twyford",
+      "email": "o.twyford@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTimetables are subject to change during the beginning of semester. ﾠFor up-to-date timetable information please check your timetable online.\nThe basic course structure is:\nOnline modules on UQ Extend (self-paced). Block approx. 1h in your timetable every week to watch the modules before the Workshop.\nOne 2h demo lecture. This is an active session with questions and problem solving so is best to do live.ﾠ\nOne 2h tutorial during the week. You will need to sign up to a specific tutorial. These tutorials are very important, prioritise making it to these each week.ﾠ\nOne 1h prac (site visit). You will need to sign up to a specific practical time. Prac Location: Advanced Engineering Building, Refer to Blackboard for information and directions.ﾠ",
+  "course_aims": "This course aims to equip students with the knowledge and skills to help solve energy related problems in engineering and science. Since energy is a key part of so many natural and engineered processes, this can be applied across a huge range of fields. Through systems thinking, thermodynamic fundamentals, and a modelling mindset, what is learnt in this course is truly transferable. Specifically this course aims to:ﾠﾠ\n\n1. Give a foundation in the fundamentals of thermodynamics (conservation of mass, 1st law, and 2nd law) and systems thinking in context of thermodynamics.\n\n2. Develop student’s understanding of the important physical properties and processes in thermodynamics.\n\n3. Give students practice in an engineering approach to problem solving and use critical thinking in the context of energy problems.\n\n4. Demonstrate the importance of thermodynamics in solving important engineering issues and using a critical modelling and analysis mindset.\n\n5. Demonstrate the link between energy systems and sustainability and how thermodynamics can help frame and make sustainability decisions. ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Define, and describe in terms of everyday phenomena, conservation of mass, conservation of energy (1st law of thermodynamics), and the 2nd law of thermodynamics."
+    },
+    {
+      "number": "LO2.",
+      "description": "Define, and describe the physical basis, of the thermodynamic properties (e.g. internal energy, enthalpy, entropy etc.) and thermodynamic functions (e.g. heat and work)."
+    },
+    {
+      "number": "LO3.",
+      "description": "Calculate thermodynamic properties using property tables, property diagrams, the ideal gas equation, and heat capacities."
+    },
+    {
+      "number": "LO4.",
+      "description": "Translate descriptions, and diagrams, of processes into relevant system boundaries, flows, and assumptions for use in thermodynamic modelling and analysis."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply the conservation of mass, the conservation of energy (1st law of thermodynamics), and the 2nd law of thermodynamics to solve problems for well-defined systems without reactions."
+    },
+    {
+      "number": "LO6.",
+      "description": "Analyse multi-unit systems, predominantly refrigeration and power cycles, using the 1st and 2nd laws of thermodynamics."
+    },
+    {
+      "number": "LO7.",
+      "description": "Explain the links between energy systems and sustainability and analyse energy systems using thermodynamics and sustainability measures."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Tutorial/ Problem Set",
+      "title": "Exercises",
+      "weight": "30%",
+      "due_date": "10/08/2026 12:00 pm; 17/08/2026 12:00 pm; 24/08/2026 12:00 pm; 31/08/2026 12:00 pm; 7/09/2026 12:00 pm; 14/09/2026 12:00 pm; 21/09/2026 12:00 pm; 6/10/2026 12:00 pm; 12/10/2026 12:00 pm; 19/10/2026 12:00 pm; 26/10/2026 12:00 pm; By 12pm on the Monday after the tutorial session*",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam Outside Scheduled Class",
+      "weight": "5%",
+      "due_date": "14/09/2026 - 16/09/2026; Exam opens from Mon 09:00 to Wed 16:00; You have 110 mins (90 mins writing plus 20 mins for scanning and uploading)",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Sustainability Measures for Energy Systems",
+      "weight": "20%",
+      "due_date": "23/10/2026 4:00 pm",
+      "conditions": [
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Exam During Exam Period (Central)",
+      "weight": "45% Hurdle",
+      "due_date": "",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Exercises",
+      "mode": "Written",
+      "category": "Tutorial/ Problem Set",
+      "weight": "30%",
+      "due_date": "10/08/2026 12:00 pm 17/08/2026 12:00 pm 24/08/2026 12:00 pm 31/08/2026 12:00 pm 7/09/2026 12:00 pm 14/09/2026 12:00 pm 21/09/2026 12:00 pm 6/10/2026 12:00 pm 12/10/2026 12:00 pm 19/10/2026 12:00 pm 26/10/2026 12:00 pm By 12pm on the Monday after the tutorial session*",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06, L07",
+      "task_description": "Tutorial exercises. The questions are available on Blackboard. Your best 10 submissions (of 11) will count to the 30% total. Tutorial exercises from weeks 3 to 13 are due weekly. Tutorials must be submitted by 12pm Monday* after your tutorial via Gradescope as a single PDF . (*or 24hr later if Monday is a public holiday; or the following Monday if it's mid-sem break week) The PDF must be clear and legible. Use a PDF scanning app on your phone. If you don't have a suitable phone, you can scan to PDF in the library. Do NOT take photos and paste into a word document. These can be submitted in pairs or individually. If you submit as a pair, both students' details must be added to the Group Details on Gradescope (see detailed instructions on Blackboard). Only one of the pair needs to submit online. The other student will receive the same mark as long as they are added in Gradescope during submission. You are encouraged to attend and complete all submissible questions during the tutorial, when help is at hand, and get on with the other things in your life! This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Submitted via Gradescope as a single PDF. The PDF must be clear and legible. Use a PDF scanning app on your phone or a scanner to create the PDF.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 2 days. Extensions are given in multiples of 24 hours.\nRationale - Solutions are released after 2 days.\nAdjustment - If more than 2 days extension is needed for a Tutorial Exercise, an exemption will apply instead (same application process using link above). If an exemption is approved, your \"best of\" count will be reduced by one when calculating your overall Tutorial Exercise marks.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nLate submission\nLate Penalty without an approved extension - 10% penalty per day up to 2 calendar days. After 2 calendar days submissions will receive 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Late Penalty without an approved extension - 10% penalty per day up to 2 calendar days. After 2 calendar days submissions will receive 0.",
+      "ai_statement": "Tutorial exercises. The questions are available on Blackboard. Your best 10 submissions (of 11) will count to the 30% total. Tutorial exercises from weeks 3 to 13 are due weekly. Tutorials must be submitted by 12pm Monday* after your tutorial via Gradescope as a single PDF . (*or 24hr later if Monday is a public holiday; or the following Monday if it's mid-sem break week) The PDF must be clear and legible. Use a PDF scanning app on your phone. If you don't have a suitable phone, you can scan to PDF in the library. Do NOT take photos and paste into a word document. These can be submitted in pairs or individually. If you submit as a pair, both students' details must be added to the Group Details on Gradescope (see detailed instructions on Blackboard). Only one of the pair needs to submit online. The other student will receive the same mark as long as they are added in Gradescope during submission. You are encouraged to attend and complete all submissible questions during the tutorial, when help is at hand, and get on with the other things in your life! This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-Semester Exam Outside Scheduled Class",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "5%",
+      "due_date": "14/09/2026 - 16/09/2026 Exam opens from Mon 09:00 to Wed 16:00 You have 110 mins (90 mins writing plus 20 mins for scanning and uploading)",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "In-Semester Exam completed online in week 8 (between Mon - Wed Sep 14 to 16). You have 110 mins (90 mins writing plus 20 mins for scanning and uploading) to complete exam and submit your answers, once you open the exam. Covers Weeks 1 to 6. All contents from those weeks can be tested. The exam will be online. Working / communicating with other people during the exam is not permitted at all and will be treated as serious student misconduct. Further details about doing the exam will be confirmed on Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time no planning time minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials equation and data table Exam platform Other Invigilation Not invigilated",
+      "submission_guidelines": "More information on submission will be given on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 2 days. Extensions are given in multiples of 24 hours.\nAdjustment - If more than 2 days extension is needed to sit the online exam, an exemption will apply instead (same application process using link above). If an exemption is approved, the final exam will have a weight of 50% instead of 45%.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nLate submission\nLate Penalty without an approved extension - 10% penalty per minute up to 10 minutes. After 10 minutes submissions will receive 0.\nRationale - The duration of the exam includes abundant time (20 min) for uploading.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "Late Penalty without an approved extension - 10% penalty per minute up to 10 minutes. After 10 minutes submissions will receive 0.",
+      "ai_statement": "In-Semester Exam completed online in week 8 (between Mon - Wed Sep 14 to 16). You have 110 mins (90 mins writing plus 20 mins for scanning and uploading) to complete exam and submit your answers, once you open the exam. Covers Weeks 1 to 6. All contents from those weeks can be tested. The exam will be online. Working / communicating with other people during the exam is not permitted at all and will be treated as serious student misconduct. Further details about doing the exam will be confirmed on Blackboard. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Sustainability Measures for Energy Systems",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "23/10/2026 4:00 pm",
+      "learning_outcomes_assessed": "L01, L04, L07",
+      "task_description": "Small project report considering the energy flows and sustainability of the UQ AEB building. The report will include two parts: (a) a short visit worksheet (conducted after a site visit to the building), worth 5%, including 1% for attendance to the visit; and (b) an analysis of energy flows and sustainability impacts of the AEB energy usage under different scenarios, worth 15%. Both reports are individual submissions. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. More details are provided on Blackboard. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Submission through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nA Student Access Plan (SAP) can only be used for a first extension. Extensions based on an SAP may be granted for up to seven (7) days, or the maximum number of days specified in the Course Instance (CI), if it is less than seven (7) days. Any further extensions will require additional supporting documentation, such as a medical certificate.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nAssessments must be submitted on or before the due date.\nAn extension request is not considered late until 24 hours after the assessment due date & time.\nRefer PPL Assessment Procedure Section 3 Part C (48)",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Small project report considering the energy flows and sustainability of the UQ AEB building. The report will include two parts: (a) a short visit worksheet (conducted after a site visit to the building), worth 5%, including 1% for attendance to the visit; and (b) an analysis of energy flows and sustainability impacts of the AEB energy usage under different scenarios, worth 15%. Both reports are individual submissions. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. More details are provided on Blackboard. Read full task description Hide full task description\nThis task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance.\nA failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "In-person",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Exam During Exam Period (Central)",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "45% Hurdle",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
+      "task_description": "Closed book and invigilated examination. Student receive the equation and data booklet in the exam paper. Casio FX82 series or UQ approved and labelled calculator ONLY can be used in all exams for this course. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "Closed book and invigilated examination. Student receive the equation and data booklet in the exam paper. Casio FX82 series or UQ approved and labelled calculator ONLY can be used in all exams for this course. This assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nThis assessment task evaluates students' abilities, skills and knowledge without the aid of generative Artificial Intelligence (AI) or Machine Translation (MT). Students are advised that the use of AI or MT technologies to develop responses is strictly prohibited and may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Lecture",
+      "topic": "UQ Extend: Module videos, notes, and self-quizzes UQ Extend modules will be set before the workshop each week. Each module consists of videos, notes, and self-check quizzes to get you started on that week. These modules are supplemented by the text book. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Applied Class",
+      "topic": "2h problem demo class each week Demo classes use active learning to develop student's applied understanding of that week's topics. That week's videos (on UQ Extend) should be viewed before this applied class. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Tutorial",
+      "topic": "2h tutorial each week Tutorials working on material following videos and demo active learning class (which should be attended/watched before tutorials). Submissions are required from tutorial work. Learning outcomes: L01, L02, L03, L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    },
+    {
+      "learning_period": "Week 9",
+      "activity_type": "Practical",
+      "topic": "AEB energy system bldg visit and sustainability assessment Visit to AEB bldg energy system, in groups of 20. Site visit worksheet to be completed and submitted along with sustainability assessments, as part of the case study. Learning outcomes: L04, L05, L06, L07",
+      "learning_outcomes": [
+        "L04",
+        "L05",
+        "L06",
+        "L07"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . School guidelines Your school has additional guidelines you'll need to follow for this course: Safety Induction for Practicals Course guidelines Safety Induction for Practicals Anyone undertaking courses with a practical component must complete the UQ Undergraduate Student Laboratory Safety Induction and pass the associated assessment. Specific instructions, usage guidelines and rules for each of the undergraduate laboratories will be delivered as part of each course. In some cases, students may be required to attend a specific face-to-face laboratory induction/training session. Learning activities"
+}

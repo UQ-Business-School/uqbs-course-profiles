@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "LO-to-assessment mappings restored from Jac (curriculum.uq.edu.au), the authored curriculum record. UQ's published course profiles omit these mappings (fully or partially) due to a publishing fault; this overlay completes the record. Replace semantics: an entry is the authoritative full LO list for its assessment.",
-    "last_updated": "2026-09-07 06:35",
+    "last_updated": "2026-09-12 13:52",
     "generated_from": "lo-overrides.csv",
     "semantics": "replace_per_assessment; exact class_number wins over exact semester_code, which wins over blank. Entries with class_number apply ONLY to that SI-NET class (parallel deliveries can map differently). Consumers that do not distinguish classes should ignore class_number entries for offerings they cannot match.",
     "class_scoped_entries": 122,

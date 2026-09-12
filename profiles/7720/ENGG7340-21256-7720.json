@@ -1,0 +1,311 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG7340-21256-7720",
+  "scraped_at": "2026-09-12T13:52:23.999079+00:00",
+  "course_code": "ENGG7340",
+  "class_code": "21256",
+  "semester_code": "7720",
+  "full_course_code": "ENGG7340-21256-7720",
+  "course_title": "Research Project",
+  "study_period": "Semester 1, 2027 (22/02/2027 - 19/06/2027)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "4",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Mech & Mine Engineering School",
+  "course_description": "ENGG7340 is only available to MEngSci (#16) students in their last semester of study.\n\nAll other students seeking a 4-unit postgraduate thesis in materials and manufacturing, mechanical or mechatronic engineering should enrol in ENGG7341/7342.\n\nThesis project on an approved topic that integrates engineering skills acquired through the engineering program. Students completing the course in a single semester enrol in ENGG7340. For information on how to find a project and Advisor, and enrol in this course, please refer to https://mechmining.uq.edu.au/current-students/how-enrol-your-thesis-or-final-year-project .\n\nThesis is an individual inquiry conducted by you under the general guidance of an academic advisor. This inquiry can take one of the following forms:\n\na)ﾠﾠﾠﾠ an original theoretical and/or experimental investigation;\n\nb)ﾠﾠﾠﾠ design of an engineering product or service; or\n\nc)ﾠﾠﾠﾠ investigation of a substantive engineering problem for an external sponsor.\n\nIn each of the above, you must apply academic processes to provide reproducible evidence of outcomes whether positive or negative.ﾠ Unlike consultancy, where a successful solution is expected, research may fail to produce a successful outcome.ﾠ However, this is acceptable as long as you can document the causes of failure and make recommendations as to future avenues of research.\n\nSelection of a thesis topic and enrolmentﾠ\n\nYou must secure a research project and advisor prior to enrolment in this course. Please read the instructions provided ﾠ online here ﾠ to gain permission to enrol. Once completed, you will receive an email from the School Office with permission to enrol in the course in SI-net. Please contact ﾠ studentenquiries@mechmining.uq.edu.au ﾠ if you have any questions regarding selection of a thesis topic and enrolment.ﾠ\n\nIndustry-based research projects\n\nIf you are undertaking an industry-based thesis, prior to commencement of a project, a Student Placement Agreement may be required.ﾠ Please read the information providedﾠ online here ﾠ or contact the School Office via email ( studentenquiries@mechmining.uq.edu.au ) for details.\n\nConfidentiality\n\nUnless a confidentiality agreement is in place, theses will be uploaded and made available in the UQ Library Collection.\n\nTherefore, if you are undertaking an industry-based thesis, you should check with your industry advisor to see if there are any confidentiality requirements for the research project. Note that academics not involved in the project will examine the thesis and this will need to be recognised and acknowledged by the industry partner. Please contact the School Office ( studentenquiries@mechmining.uq.edu.au ) for further information about the legal agreement.\n\nIf your industry advisor wishes to make any changes to the standard agreement or, if another confidentiality agreement is proposed, this will be passed on to the UQ Legal Office by the School for negotiation. This can take one month or more. If your industry advisor wishes to take this route, the proposed agreement should be sent to the School Office ( studentenquiries@mechmining.uq.edu.au ) prior to commencement of the project. It is up to you to send the proposed agreement to the School office for processing.\n\nIf your thesis is to remain confidential for a period of time, include an accompanying Confidentiality Submission Letter in your final report. This letter is normally located in the report immediately after the title page and before the abstract.\n\nIntellectual Property\n\nAny Intellectual Property that you create during the period of enrolment in the thesis course will be treated in accordance with UQ Policies and Procedures Library (PPL) 4.10.13 Intellectual Property for Staff, Students and Visitors . The main clause is:\n\n(20) The University does not assert ownership of IP created by students other than HDR candidates. However, it is acknowledged that some students (in particular honours students or postgraduate course work students with a research component) may collaborate with external entities on research projects. If there is potential for IP to be created, the University expects students to assign IP that the student may create to the University before project commencement. If the project does result in the creation of IP, students other than HDR candidates will be treated as HDR candidates per the Intellectual Property Procedures.\n\nCourse Changes in Response to Previous Student Feedback\n\nThe course now enables the responsible, ethical and acknowledged use of generative AI.",
+  "requirements": {
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ENGG7240",
+      "ENGG7341",
+      "ENGG7342"
+    ],
+    "restrictions": [
+      "Permission of Head of School"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Professor Lydia Kavanagh",
+      "email": "l.kavanagh@uq.edu.au",
+      "phone": "+61 7 3365 1320",
+      "notes": "Contact your academic advisor for anything to do with your actual research (e.g., lab access, technical queries, resources etc.). Contact the school office ( studentenquiries@mechmining.uq.edu.au ) for administrative matters. Contact me if you have concerns regarding your advisor, feedback on submission, or general course requirements (i.e., content, workshops, or assessment)."
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nYou must arrange contact hours with your thesis advisor - this is your responsibility.\nYou will need to schedule at least eight meetings per semester with your advisor to pass the course. In addition, it is strongly recommended that you have regular meetings with your advisor to enable them to monitor, critique, and advise on your progress.\nﾠ",
+  "course_aims": "This course aims to:",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Formulate an engineering problem from a limited brief."
+    },
+    {
+      "number": "LO2.",
+      "description": "Critically evaluate previous research."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply project management techniques to plan and carry out a small engineering research project in the allocated time frame, within the available resources and in a safe and ethical manner."
+    },
+    {
+      "number": "LO4.",
+      "description": "Generate appropriate evidence, through a reproducible method, that is suitable for drawing sound conclusions."
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate critically the outcomes of your research."
+    },
+    {
+      "number": "LO6.",
+      "description": "Develop evidence-based arguments to support conclusions."
+    },
+    {
+      "number": "LO7.",
+      "description": "Explain your ideas effectively to a general audience by using effective audio-visual means."
+    },
+    {
+      "number": "LO8.",
+      "description": "Report the rationale and findings in a written document."
+    },
+    {
+      "number": "LO9.",
+      "description": "Direct and validate AI-assisted work while maintaining ownership of the research process and outcomes."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Participation/ Student contribution",
+      "title": "Thesis Project Execution",
+      "weight": "5%",
+      "due_date": "23/02/2026 - 29/05/2026",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Participation/ Student contribution",
+      "title": "Workshop completion",
+      "weight": "Grade cap",
+      "due_date": "29/05/2026 5:00 pm; Time will be given at the end of each workshop for you to upload your completed template. You're strongly encouraged to take this opportunity rather than submit all the completed templates at the end of semester.",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Thesis Proposal",
+      "weight": "12%",
+      "due_date": "12/03/2026 1:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Interim Report",
+      "weight": "13%",
+      "due_date": "16/04/2026 1:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Presentation",
+      "title": "Conference (Oral)",
+      "weight": "10%",
+      "due_date": "7/05/2026 8:15 am; Conference attendance is compulsory for all students; you must attend the whole session. Failure to attend the conference in its entirety, will result in 0 marks for this item of assessment even if you present in your seminar.",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "category": "Thesis",
+      "title": "Final Report",
+      "weight": "60%",
+      "due_date": "28/05/2026 1:00 pm",
+      "conditions": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Thesis Project Execution",
+      "mode": "Activity/ Performance",
+      "category": "Participation/ Student contribution",
+      "weight": "5%",
+      "due_date": "23/02/2026 - 29/05/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07, L09",
+      "task_description": "Rationale ENGG7340 is is largely self-directed in terms of both the research that you will undertake, and the management of the research project. It is pitched at Masters level and has a unit value higher than an average course – it will therefore not be easy and will require significant input from you (20 h/week across the semester). Thesis Project Execution is a measure of that input, awarding marks for your initiative, progress and learning through the year. The Thesis Project Execution mark also serves as validation that you have been responsible for the research and have taken a critical role in synthesis of ideas, results, and generative AI assistance. It will therefore be measured through meetings with your advisor, assessment submissions, and your responses to feedback. You must have a minimum of 8 meetings with your advisor where your involvement with the research will be validated. Note that lack of communication by you with your advisor may lead to a low mark regardless of the quality of the Final Report submission. The mark that you achieve for Thesis Project Execution is another piece of evidence that you can submit to a prospective employer as it demonstrates your initiative, motivation, and ability to manage a project. Marking Thesis Project Execution will be marked by your advisor using the rubric in the 'Engineering Thesis Handbook' that can be found on Blackboard. There is also a Pass/ Fail element that serves as validation of your efforts and ascertains that generative AI was used responsibly and critically. If your advisor fails to validate your input, you will need to provide evidence of why you should pass to the Course Coordinator. This evidence could take the form of minutes from your advisory meetings, copies of draft documents at each iteration, email communications etc. on the UQ Research Data Manager (RDM). Note that if, at any stage, you feel that you are not receiving adequate support from your advisor, you should contact the course coordinator ( l.kavanagh@uq.edu.au ) as soon as possible Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "submission_guidelines": "Your advisor will mark you on your performance throughout the course.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nAs there is no submission (i.e., you are judged on your performance across the semester), there is no ability to extend this assessment item.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "ai_statement": "Rationale ENGG7340 is is largely self-directed in terms of both the research that you will undertake, and the management of the research project. It is pitched at Masters level and has a unit value higher than an average course – it will therefore not be easy and will require significant input from you (20 h/week across the semester). Thesis Project Execution is a measure of that input, awarding marks for your initiative, progress and learning through the year. The Thesis Project Execution mark also serves as validation that you have been responsible for the research and have taken a critical role in synthesis of ideas, results, and generative AI assistance. It will therefore be measured through meetings with your advisor, assessment submissions, and your responses to feedback. You must have a minimum of 8 meetings with your advisor where your involvement with the research will be validated. Note that lack of communication by you with your advisor may lead to a low mark regardless of the quality of the Final Report submission. The mark that you achieve for Thesis Project Execution is another piece of evidence that you can submit to a prospective employer as it demonstrates your initiative, motivation, and ability to manage a project. Marking Thesis Project Execution will be marked by your advisor using the rubric in the 'Engineering Thesis Handbook' that can be found on Blackboard. There is also a Pass/ Fail element that serves as validation of your efforts and ascertains that generative AI was used responsibly and critically. If your advisor fails to validate your input, you will need to provide evidence of why you should pass to the Course Coordinator. This evidence could take the form of minutes from your advisory meetings, copies of draft documents at each iteration, email communications etc. on the UQ Research Data Manager (RDM). Note that if, at any stage, you feel that you are not receiving adequate support from your advisor, you should contact the course coordinator ( l.kavanagh@uq.edu.au ) as soon as possible Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description\nThe Thesis Project Execution mark also serves as validation that you have been responsible for the research and have taken a critical role in synthesis of ideas, results, and generative AI assistance. It will therefore be measured through meetings with your advisor, assessment submissions, and your responses to feedback. You must have a minimum of 8 meetings with your advisor where your involvement with the research will be validated. Note that lack of communication by you with your advisor may lead to a low mark regardless of the quality of the Final Report submission.\nThere is also a Pass/ Fail element that serves as validation of your efforts and ascertains that generative AI was used responsibly and critically. If your advisor fails to validate your input, you will need to provide evidence of why you should pass to the Course Coordinator. This evidence could take the form of minutes from your advisory meetings, copies of draft documents at each iteration, email communications etc. on the UQ Research Data Manager (RDM).",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Workshop completion",
+      "mode": "Activity/ Performance, Written",
+      "category": "Participation/ Student contribution",
+      "weight": "Grade cap",
+      "due_date": "29/05/2026 5:00 pm Time will be given at the end of each workshop for you to upload your completed template. You're strongly encouraged to take this opportunity rather than submit all the completed templates at the end of semester.",
+      "learning_outcomes_assessed": "L03, L07, L08, L09",
+      "task_description": "This course can be considered the culmination of your degree program. Your final thesis should be of such quality that you would be proud to share it with a would-be employer as testament to your excellent research, project management, and communication skills. Indeed, it should help you nail getting that job. Therefore, to ensure that you understand what is required to produce a quality thesis, six workshops are offered; they target the key submissions. Advisors have noted that students who do not attend these workshops submit sub-standard theses, and do not understand what is required to undertake the research necessary to attain a grade of 7. Workshop participation is therefore essential. Workshop 1 (Week 1 session) - Research skills/ Generative AI Workshop 2 (Week 2 session) - The proposal Workshop 3 (Self-directed - resources on Blackboard) - The interim report Workshop 4 (Week 4 session) - Thesis structure Workshop 5 (Week 7 session) - Seminar skills Workshop 6 (Week 11 session) - Finishing the thesis NB:I strongly recommended you watch the 3x introductory podcasts in O-Week - Welcome! (An overview of the course), Assessment details, and How to get into your laboratory Requirement There is no incorrect way of completing the template - as long as you make an attempt at all parts of the template, you will be deemed to have passed that template. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Submit via Blackboard assignment.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThere is no extension as the final workshop is in Week 11 giving you at least two weeks to submit the final workshop template. In addition, only 4 of the 6 templates are required to remove the grade cap.\nRemember that if you miss a workshop for whatever reason, you can catch up asynchronously as the resources are online. As the workshops are spaced across semester, you should have ample opportunity to complete the templates and submit.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nLate submissions without an approved extension and where less than 4 templates have been submitted, will have the grade cap applied.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "ai_statement": "This course can be considered the culmination of your degree program. Your final thesis should be of such quality that you would be proud to share it with a would-be employer as testament to your excellent research, project management, and communication skills. Indeed, it should help you nail getting that job. Therefore, to ensure that you understand what is required to produce a quality thesis, six workshops are offered; they target the key submissions. Advisors have noted that students who do not attend these workshops submit sub-standard theses, and do not understand what is required to undertake the research necessary to attain a grade of 7. Workshop participation is therefore essential. Workshop 1 (Week 1 session) - Research skills/ Generative AI Workshop 2 (Week 2 session) - The proposal Workshop 3 (Self-directed - resources on Blackboard) - The interim report Workshop 4 (Week 4 session) - Thesis structure Workshop 5 (Week 7 session) - Seminar skills Workshop 6 (Week 11 session) - Finishing the thesis NB:I strongly recommended you watch the 3x introductory podcasts in O-Week - Welcome! (An overview of the course), Assessment details, and How to get into your laboratory Requirement There is no incorrect way of completing the template - as long as you make an attempt at all parts of the template, you will be deemed to have passed that template. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description\nWorkshop 1 (Week 1 session) - Research skills/ Generative AI",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Thesis Proposal",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "12%",
+      "due_date": "12/03/2026 1:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L08, L09",
+      "task_description": "Success in Engineering Thesis requires you to be self-directed in terms of both your research and your management of the project itself. The Proposal requires you to work with your advisor, and leverage available tools including generative AI, to clearly define your thesis topic, propose research questions, identify how you will answer the questions, and indicate the outcomes you expect. While AI can assist with aspects like literature synthesis and project planning, you must demonstrate your critical thinking in research design, evaluation of AI outputs, and decision-making about methodology. This proposal will form the basis of your research project and your work over the period of the course. You'll also develop and document strategies for effectively using AI throughout your research while maintaining research integrity and proper verification processes. Some of the work that forms part of your Proposal (e.g. background, context, research questions etc.) may be useful in the Interim Report and possibly in the Final Report. The AI planning and documentation frameworks you develop will also guide your use of AI tools throughout the course. Note that the Proposal is not binding. You may update and refine your research direction (including your thesis title) throughout the course as your research progresses. Please email any change of thesis title to studentenquiries@mechmining.uq.edu.au . Structure You will find the template for the Proposal on Blackboard; a partially completed template that shows you what is required can be found in Appendix A of the Engineering Thesis Handbook (on Blackboard). In addition, the second workshop has been designed to take you through the completion of this first submission. Marking The Proposal will be marked by your thesis advisor using the rubric found in the Engineering Thesis Handbook. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nAs ENGG7340 is a very tight course in terms of timing to complete a research project, a maximum extension of 2 weeks is allowed.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "Success in Engineering Thesis requires you to be self-directed in terms of both your research and your management of the project itself. The Proposal requires you to work with your advisor, and leverage available tools including generative AI, to clearly define your thesis topic, propose research questions, identify how you will answer the questions, and indicate the outcomes you expect. While AI can assist with aspects like literature synthesis and project planning, you must demonstrate your critical thinking in research design, evaluation of AI outputs, and decision-making about methodology. This proposal will form the basis of your research project and your work over the period of the course. You'll also develop and document strategies for effectively using AI throughout your research while maintaining research integrity and proper verification processes. Some of the work that forms part of your Proposal (e.g. background, context, research questions etc.) may be useful in the Interim Report and possibly in the Final Report. The AI planning and documentation frameworks you develop will also guide your use of AI tools throughout the course. Note that the Proposal is not binding. You may update and refine your research direction (including your thesis title) throughout the course as your research progresses. Please email any change of thesis title to studentenquiries@mechmining.uq.edu.au . Structure You will find the template for the Proposal on Blackboard; a partially completed template that shows you what is required can be found in Appendix A of the Engineering Thesis Handbook (on Blackboard). In addition, the second workshop has been designed to take you through the completion of this first submission. Marking The Proposal will be marked by your thesis advisor using the rubric found in the Engineering Thesis Handbook. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description\nThe Proposal requires you to work with your advisor, and leverage available tools including generative AI, to clearly define your thesis topic, propose research questions, identify how you will answer the questions, and indicate the outcomes you expect. While AI can assist with aspects like literature synthesis and project planning, you must demonstrate your critical thinking in research design, evaluation of AI outputs, and decision-making about methodology.\nSome of the work that forms part of your Proposal (e.g. background, context, research questions etc.) may be useful in the Interim Report and possibly in the Final Report. The AI planning and documentation frameworks you develop will also guide your use of AI tools throughout the course.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Interim Report",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "13%",
+      "due_date": "16/04/2026 1:00 pm",
+      "learning_outcomes_assessed": "L02, L03, L04, L05, L06, L08, L09",
+      "task_description": "The Interim Report is an important stage gate. It provides you with a place to evaluate your progress, and to begin to pull together some of the elements (see i, ii, iii, and vi below) that are required for your thesis (Final Report). The elements of the Interim Report are: i. an executive summary (abstract) ii. a clear definition of the thesis topic including the purpose, aims/ research questions, coverage and relevance of the research project, iii. a review of relevant background material that supports your research (i.e., a literature review) and builds on generative AI responses, iv. a refined methodology, v. a project plan for your second semester including the use of generative AI, vi. a finalised risk management plan, and vii. a table of contents for your thesis. The Interim Report is a place for you to demonstrate initiative, creativity and problem-solving skills as well as project management skills. Your critical and ethical use of generative AI responses must also be clearly demonstrated. You should receive detailed feedback from your advisor on the Interim Report which should give you a head start when it comes to writing your thesis. All background and related material should be in your own words, appropriately referenced, and included in the reference list. This includes response from generative AI. Structure The Interim Report should be around 15 pages but not more than 20 pages not including front matter (i.e., all that comes before the body of the report including the title page, table of contents etc), references and appendices. Your report should use the Interim Report template that can be found on Blackboard; Appendix B of the Engineering Thesis Handbook has a partially complete template with instructions. The template can be expanded to incorporate additional chapters as necessary. This template is not so scripted as the Proposal as it requires you to make your own subheadings and there are no crafted tables etc. Marking The Interim Report will be marked by your thesis advisor using the rubric in the Engineering Thesis Handbook. Your writing and grammar will not attract marks but the clarity of your communication underpins all aspects of your report. A mark of 5/5 will not be given for any section that does not demonstrate clear and polished writing. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nYou may resubmit this document if you fail this piece of assessment. Resubmission will remove the grade cap of 5 (i.e., to receive a grade of 6, you must pass all pieces of assessment). Contact the Course Coordinator and your advisor to arrange this within a week of receiving your Interim Report mark.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nAs ENGG7340 is a very tight course in terms of timing to complete a research project, a maximum extension of 2 weeks is allowed.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The Interim Report is an important stage gate. It provides you with a place to evaluate your progress, and to begin to pull together some of the elements (see i, ii, iii, and vi below) that are required for your thesis (Final Report). The elements of the Interim Report are: i. an executive summary (abstract) ii. a clear definition of the thesis topic including the purpose, aims/ research questions, coverage and relevance of the research project, iii. a review of relevant background material that supports your research (i.e., a literature review) and builds on generative AI responses, iv. a refined methodology, v. a project plan for your second semester including the use of generative AI, vi. a finalised risk management plan, and vii. a table of contents for your thesis. The Interim Report is a place for you to demonstrate initiative, creativity and problem-solving skills as well as project management skills. Your critical and ethical use of generative AI responses must also be clearly demonstrated. You should receive detailed feedback from your advisor on the Interim Report which should give you a head start when it comes to writing your thesis. All background and related material should be in your own words, appropriately referenced, and included in the reference list. This includes response from generative AI. Structure The Interim Report should be around 15 pages but not more than 20 pages not including front matter (i.e., all that comes before the body of the report including the title page, table of contents etc), references and appendices. Your report should use the Interim Report template that can be found on Blackboard; Appendix B of the Engineering Thesis Handbook has a partially complete template with instructions. The template can be expanded to incorporate additional chapters as necessary. This template is not so scripted as the Proposal as it requires you to make your own subheadings and there are no crafted tables etc. Marking The Interim Report will be marked by your thesis advisor using the rubric in the Engineering Thesis Handbook. Your writing and grammar will not attract marks but the clarity of your communication underpins all aspects of your report. A mark of 5/5 will not be given for any section that does not demonstrate clear and polished writing. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description\niii. a review of relevant background material that supports your research (i.e., a literature review) and builds on generative AI responses,\nv. a project plan for your second semester including the use of generative AI,\nThe Interim Report is a place for you to demonstrate initiative, creativity and problem-solving skills as well as project management skills. Your critical and ethical use of generative AI responses must also be clearly demonstrated.\nAll background and related material should be in your own words, appropriately referenced, and included in the reference list. This includes response from generative AI.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-4",
+      "title": "Conference (Oral)",
+      "mode": "Oral",
+      "category": "Presentation",
+      "weight": "10%",
+      "due_date": "7/05/2026 8:15 am Conference attendance is compulsory for all students; you must attend the whole session. Failure to attend the conference in its entirety, will result in 0 marks for this item of assessment even if you present in your seminar.",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L05, L06, L07, L09",
+      "task_description": "As an engineer you must be able to communicate your ideas and findings in both written and oral formats. You will therefore present your research at the Mechanical and Mining Engineering Student Conference on Thursday of Week 10. Conference attendance is compulsory for all students; you must attend all sessions and not just the session that you will present at. Failure to attend all sessions, will result in 0 marks for this item of assessment even if you present in your seminar. [If there are medical or other acceptable reasons for your absence, please seek an extension.] All criteria will be assessed independently of AI-generated materials with an emphasis on demonstrating understanding rather than presentational polish. Questions will be used to probe beyond prepared content to verify depth of understanding. The Student Conference is run in parallel sessions with 10 minutes of presentation and 5 minutes of Q&A per student. The chair will ask you to stop at the end of 10 mins, whether or not you have finished. All presentations must be uploaded onto Blackboard at least two days before the conference . This allows us to have the sessions pre-prepared. Marking Your presentation will be marked by your advisor and the second thesis marker. Their marks will be averaged. Criteria and be found in the rubric in the Engineering Thesis Handbook on Blackboard. Note that failure to attend all conference sessions without an acceptable reason will result in a mark of 0 for this piece of assessment. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "submission_guidelines": "Attend in person.\nDeferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nAs this is timed-assessment, Student Access Plans (SAPs) are not suitable supporting documentation. Students must provide evidence that demonstrates their inability to attend the assessment at the scheduled time.\nMake-up presentations must be completed within two business days of the final date on the supporting documentation. For example, a medical certificate dated until Monday of the week following the conference, must be completed by close of business of Wednesday of the week following the conference.\nThen:\nThe make-up session must be organised by the student. It may be in-person or via Zoom but must include both the thesis supervisor and the second marker. To arrange this, the student must contact both their supervisor and the second marker to find a mutually available time. The second marker can be identified by writing to studentenquiries@mechmining.uq.edu.au. The presentation must be recorded and forwarded by the student to the School Office at studentenquiries@mechmining.uq.edu.au.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThe nature of an organised conference does not allow for a student to present the following day.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified"
+      ]
+    },
+    {
+      "id": "assessment-detail-5",
+      "title": "Final Report",
+      "mode": "Written",
+      "category": "Thesis",
+      "weight": "60%",
+      "due_date": "28/05/2026 1:00 pm",
+      "learning_outcomes_assessed": "L02, L04, L05, L06, L08, L09",
+      "task_description": "The Final Report or thesis is the main assessment component in this course. The contents and structure of the thesis will depend on the Thesis Topic. This is the report that you will show to prospective employers as evidence of your ability to manage a project and communicate in a professional and scientific manner. We therefore recommend that you apply yourself to producing this document to a very high standard. Structure As a guide, the Final Report should be 50-70 pages long (excluding front matter, references and Appendices). For the general format and submission guidelines, see Project or Thesis Submission . There are also a number of thesis writing resources on Blackboard that you are encouraged to read and engage with. The Engineering Thesis Handbook offers more details on the structure. Marking The Final Report will be marked by your advisor and by an independent second marker. Your final mark will be an average of the two marks. The rubric in the Engineering Thesis Handbook will be used with the following caveats that consider your responsible and acknowledged use of generative AI: your writing and grammar will not attract marks but the clarity of your communication underpins all aspects of your report. A mark of 5/5 will not be given for any section that does not demonstrate clear and polished writing. Each criterion will be evaluated based on evidence of original thinking, critical analysis, and your ability to articulate and justify your decisions. While AI tools may assist in tasks like literature review and writing, the emphasis is on your demonstration of higher-order thinking skills and research synthesis abilities. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nExtensions to submission of your thesis (Final Report) may delay your graduation.\nIn general, extensions will NOT be given for the submission of the Final Report unless there are very exceptional circumstances - e.g. major illness or incapacity lasting two weeks or longer in the four weeks before the due date. You should have a near-complete draft of your thesis finished at least two weeks prior to the due date and should be prepared to submit this with your extension request.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "The Final Report or thesis is the main assessment component in this course. The contents and structure of the thesis will depend on the Thesis Topic. This is the report that you will show to prospective employers as evidence of your ability to manage a project and communicate in a professional and scientific manner. We therefore recommend that you apply yourself to producing this document to a very high standard. Structure As a guide, the Final Report should be 50-70 pages long (excluding front matter, references and Appendices). For the general format and submission guidelines, see Project or Thesis Submission . There are also a number of thesis writing resources on Blackboard that you are encouraged to read and engage with. The Engineering Thesis Handbook offers more details on the structure. Marking The Final Report will be marked by your advisor and by an independent second marker. Your final mark will be an average of the two marks. The rubric in the Engineering Thesis Handbook will be used with the following caveats that consider your responsible and acknowledged use of generative AI: your writing and grammar will not attract marks but the clarity of your communication underpins all aspects of your report. A mark of 5/5 will not be given for any section that does not demonstrate clear and polished writing. Each criterion will be evaluated based on evidence of original thinking, critical analysis, and your ability to articulate and justify your decisions. While AI tools may assist in tasks like literature review and writing, the emphasis is on your demonstration of higher-order thinking skills and research synthesis abilities. Please refer to Blackboard for detailed marking criteria. Read full task description Hide full task description\nThe rubric in the Engineering Thesis Handbook will be used with the following caveats that consider your responsible and acknowledged use of generative AI:\nEach criterion will be evaluated based on evidence of original thinking, critical analysis, and your ability to articulate and justify your decisions. While AI tools may assist in tasks like literature review and writing, the emphasis is on your demonstration of higher-order thinking skills and research synthesis abilities.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Not Timetabled",
+      "topic": "Regular meetings with your advisor(s) You need to arrange a mutually suitable time to meet with your advisor(s) to discuss your progress and to plan activities. We recommend that you consider fortnightly meetings in the first instance but you MUST have at least eight meetings . The course assessment includes 'Thesis Execution', which includes a Pass/ Fail element, will partly be based on your progress through the year as monitored through these meetings. Lack of communication with the advisor may lead to a low mark regardless of the quality of the Final Report submission and potentially course failure. Learning outcomes: L01, L03, L04, L05, L06, L09",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05",
+        "L06",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Not Timetabled",
+      "topic": "Research on your project This course is designed for you to take charge of the research project and to plan for completion of the various stages throughout the year (e.g. refining research questions, critically reviewing previous work, developing methods etc.). You should therefore be involved in some sort of research activity at all times commensurate with the unit-value of the course (i.e., 20 h/week). Learning outcomes: L01, L02, L04, L05, L06, L09",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05",
+        "L06",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Not Timetabled",
+      "topic": "Report writing Writing should be continuous throughout the semester. Producing the required documents to a high standard is not something that can be done overnight - you will find that compiling the various chapters as you go will give you insight into your work as well as allowing you to submit assessment pieces that attract high marks. Feedback on your Proposal should inform your Interim Report, and feedback on your Interim Report should inform your Final Report (Thesis). Learning outcomes: L08, L09",
+      "learning_outcomes": [
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks From Week 1 To Week 11",
+      "activity_type": "Workshop",
+      "topic": "Workshops The workshops are designed to help you plan your research and develop the necessary skills. They are staged to align with the course requirements and will often have associated podcasts as pre-learning. Details will be shown on the Learning Pathway in Blackboard. Week 1: Research skills/ Generative AI Week 2: Planning/The Proposal Week 3 (Self-directed with resources on Blackboard) - The Interim Report Week 4: Thesis Structure Week 7: Presentation skills Week 11: Finishing the Thesis Workshop recordings will be made available on Blackboard. Learning outcomes: L01, L03, L07, L08, L09",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L07",
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "learning_period": "Week 10",
+      "activity_type": "Symposium",
+      "topic": "Engineering Thesis Conference (Wk 10, 2nd Sem) Research is communicated through oral presentation and through written submissions. This activity addresses the need for you to be able to communicate your ideas to a general audience. Your presentation should outline the objective of the thesis, the approach, existing knowledge, and results to date. See the assessment item for more details. Learning outcomes: L07, L09",
+      "learning_outcomes": [
+        "L07",
+        "L09"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . You'll also need to be aware of the following policies and procedures while completing this course: Laboratory Occupational Health and Safety Learning activities"
+}
