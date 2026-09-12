@@ -836,6 +836,14 @@ def _extract_assessment_fields(container, item: dict):
         if ai_parts:
             item["ai_statement"] = "\n".join(ai_parts)
 
+    # Assessment security (S2 2026 onwards): "Secure assessment: ..." or
+    # "Open assessment: ...". Caught above if it is a dt/h4/h5 label; this is the
+    # fallback for any other markup, so the Secure/Open flag is never lost.
+    if "assessment_security" not in item:
+        m = re.search(r"((?:Secure|Open) assessment:[^\n]*?\.)(?:\s|$)", full_text)
+        if m:
+            item["assessment_security"] = re.sub(r"\s+", " ", m.group(1)).strip()
+
     # Special indicators (icons)
     for icon_list in container.select(".icon-list"):
         indicators = []
@@ -864,6 +872,7 @@ def _normalise_field_name(label: str) -> str:
         "Task description": "task_description",
         "Submission guidelines": "submission_guidelines",
         "Exam details": "exam_details",
+        "Assessment security": "assessment_security",
         "Deferral or extension": "deferral_or_extension",
         "Late submission": "late_submission",
         "Course grading": "course_grading",

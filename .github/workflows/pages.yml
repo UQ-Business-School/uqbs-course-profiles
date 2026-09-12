@@ -10,6 +10,7 @@ on:
       - 'profiles-legacy/**'
       - 'taxonomy/**'
       - 'scraper/build_manifest.py'
+      - 'scraper/build_security.py'
       - '.github/workflows/pages.yml'
 
   # Allow manual rebuild
@@ -39,6 +40,9 @@ jobs:
 
       - name: Rebuild manifest
         run: python scraper/build_manifest.py
+
+      - name: Build assessment security feed (register Security tab reads this)
+        run: python scraper/build_security.py --out docs/assets
 
       - name: Stage data into docs/ for deploy
         run: |
