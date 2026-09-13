@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7301-60452-7660",
-  "scraped_at": "2026-09-07T06:12:51.698029+00:00",
+  "scraped_at": "2026-09-13T15:04:27.765673+00:00",
   "course_code": "MGTS7301",
   "class_code": "60452",
   "semester_code": "7660",
@@ -30,6 +30,16 @@
     {
       "role": "Lecturer",
       "name": "Dr Gemma Irving"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Alexander McBroom",
+      "email": "a.mcbroom@business.uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Jemaine Tsoi",
+      "email": "j.tsoi@business.uq.edu.au"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
@@ -103,6 +113,7 @@
       "due_date": "In-semester Saturday 5/09/2026 - 20/09/2026",
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "task_description": "This assessment will be an invigilated, in-person exam. Part A is multichoice (20 marks) and Part B is a written response to a short business scenario(10 marks). Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",
@@ -120,6 +131,7 @@
       "due_date": "7/09/2026 1:00 pm",
       "learning_outcomes_assessed": "L01",
       "task_description": "Students will be formed into teams in their Week 4 tutorial. In Week 6 the team will need to independently organise a visit to one of the three branches of the case study organisation- Bunnings. As part of this visit, teams are expected to complete the 'site visit template' in order to familiarise themselves with the case study. This submission is due at the beginning of Week 7. Students will be graded on the completeness of the template. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "One team member should submit the completed template via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -137,6 +149,7 @@
       "other_conditions": "Time limited, Peer assessed, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "Students will have three opportunities to engage in a boardroom roleplay in their allocated tutorial with their team. These assessed tutorials will be held in Weeks 7, 8, and 9 with the best two (2) marks of the three (3) submissions contributing to their grade. The boardroom roleplay is worth 15 marks, totalling 30 marks (2 x 15 marks). This is a secure assessment and no devices are allowed. Students must bring a pen and may bring one page of notes, a printed copy of the case study and a printed copy of the lecture slides to the tutorial. Teams are expected to provide peer evaluation data at the end of each of these three tutorials. While this is a team-based task, adjustments may be made to individual student marks based on the quality of their individual section and/or their performance within the boardroom roleplay. These adjustments may be made on the basis of peer evaluation data and/or teaching team observations. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "At the end of the workshop, one team member should take a photo of the team worksheet and submit this via Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nThe best 2 of 3 assessable workshops count towards the final grade so a student can miss one assessable workshop without an impact on their grade.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -154,6 +167,7 @@
       "due_date": "9/11/2026 1:00 pm",
       "learning_outcomes_assessed": "L03, L04, L05",
       "task_description": "Students will be provided t hree in-class reflective tasks that will inform the development of a 5-minute video submission. Each reflective task will be discussed and developed in the final workshops of the course and will draw upon course concepts and themes and student's own personal experience. These reflections should be synthesised and distilled into a 5-minute business leadership manifesto that should be recorded as a video and demonstrate professional communication. This video should be addressed to the student's future self and outline what kind of business leader the student would like to be. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."

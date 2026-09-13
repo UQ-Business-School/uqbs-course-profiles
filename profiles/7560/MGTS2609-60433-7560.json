@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS2609-60433-7560",
-  "scraped_at": "2026-06-04T02:30:26.344834+00:00",
+  "scraped_at": "2026-09-13T15:03:19.521329+00:00",
   "course_code": "MGTS2609",
   "class_code": "60433",
   "semester_code": "7560",
@@ -24,8 +24,7 @@
     {
       "role": "Course coordinator",
       "name": "Dr Stephen Jones",
-      "email": "s.jones@business.uq.edu.au",
-      "phone": "+61 7 3346 8044"
+      "email": "s.jones@business.uq.edu.au"
     },
     {
       "role": "Tutor",

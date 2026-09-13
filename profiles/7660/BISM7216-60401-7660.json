@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7216-60401-7660",
-  "scraped_at": "2026-09-07T05:45:42.697654+00:00",
+  "scraped_at": "2026-09-13T14:49:15.505427+00:00",
   "course_code": "BISM7216",
   "class_code": "60401",
   "semester_code": "7660",
@@ -107,6 +107,7 @@
       "other_conditions": "Longitudinal. See the conditions definitions",
       "learning_outcomes_assessed": "L02",
       "task_description": "For this individual project, you are required to model an as-is process using the BPMN modelling notation. A narrative of the process (process walkthrough) will be provided for you to interpret and model. Further details about this project will be discussed in class and posted to our course Blackboard site. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submitted via the course Blackboard Site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -121,6 +122,7 @@
       "other_conditions": "Peer assessment factor. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "You will be required to work in teams of 4-5 students for this project. Based on a provided scenario, your task requires modelling of an as-is process, analysis of the process, and development of improvement recommendations and a related to-be process model. You will need to take your initiative to plan the delivery of this assignment to ensure it is fully complete AND compliant before the final submission date. Further details about this project will be discussed in class and posted to our course Blackboard site. This project, being a team project, will use Group Peer Assessment to ensure all team members have contributed well to the team. Your assignment mark may be moderated based on this feedback. Best approach is usually to identify and engage with your team early, and deliver good quality work that is fairly distributed across your team! Don't forget to give review time before submission! The project submission includes a 5-minute recorded video/slide presentation from each team. All team members will evaluate their fellow team members, and this peer evaluation process may affect an individual's mark (ie, it may be that not all team members receive the same mark). Therefore, you are strongly encouraged to incorporate mechanisms that capture evidence about the team process, such as dates/agendas for meetings, fair/agreed allocation of duties, internal team timelines, etc. Your peer assessment outcome will moderate your total marks for this assignment. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Online submission through Turnitin via Blackboard Assessment link.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -138,6 +140,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L04, L05",
       "task_description": "Your final exam will be a closed-book invigilated and in-person exam. The exam duration will be 2 hours. It will be largely based on a mini-case study scenario as described in the text. As such, it will require you to comprehend, assess, analyse and recommend solutions using techniques taught on the course. There will also be multiple choice questions and short answer questions. This is an individual assessment. Academic integrity provisions will be applied. The allocation of marks will be clearly indicated on each question. The exam will cover all course materials. Further details will be discussed in class and posted to our course Blackboard website. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

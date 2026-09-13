@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3403-62376-7660",
-  "scraped_at": "2026-09-07T06:01:55.298553+00:00",
+  "scraped_at": "2026-09-13T14:56:54.378368+00:00",
   "course_code": "FINM3403",
   "class_code": "62376",
   "semester_code": "7660",
@@ -46,11 +46,11 @@
     },
     {
       "number": "LO2.",
-      "description": "Analyze the determinants of exchange rates."
+      "description": "Analyse the determinants of exchange rates."
     },
     {
       "number": "LO3.",
-      "description": "Evaluate the impact of exchange rate movements on firm value and apply strategies to minimize the impact of these changes."
+      "description": "Evaluate the impact of exchange rate movements on firm value and apply strategies to minimise the impact of these changes."
     },
     {
       "number": "LO4.",
@@ -103,6 +103,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "The exam questions will cover the following four topics: Topic 1: The Foreign Exchange Market Topic 2: The International Monetary System and Balance of Payments Topic 3: International Parity Conditions I Topic 4: International Parity Conditions II The exam will comprise of 25 multiple-choice questions with each question worth 1 mark. Further details about the exam will be discussed in class and posted to our course Blackboard site. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Students will be provided with a formula sheet in the exam. I will circulate the formula sheet ahead of time so students know whats on it.\nDeferral or extension\nYou may be able to defer this exam .\nPlease follow the school's procedure regarding assessment. The Deferred exam will be a different paper.",
       "deferral_or_extension": "You may be able to defer this exam .",
@@ -121,6 +122,7 @@
       "other_conditions": "Peer assessment factor. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "The case will be used to examine your report writing skills, general finance knowledge, research skills and ability to critically evaluate complex case scenarios. The assessment will take the form of a report to be submitted to clients. This is a GROUP assignment. Please note the following: (1) Each group will comprise of five (5) members. Group sign-on will be done through Blackboard AFTER the census date to minimise potential disruptions to groups. Initially, students will be given the opportunity to form their own group, so coordinate the sign-on with potential team members. If you are forming a team, it is important that all intended team members sign-up at the same time as open team slots could be filled by others. We will not remove individuals once they have signed up to a team. (2) Group sign-on will commence on Monday 21st September, 9 am and the sign-on link will be available until Wednesday 23rd September, 3 pm. Students that have not signed up to a team by 3pm 23rd September will be randomly allocated to groups with fewer than five members. To ensure that all members of group contribute equally to the project, we will use peer evaluation. More information on peer evaluation will be posted closer to the date. Results of peer evaluation could be used to adjust students score in extreme circumstances. One such example of an \"extreme circumstance\" is where a student has ignored all communication and has contributed nothing to the submitted assignment. In this case, the student will be awarded a score of zero. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "To be submitted through Blackboard assessment link.\nThe report should be up to 5 typed pages (12 point font, one and a half line spacing) plus tables and graphs.\nPlease note:\n(1) Cover page, Executive Summary, Tables, Graphs, Appendices will NOT count towards the page limit.\n(2) Brevity is a virtue. This assessment should be thought of as report to be presented to a fee-paying client and as such we expect the submission to be both well reasoned and well presented.\n(3) While there is no penalty for exceeding the page limit, we will stop reading the submission at the end of page 5 of the report.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -138,6 +140,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "The final assessment will be a Centrally scheduled, in-person exam held during the Examination period. This exam covers all of the material from ALL topics. It might comprise of some multiple-choice questions and 3-4 short answer and practical questions involving both theory and calculation. Some (or all) short answer/practical questions may have multiple parts. Further details about the exam will be discussed in class and posted to the course Blackboard site. Tutorial problems which are mostly past exam questions are a good indicator of how exam questions will be written. Past exam papers are available via UQ Library. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

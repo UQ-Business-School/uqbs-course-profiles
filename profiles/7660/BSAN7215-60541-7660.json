@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7215-60541-7660",
-  "scraped_at": "2026-09-07T05:46:22.346028+00:00",
+  "scraped_at": "2026-09-13T14:51:56.252825+00:00",
   "course_code": "BSAN7215",
   "class_code": "60541",
   "semester_code": "7660",
@@ -95,6 +95,7 @@
       "due_date": "21/08/2026 4:00 pm",
       "learning_outcomes_assessed": "L01",
       "task_description": "For this assessment, you will create an initial prototype of the envisaged analytics solution that will be developed throughout the course. The prototype will help you test initial ideas and gather feedback from project supervisors and teaching team early in the development process. The prototype must be accompanied by a written report that explains how the prototype addresses the project’s business problem, how it meets the requirements, and why the proposed interface helps users make data-driven decisions from the business data. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "To be submitted via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -109,6 +110,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "As an individual (or as a team, if allocated), you are asked to deliver an video presentation to communicate key aspects of your developed solution to other teams and industry partners. Your industry supervisor should be the target audience in the presentation, who needs to be convinced that your analytics solution produces data-driven insights that address the business problem in an effective, technically sound, and creative way. You should do this by communicating effectively; that is, using concise, fluent and persuasive language, and structuring the presentation in a way that keeps the audience engaged. The final part of the assessment integrates a Q&A segment, when your industry partner will ask you questions and provide feedback. This provides a great opportunity to gather valuable feedback from them, which can be incorporated in the final industry report. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -125,6 +127,7 @@
       "due_date": "30/10/2026 4:00 pm",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "A written report describing the analytics solution produced and how it was developed, providing justifications for the methods and approaches used in relation to the business problem identified earlier in the course. The report must also discuss in detail the findings, insights and/or business recommendations produced by your analytics solutions, and how they can be applied by the industry partner to address the business problem and needs. This final report is intended to accompany the analytics solution developed, providing more detailed information about what your team has produced along the course of the project, how and why it was produced in that way. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "To be submitted via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -138,6 +141,7 @@
       "due_date": "20/11/2026 4:00 pm",
       "learning_outcomes_assessed": "L03",
       "task_description": "For this assessment, you will need to develop an essay reflecting on your project outputs and learning experience while solving a complex business problem with data analytics. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "To be submitted via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",

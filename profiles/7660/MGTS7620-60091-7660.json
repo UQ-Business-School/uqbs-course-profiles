@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7620-60091-7660",
-  "scraped_at": "2026-09-07T06:13:12.630784+00:00",
+  "scraped_at": "2026-09-13T15:06:19.528702+00:00",
   "course_code": "MGTS7620",
   "class_code": "60091",
   "semester_code": "7660",
@@ -90,6 +90,7 @@
       "due_date": "Week 1 Tue - Week 13 Tue Due 24 hours after class.",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "Individual reflection of no more than 500 words on in-class activities, submitted within 24 hours of class. Formative in weeks 1–3; summative in weeks 4–13 (ten reflections at 5% each). AI use encouraged with referencing. A documented-absence pathway allows an equivalent reflection on the same activity materials, marked against the same criteria. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Via Blackboard\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nA documented-absence pathway allows an equivalent reflection on the same activity materials, marked against the same criteria. Contact the Course Coordinator in you can't attend a weekly reflection.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -104,6 +105,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L04, L05",
       "task_description": "Individual oral examination conducted one-on-one with the course coordinator at the end of semester, in which the student presents an integrative reflection on the leadership lessons drawn from the course and the wider program. Identity-verified and secure. Conducted in person without AI assistance. Please Note: The presentation will be recorded for marking purposes per UQ Policy. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time no planning time minutes Duration 15 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Other Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

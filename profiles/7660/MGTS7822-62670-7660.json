@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7822-62670-7660",
-  "scraped_at": "2026-09-07T06:13:27.644348+00:00",
+  "scraped_at": "2026-09-13T15:07:28.468769+00:00",
   "course_code": "MGTS7822",
   "class_code": "62670",
   "semester_code": "7660",
@@ -81,6 +81,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "Please Note: The presentation will be recorded for marking purposes per UQ Policy. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Students are to submit their presentation via Blackboard prior to presenting\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nThis assessment presents the state of evidence behind your business model at week 5: the assumptions you have already tested, and the test program you now have in place for the remainder of the semester.\nThe presentation has two parts. Results to date covers the business model assumptions you have already put in front of reality — through customer conversations, outreach, sales attempts, product experiments and early usage, whether before the course or during it. For each, you present the evidence you gathered, what it did and did not support, and what you changed or deliberately retained in your business model as a result. Tests planned covers the riskiest assumptions still standing and the experiments you have designed to test them: what each test involves, the metric and threshold that will count as a meaningful result, when it will run, and what each outcome would mean for the venture.\nIf you are unable to attend your presentation, please advise your Course Coordinator on or before the due date.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "special_indicators": [
@@ -98,6 +99,7 @@
       "other_conditions": "Longitudinal, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "The Venture Build Workbook is the major assessment item for this course. It is the structured, cumulative record you maintain across the semester while developing your own venture: the experiments you run, the evidence you gather, the decisions you make, and your reflection on what the evidence tells you. You submit the completed workbook at the end of the course, and it is assessed as a whole. This is a practice-based, evidence-led assessment. You are a practising founder working on a real venture; the workbook captures your applied work as you progress through a structured program. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.",
       "deferral_or_extension": "You may be able to apply for an extension ."
     }

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7608-60458-7660",
-  "scraped_at": "2026-09-07T06:13:03.756157+00:00",
+  "scraped_at": "2026-09-13T15:05:36.084599+00:00",
   "course_code": "MGTS7608",
   "class_code": "60458",
   "semester_code": "7660",
@@ -103,6 +103,7 @@
       "other_conditions": "Time limited, Peer assessed, Longitudinal. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "In this assessment, students work collaboratively in small teams to analyse a real-world business case that illustrates the complex relationships between business, society, and the environment. Each group will present up to three case analyses during the semester (Weeks 4–13), following the tutorial schedule. The final presentation mark reflects the team’s overall performance in the best 2 out of 3 presentations, moderated by individual contribution through peer evaluation. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Upload one copy of the group slides to Blackboard before the in-tutorial presentation begin.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nDue to the best 2 of 3 presentation marks - no extensions or deferrals are available tor the in-class presentations. A missed presentation will result in a mark of 0.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "special_indicators": [
@@ -120,6 +121,7 @@
       "due_date": "30/10/2026 1:00 pm",
       "learning_outcomes_assessed": "L01, L03, L04, L05",
       "task_description": "In this assessment task you will focus on an ethical or social-responsibility controversy faced by a real company within the last 12 months. You will work individually to write a 2000-word analysis of the company’s stakeholder relationships and evaluate any unethical decisions made. You need to apply relevant theories from MGTS7608 Business and Society , discuss any relevant Sustainable Development Goals, and provide academic recommendations for the company. Your submission must include a short (150-200 word) reflection on your use of artificial intelligence included in an appendix. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit a Word or PDF document via Turnitin\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -138,6 +140,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L03, L04, L05",
       "task_description": "You will undertake an exam during the exam period at the end of the semester. Further information will be available in Blackboard. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

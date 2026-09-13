@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7206-60078-7660",
-  "scraped_at": "2026-09-07T05:46:10.993901+00:00",
+  "scraped_at": "2026-09-13T14:51:11.970030+00:00",
   "course_code": "BSAN7206",
   "class_code": "60078",
   "semester_code": "7660",
@@ -94,6 +94,7 @@
       "due_date": "18/09/2026 3:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "This assignment has two sections. The first part focuses on modelling a schema and tests students' ability to capture important aspects of multiple systems that need to be stored in a data warehousing database. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Assessment will be submitted within the course's Learn.UQ site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -109,6 +110,7 @@
       "weight": "60%",
       "due_date": "9/11/2026 3:00 pm",
       "task_description": "This assignment has two sections. The second part focuses on the implementation of the model designed in part 1, with the students demonstrating the ETL. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Assessment will be submitted on the course's Learn.UQ site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",

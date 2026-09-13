@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN2205-60406-7660",
-  "scraped_at": "2026-09-07T05:45:58.902685+00:00",
+  "scraped_at": "2026-09-13T14:50:21.315932+00:00",
   "course_code": "BSAN2205",
   "class_code": "60406",
   "semester_code": "7660",
@@ -94,6 +94,7 @@
       "due_date": "4/09/2026 5:00 pm",
       "learning_outcomes_assessed": "L01, L02, L04",
       "task_description": "Students must apply predictive modelling methods to a dataset and recommend the best solution for a business problem. More specifically, they should prepare and clean dataset provided, build and tune linear regression, logistic regression, and tree-based models, and incorporate time series analysis where the data has a temporal structure. Students then compare model performance and justify their final recommendation. This is important because it gives students hands-on practice with the fundamentals of predictive modelling, building a foundation for next assignments. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -108,6 +109,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L04",
       "task_description": "Students must complete an in-person quiz covering the concepts taught across the first half of the course. For example, answering questions on data preparation, linear and logistic regression, time series analysis, tree-based methods, support vector machines, clustering, ensemble methods, and unsupervised machine learning. It includes selecting and justifying the right method for a given business scenario. This is important because it independently verifies each student's own understanding under exam conditions. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "This is an in-person quiz. Students must complete it during class time.\nDeferral or extension\nYou may be able to defer this exam .\nLate submission\nThis is a timed quiz that must be completed in person during the scheduled class session.",
       "deferral_or_extension": "You may be able to defer this exam .",
@@ -126,6 +128,7 @@
       "due_date": "30/10/2026 5:00 pm",
       "learning_outcomes_assessed": "L03, L04, L05",
       "task_description": "Students must design and implement a dual model that combines unsupervised and supervised machine learning into one single pipeline. For example, using clustering or dimensionality reduction to segment customers or engineer novel features, then feeding that output into a supervised model that predicts a business outcome, before evaluating alternatives and presenting a clear, justified business recommendation. This is important because machine learning systems chain these stages rather than using them in isolation, so the task asks students to combine techniques from across the course into a single solution to a business problem. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."

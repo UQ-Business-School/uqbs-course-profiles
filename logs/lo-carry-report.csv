@@ -103,11 +103,6 @@ semester_code,class_number,course_code,assessment_title,result,detail
 7660,61540,IBUS7312,Asian Country Analysis - WKS Oral Presentation,carried (whole)," -> LO1, LO2, LO3, LO4"
 7660,61540,IBUS7312,Business In An Asian Region,carried (whole)," -> LO1, LO2, LO3, LO4, LO5"
 7620,20268,LAWS3101,End-of-semester Examination,not carried,learning outcomes changed since 7560; check in Jac
-7620,20352,MGTS1301,Final Exam,carried (partial),"LO1, LO2 -> LO1, LO2, LO3"
-7660,60441,MGTS1301,Diary - Everest Simulation,not carried,learning outcomes changed since 7620; check in Jac
-7660,60441,MGTS1301,Structured Analysis of Simulation Experience,not carried,learning outcomes changed since 7620; check in Jac
-7660,60441,MGTS1301,Team-based tutorial assessment,not carried,learning outcomes changed since 7620; check in Jac
-7660,60441,MGTS1301,Final Exam,not carried,learning outcomes changed since 7620; check in Jac
 7520,20322,MGTS3301,Strategic Framework Analysis,not carried,learning outcomes changed since 7460; check in Jac
 7660,60447,MGTS3301,The Carnival of AI,carried (whole)," -> LO1, LO2"
 7560,60210,MGTS3606,Team Global Mobility Handbook,not carried,learning outcomes changed since 7460; check in Jac
@@ -166,7 +161,6 @@ semester_code,class_number,course_code,assessment_title,result,detail
 7620,20383,TIMS7317,Reflection - Creating Change for Sustainability,not carried,learning outcomes changed since 7560; check in Jac
 7620,20383,TIMS7317,Team Sustainability Role Play and Report,not carried,learning outcomes changed since 7560; check in Jac
 7620,20383,TIMS7317,Exam,not carried,learning outcomes changed since 7560; check in Jac
-7620,22414,TIMS7811,Critical Reflection Essay,carried (partial),"LO2, LO3 -> LO1, LO2, LO3"
 7660,60481,TOUR1004,Test bank exercises,carried (whole)," -> LO1, LO3, LO4"
 7520,20355,TOUR7000,Online Quiz,carried (partial),"LO1 -> LO1, LO4"
 7660,60483,TOUR7020,Desk Audit,carried (whole)," -> LO1, LO3"

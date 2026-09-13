@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7212-60081-7660",
-  "scraped_at": "2026-09-07T05:46:18.154283+00:00",
+  "scraped_at": "2026-09-13T14:51:36.100048+00:00",
   "course_code": "BSAN7212",
   "class_code": "60081",
   "semester_code": "7660",
@@ -106,6 +106,7 @@
       "other_conditions": "Time limited. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "Eight quizzes will be delivered during Weeks 2 to 10 of the semester. Each quiz will be available during the relevant week and is designed to assess your understanding of the weekly content and practical tasks. Quizzes must be completed within the designated timeframe. A missed quiz will result in a score of zero. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Online quizzes will be delivered during Weeks 2 to 10 of the semester. Each quiz is based on the weekly bootcamp activity and is designed to assess your understanding of the practical tasks and concepts covered that week.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "special_indicators": [
@@ -122,6 +123,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "During Weeks 11 and 12, students will deliver an individual oral presentation outlining the progress of their ML project. This assessment is designed to evaluate your understanding of the project, your approach to data preparation and modelling, and your ability to communicate key insights. You will receive constructive feedback during this session, which can be used to enhance your final project submission. The oral presentation contributes 30% to your overall project grade. Please Note: The presentation will be recorded for marking purposes per UQ Policy. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "special_indicators": [
@@ -138,6 +140,7 @@
       "due_date": "30/10/2026 1:00 pm",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "This individual assignment provides a comprehensive opportunity for hands-on engagement with the entire lifecycle of an ML project. The primary objective is to gain practical experience in the sequential processes of conceptualizing, constructing, evaluating, refining, and ultimately presenting an ML model. The assignment is designed to enhance your proficiency in utilizing Jupyter Notebook as the exclusive platform for model development. Throughout this project, you will delve into the intricacies of data pre-processing, model selection, and hyperparameter tuning to craft robust and effective ML models. Emphasis will be placed on understanding the iterative nature of model refinement, as you work to enhance the model's performance based on evaluation metrics. The deliverable for this assignment is the Jupyter Notebook containing your entire workflow. This serves as a testament to your skills in model development and showcases your understanding of the practical applications of ML in a business context. This assignment aims to equip you with practical insights and skills that can be directly applied in real-world scenarios, fostering a holistic understanding of the ML project lifecycle. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "The assignment must be submitted electronically through the Blackboard assessment link.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."

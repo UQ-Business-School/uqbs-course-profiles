@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS2301-60477-7660",
-  "scraped_at": "2026-09-07T06:32:48.369880+00:00",
+  "scraped_at": "2026-09-13T15:11:40.463848+00:00",
   "course_code": "TIMS2301",
   "class_code": "60477",
   "semester_code": "7660",
@@ -97,6 +97,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01",
       "task_description": "Please see Blackboard for full details. There are eight quizzes in total spread across different weeks in the semester. The results from the best four quizzes count towards the final grade. The Quizzes take place at the start of the seminar in Weeks 2, 4, 5, 7, 8, 9, 10, 12. They are based on the assigned reading for that week of the course. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "The Quizzes are completed in class and to given to either the course facilitator or the course coordinator for marking.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nDue to the best of four quizzes out of eight possible counting towards the final grade there will be no extensions available.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "special_indicators": [
@@ -114,6 +115,7 @@
       "other_conditions": "Time limited, Peer assessment factor, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "The case analysis is to be conducted in teams in class. It requires students to apply the theoretical concepts covered in the course to analyse the case. Students are provided a structured worksheet to complete to support the analysis of the case before providing their final answer to the question posed. Students are permitted to bring one sheet of paper each to class with notes on the different theories and concepts covered in class. A formative case analysis is done in week 6 of the course to support students' preparation for this assessment. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Students will hand in their answers to either the course facilitator or the course coordinator at the end of the seminar.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nIf you are unable to attend, please advise your Course Coordinator on or before the due date.\nLate submission\nThis assignment is completed in the seminar.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "This assignment is completed in the seminar.",
@@ -133,6 +135,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "The examination consists of multichoice questions, short answer and an analysis of a case. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

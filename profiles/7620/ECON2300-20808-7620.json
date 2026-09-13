@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ECON2300-20808-7620",
-  "scraped_at": "2026-06-02T04:25:24.249893+00:00",
+  "scraped_at": "2026-09-13T14:53:15.045600+00:00",
   "course_code": "ECON2300",
   "class_code": "20808",
   "semester_code": "7620",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "St Lucia",
   "coordinating_unit": "Economics School",
-  "course_description": "Introductory applied econometric course for students with basic economic statistics background. Topics covered include: economic models and role of econometrics, linear regression with single and multiple regressors, hypothesis testing and confidence intervals, dummy variables and nonlinear regression functions, internal and external validity of regression models, panel data models, binary response models, instrumental variable regressions, experiments and quasi-experiments, as well as basic time series analysis. Practical problems are solved using the R econometrics software.\n\nThis is an introductory course in applied econometrics. It reviews and builds on the simple linear regression model taught in introductory statistics courses such as ECON1310 and ECON1320. The models studied in this course have numerous applications in economics, finance, marketing, management and related areas.ﾠA feature of the course is the way examples and exercises are drawn from these different discipline areas to illustrate the usefulness and limitations of certain econometric/statistical techniques. Hands-on experience in applying these techniques is gained through the use of R, an econometric computer software package available in the BEL computer laboratories. Note also that students can freely download R at [https://www.r-project.org].",
+  "course_description": "Introductory applied econometric course for students with basic economic statistics background. Topics covered include economic models and role of econometrics, linear regression with single and multiple regressors, hypothesis testing and confidence intervals, dummy variables and nonlinear regression functions, internal and external validity of regression models, panel data models, binary response models, instrumental variable regressions, experiments and quasi-experiments, as well as basic time series analysis. Practical problems are solved using the R econometrics software.\n\nThis is an introductory course in applied econometrics. It reviews and builds on the simple linear regression model taught in introductory statistics courses such as ECON1310 and ECON1320. The models studied in this course have numerous applications in economics, finance, marketing, management and related areas.ﾠA feature of the course is the way examples and exercises are drawn from these different discipline areas to illustrate the usefulness and limitations of certain econometric/statistical techniques. Hands-on experience in applying these techniques is gained through the use of R, an econometric computer software package available in the BEL computer laboratories. Note also that students can freely download R at [https://www.r-project.org].",
   "requirements": {
     "prerequisites": [
       "You'll need to complete the following courses before enrolling in this one:",

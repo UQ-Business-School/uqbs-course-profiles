@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ECON3010-20809-7620",
-  "scraped_at": "2026-06-02T04:25:26.989629+00:00",
+  "scraped_at": "2026-09-13T14:53:32.757261+00:00",
   "course_code": "ECON3010",
   "class_code": "20809",
   "semester_code": "7620",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "St Lucia",
   "coordinating_unit": "Economics School",
-  "course_description": "Developments & implications of microeconomic theory.\n\nMicroeconomic theory aims to model economic activity as an interaction of individual economic agents pursuing their own goals. It provides the foundations for economic, political, strategic, and financial analysis. This subject aims to present a systematic treatment of decision-making. The subject demonstrates how we can use models to understand the fundamental principles behind familiar economic concepts, and how we apply these models. Examples and applications will be used to motivate concepts.",
+  "course_description": "Developments and implications of microeconomic theory.\n\nMicroeconomic theory aims to model economic activity as an interaction of individual economic agents pursuing their own goals. It provides the foundations for economic, political, strategic, and financial analysis. This subject aims to present a systematic treatment of decision-making. The subject demonstrates how we can use models to understand the fundamental principles behind familiar economic concepts, and how we apply these models. Examples and applications will be used to motivate concepts.",
   "requirements": {
     "prerequisites": [
       "You'll need to complete the following courses before enrolling in this one:",
@@ -41,7 +41,7 @@
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease see the Learning Activities section of this Course Profile for the timetabling implications of public holidays.\nImportant Dates:\nPublic Holidays\n: Fri 3 April (Good Friday), Mon 4 May (Labour Day).\nMid-Semester Break\n: 6 April - 10 April. Semester 1 classes recommence on Mon 13 April.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.",
-  "course_aims": "The aim of this subject is to present a systematic treatment of the basic tools of microeconomicﾠanalysis including procedures for analyzing decision making under uncertainty.",
+  "course_aims": "The aim of this subject is to present a systematic treatment of the basic tools of microeconomic analysis including procedures for analysing decision making under uncertainty.",
   "learning_outcomes": [
     {
       "number": "LO1.",

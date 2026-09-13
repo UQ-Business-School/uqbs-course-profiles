@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BISM7255-60403-7660",
-  "scraped_at": "2026-09-07T05:45:46.085756+00:00",
+  "scraped_at": "2026-09-13T14:49:40.626237+00:00",
   "course_code": "BISM7255",
   "class_code": "60403",
   "semester_code": "7660",
@@ -103,6 +103,7 @@
       "other_conditions": "Peer assessment factor. See the conditions definitions",
       "learning_outcomes_assessed": "L02, L03, L04, L05",
       "task_description": "In this assignment, you will be given a real-world case scenario, and it is the student's task to produce the systems analysis and design documentation for the case scenario by creating UML models. The purpose of the assignment is to develop your ability to justify, analyse, and design software applications using Enterprise Architecture. The assignment can be completed individually or in a team of up to 2 students. When working in pairs, students are required to do a peer assessment, which may affect assessment results. Details will be provided on Blackboard. Details of the assignment are given on the course's Blackboard site (i.e, the course's Learn.UQ site). This assessment is to address at least one PRME Sustainable Development Goal and is an opportunity to add an innovative solution to your ePortfolio. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submitted via Blackboard assessment link. For details, please refer to the assignment specification on the Blackboard site for the course.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -120,6 +121,7 @@
       "other_conditions": "Longitudinal. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L04, L05",
       "task_description": "The students are asked to develop an app using a no-code/low-code platform and AI software. Based on the final app, students are asked to write a report about the development. The details about the assessment can be found on the course's Blackboard site after the in-semester break. In order to pass this assessment, a working app must be submitted; failure to submit a working app may result in a score of 0 for this assessment item. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "For details please refer to the assignment specification on the Blackboard site for the course (released after the mid-semester break).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -134,6 +136,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "The exam will run during the end of the semester examination period. All content of the entire semester is covered. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options No calculators permitted Open/closed book Closed book examination - specified written materials permitted Materials Two A4 sheets of handwritten notes, double sided, are permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

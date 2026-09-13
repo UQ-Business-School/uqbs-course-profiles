@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ECON2050-60755-7660",
-  "scraped_at": "2026-09-07T05:54:20.220457+00:00",
+  "scraped_at": "2026-09-13T14:52:58.998314+00:00",
   "course_code": "ECON2050",
   "class_code": "60755",
   "semester_code": "7660",
@@ -67,7 +67,7 @@
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTutorial Preferencing\n: Please refer to My Timetable (available via your my.UQ dashboard) for more information on the tutorial preferencing and allocation process. Tutorials will begin in\nWeek 2\nand students should attend one tutorial each week.ﾠ\nLectures commence in Week 1.\nTutorials commence in Week 2.\nPlease see the Learning Activities section of this Course Profile for the timetabling implications of public holidays.\nImportant Dates:\nPublic holidays\n: Wed 12 August (Royal Queensland Show), Mon 5 October (King’s Birthday).\nIn-semester Break\n: 28 September – 2 October. Semester 2 classes recommence on Tue 6 October.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.",
-  "course_aims": "This course aims to introduce students to nonlinear optimisation in several variables in economics; starting with classical notions from calculus and proceeding to a study of convex functions. It covers unconstrained optimisation problems, and constrained optimisation problems using the Kuhn-Tucker conditions. It concludes with a brief introduction to dynamic programming in discrete time. The course aspires to be rigorous (at the level of the prescribed textbook)ﾠ and to emphasizeﾠ the development of geometric intuition.ﾠ",
+  "course_aims": "This course aims to introduce students to nonlinear optimisation in several variables in economics; starting with classical notions from calculus and proceeding to a study of convex functions. It covers unconstrained optimisation problems, and constrained optimisation problems using the Kuhn-Tucker conditions. It concludes with a brief introduction to dynamic programming in discrete time. The course aspires to be rigorous (at the level of the prescribed textbook)ﾠ and to emphasiseﾠ the development of geometric intuition.ﾠ",
   "learning_outcomes": [
     {
       "number": "LO1.",
@@ -79,11 +79,11 @@
     },
     {
       "number": "LO3.",
-      "description": "Identify solutions of some unconstrained and constrained optimization problems."
+      "description": "Identify solutions of some unconstrained and constrained optimisation problems."
     },
     {
       "number": "LO4.",
-      "description": "Apply optimization techniques to various economic questions."
+      "description": "Apply optimisation techniques to various economic questions."
     },
     {
       "number": "LO5.",
@@ -129,6 +129,7 @@
       "due_date": "4/09/2026 4:00 pm",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "This assignment contains a mix of theoretical and practical exercises. It is designed to encourage students to develop problem-solving and analytical skills in mathematics. Completing this assessment will develop the ability to engage with unfamiliar problems, identify relevant strategies for constructing solutions, and construct and express logical mathematical statements. These are foundational skills that will benefit further topics in economics and econometrics. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "The assignment must be submitted electronically. Instructions will be provided.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -142,6 +143,7 @@
       "due_date": "25/09/2026 4:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "This assignment contains a mix of theoretical and practical exercises. It is designed to encourage students to develop problem-solving and analytical skills in mathematics. Completing this assessment will develop the ability to engage with unfamiliar problems, identify relevant strategies for constructing solutions, and construct and express logical mathematical statements. These are foundational skills that will benefit further topics in economics and econometrics. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -155,6 +157,7 @@
       "due_date": "30/10/2026 4:00 pm",
       "learning_outcomes_assessed": "L03, L04, L05",
       "task_description": "This assignment contains a mix of theoretical and practical exercises. It is designed to encourage students to develop problem-solving and analytical skills in mathematics. Completing this assessment will develop the ability to engage with unfamiliar problems, identify relevant strategies for constructing solutions, and construct and express logical mathematical statements. These are foundational skills that will benefit further topics in economics and econometrics. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "The assignment must be submitted electronically. Instructions will be provided.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -169,6 +172,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "The final exam will: Consist of problem-solving and/or short-answer questions Be Centrally Timetabled. Have further details about the exam posted on the course Blackboard site during the semester. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten or typed notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",
