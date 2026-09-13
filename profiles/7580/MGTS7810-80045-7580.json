@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7810-80045-7580",
-  "scraped_at": "2026-06-04T02:46:58.860353+00:00",
+  "scraped_at": "2026-09-13T15:06:58.540982+00:00",
   "course_code": "MGTS7810",
   "class_code": "80045",
   "semester_code": "7580",
@@ -128,8 +128,7 @@
     }
   ],
   "learning_resources": {
-    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.\nOwn copy required\nYou'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Webpage Harvard business review by Harvard Business School Publisher: Harvard Business Business School Publishing Inc",
-    "own_copy_required": "You'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Webpage Harvard business review by Harvard Business School Publisher: Harvard Business Business School Publishing Inc"
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
   },
   "learning_activities": [
     {

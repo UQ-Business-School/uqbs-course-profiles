@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3412-61923-7660",
-  "scraped_at": "2026-09-07T06:02:01.224259+00:00",
+  "scraped_at": "2026-09-13T14:57:30.178230+00:00",
   "course_code": "FINM3412",
   "class_code": "61923",
   "semester_code": "7660",
@@ -24,7 +24,7 @@
       "FINM2416"
     ],
     "restrictions": [
-      "Restricted to students enrolled in the BAdvFinEcon(Hons) and BCom(Hons) programs"
+      "Restricted to students enrolled in the BAdvFin&Econ(Hons) and BCom(Hons) programs"
     ]
   },
   "course_contacts": [
@@ -47,7 +47,7 @@
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name\nStudent ID\nCourse Code",
-  "course_aims": "This course aims to provide students with a solid grounding in the key components of investment analysis and portfolio construction. The skills developed in this course will enable students to determine the value of various assets, evaluate the investment decision and determine whether the trade-off between the anticipated return andﾠthe anticipated risk is worth investing in. Students should also achieve the ability to value investments in the context of a portfolio and quantify the contribution they make to the return and risk of a portfolio. These skills will be further developed and expanded in subsequent courses.",
+  "course_aims": "This course aims to provide students with a solid grounding in the key components of investment analysis and portfolio construction. The skills developed in this course will enable students to determine the value of various assets, evaluate the investment decision and determine whether the trade-off between the anticipated return and ﾠthe anticipated risk is worth investing in. Students should also achieve the ability to value investments in the context of a portfolio and quantify the contribution they make to the return and risk of a portfolio.",
   "learning_outcomes": [
     {
       "number": "LO1.",
@@ -133,6 +133,7 @@
       "other_conditions": "Longitudinal. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L04",
       "task_description": "Weeks 2-6 you will be required to complete tutorial tasks that will assist you in preparing for the team assignment. The tutorial tasks are due on the Monday after the tutorials are held. Therefore, you have the week, the weekend and Monday mornings to work on the tutorial tasks. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -147,6 +148,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L05, L06, L07",
       "task_description": "This is a multiple choice exam. More information about the In-Semester Exam will be shared in class and posted to the course Blackboard site. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Other Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",
@@ -165,6 +167,7 @@
       "other_conditions": "Peer assessment factor, Longitudinal. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "The investment valuation project has three parts. Part A - A group written report and financial model, Part B - Presentation, and Part C - Individual Reflection Part A Financial Model (team score - out of 15) Written report (team score - out of 25) Peer Evaluation (Parts A and B) Your peer evaluation will be completed using BuddyCheck. The score you receive is based on feedback from your teammates and will be used to adjust your individual mark for the team assignment. Specifically, your peer evaluation score will be applied to your team score to calculate your final individual result. Important: You must complete the peer evaluation to be eligible to receive a mark for the team assignment. Further details on the peer evaluation process and assessment criteria will be provided in the project materials on Blackboard. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit through Blackboard Assessment link.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -182,6 +185,7 @@
       "other_conditions": "Time limited, Peer assessment factor, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "Part B The presentation consists of two components with Q&A. The In-Person Presentation: Presented during Week 13 between 8:00 AM to 6:00 PM. More details of scheduling will be provided on the course Blackboard site. Presentations are timed, and over-time presentations will be cut short with a 10% presentation score penalty. Professional Presentation (team score - out of 10): Professional presentation across the model, report and the presentation. Industry standard is expected. Individual Presentation (individual score - out of 10): Each team member will receive a unique score out of 10 for their in-class presentation. Peer Evaluation (Parts A and B) Your peer evaluation will be completed using BuddyCheck. The score you receive is based on feedback from your teammates and will be used to adjust your individual mark for the team assignment. Specifically, your peer evaluation score will be applied to your team score to calculate your final individual result. Important: You must complete the peer evaluation to be eligible to receive a mark for the team assignment. Further details on the peer evaluation process and assessment criteria will be provided in the project materials on Blackboard. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nIf you are unable to attend your presentation, please advise your Course Coordinator on or before the due date.\nLate submission\nPresentations are timed, and over-time presentations will be cut short with a 10% presentation score penalty.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "Presentations are timed, and over-time presentations will be cut short with a 10% presentation score penalty.",
@@ -200,6 +204,7 @@
       "due_date": "30/10/2026 5:00 pm",
       "learning_outcomes_assessed": "L04, L06",
       "task_description": "Part C Final Journal Entry (individual score - out of 5): Students must complete a reflection on what they have learnt working on this team based project. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT7106-60387-7660",
-  "scraped_at": "2026-09-07T05:38:31.257014+00:00",
+  "scraped_at": "2026-09-13T14:46:17.810026+00:00",
   "course_code": "ACCT7106",
   "class_code": "60387",
   "semester_code": "7660",
@@ -39,6 +39,11 @@
     {
       "role": "Lecturer",
       "name": "Dr Mark Wallis"
+    },
+    {
+      "role": "Tutor",
+      "name": "Ms Shuying He",
+      "email": "s.he@business.uq.edu.au"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code\nLectures and tutorials are sometimes affected by public holidays. Replacement classes will be announced on Learn.UQ whenever classes are cancelled because of public holidays",
@@ -115,6 +120,7 @@
       "due_date": "7/09/2026 1:00 pm",
       "other_conditions": "Peer assessment factor. See the conditions definitions",
       "task_description": "This project requires students to complete a detailed financial statement analysis of an Australian-listed company. The project will be completed in three parts. Part one of the project is based on the concepts taught in the first four classes . Note also: Detailed instructions will be provided on Blackboard. Students need to choose a company to analyse . This is a group assessment. You must provide your supporting workings in Excel. Excel work must reflect correct financial modelling conventions, which will be discussed in the class. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Please submit your Excel workings through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nBecause the assignment is a multi-part assignment where the second part builds on the first part, extensions might be limited in time to allow for timely feedback to be made available to all students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -131,6 +137,7 @@
       "due_date": "12/10/2026 1:00 pm",
       "other_conditions": "Peer assessment factor. See the conditions definitions",
       "task_description": "This project requires students to complete a detailed financial statement analysis of an Australian-listed company. The project will be completed in three parts. Part two of the project is based on the concepts taught in the first eight classes . Note also: Detailed instructions will be provided on Blackboard. Students continue to analyse the same company that was analysed in part one of the project. This is a group assessment. You must provide your supporting workings in Excel. Excel work must reflect correct financial modelling conventions, which will be discussed in the class. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Please submit your written answers through the Turnitin link on Learn.UQ.\nPlease submit your Excel workings through the Blackboard submission link on Learn.UQ.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -147,6 +154,7 @@
       "due_date": "Week 12 - Week 13 During Class Time",
       "other_conditions": "Time limited, Peer assessment factor. See the conditions definitions",
       "task_description": "This project requires students to complete a detailed financial statement analysis of an Australian-listed company. The project will be completed in three parts. Part three of the project requires the students to present their analysis completed in part two. Each group will be given a maximum of ten minutes to present their valuation report and recommendation. Note also: Detailed instructions will be provided on Blackboard. This is a group assessment. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nLate submissions are not accepted for in-class presentations. Failure to present at the scheduled time will result in a mark of zero.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "Late submissions are not accepted for in-class presentations. Failure to present at the scheduled time will result in a mark of zero.",
@@ -164,6 +172,7 @@
       "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "task_description": "Exam questions will address practical and conceptual issues covered over the full course. The exam is an on-campus, closed book, and paper-based exam invigilated by UQ appointed invigilators. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ACCT1101-60169-7460",
-  "scraped_at": "2026-06-04T00:45:18.277981+00:00",
+  "scraped_at": "2026-09-13T14:43:49.746897+00:00",
   "course_code": "ACCT1101",
   "class_code": "60169",
   "semester_code": "7460",
@@ -58,7 +58,7 @@
     },
     {
       "role": "Tutor",
-      "name": "Mr Harvey Ruan",
+      "name": "Dr Harvey Ruan",
       "email": "h.ruan@business.uq.edu.au"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "role": "Tutor",
-      "name": "Mr Chris Zhang",
+      "name": "Dr Chris Zhang",
       "email": "chris.zhang@business.uq.edu.au"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/FINM2411-20326-7620",
-  "scraped_at": "2026-06-02T04:28:56.705437+00:00",
+  "scraped_at": "2026-09-13T14:56:28.277852+00:00",
   "course_code": "FINM2411",
   "class_code": "20326",
   "semester_code": "7620",
@@ -26,15 +26,14 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Professor Stephen Gray",
-      "email": "s.gray@business.uq.edu.au",
-      "phone": "+61 7 3346 8032"
+      "name": "Prof Stephen Gray",
+      "email": "s.gray@business.uq.edu.au"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Professor Stephen Gray"
+      "name": "Prof Stephen Gray"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note\n: Teaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull name\nStudent ID\nCourse Code",

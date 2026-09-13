@@ -1,11 +1,11 @@
 {
   "_metadata": {
     "description": "LO-to-assessment mappings restored from Jac (curriculum.uq.edu.au), the authored curriculum record. UQ's published course profiles omit these mappings (fully or partially) due to a publishing fault; this overlay completes the record. Replace semantics: an entry is the authoritative full LO list for its assessment.",
-    "last_updated": "2026-09-12 13:52",
+    "last_updated": "2026-09-13 15:15",
     "generated_from": "lo-overrides.csv",
     "semantics": "replace_per_assessment; exact class_number wins over exact semester_code, which wins over blank. Entries with class_number apply ONLY to that SI-NET class (parallel deliveries can map differently). Consumers that do not distinguish classes should ignore class_number entries for offerings they cannot match.",
-    "class_scoped_entries": 122,
-    "carried_entries": 117
+    "class_scoped_entries": 120,
+    "carried_entries": 115
   },
   "overrides": [
     {
@@ -4284,19 +4284,6 @@
     },
     {
       "course_code": "MGTS1301",
-      "semester_code": "7620",
-      "assessment_title": "Final Exam",
-      "learning_outcomes": [
-        "LO1",
-        "LO2",
-        "LO3"
-      ],
-      "class_number": "20352",
-      "notes": "Carried forward from 7560 (scraped): the 7620 profile shows LO1, LO2, a partial drop by the publishing fault. Confirm in Jac if the mapping changed.",
-      "source": "carried"
-    },
-    {
-      "course_code": "MGTS1301",
       "semester_code": "7660",
       "assessment_title": "Diary - Everest Simulation",
       "learning_outcomes": [
@@ -7176,19 +7163,6 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 2 2026 (auto-extracted)",
       "source": "jac"
-    },
-    {
-      "course_code": "TIMS7811",
-      "semester_code": "7620",
-      "assessment_title": "Critical Reflection Essay",
-      "learning_outcomes": [
-        "LO1",
-        "LO2",
-        "LO3"
-      ],
-      "class_number": "22414",
-      "notes": "Carried forward from 7560 (scraped): the 7620 profile shows LO2, LO3, a partial drop by the publishing fault. Confirm in Jac if the mapping changed.",
-      "source": "carried"
     },
     {
       "course_code": "TOUR1004",

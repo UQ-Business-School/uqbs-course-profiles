@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7101-62426-7660",
-  "scraped_at": "2026-09-07T06:02:11.831463+00:00",
+  "scraped_at": "2026-09-13T14:58:18.629382+00:00",
   "course_code": "FINM7101",
   "class_code": "62426",
   "semester_code": "7660",
@@ -85,6 +85,7 @@
       "due_date": "10/07/2026 5:00 pm",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "This individual assessment is designed to develop and evaluate students' ability to apply financial modelling and portfolio management principles in the context of real-world investment decisions. Students will perform a portfolio task using Python and historical market data. The deliverable includes a detailed report that explains the methodology, findings, and implications of the analysis, as well as a technical appendix containing Python code used in the computations. This task emphasizes critical thinking, fostering a practical understanding of investment portfolio management under real-world conditions. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit via links on Ultra\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -98,6 +99,7 @@
       "due_date": "27/07/2026 5:00 pm",
       "learning_outcomes_assessed": "L01, L03",
       "task_description": "This individual assessment focuses on applying methods developed in class to valuing assets. Students will work independently to value assets using real-world data. The deliverable is a concise report that outlines the methodology, assumptions, and results for each task. Supporting computations should be included as an appendix. This assessment emphasizes individual analytical skills and the application of financial concepts to solve practical challenges, aligning with the course's learning outcomes. Details to be provided on Ultra. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit via links on Ultra\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -112,6 +114,7 @@
       "other_conditions": "Peer assessment factor. See the conditions definitions",
       "learning_outcomes_assessed": "L02, L03, L04",
       "task_description": "This team-based assessment challenges students to evaluate and analyse the valuation and performance of an asset. Students will apply financial modelling and market data to make an informed investment recommendation. The deliverable is a concise team report, including investment recommendations, supported by Excel or Python computations provided as an appendix. This assessment develops teamwork, critical thinking, and advanced financial modelling skills, preparing students to navigate and analyse complex investment products in a dynamic market environment. Full details and relevant data will be made available on Ultra. Students will be given an opportunity for Peer Assessment of their group members. The results of this assessment may impact an individuals overall score for this assessment. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit via links on Ultra\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nDue to the intense nature of the course, the maximum extension time will be limited.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",

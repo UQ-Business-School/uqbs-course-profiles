@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3421-60422-7660",
-  "scraped_at": "2026-09-07T06:02:03.909354+00:00",
+  "scraped_at": "2026-09-13T14:57:39.732498+00:00",
   "course_code": "FINM3421",
   "class_code": "60422",
   "semester_code": "7660",
@@ -20,7 +20,7 @@
       "FINM1415"
     ],
     "restrictions": [
-      "Restricted to students enrolled in the BAdvFinEcon(Hons) and BCom(Hons) programs"
+      "Restricted to students enrolled in the BAdvFin&Econ(Hons) and BCom(Hons) programs"
     ]
   },
   "course_contacts": [
@@ -38,23 +38,23 @@
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",
-  "course_aims": "This course aims to provide an in-depth understanding of fixed income security markets and their analyses. These securities include treasury securities, municipal bonds, corporate bonds and international bonds, and structured debt securities. Their risk-return characteristics will be explained in terms of price-yield relationship, yield and return measures, and price volatility measures. Various techniques for the valuation, trading, and risk control of these securities will be illustrated in details in association with yield curve analysis.",
+  "course_aims": "This course aims to provide an in-depth understanding of fixed income security markets and their analyses. These securities include treasury securities, municipal bonds, corporate bonds and international bonds, and structured debt securities. Their risk-return characteristics will be explained in terms of price-yield relationship, yield and return measures, and price volatility measures. Various techniques for the valuation, trading, and risk control of these securities will be illustrated in detail in association with yield curve analysis.",
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Understand the fundamentals of fixed income in the context of investment and trading"
+      "description": "Understand the fundamentals of fixed income in the context of investment and trading."
     },
     {
       "number": "LO2.",
-      "description": "Analyse the risk and returns of a wide variety of fixed income products"
+      "description": "Analyse the risk and returns of a wide variety of fixed income products."
     },
     {
       "number": "LO3.",
-      "description": "Understand how fixed income products relate to other structured products"
+      "description": "Understand how fixed income products relate to other structured products."
     },
     {
       "number": "LO4.",
-      "description": "Work collaboratively and efficiently in teams to complete tasks related to fixed income product"
+      "description": "Work collaboratively and efficiently in teams to complete tasks related to fixed income product."
     }
   ],
   "assessment_summary": [
@@ -99,6 +99,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "The in-class in-semester exam will cover Lecture 1 to Lecture 5. It consists both short answer and problem solving questions. More details will be provided on Blackboard. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",
@@ -117,6 +118,7 @@
       "other_conditions": "Peer assessment factor. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L04",
       "task_description": "Each team is required to prepare a credit rating report on an ASX-listed company. Students will conduct a comprehensive credit risk analysis and assign a credit rating to the selected company. In preparing the report, students can draw on the credit rating methodologies used by major rating agencies. Team reports must be submitted by the deadline specified above. More detailed instructions will be provided on Blackboard. A peer review process will be used to provide feedback on individual contributions to the team assessment. Students must complete the peer review to receive their final mark for this assessment item. The results of the peer review may be used to adjust an individual student’s overall score for this assessment item, based on their peer-reviewed contribution and performance. Further information about the peer review process is provided in the Assessment Guideline on Blackboard. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit in the Blackboard Assessment link.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -134,6 +136,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "The final exam will consist of problem-solving and short-answer questions. All lectures are examinable. This is a 120-minute exam plus 10 minutes of reading time. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

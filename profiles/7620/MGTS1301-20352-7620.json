@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS1301-20352-7620",
-  "scraped_at": "2026-06-02T04:33:50.171017+00:00",
+  "scraped_at": "2026-09-13T15:02:46.025347+00:00",
   "course_code": "MGTS1301",
   "class_code": "20352",
   "semester_code": "7620",
@@ -37,19 +37,23 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Explain fundamental concepts, models and approaches that represent the theory of management."
+      "description": "Recall key management concepts, models, and theories."
     },
     {
       "number": "LO2.",
-      "description": "Apply theory and research evidence of management to practical situations."
+      "description": "Work in teams to analyse real-world management problems by applying relevant theory."
     },
     {
       "number": "LO3.",
-      "description": "Evaluate the effectiveness of managerial decisions in the context of an organisation's ethical and social responsibilities."
+      "description": "Explain how culture and context shape management practice in a global environment."
     },
     {
       "number": "LO4.",
-      "description": "Employ interpersonal and communication skills when working in teams."
+      "description": "Identify Aboriginal and Torres Strait Islander business practices from a strength-based perspective."
+    },
+    {
+      "number": "LO5.",
+      "description": "Propose recommendations to improve managerial decisions by considering relevant ethical standards, relationships, and stakeholders."
     }
   ],
   "assessment_summary": [

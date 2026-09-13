@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN3210-60075-7660",
-  "scraped_at": "2026-09-07T05:46:00.540987+00:00",
+  "scraped_at": "2026-09-13T14:50:34.347418+00:00",
   "course_code": "BSAN3210",
   "class_code": "60075",
   "semester_code": "7660",
@@ -94,6 +94,7 @@
       "due_date": "9/09/2026 5:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "In this assignment, students apply the Python foundations taught in the first five weeks of the course to a realistic business scenario. They must write a Python script or a Jupyter notebook that uses variables, data types, functions and data structures (e.g., lists, dictionaries, loops) to process and summarise a small business dataset provided to them. Students also write a short reflection identifying which analytics technologies or tools they used, explaining why Python was chosen for this task, and noting any ethical or governance considerations relevant to handling that data. This is important because it verifies that students can connect Python's foundational building blocks to a real business purpose before the course moves into the more demanding Pandas and data-pipeline work of the second half. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -108,6 +109,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L04",
       "task_description": "Students complete an in-person assessment covering concepts taught across the first eight weeks of the course. It combines conceptual and practical questions across the full range of topics covered, from the business analytics technology landscape and Python foundations through to data structures, dataset management, and governance. This is important because it independently verifies each student's understanding under exam conditions, ensuring they can reason about both the technology choices and the Python mechanics. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "This is an in-person quiz. Students must complete it during the class time.\nDeferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",
@@ -125,6 +127,7 @@
       "due_date": "30/10/2026 5:00 pm",
       "learning_outcomes_assessed": "L03, L04, L05",
       "task_description": "Students act as a lead business analyst and build an end-to-end Python solution for a realistic organisational problem. They are provided with a dataset and a broad business problem, and must apply the full range of skills developed across the course to produce outputs that support business decision-making. The final submission includes well-documented, reproducible code and a business presentation communicating their findings and recommendations to a decision-maker. This is important because it demonstrates the complete arc that business analytics companies value: translating a business problem into a technical solution and communicating the outcome as a decision, which is the core purpose of the course. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit via blackboard link.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."

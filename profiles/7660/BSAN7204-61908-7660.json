@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BSAN7204-61908-7660",
-  "scraped_at": "2026-09-07T05:46:07.664385+00:00",
+  "scraped_at": "2026-09-13T14:50:57.527636+00:00",
   "course_code": "BSAN7204",
   "class_code": "61908",
   "semester_code": "7660",
@@ -36,6 +36,10 @@
     {
       "role": "Lecturer",
       "name": "Dr Thomas Taimre"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Melissa Dobbie"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAll classes will be conducted online (via Zoom). Consult your personal timetable for times. There will be no activities on public holidays. Alternative arrangements will be made and communicated via Blackboard.",
@@ -103,6 +107,7 @@
       "due_date": "28/08/2026 3:00 pm",
       "learning_outcomes_assessed": "L01",
       "task_description": "The objective of this assignment is for you to undertake an exploratory data analysis to summarise and highlight key aspects and special features of business data. You will consolidate your knowledge and develop skills in data analysis to solve business problems, provide insights and enhance your presentation and communication skills in a business context. This will further strengthen your ability to tackle problems in business data analysis and visualisation, and will be presented to your stakeholder(s) within your chosen business context. This assessment can be completed individually or in a pair. If working as a pair, you will submit a single submission with both names on it. Both members of the pair will receive the same grade for the assessment. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -119,6 +124,7 @@
       "due_date": "23/10/2026 3:00 pm",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "The modules contain a total of eight Analytics Practice tasks. Each task is an important opportunity to put the technical skills you are learning into practice by working with a new data set and using RStudio to answer five numerical questions. Correctly answering each question is worth 0.5 marks towards your overall grade (for a maximum of 20 marks). You can attempt each question as many times as you like before the due date. (There is no penalty for incorrect answers.) You are encouraged to discuss how to answer the questions with your peers on Ed Discussion. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Complete via Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -136,6 +142,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L02, L03",
       "task_description": "This presentation is linked to the Technical Report assessment item (Assignment 4). Based on your preliminary work on that report, you will present your insights from this analysis as a persuasive live presentation to the stakeholders, which will be followed by a Q&A session --- this session will probe your depth of understanding and will give you feedback for use in completing the Technical Report. Your presentation should be strictly 5 minutes, using slides and speaking live to camera to communicate a summary of your analysis, conclusions, and potential value for stakeholders. The presentation + Q&A sessions will be timetabled and communicated on BlackBoard. The presentations and Q&A sessions will be recorded for marking purposes. Bring along your student card or official ID to verify your identity before your presentation and Q&A session. Please note that for grading purposes, these sessions will be recorded. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "The presentation + Q&A sessions will be timetabled and communicated on BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions or deferrals are not available for an in-class presentation. An extension may be available for the submitted material only.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\n10% Late Penalty applies to submitted material only. Late submissions are not accepted for in-class presentations. Failure to present at the scheduled time will result in a mark of zero for the presentation portion of this assessment.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -153,6 +160,7 @@
       "due_date": "30/10/2026 3:00 pm",
       "learning_outcomes_assessed": "L02, L03",
       "task_description": "The objective of this assignment is for you to work with a complex data set to create a value proposition for a stakeholder. You will use techniques of data wrangling in R to generate and explore suitable variables to address a business question. You will then select and justify the relevant theory and advanced tools that can be applied to the variables. In addition to EDA, your analysis should demonstrate the application the three core methods: • Multiple linear regression • Logistic regression and multiple logistic regression • Time series modelling and analysis You will then present your insights from this analysis as a technical report to your supervisor. Your technical report should be around 1000 words, and include a summary of your analysis, conclusions, and potential value for stakeholders. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Further details of submission will be provided on Blackboard\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
