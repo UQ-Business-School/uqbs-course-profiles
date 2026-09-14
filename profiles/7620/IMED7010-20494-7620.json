@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/IMED7010-20494-7620",
-  "scraped_at": "2026-06-02T04:30:51.855677+00:00",
+  "scraped_at": "2026-09-14T07:50:31.845203+00:00",
   "course_code": "IMED7010",
   "class_code": "20494",
   "semester_code": "7620",
@@ -48,19 +48,27 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Plan therapeutic strategies for managing patients with skin cancer;"
+      "description": "Apply pharmacological and therapeutic principles in the management of skin cancer and associated conditions."
     },
     {
       "number": "LO2.",
-      "description": "Understand different skin biopsy techniques;"
+      "description": "Critically analyse therapeutic options to ensure evidence-based, safe, and patient-centred prescribing."
     },
     {
       "number": "LO3.",
-      "description": "Display professional characteristics of a modern practitioner as expected by registration boards such as working with patients in a therapeutic relationship and working as a member of a health care team."
+      "description": "Engage with prescribing guidelines and public health frameworks to support equitable access to treatments."
     },
     {
       "number": "LO4.",
-      "description": "Demonstrate clinical skills"
+      "description": "Recognise cultural, economic, and social factors in therapeutic planning, especially in vulnerable populations."
+    },
+    {
+      "number": "LO5.",
+      "description": "Communicate treatment plans clearly to support patient understanding, adherence, and informed consent."
+    },
+    {
+      "number": "LO6.",
+      "description": "Model professional accountability and ethical conduct in therapeutic decision-making."
     }
   ],
   "assessment_summary": [

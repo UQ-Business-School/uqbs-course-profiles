@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL3530-20416-7620",
-  "scraped_at": "2026-06-02T04:23:01.189785+00:00",
+  "scraped_at": "2026-09-14T06:03:45.130412+00:00",
   "course_code": "CIVL3530",
   "class_code": "20416",
   "semester_code": "7620",
@@ -20,10 +20,7 @@
       "MATH1051",
       "MATH1052",
       "ENGG1001",
-      "CIVL2530",
-      "This course is jointly-taught with:",
-      "CIVL7415",
-      "Lectures and tutorials"
+      "CIVL2530"
     ]
   },
   "course_contacts": [
@@ -126,6 +123,7 @@
       "weight": "20%",
       "due_date": "21/04/2026 4:00 pm",
       "task_description": "This assessment will require you to process a data set using the techniques introduced in the lectures and then develop a regression model using the processed data. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Assignment must be submitted through BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -139,6 +137,7 @@
       "weight": "20%",
       "due_date": "29/05/2026 4:00 pm",
       "task_description": "This assessment will require you to explore patterns in a data set using the data-driven methods introduced in the lectures. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Assignment must be submitted through BlackBoard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -151,7 +150,9 @@
       "category": "Participation/ Student contribution, Quiz",
       "weight": "10%",
       "due_date": "Marks: 1.25 4/03/2026 4:00 pm Marks: 1.25 25/02/2026 4:00 pm Marks: 1.25 11/03/2026 4:00 pm Marks: 1.25 18/03/2026 4:00 pm Marks: 1.25 25/03/2026 4:00 pm Marks: 1.25 1/04/2026 4:00 pm Marks: 1.25 22/04/2026 4:00 pm Marks: 1.25 29/04/2026 4:00 pm Marks: 1.25 6/05/2026 4:00 pm Marks: 1.25 13/05/2026 4:00 pm Marks: 1.25 20/05/2026 4:00 pm Marks: 1.25 27/05/2026 4:00 pm Throughout the semester",
+      "other_conditions": "Secure. See the conditions definitions",
       "task_description": "You are expected to actively participate in lectures throughout the semester. In-class quizzes will contribute to your final marks, with points accruing from Week 1 through to Week 13. The full marks for each quiz are 1.25, and your final score will be calculated based on your best 8 out of 12 quizzes. To ensure your quiz is counted, it must be submitted via Blackboard before the end of each lecture. Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Submit it to the Blackboard by the end of each lecture.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nBecause only the best 8 of 12 quizzes will contribute to the mark for this assessment item and answers are released soon after the due date, no extensions are permitted.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nBecause the results/answers are released soon after the due date, and only the best 8 of 12 quizzes will contribute to the mark for this assessment item, a 100% penalty will be applied to late submission. This has been approved by the Associate Dean (Academic).",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
@@ -167,7 +168,9 @@
       "category": "Examination",
       "weight": "50%",
       "due_date": "End of Semester Exam Period 6/06/2026 - 20/06/2026",
+      "other_conditions": "Secure. See the conditions definitions",
       "task_description": "All the topics and learning objectives of this course will be covered in the final exam. This exam will consist of MCQ, short answer, and problem solving. Some of the MCQ problems may require some calculations. Some short answer questions will require calculations. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

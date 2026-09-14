@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHTY2230-60859-7560",
-  "scraped_at": "2026-06-04T02:35:12.627451+00:00",
+  "scraped_at": "2026-09-14T09:14:24.929380+00:00",
   "course_code": "PHTY2230",
   "class_code": "60859",
   "semester_code": "7560",
@@ -93,7 +93,7 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Apply knowledge of healthy and disease-related ageing processes affecting the musculoskeletal, neurological, and sensory systems to select appropriate client assessments, and develop and implement tailored treatment programs."
+      "description": "Apply knowledge of healthy and disease-related ageing processes affecting the musculoskeletal, neurological, and sensory systems to select appropriate client assessments, and develop and implement client-centred treatment programs."
     },
     {
       "number": "LO2.",
@@ -125,7 +125,7 @@
     },
     {
       "number": "LO9.",
-      "description": "Apply clinical reasoning and technical skills in the assessment and management of women during pregnancy, postnatal recovery, and for continence, pelvic pain, and menopause."
+      "description": "Apply clinical reasoning and technical skills to safely and effectively assess and manage women during pregnancy, postnatal recovery, and for continence, pelvic pain, and menopause."
     }
   ],
   "assessment_summary": [

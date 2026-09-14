@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BIOL1000-22421-7620",
-  "scraped_at": "2026-06-02T04:20:54.690333+00:00",
+  "scraped_at": "2026-09-14T05:33:23.028907+00:00",
   "course_code": "BIOL1000",
   "class_code": "22421",
   "semester_code": "7620",
@@ -63,7 +63,7 @@
     },
     {
       "role": "Tutor",
-      "name": "Miss Xueying Li",
+      "name": "Dr Xueying Li",
       "email": "xueying.li@uq.edu.au"
     }
   ],
@@ -230,7 +230,7 @@
     },
     {
       "learning_period": "Multiple weeks From Week 1 To Week 4",
-      "activity_type": "Problem-based learning",
+      "activity_type": "Workshop",
       "topic": "Workshops (Module 1) Each week you will also attend a 2 hour workshop where you will be guided through activities related to the corresponding week's lecture. These workshops have been designed to help you understand key concepts. In week 1, you will be given a workbook, which you are expected to fill out during your workshop time. These workbooks are not graded, but will be an excellent revision guide for the final exam (the course hurdle). Hence, the more work and detail you put into your workbook, the more detailed revision guide you will have! In week 1 we will also discuss how to start work on your AI assessment. Weeks 2,3,4 will start with your MCQ quiz. Learning outcomes: L01, L02, L06",
       "learning_outcomes": [
         "L01",
@@ -249,7 +249,7 @@
     },
     {
       "learning_period": "Multiple weeks From Week 5 To Week 8",
-      "activity_type": "Problem-based learning",
+      "activity_type": "Workshop",
       "topic": "Workshops (Module 2) Over these four weeks, you will complete three MCQs at the start of workshops 6, 7 and 8. In week 5, you will also be provided time to work on your AI assessment and seek feedback on your progress. Learning outcomes: L05, L06",
       "learning_outcomes": [
         "L05",
@@ -268,7 +268,7 @@
     },
     {
       "learning_period": "Multiple weeks From Week 9 To Week 12",
-      "activity_type": "Problem-based learning",
+      "activity_type": "Workshop",
       "topic": "Workshops (Module 3) Over these four weeks, you will complete three MCQs at the start of workshops 10, 11 and 12. In week 9, you will also be provided time to work on your AI assessment and seek feedback on your progress. Learning outcomes: L03, L04, L06",
       "learning_outcomes": [
         "L03",
@@ -291,7 +291,7 @@
     },
     {
       "learning_period": "Week 13",
-      "activity_type": "Problem-based learning",
+      "activity_type": "Workshop",
       "topic": "Final workshop In this final workshop you will complete part of your AI assessment. There will also be time for reflection on your workbooks and feedback on how to improve your workbooks to enhance this revision tool for your end of semester exam. Learning outcomes: L06, L07",
       "learning_outcomes": [
         "L06",

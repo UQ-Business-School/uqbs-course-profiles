@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHTY7884-22451-7620",
-  "scraped_at": "2026-06-02T04:37:20.774936+00:00",
+  "scraped_at": "2026-09-14T09:20:01.264602+00:00",
   "course_code": "PHTY7884",
   "class_code": "22451",
   "semester_code": "7620",
@@ -58,75 +58,31 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Appropriately, safely, accurately, systematically and efficiently assess a client to determine and prioritise problems."
+      "description": "Demonstrate professional and ethical behaviour by upholding patient/client rights, practising legally and in a culturally responsive manner, engaging in ongoing reflection and education of themselves and others, organising and prioritising their workload, and collaborating effectively with others."
     },
     {
       "number": "LO2.",
-      "description": "Gather and interpret appropriate data related to the patient."
+      "description": "Communicate effectively in clinical contexts using clear, appropriate verbal, non‑verbal, and written communication to support safe, person‑centred care."
     },
     {
       "number": "LO3.",
-      "description": "Demonstrate an appropriate process of clinical reasoning in making decisions related to the client such as developing a hypothesis, determining patient outcomes."
+      "description": "Conduct comprehensive, client‑centred assessments by gathering relevant information, selecting appropriate measures, and performing accurate physical assessment procedures."
     },
     {
       "number": "LO4.",
-      "description": "Apply problem solving skills such as critical thinking and judgment in the development of a treatment plan and in the selection and evaluation of specific interventions."
+      "description": "Analyse assessment findings to inform clinical reasoning by identifying and prioritising client problems, setting realistic goals, and planning appropriate interventions collaboratively."
     },
     {
       "number": "LO5.",
-      "description": "Develop and implement an effective and safe evidence-based physiotherapy intervention plan that is appropriate for the individual and prioritized in order to address assessment findings, while aiming to achieve client treatment goals."
+      "description": "Implement, monitor, and progress interventions safely and effectively, including providing client education and planning for discharge in alignment with client goals."
     },
     {
       "number": "LO6.",
-      "description": "Demonstrate an understanding of the presentation and management of a wide range of clinical problems across the lifespan."
+      "description": "Apply evidence‑based practice by integrating research evidence, clinical expertise, and client preferences into clinical decision‑making."
     },
     {
       "number": "LO7.",
-      "description": "Demonstrate an understanding of underlying principles and concepts of physiotherapy practice."
-    },
-    {
-      "number": "LO8.",
-      "description": "Demonstrate safe and effective intervention."
-    },
-    {
-      "number": "LO9.",
-      "description": "Demonstrate technical skill in the application of assessment and treatment techniques."
-    },
-    {
-      "number": "LO10.",
-      "description": "Evaluate the effectiveness and efficiency of interventions by using appropriate re-evaluation and/or valid and reliable outcome measures."
-    },
-    {
-      "number": "LO11.",
-      "description": "Demonstrate ethical and professional decision making and behaviour."
-    },
-    {
-      "number": "LO12.",
-      "description": "Demonstrate a range of effective communication skills including verbal, nonverbal and written applied to all aspects of practice including interactions with clients, professionals and record keeping."
-    },
-    {
-      "number": "LO13.",
-      "description": "Demonstrate an holistic approach to physiotherapy management of patients, acknowledging individual differences."
-    },
-    {
-      "number": "LO14.",
-      "description": "Demonstrate an understanding of the importance of patient goal-setting and self-management for return to function, work and leisure activities."
-    },
-    {
-      "number": "LO15.",
-      "description": "Demonstrate an appreciation of the roles of other disciplines and participate as a member of an interdisciplinary/multiprofessional team including delegation to staff under physiotherapy supervision."
-    },
-    {
-      "number": "LO16.",
-      "description": "Demonstrate the integration of evidence based knowledge into the clinical setting."
-    },
-    {
-      "number": "LO17.",
-      "description": "Gain an appreciation of the diverse roles of physiotherapists and scope of physiotherapy practice."
-    },
-    {
-      "number": "LO18.",
-      "description": "Demonstrate an ability to reflect on own professional development and physiotherapy practice."
+      "description": "Manage clinical risk proactively by identifying adverse events or near misses and taking appropriate actions to minimise harm during assessment and intervention."
     }
   ],
   "assessment_summary": [

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/LAWS5227-20063-7620",
-  "scraped_at": "2026-06-02T04:31:51.684197+00:00",
+  "scraped_at": "2026-09-14T08:04:32.723591+00:00",
   "course_code": "LAWS5227",
   "class_code": "20063",
   "semester_code": "7620",
@@ -27,14 +27,14 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Professor Graeme Orr",
+      "name": "Prof Graeme Orr",
       "email": "g.orr@law.uq.edu.au"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Professor Graeme Orr",
+      "name": "Prof Graeme Orr",
       "email": "g.orr@law.uq.edu.au"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC3122-60043-7560",
-  "scraped_at": "2026-06-04T02:38:11.638290+00:00",
+  "scraped_at": "2026-09-14T09:43:05.827034+00:00",
   "course_code": "PSYC3122",
   "class_code": "60043",
   "semester_code": "7560",
@@ -59,6 +59,10 @@
     {
       "number": "LO4.",
       "description": "Know the basic format and structure of written psychological reports."
+    },
+    {
+      "number": "LO5.",
+      "description": "Consider how attitudes and social cognition as topics are constructed, for example in marginalising or engaging Indigenous ways of knowing, being, and doing."
     }
   ],
   "assessment_summary": [

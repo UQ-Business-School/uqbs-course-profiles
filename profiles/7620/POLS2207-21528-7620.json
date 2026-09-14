@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/POLS2207-21528-7620",
-  "scraped_at": "2026-06-02T04:38:18.484146+00:00",
+  "scraped_at": "2026-09-14T09:32:11.077399+00:00",
   "course_code": "POLS2207",
   "class_code": "21528",
   "semester_code": "7620",
@@ -35,12 +35,12 @@
     },
     {
       "role": "Tutor",
-      "name": "Ms Elisabeth Austrheim",
+      "name": "Dr Elisabeth Austrheim",
       "email": "e.austrheim@uq.edu.au"
     },
     {
       "role": "Tutor",
-      "name": "Miss Benafsha Askarzai",
+      "name": "Dr Benafsha Askarzai",
       "email": "b.askarzai@uq.edu.au"
     }
   ],

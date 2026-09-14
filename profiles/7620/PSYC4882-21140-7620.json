@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC4882-21140-7620",
-  "scraped_at": "2026-06-02T04:39:10.067246+00:00",
+  "scraped_at": "2026-09-14T09:44:28.737001+00:00",
   "course_code": "PSYC4882",
   "class_code": "21140",
   "semester_code": "7620",
@@ -68,7 +68,7 @@
       "category": "Essay/ Critique",
       "title": "Essay on a selected topic",
       "weight": "40%",
-      "due_date": "29/05/2026 5:00 pm"
+      "due_date": "1/06/2026 5:00 pm"
     },
     {
       "category": "Participation/ Student contribution",
@@ -100,7 +100,7 @@
       "mode": "Written",
       "category": "Essay/ Critique",
       "weight": "40%",
-      "due_date": "29/05/2026 5:00 pm",
+      "due_date": "1/06/2026 5:00 pm",
       "task_description": "Each student will submit an essay ~1,500 words (+/- 150 words) on a selected topic. A list of possible essay topics will be made available via the Course Handout. Students can pick any topic they like but it must be different from their oral presentation topic. Essays should include: - An introduction to the topic (i.e., establish importance of research topic, build rationale for research question, define key terms) - A presentation of theoretical and empirical evidence to answer the question of interest (including a critical evaluation and analysis of the evidence) - A conclusion (i.e., pulling everything together, providing an answer to the question based on the evidence) All essays are expected to have a logical and coherent structure, and show evidence of independent thought. Essays should be free of spelling and grammatical errors, and APA 7th formatting should be used consistently throughout the essay. Read full task description Hide full task description",
       "submission_guidelines": "Via Turnitin in Word format. NOTE: You will no longer receive an automatic submission receipt from Turnitin confirming your assignment has been received. You should download a copy of the digital receipt from the Assignment Dashboard and keep this as a record.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFor full details please review the School of Psychology Student Guidelines - Extensions and Deferred quiz/exam (the web link can be found on the Policies and Procedures tab)\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
@@ -119,7 +119,7 @@
     }
   ],
   "learning_resources": {
-    "library_resources": "Library resources are available on the UQ Library website ."
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
   },
   "learning_activities": [
     {

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/NEUR3733-61346-7560",
-  "scraped_at": "2026-06-04T02:33:08.879206+00:00",
+  "scraped_at": "2026-09-14T08:54:52.693819+00:00",
   "course_code": "NEUR3733",
   "class_code": "61346",
   "semester_code": "7560",
@@ -19,8 +19,8 @@
       "We recommend completing the following courses before enrolling in this one:",
       "HMST2530",
       "NEUR2530",
-      "HMST2630",
-      "BIOL2630"
+      "BIOL2630",
+      "BIOL1630"
     ],
     "incompatible": [
       "You can't enrol in this course if you've already completed the following:",
@@ -38,7 +38,7 @@
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Professor Andrew Cresswell",
+      "name": "Prof Andrew Cresswell",
       "email": "a.cresswell@uq.edu.au"
     },
     {

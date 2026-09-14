@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ECON6202-62405-7660",
-  "scraped_at": "2026-09-07T05:54:51.169147+00:00",
+  "scraped_at": "2026-09-14T06:41:22.879250+00:00",
   "course_code": "ECON6202",
   "class_code": "62405",
   "semester_code": "7660",
@@ -30,7 +30,7 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Mr Jose Alvarado Onell",
+      "name": "Dr Jose Alvarado Onell",
       "email": "j.alvarado@uq.edu.au"
     },
     {
@@ -43,7 +43,7 @@
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Mr Jose Alvarado Onell"
+      "name": "Dr Jose Alvarado Onell"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.\nPublic Holidays: Wed 12 August (Royal Queensland Show), Mon 5 October (King's Birthday).\nMid-Semester Break: 28 September - 2 October. Semester 2 classes recommence Tue 6 October.",
@@ -116,6 +116,7 @@
       "due_date": "11/09/2026 5:00 pm",
       "learning_outcomes_assessed": "L01, L03, L04",
       "task_description": "Students apply the tools covered in lectures in a two-part exercise. Part A (common to all students): calibrate a version of the heterogeneous-agent model from the provided starter code, source and document real data to construct the calibration targets, and compute a macroeconomic policy counterfactual (for example, a tax or transfer reform) with distributional analysis. Part B (thesis-linked): extend the model toward the student’s own thesis question, or confront the model with data from the student’s own research, whether structural or empirical in approach. The submission includes the slides for the first presentation. Results are presented and defended in class in Week 8 (Presentation 1). To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submission via Blackboard by the due date and time. In addition, students should email their codes for the computational part to the lecturer.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -133,6 +134,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L04",
       "task_description": "Students deliver three presentations during the semester, in class. The first (Week 8) presents the results of the Empirical Assignment in academic seminar format, using the slides submitted with the assignment; no new analysis is expected. The second (Week 9) is a critical discussion of a published paper related to the student’s thesis field, also in academic format. The third (Week 11) is a dry run of the final presentation, addressed to a non-academic audience: part of the course’s training in communicating the same research to different audiences. Any presentation materials are submitted by 2pm on the day of the class. Students are expected to speak to their slides rather than read from a script or notes; delivery is part of the assessment criteria for each presentation. Each presentation is followed by questions and feedback, in which students are expected to demonstrate comprehension of the work they present. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Presentations are delivered in class. Presentation materials are submitted by 2pm on the day of the class.\nDeferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "special_indicators": [
@@ -149,6 +151,7 @@
       "due_date": "9/10/2026 5:00 pm",
       "learning_outcomes_assessed": "L01, L04",
       "task_description": "Students submit the abstract, the introduction, and the conclusion sections of their own thesis, applying the writing techniques discussed in lectures, together with a brief exploratory outlook (approximately one page) proposing a potential extension or application of their thesis topic using the quantitative tools developed in the course: what tool could be used, what question it could answer, and why that question is relevant. The outlook is a research pitch, not an implementation; no modelling or estimation work is expected. This is the same material students present and defend at the dry run and the final presentation session. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submission via Blackboard by the due date and time.\nDeferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "special_indicators": [
@@ -165,6 +168,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "Each student presents their thesis research at the final presentation session, to an audience that may include invited guests from academia, industry and the public sector. Presentations are approximately 10 minutes, followed by questions, and should be accessible to a general audience without specialist knowledge of the topic. Further details are advised in class. The presentation should include and demonstrate: Clear articulation of the research question, methodology, and key findings using language accessible to non-specialists Demonstration of critical understanding of the research context and significance Application of presentation techniques taught in the workshop sessions Evaluation Students will be evaluated on factual accuracy, clarity of communication, organisation and structure, time management, effective use of visual aids, delivery without reading from a script, ability to effectively communicate their research to the audience, and more generally the demonstration of presentation skills learned throughout the semester. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "special_indicators": [

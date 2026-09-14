@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC7402-62571-7660",
-  "scraped_at": "2026-09-07T06:24:42.540854+00:00",
+  "scraped_at": "2026-09-14T09:46:18.968379+00:00",
   "course_code": "PSYC7402",
   "class_code": "62571",
   "semester_code": "7660",
@@ -100,6 +100,7 @@
       "due_date": "21/08/2026 4:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L06",
       "task_description": "See assessment task sheet on Blackboard for detailed information Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFor full details please review the School of Psychology Student Guidelines - Extensions and Deferred quiz/exam.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -114,6 +115,7 @@
       "other_conditions": "Peer assessment factor, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L03, L04",
       "task_description": "See assessment task sheet on Blackboard for detailed information Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nDiscretionary extensions are not available for this task.\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nFor full details please review the School of Psychology Student Guidelines - Extensions and Deferred quiz/exam.",
       "deferral_or_extension": "You may be able to apply for an extension ."
     },
@@ -127,6 +129,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L05, L06, L07",
       "task_description": "See assessment task sheet on Blackboard for detailed information Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "in-class presentation\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFor full details please review the School of Psychology Student Guidelines - Extensions and Deferred quiz/exam.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "special_indicators": [
@@ -143,6 +146,7 @@
       "other_conditions": "Peer assessed, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L07",
       "task_description": "See assessment task sheet on Blackboard for detailed information Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nFor full details please review the School of Psychology Student Guidelines - Extensions and Deferred quiz/exam.",
       "deferral_or_extension": "You may be able to apply for an extension ."
     }

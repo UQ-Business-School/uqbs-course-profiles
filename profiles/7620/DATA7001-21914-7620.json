@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/DATA7001-21914-7620",
-  "scraped_at": "2026-06-02T04:24:17.374335+00:00",
+  "scraped_at": "2026-09-14T06:24:17.770314+00:00",
   "course_code": "DATA7001",
   "class_code": "21914",
   "semester_code": "7620",
@@ -46,7 +46,7 @@
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nA detailed timetable is available on the Blackboard system.",
-  "course_aims": "This course aims to introduceﾠthe fundamental process of data science and provideﾠthe necessary computational and statistical foundations for further courses in the master of data science. Design thinking methodology will be utilised to approach complex data science problems as a design problem. The data science process will be executed in a practical setting using data sceince tools and methods with the help of a number of case studies in data-intensive domains.",
+  "course_aims": "This course aims to introduceﾠthe fundamental process of data science and provideﾠthe necessary computational and statistical foundations for further courses in the master of data science. Design thinking methodology will be utilised to approach complex data science problems as a design problem. The data science process will be executed in a practical setting using data science tools and methods with the help of a number of case studies in data-intensive domains.",
   "learning_outcomes": [
     {
       "number": "LO1.",
@@ -62,7 +62,7 @@
     },
     {
       "number": "LO4.",
-      "description": "Reason with the fitness of basic computational and analytical models in data science scenarios"
+      "description": "Reason with the suitability of basic computational and analytical models in data science scenarios"
     },
     {
       "number": "LO5.",

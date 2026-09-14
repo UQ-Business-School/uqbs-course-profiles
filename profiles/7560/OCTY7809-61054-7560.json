@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/OCTY7809-61054-7560",
-  "scraped_at": "2026-06-04T02:33:53.960571+00:00",
+  "scraped_at": "2026-09-14T09:01:59.732090+00:00",
   "course_code": "OCTY7809",
   "class_code": "61054",
   "semester_code": "7560",
@@ -59,43 +59,47 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Demonstrate an understanding of the philosophy, history and professional values in occupational therapy."
-    },
-    {
-      "number": "LO2.",
       "description": "Demonstrate an understanding of core occupational therapy concepts, including the construct of occupations, the interrelationship between the person, occupation(s) and environment, and their impact on occupational performance and health."
     },
     {
-      "number": "LO3.",
+      "number": "LO2.",
       "description": "Identify and describe the occupational therapy process and each of its stages, from the point of receiving a referral to the conclusion of occupational therapy services."
     },
     {
-      "number": "LO4.",
+      "number": "LO3.",
       "description": "Describe how theory informs occupational therapy practice."
     },
     {
-      "number": "LO5.",
+      "number": "LO4.",
       "description": "Apply and describe the application of the occupational therapy process in clinical practice."
     },
     {
-      "number": "LO6.",
+      "number": "LO5.",
       "description": "Describe evidence-based practice and its application in the occupational therapy process."
     },
     {
-      "number": "LO7.",
+      "number": "LO6.",
       "description": "Demonstrate foundational therapeutic communication skills necessary for professional communication."
     },
     {
-      "number": "LO8.",
+      "number": "LO7.",
       "description": "Demonstrate foundational skills in gathering information from a simulated patient by applying occupational therapy theory."
     },
     {
+      "number": "LO8.",
+      "description": "Demonstrate professional skills by working collaboratively and responsibly with peers as part of a team and professional communication."
+    },
+    {
       "number": "LO9.",
-      "description": "Demonstrate foundational skills in activity analysis by applying the skills needed to analyse occupations and activities, based on the (i) context in which they occur, (ii) activity demands, and (iii) activity sequence."
+      "description": "Demonstrate knowledge of methods in assessing components of neurological function (such as sensory evaluation, tone, and coordination)."
     },
     {
       "number": "LO10.",
-      "description": "Demonstrate professional skills by working collaboratively and responsibly with peers as part of a team and professional communication."
+      "description": "Apply theoretical knowledge of human anatomy to identify and palpate anatomical structures on the living body and perform range of motion (ROM) measurement and manual muscle testing (MMT)."
+    },
+    {
+      "number": "LO11.",
+      "description": "Demonstrate effective communication skills when handling and assessing individuals."
     }
   ],
   "assessment_summary": [

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ENVM7131-20644-7620",
-  "scraped_at": "2026-06-02T04:28:33.552895+00:00",
+  "scraped_at": "2026-09-14T07:17:34.050277+00:00",
   "course_code": "ENVM7131",
   "class_code": "20644",
   "semester_code": "7620",
@@ -22,16 +22,9 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Dr Annie Lau",
-      "email": "annie.lau@uq.edu.au",
-      "phone": "+61 7 3365 6654"
-    }
-  ],
-  "course_staff": [
-    {
-      "role": "Lecturer",
-      "name": "Dr Annie Lau",
-      "email": "annie.lau@uq.edu.au"
+      "name": "Professor Anthony Richardson",
+      "email": "a.richardson1@uq.edu.au",
+      "phone": "+61 7 3833 5958"
     }
   ],
   "timetable": "Additional timetable information\nThere are no timetabled classes for this course. Contact with your academic supervisor should be discussed and arranged during your initial supervision discussions.\nGuidance on workloads: As an eight (8) Unit course, it would be expected that a workload of around 20 hours per week of self-directed learning would be the norm, for a two-semester workload.",

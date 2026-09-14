@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7604-20491-7620",
-  "scraped_at": "2026-06-02T04:42:23.673142+00:00",
+  "scraped_at": "2026-09-14T10:28:13.343046+00:00",
   "course_code": "STAT7604",
   "class_code": "20491",
   "semester_code": "7620",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "Herston",
   "coordinating_unit": "Public Health School",
-  "course_description": "This course covers sampling variation, central limit theorem; normal-theory confidence intervals; probability models and likelihood; hypothesis tests: p-values, type 1 and 11 errors, statistical and practical significance; frequentist theory of estimation; likelihood ratio, Wald & score tests; Bayesian approach.\n\nThis course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Michael Waller, to seek permission before enrolling.\n\nThis course covers sampling variation, central limit theorem; normal-theory confidence intervals; probability models and likelihood; hypothesis tests: p-values, type 1 and 11 errors, statistical and practical significance; frequentist theory of estimation; likelihood ratio, Wald & score tests; Bayesian approach.\n\nThe unit is divided into 6 modules, summarised in more detail below. Each module will involve approximately 2 weeks of study and generally includes the following material:\n\n1. Recorded lectures on the theory content\n\n2. One or two chapters from the textbook, which includes statistical theory and extended examples illustrating the statistical theory covered\n\n3. A recorded lecture covering the extended example\n\n4. Practical exercises, one of which is required to be submitted for assessment\n\n5. Worked written and video solutions to non-assessed practical exercises\n\n6. Discussion boards which can be used to ask questions and discuss module content and non-assessed exercises\n\n7. Tutorial sessions for each module",
+  "course_description": "The unit provides an overview of the concepts and properties of estimators of statistical model parameters, then proceeds to a general study of the likelihood function from first principles. This will serve as the basis for likelihood-based methods, including maximum likelihood estimation, and the likelihood ratio, Wald, and Score tests. Core statistical inference concepts including estimators and their ideal properties, hypothesis testing, p-values, confidence intervals, and power under a frequentist framework will be examined with an emphasis on both their mathematical derivation, and their interpretation and communication in a health and medical research setting. Other methods for estimation and hypothesis testing, including a brief introduction to the Bayesian approach to inference, exact and non-parametric methods, and simulation-based approaches will also be explored.\n\nThis course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Michael Waller, to seek permission before enrolling.\n\nThis course covers sampling variation, central limit theorem; normal-theory confidence intervals; probability models and likelihood; hypothesis tests: p-values, type 1 and 11 errors, statistical and practical significance; frequentist theory of estimation; likelihood ratio, Wald & score tests; Bayesian approach.\n\nThe unit is divided into 6 modules, summarised in more detail below. Each module will involve approximately 2 weeks of study and generally includes the following material:\n\n1. Recorded lectures on the theory content\n\n2. One or two chapters from the textbook, which includes statistical theory and extended examples illustrating the statistical theory covered\n\n3. A recorded lecture covering the extended example\n\n4. Practical exercises, one of which is required to be submitted for assessment\n\n5. Worked written and video solutions to non-assessed practical exercises\n\n6. Discussion boards which can be used to ask questions and discuss module content and non-assessed exercises\n\n7. Tutorial sessions for each module",
   "requirements": {
     "prerequisites": [
       "You'll need to complete the following courses before enrolling in this one:",
@@ -64,7 +64,7 @@
     },
     {
       "number": "LO7.",
-      "description": "Use a Bayesian approach to derive a poster distribution"
+      "description": "Use a Bayesian approach to derive a posterior distribution"
     },
     {
       "number": "LO8.",

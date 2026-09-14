@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/NEUR3733-62596-7460",
-  "scraped_at": "2026-06-04T01:10:25.668296+00:00",
+  "scraped_at": "2026-09-14T08:54:50.393290+00:00",
   "course_code": "NEUR3733",
   "class_code": "62596",
   "semester_code": "7460",
@@ -38,7 +38,7 @@
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Professor Andrew Cresswell",
+      "name": "Prof Andrew Cresswell",
       "email": "a.cresswell@uq.edu.au"
     },
     {

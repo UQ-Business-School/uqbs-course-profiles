@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7232-20593-7620",
-  "scraped_at": "2026-06-02T04:33:02.780340+00:00",
+  "scraped_at": "2026-09-14T08:21:20.231818+00:00",
   "course_code": "MATH7232",
   "class_code": "20593",
   "semester_code": "7620",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "St Lucia",
   "coordinating_unit": "Mathematics & Physics School",
-  "course_description": "Techniques and applications of optimisation in operations research, including linear programming, integer programming, dynamic programming and meta-heuristics. Use of Python and the Gurobi optimisation package for linear and integer programming.\n\nOperations research is the mathematical science of decision making. It provides ways to find the best outcomes subject to the constraints of limited resources. This course covers key mathematical and computational techniques in the area. It develops skills in modelling and solving real problems, using appropriate software, and report writing. Topics discussed include linear programming, integer programming, dynamic programming and meta-heuristics.",
+  "course_description": "Operations research is the mathematical science of decision making. It provides ways to find the best outcomes subject to the constraints of limited resources, often leading to improvements in productivity and sustainability. This course covers key mathematical and computational techniques in the area. It develops skills in modelling and solving real problems, using appropriate software, and report writing. Topics discussed include linear programming, integer programming, dynamic programming and meta-heuristics.\n\nOperations research is the mathematical science of decision making. It provides ways to find the best outcomes subject to the constraints of limited resources. This course covers key mathematical and computational techniques in the area. It develops skills in modelling and solving real problems, using appropriate software, and report writing. Topics discussed include linear programming, integer programming, dynamic programming and meta-heuristics.",
   "requirements": {
     "incompatible": [
       "You can't enrol in this course if you've already completed the following:",

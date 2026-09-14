@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MATH2401-61982-7660",
-  "scraped_at": "2026-09-07T06:10:15.580259+00:00",
+  "scraped_at": "2026-09-14T08:14:38.674915+00:00",
   "course_code": "MATH2401",
   "class_code": "61982",
   "semester_code": "7660",
@@ -89,6 +89,7 @@
       "due_date": "Quiz 1 21/08/2026 4:00 pm Quiz 2 11/09/2026 4:00 pm Quiz 3 9/10/2026 4:00 pm Quiz 4 30/10/2026 4:00 pm",
       "other_conditions": "Secure. See the conditions definitions",
       "task_description": "All quizzes are in-class during scheduled lecture time. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nYou must complete at least one quiz in person during semester.\nIf you miss a quiz and have supporting documentation then you may apply for a deferral. The deferred assessment will be an oral exam held in the examination period with the length and content depending on which quizzes were missed. The weighting of the oral exam will be sum of the weights of the missed quizzes. This assessment item will be audio-visually recorded and retained in accordance with University requirements.\nHowever, if you miss both Quiz 1 and Quiz 2 then you will complete a 60-minute in-semester oral exam worth 40%. Any deferred assessment in the examination period will then only apply to Quiz 3 and Quiz 4. This assessment item will be audio-visually recorded and retained in accordance with University requirements.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
       "deferral_or_extension": "You may be able to defer this exam .",
       "special_indicators": [
@@ -103,6 +104,7 @@
       "weight": "10%",
       "due_date": "4/09/2026 5:00 pm",
       "task_description": "Take-home assignment. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Assignment 1 should be submitted online using Gradescope.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assignments will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for assignments will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -115,6 +117,7 @@
       "weight": "10%",
       "due_date": "23/10/2026 5:00 pm",
       "task_description": "Take-home assignment. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Assignment 2 should be submitted online using Gradescope.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assignments will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for assignments will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."

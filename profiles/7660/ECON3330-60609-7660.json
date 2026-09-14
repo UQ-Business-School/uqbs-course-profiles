@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ECON3330-60609-7660",
-  "scraped_at": "2026-09-07T05:54:38.249004+00:00",
+  "scraped_at": "2026-09-14T06:40:05.117663+00:00",
   "course_code": "ECON3330",
   "class_code": "60609",
   "semester_code": "7660",
@@ -109,6 +109,7 @@
       "other_conditions": "Student specific, Time limited. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
       "task_description": "Online Quizzes and a small number of R-exercises. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Online via Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extensions are possible as the answers are released (automatically) the day after completion.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nNo late submission will be accepted. CML access is blocked after the due date and time.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
@@ -126,6 +127,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
       "task_description": "The Final Exam will cover the entire course from vector and matrix algebra through to maximum likelihood estimation. The structure will be similar to the past two years' exams with a series of questions requiring worked answers. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/HMST3000-20374-7520",
-  "scraped_at": "2026-06-04T01:42:34.428466+00:00",
+  "scraped_at": "2026-09-14T07:42:58.327923+00:00",
   "course_code": "HMST3000",
   "class_code": "20374",
   "semester_code": "7520",
@@ -25,14 +25,14 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Professor Andrew Cresswell",
+      "name": "Prof Andrew Cresswell",
       "email": "a.cresswell@uq.edu.au"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Professor Andrew Cresswell",
+      "name": "Prof Andrew Cresswell",
       "email": "a.cresswell@uq.edu.au"
     },
     {

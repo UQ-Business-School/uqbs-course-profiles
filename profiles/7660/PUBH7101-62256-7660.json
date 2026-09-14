@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PUBH7101-62256-7660",
-  "scraped_at": "2026-09-07T06:26:12.770329+00:00",
+  "scraped_at": "2026-09-14T09:55:58.981955+00:00",
   "course_code": "PUBH7101",
   "class_code": "62256",
   "semester_code": "7660",
@@ -93,6 +93,7 @@
       "due_date": "Week 6, Fri 2:00 pm",
       "learning_outcomes_assessed": "L02, L04",
       "task_description": "Students will create a plan to manage a hypothetical disease outbreak including data collection tools. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submission via the Turnitin link provided in the Assessment Task 1 folder on the course Learn.UQ site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nA maximum extension of 14 days for each assessment item will be approved to ensure course progression and timely feedback.\nPlease refer to 10. Policies and guidelines\nLate submission\nLate submissions incur a 10% penalty per day after the due date.\nPlease see 10. Policies & Guidelines",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "Late submissions incur a 10% penalty per day after the due date."
@@ -105,6 +106,7 @@
       "weight": "40%",
       "due_date": "Week 10, Tue 2:00 pm",
       "task_description": "Students will explore a communicable disease outbreak or epidemic and critique the resulting response. Complete instructions and templates will be provided on the course Learn.UQ site. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submission via the Turnitin link provided in the Assessment Task 2 folder on the course Learn.UQ site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nA maximum extension of 14 days for each assessment item will be approved to ensure course progression and timely feedback.\nPlease refer to 10. Policies and guidelines\nLate submission\nLate submissions incur a 10% penalty per day after the due date.\nPlease see 10. Policies & Guidelines",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "Late submissions incur a 10% penalty per day after the due date."
@@ -119,6 +121,7 @@
       "other_conditions": "Time limited. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L04",
       "task_description": "Online exam organised by School of Public Health. Complete instructions will be provided on the course Learn.UQ site. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "exam_details": "Planning time 10 minutes Duration 50 minutes Calculator options Any calculator permitted Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Exam platform Other Invigilation Not invigilated",
       "submission_guidelines": "Submission via the link provided in the Assessment Task 3 folder on the course Learn.UQ site.\nDeferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

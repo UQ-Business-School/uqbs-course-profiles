@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/HUMN1201-61278-7560",
-  "scraped_at": "2026-06-04T02:26:10.085073+00:00",
+  "scraped_at": "2026-09-14T07:47:50.088986+00:00",
   "course_code": "HUMN1201",
   "class_code": "61278",
   "semester_code": "7560",
@@ -65,23 +65,23 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Draw on a range of interdisciplinary skills to analyse works of writing, music, and art"
+      "description": "Draw on a range of interdisciplinary skills to analyse works of writing, music, and art."
     },
     {
       "number": "LO2.",
-      "description": "Demonstrate facility with different forms of formal and contextual analysis through application of analysis skills to written, sonic, and visual objects"
+      "description": "Demonstrate facility with different forms of formal and contextual analysis through application of analysis skills to written, sonic, and visual objects."
     },
     {
       "number": "LO3.",
-      "description": "Appreciate the critical role formal and contextual analysis plays in solving real-world problems, and be able to discuss how different humanities disciplines employ close readings to seek new methodologies for solving these problems"
+      "description": "Demonstrate the application of close-reading skills to the interpretation of a primary source."
     },
     {
       "number": "LO4.",
-      "description": "Identify a primary source artefact, logically and thoroughly perform a close reading of that artefact, and present your reading coherently and concisely"
+      "description": "Demonstrate an understanding of AI-prompting and the advantages and disadvantages of using AI."
     },
     {
       "number": "LO5.",
-      "description": "Conceptualise the skills pertinent to formal and contextual analysis of primary sources in an interdisciplinary humanities context"
+      "description": "Conceptualise the skills pertinent to formal and contextual analysis of primary sources in an interdisciplinary humanities context."
     }
   ],
   "assessment_summary": [

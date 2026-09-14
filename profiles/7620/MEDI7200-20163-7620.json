@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MEDI7200-20163-7620",
-  "scraped_at": "2026-06-02T04:33:19.666309+00:00",
+  "scraped_at": "2026-09-14T08:25:09.912879+00:00",
   "course_code": "MEDI7200",
   "class_code": "20163",
   "semester_code": "7620",
@@ -26,12 +26,15 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Dr Christine Devine",
-      "email": "med.yr2coursecoord@uq.edu.au"
+      "name": "Dr Christine Devine"
     },
     {
       "role": "Course coordinator",
-      "name": "Dr Lea Merone",
+      "name": "Dr Amanda Cuss"
+    },
+    {
+      "role": "Course enquiries",
+      "name": "Course Coordinator",
       "email": "med.yr2coursecoord@uq.edu.au"
     },
     {
@@ -48,12 +51,72 @@
   ],
   "course_staff": [
     {
-      "role": "Tutor",
-      "name": "Dr Peter Day"
+      "role": "Lecturer",
+      "name": "Associate Professor Devi Mohan"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Sarah Birtwistle"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Kimberly Haladyn"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Robyn Cooke"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Stephen Allison"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Craig Hacking"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Christian Gray"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Bernadette Richards"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Mark Midwinter"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Frederik Steyn"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Suja Pillai"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Peter Simpson"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Sherry Wu"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Mary-Louise Roy Manchadi"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Fahmida Sonya"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Justin Ridge"
     },
     {
       "role": "Tutor",
-      "name": "Dr Julie Diaz-Tendero"
+      "name": "Dr Peter Day"
     },
     {
       "role": "Tutor",
@@ -162,10 +225,6 @@
     {
       "role": "Tutor",
       "name": "Dr Barbara Turner"
-    },
-    {
-      "role": "Tutor",
-      "name": "Dr Amelia Rose Keehn"
     },
     {
       "role": "Tutor",

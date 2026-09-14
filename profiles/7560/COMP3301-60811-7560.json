@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/COMP3301-60811-7560",
-  "scraped_at": "2026-06-04T02:15:54.538228+00:00",
+  "scraped_at": "2026-09-14T06:07:54.980482+00:00",
   "course_code": "COMP3301",
   "class_code": "60811",
   "semester_code": "7560",
@@ -83,7 +83,7 @@
       "category": "Computer Code, Practical/ Demonstration, Reflection",
       "title": "Programming Assignment Two",
       "weight": "25%",
-      "due_date": "26/09/2025 1:00 pm; You will demonstrate your assignment using the code submitted for that stage during the lab session in week 10.",
+      "due_date": "26/09/2025 4:00 pm; You will demonstrate your assignment using the code submitted for that stage during the lab session in week 10.",
       "conditions": [
         "Hurdle",
         "In-person"
@@ -135,7 +135,7 @@
       "mode": "Product/ Artefact/ Multimedia",
       "category": "Computer Code, Practical/ Demonstration, Reflection",
       "weight": "25%",
-      "due_date": "26/09/2025 1:00 pm You will demonstrate your assignment using the code submitted for that stage during the lab session in week 10.",
+      "due_date": "26/09/2025 4:00 pm You will demonstrate your assignment using the code submitted for that stage during the lab session in week 10.",
       "task_description": "Each programming assignment will require students to implement a systems programming exercise in C. Students will work individually on assignments. Use of AI This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission, independent of AI and MT tools. Read full task description Hide full task description",
       "submission_guidelines": "All assignment-related code must be submitted to the student's code repository by the due date. The code must be submitted using git push. A Git commit is not a submission as it does not send the code to the student’s online repository. Any other assignment-related assessment items must be submitted to Black Board.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days days as feedback will be provided within 14 days. You must post a private note on the ED Discussion Board, using the EXTENSION tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou must post a private note on the ED Discussion Board, using the LATE tag, when your code has been uploaded to your repository. A staff member will respond to your note to state when your demo will be assessed.",
       "deferral_or_extension": "You may be able to apply for an extension .",

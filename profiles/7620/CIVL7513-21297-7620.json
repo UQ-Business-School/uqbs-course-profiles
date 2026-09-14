@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL7513-21297-7620",
-  "scraped_at": "2026-06-02T04:23:12.024255+00:00",
+  "scraped_at": "2026-09-14T06:06:53.083222+00:00",
   "course_code": "CIVL7513",
   "class_code": "21297",
   "semester_code": "7620",
@@ -88,7 +88,7 @@
     {
       "category": "Presentation",
       "title": "Oral Presentation",
-      "weight": "20%",
+      "weight": "30%",
       "due_date": "Slides 20/10/2026; 21/10/2026 - 23/10/2026",
       "conditions": [
         "Hurdle",
@@ -99,7 +99,7 @@
     {
       "category": "Paper/ Report/ Annotation",
       "title": "Final Report",
-      "weight": "60%",
+      "weight": "50%",
       "due_date": "9/11/2026 5:00 pm; Sem 2 Exam Week 1",
       "conditions": [
         "Hurdle"
@@ -140,7 +140,7 @@
       "title": "Oral Presentation",
       "mode": "Activity/ Performance",
       "category": "Presentation",
-      "weight": "20%",
+      "weight": "30%",
       "due_date": "Slides 20/10/2026 21/10/2026 - 23/10/2026",
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L05, L06, L07",
@@ -159,7 +159,7 @@
       "title": "Final Report",
       "mode": "Written",
       "category": "Paper/ Report/ Annotation",
-      "weight": "60%",
+      "weight": "50%",
       "due_date": "9/11/2026 5:00 pm Sem 2 Exam Week 1",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L08",
       "task_description": "The Final Report can reuse the structure and content from the Progress Report. Students must prepare a report that includes the following sections: Abstract – Summarise the research background, gaps, methodology, key findings, conclusions, and implications. The abstract should be concise and informative, enabling readers to understand the report’s essence without reading the full document. Introduction – Provide background information on the research topic, identify the key issues to be investigated, and explain the importance of addressing these issues. Literature Review – Critically analyse existing literature relevant to the research topic, summarise previous work, and highlight opportunities for improvement in future studies. Based on this analysis, identify the main research questions and clearly state the study’s objectives, which should address these questions. Research Methods – Outline the research tools employed (e.g., fieldwork, laboratory experiments, mathematical modelling, or databases). Describe, in your own words, the procedures followed during the study (e.g., experimental steps, data collection before and after processes). Include solutions implemented to resolve issues encountered during the research. Results and Discussion – Present your findings clearly using text, figures, and tables as appropriate. Summarize key results and, where relevant, compare your findings with those of previous studies. Conclusion – Summarize the background, methodology, key findings, and implications of your study. The conclusion should reflect on the significance of your research, any limitations, and potential directions for future work. References – List all sources cited in the report. Appendices (Optional) – Include supplementary materials such as spreadsheets, computer code, or other relevant data. This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. The report should be approximately 30 pages in length, not including the table of contents, references, or appendices. Read full task description Hide full task description",

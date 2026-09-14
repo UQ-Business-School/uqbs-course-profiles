@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ENVM7120-22143-7620",
-  "scraped_at": "2026-06-02T04:28:28.416441+00:00",
+  "scraped_at": "2026-09-14T07:16:09.564138+00:00",
   "course_code": "ENVM7120",
   "class_code": "22143",
   "semester_code": "7620",
@@ -22,16 +22,9 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Dr Annie Lau",
-      "email": "annie.lau@uq.edu.au",
-      "phone": "+61 7 3365 6654"
-    }
-  ],
-  "course_staff": [
-    {
-      "role": "Lecturer",
-      "name": "Dr Annie Lau",
-      "email": "annie.lau@uq.edu.au"
+      "name": "Professor Anthony Richardson",
+      "email": "a.richardson1@uq.edu.au",
+      "phone": "+61 7 3833 5958"
     }
   ],
   "timetable": "Additional timetable information\nThere are no timetabled classes for this course. Contact with your academic supervisor should be discussed and arranged during your initial supervision discussions.\nGuidance on workloads: As a 4 Unit course, it would be expected that a workload of around 10 hours per week of self-directed learning would be the norm, for a two semester workload.",

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/COMP7711-60583-7560",
-  "scraped_at": "2026-06-04T02:16:08.915462+00:00",
+  "scraped_at": "2026-09-14T06:09:36.538523+00:00",
   "course_code": "COMP7711",
   "class_code": "60583",
   "semester_code": "7560",
@@ -65,7 +65,11 @@
     },
     {
       "number": "LO6.",
-      "description": "Extract and organize information for reporting and sharing with other stakeholders, while actively collaborating within small teams to achieve organizational objectives."
+      "description": "Extract, organise, and present information effectively for reporting and communication to stakeholders."
+    },
+    {
+      "number": "LO7.",
+      "description": "Demonstrate effective teamwork skills, including communication, coordination, and contribution, in group-based computing projects."
     }
   ],
   "assessment_summary": [

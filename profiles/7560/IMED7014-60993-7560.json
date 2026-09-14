@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/IMED7014-60993-7560",
-  "scraped_at": "2026-06-04T02:26:28.990948+00:00",
+  "scraped_at": "2026-09-14T07:50:46.450964+00:00",
   "course_code": "IMED7014",
   "class_code": "60993",
   "semester_code": "7560",
@@ -49,35 +49,27 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Critically analyse and integrate information from a wide range of sources"
+      "description": "Apply principles of audit and research methodology to analyse clinical practice in skin cancer management."
     },
     {
       "number": "LO2.",
-      "description": "Evaluate opinions, make decisions and to reflect using an evidence-based approach"
+      "description": "Identify gaps in practice and generate innovative, evidence-informed strategies for quality improvement."
     },
     {
       "number": "LO3.",
-      "description": "Formulate and investigate problems, create solutions, innovate and improve current practices"
+      "description": "Disseminate audit findings to contribute to healthcare system improvement."
     },
     {
       "number": "LO4.",
-      "description": "Collect, analyse and organise information and ideas and to convey those ideas clearly and fluently, in both written and spoken forms"
+      "description": "Embed equity and inclusion in research design and quality improvement projects."
     },
     {
       "number": "LO5.",
-      "description": "Apply critical reasoning to issues through independent thought and informed judgement"
+      "description": "Communicate research and audit outcomes clearly to academic, professional, and clinical audiences."
     },
     {
       "number": "LO6.",
-      "description": "Identify clinical questions in your everyday clinical practice, and formulate these into answerable research questions"
-    },
-    {
-      "number": "LO7.",
-      "description": "Develop the skills to critically evaluate a component of your own clinical practice to ensure that practice is supported by recognised quality standards and/or research evidence"
-    },
-    {
-      "number": "LO8.",
-      "description": "Describe and explain the concepts of Evidence Based Medicine and appreciate their relevance to everyday clinical practice"
+      "description": "Uphold ethical standards in research and promote leadership in quality improvement initiatives."
     }
   ],
   "assessment_summary": [

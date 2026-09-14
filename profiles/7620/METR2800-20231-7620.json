@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/METR2800-20231-7620",
-  "scraped_at": "2026-06-02T04:33:47.511757+00:00",
+  "scraped_at": "2026-09-14T08:29:03.395878+00:00",
   "course_code": "METR2800",
   "class_code": "20231",
   "semester_code": "7620",
@@ -20,12 +20,6 @@
       "ENGG1100",
       "ENGG1300",
       "ENGG1700"
-    ],
-    "incompatible": [
-      "You can't enrol in this course if you've already completed the following:",
-      "ELEC2800",
-      "COMP2800",
-      "ENGG2800"
     ]
   },
   "course_contacts": [

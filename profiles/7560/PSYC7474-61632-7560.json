@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC7474-61632-7560",
-  "scraped_at": "2026-06-04T02:38:31.638608+00:00",
+  "scraped_at": "2026-09-14T09:47:26.576726+00:00",
   "course_code": "PSYC7474",
   "class_code": "61632",
   "semester_code": "7560",
@@ -39,19 +39,23 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Demonstrate understanding and knowledge regarding the research process within organisational settings."
+      "description": "Critically evaluate contemporary scientific evidence and research methodologies relevant to organisational psychology research and practice."
     },
     {
       "number": "LO2.",
-      "description": "Demonstrate understanding and knowledge regarding measurement and design issues associated with methods used in organisational research."
+      "description": "Design and apply appropriate research methodologies — including experimental, quasi-experimental, survey, qualitative, and quantitative approaches — to investigate problems within organisational settings."
     },
     {
       "number": "LO3.",
-      "description": "Demonstrate communication skills in pitching research to relevant stakeholder groups."
+      "description": "Select and justify measurement strategies and analytic approaches appropriate to applied organisational research questions, taking into account sampling, design, and contextual considerations."
     },
     {
       "number": "LO4.",
-      "description": "Demonstrate skills working in teams on complex organisational problems."
+      "description": "Demonstrate effective collaboration and teamwork skills when addressing complex organisational problems."
+    },
+    {
+      "number": "LO5.",
+      "description": "Communicate research evidence and methodological approaches effectively in oral formats to relevant stakeholder groups, applying ethical reasoning and contextually appropriate language in applied organisational research contexts."
     }
   ],
   "assessment_summary": [

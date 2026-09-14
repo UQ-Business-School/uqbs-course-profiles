@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHIP7162-61124-7660",
-  "scraped_at": "2026-09-07T06:18:52.593472+00:00",
+  "scraped_at": "2026-09-14T09:08:24.134032+00:00",
   "course_code": "PHIP7162",
   "class_code": "61124",
   "semester_code": "7660",
@@ -22,15 +22,23 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Associate Professor Harendra Parekh",
-      "email": "h.parekh@uq.edu.au"
+      "name": "Dr Danial Saifuddin",
+      "email": "d.saifuddin@uq.edu.au"
+    },
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Harendra Parekh"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Associate Professor Harendra Parekh",
-      "email": "h.parekh@uq.edu.au"
+      "name": "Dr Danial Saifuddin",
+      "email": "d.saifuddin@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Harendra Parekh"
     },
     {
       "role": "Lecturer",
@@ -147,6 +155,7 @@
       "other_conditions": "Time limited. See the conditions definitions",
       "learning_outcomes_assessed": "L03",
       "task_description": "This assessment is a 'general knowledge' quiz in the form of multiple-choice questions and short-answer questions related to Intellectual Property (IP) and Patent Law content covered in Module 1 in class activities (+ UQ Extend 'Module 1'). This is an individual assessment that you are required to undertake without any form of communication with other students. This quiz is open-book, so you may refer to any resource while completing it. This is an online quiz undertaken on your own device and in the venue of your choice. The quiz will comprise 15 questions selected randomly from a pool of questions, meaning each student will have different questions from their peers. In the case of MCQs, there is only one correct answer among the five options listed. You will have 50 minutes to complete the quiz. ONE attempt is permitted. This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and Machine Translation (MT) technologies, successful completion of the assessment will require students to critically engage in specific contexts and tasks for which AI will provide only limited support and guidance. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Access the quiz via the link on the Learn.UQ (Blackboard Ultra) site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nExams submitted after the end of the submission time will incur a late penalty .",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "Exams submitted after the end of the submission time will incur a late penalty .",
@@ -165,6 +174,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L03, L04",
       "task_description": "Students will work in groups (of 4) to evaluate different commercialisation pathways by addressing the pros and cons of each, based on Module 2 in-class activities (+ UQ Extend 'Module 2'). You will then need to agree (as a group) on which pathway would succeed in a given case and explain the reasoning via a recorded ‘group pitch’ to a virtual investor. Detailed instructions on preparing your group pitch recording will be provided in Week 1, during the course introduction lecture. All members of the group must participate. You will also be required to submit a completed Group Charter at the same time. See Learn.UQ (Blackboard Ultra) forfurther information and the marking criteria for this assessment. This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and Machine Translation (MT) technologies, successful completion of the assessment will require students to critically engage in specific contexts and tasks for which AI will provide only limited support and guidance. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Submit your video-recorded group pitch (all members to participate) via the submission point on Learn.UQ (Blackboard Ultra).\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nYou can request an extension on behalf of your group for a group assessment item, provided that at least 50% of your group members also agree to the request for an extension. Download and complete this form, and attach this form to your extension request:\nExtension of Group Assessment - Group Member Acknowledgement (PDF, 144.9 KB)\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -183,6 +193,7 @@
       "due_date": "6/10/2026 1:00 pm",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "In this individual assessment, based on Module 3 in-class activities (+ UQ Extend, 'Module 3'), you will be provided with a full clinical trial protocol to read and analyse. You will be required to ascertain relevant information necessary to complete question categories outlined in a provided Human Research Ethics Application (HREA) template. Further detailed requirements and marking criteria are available on the Learn.UQ (Blackboard) site. This task has been designed to be challenging, authentic and complex. Whilst students may use Artificial Intelligence (AI) and Machine Translation (MT) technologies, successful completion of the assessment will require students to critically engage in specific contexts and tasks for which AI will provide only limited support and guidance. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit responses to the HREA-related questions in the template provided via the link on the Learn.UQ (Blackboard) site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -197,6 +208,7 @@
       "due_date": "26/10/2026 3:00 pm",
       "learning_outcomes_assessed": "L05, L06, L07",
       "task_description": "In this individual assessment, based on Module 4 in-class activities (+ UQ Extend, 'Module 4'), students will be asked to draft a project plan. This will involve preparing a Gantt chart of a small, discrete project showing the project timeline addressing the principles of project management, including scope, any risks, and how they can be mitigated. See the Learn.UQ (Blackboard Ultra) site for the template and marking criteria. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit your completed Gantt chart template via the link on the Learn.UQ (Blackboard Ultra) site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."

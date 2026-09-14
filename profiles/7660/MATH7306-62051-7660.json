@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7306-62051-7660",
-  "scraped_at": "2026-09-07T06:11:25.919715+00:00",
+  "scraped_at": "2026-09-14T08:21:36.546781+00:00",
   "course_code": "MATH7306",
   "class_code": "62051",
   "semester_code": "7660",
@@ -86,6 +86,7 @@
       "weight": "60% Each assignment is weighted 20%.",
       "due_date": "31/08/2026 5:00 pm 18/09/2026 5:00 pm 23/10/2026 5:00 pm",
       "task_description": "Each assignment requires you to solve a set of problems given in class, and to submit your written solutions through Blackboard. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Solutions should be submitted through Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible, regardless of approved extensions.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for assessment item/s will be released 7 days after the assessment is due and as such, an extension after 7 days will not be possible, regardless of approved extensions.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -99,6 +100,7 @@
       "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
       "other_conditions": "Secure. See the conditions definitions",
       "task_description": "The end of semester exam will test knowledge and problem solving skills from across the content of the course. The exam will be open-book, and will be centrally scheduled and invigilated. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options Casio FX82 series calculator only Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for further extension/deferral information relating to this assessment item.",
       "deferral_or_extension": "You may be able to defer this exam .",

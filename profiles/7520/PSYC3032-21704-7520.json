@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC3032-21704-7520",
-  "scraped_at": "2026-06-04T01:55:10.865401+00:00",
+  "scraped_at": "2026-09-14T09:42:38.595256+00:00",
   "course_code": "PSYC3032",
   "class_code": "21704",
   "semester_code": "7520",
@@ -43,7 +43,7 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "To provide a solid understanding of basic concepts and theories in the social psychology of group processes and intergroup relations."
+      "description": "To provide a solid understanding of basic concepts and theories in the social psychology of group processes and intergroup relations"
     },
     {
       "number": "LO2.",
@@ -56,6 +56,10 @@
     {
       "number": "LO4.",
       "description": "To provide an original analysis that integrates theoretical knowledge with information from popular media about current events"
+    },
+    {
+      "number": "LO5.",
+      "description": "To understand how theories of group processes and intergroup relations relate to the experiences of underrepresented groups, including Aboriginal and Torres Strait Islander peoples."
     }
   ],
   "assessment_summary": [

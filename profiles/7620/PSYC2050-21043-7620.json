@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC2050-21043-7620",
-  "scraped_at": "2026-06-02T04:38:55.939320+00:00",
+  "scraped_at": "2026-09-14T09:41:33.936692+00:00",
   "course_code": "PSYC2050",
   "class_code": "21043",
   "semester_code": "7620",
@@ -67,6 +67,10 @@
     {
       "number": "LO5.",
       "description": "Apply different modes of psychological analysis (behaviour based vs cognitive) and to provide a critical assessment of these different approaches"
+    },
+    {
+      "number": "LO6.",
+      "description": "An appreciation that most experimental psychology research has traditionally been undertaken with samples from WEIRD (Western, Educated, Industrialised, Rich, and Democratic) populations. Thus, one must consider how such findings apply to individuals from different populations, including Aboriginal and Torres Strait Islander people"
     }
   ],
   "assessment_summary": [

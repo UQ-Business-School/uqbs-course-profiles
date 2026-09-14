@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MATH4307-61995-7660",
-  "scraped_at": "2026-09-07T06:10:39.606818+00:00",
+  "scraped_at": "2026-09-14T08:17:03.886908+00:00",
   "course_code": "MATH4307",
   "class_code": "61995",
   "semester_code": "7660",
@@ -95,6 +95,7 @@
       "due_date": "9/09/2026 10:00 am",
       "other_conditions": "Secure. See the conditions definitions",
       "task_description": "In the In-Semester Quiz, students will be asked to answer questions on the material covered in the first 6 weeks of lectures. Students who miss the Quiz will do an oral in-semester test instead, covering the same material. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "This is an in-class quiz.\nDeferral or extension\nYou may be able to defer this exam .\nIf a student misses the written in-class quiz they will instead do an oral quiz at a later date.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
       "deferral_or_extension": "You may be able to defer this exam .",
       "special_indicators": [
@@ -111,6 +112,7 @@
       "due_date": "Week 11 Mon - Week 13 Fri",
       "other_conditions": "Secure. See the conditions definitions",
       "task_description": "Students will give a 25-minute talk on a chosen topic in abstract algebra and representation theory, followed by time for questions from staff and students. Talks will be scheduled during the final three weeks of semester. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nTalks will be scheduled during the final three weeks of semester. If a student is absent during their scheduled time-slot, their talk will be rescheduled at a later date within that three-week period.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "special_indicators": [
@@ -127,6 +129,7 @@
       "due_date": "Exam week 1 Sat - Exam week 2 Sat The assessment will be scheduled during the exam period. Specific exam date/time information will be advised by the lecturer.",
       "other_conditions": "Secure. See the conditions definitions",
       "task_description": "There will be a 45-minute oral final assessment. Students may use the board, or pen and paper, to assist in answering questions. The assessment will be scheduled during the exam period. Specific exam date/time information will be advised by the lecturer. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time no planning time minutes Duration 45 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Other Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nOral assessments will be scheduled during the exam period. If a student is absent during their scheduled time-slot, their oral assessment will be rescheduled at a later date.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension/deferral information relating to this assessment item.",
       "deferral_or_extension": "You may be able to apply for an extension .",

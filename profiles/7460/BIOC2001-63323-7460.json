@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BIOC2001-63323-7460",
-  "scraped_at": "2026-06-04T00:48:31.423352+00:00",
+  "scraped_at": "2026-09-14T05:30:38.481006+00:00",
   "course_code": "BIOC2001",
   "class_code": "63323",
   "semester_code": "7460",
@@ -83,19 +83,19 @@
     },
     {
       "number": "LO2.",
-      "description": "Describe the structures and phenomena of basic cell & molecular biology, such as lipid membranes, protein structure, and DNA."
+      "description": "Explain the structures and phenomena of basic cell and molecular biology, such as lipid membranes, protein structure, and DNA."
     },
     {
       "number": "LO3.",
-      "description": "Describe how biological systems are structured at the molecular and cellular level; the primary, secondary, tertiary and quaternary structure of proteins, and how proteins, nucleic acids and lipids assemble into functional complexes."
+      "description": "Differentiate between levels of molecular and cellular organisation, including the primary, secondary, tertiary and quaternary structure of proteins, and explain how proteins, nucleic acids and lipids assemble into functional complexes."
     },
     {
       "number": "LO4.",
-      "description": "Describe how length, time and energy scales are relevant to molecular and cellular structures."
+      "description": "Analyse how length, time and energy scales influence molecular and cellular structures."
     },
     {
       "number": "LO5.",
-      "description": "Describe how dynamics and thermodynamics governing living systems."
+      "description": "Explain how dynamics and thermodynamics govern living systems."
     },
     {
       "number": "LO6.",
@@ -103,19 +103,15 @@
     },
     {
       "number": "LO7.",
-      "description": "Describe the underlying theoretical principles of experimental techniques used to study biological systems"
+      "description": "Explain the underlying theoretical principles, assumptions and limitations of experimental techniques used to study biological systems."
     },
     {
       "number": "LO8.",
-      "description": "Identify whether a particular experimental approach is appropriate for studying a given biological problem."
+      "description": "Compare, evaluate and justify the selection of appropriate biophysical techniques for addressing specific biological questions."
     },
     {
       "number": "LO9.",
-      "description": "Use experimental results to calculate and interpret biological data in a quantitative manner."
-    },
-    {
-      "number": "LO10.",
-      "description": "Explain the physical basis of a range of biophysical techniques and their application in an experimental setting."
+      "description": "Analyse experimental results to calculate and interpret biological data quantitatively."
     }
   ],
   "assessment_summary": [

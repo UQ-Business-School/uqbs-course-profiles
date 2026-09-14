@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/POLS1701-21471-7620",
-  "scraped_at": "2026-06-02T04:38:16.398658+00:00",
+  "scraped_at": "2026-09-14T09:31:58.721080+00:00",
   "course_code": "POLS1701",
   "class_code": "21471",
   "semester_code": "7620",
@@ -34,7 +34,7 @@
     },
     {
       "role": "Tutor",
-      "name": "Ms Charlotte Ann Penel",
+      "name": "Dr Charlotte Ann Penel",
       "email": "c.penel@uq.edu.au"
     }
   ],
@@ -177,8 +177,7 @@
     }
   ],
   "learning_resources": {
-    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.\nOwn copy required\nYou'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Book Theories and practices of development by Willis; Katie - 2021 Edition: Third edition Publisher: Routledge, Taylor &amp; Francis Group ISBN: 9781315559469; 9780203844182; 9781317195276; 9781317195269; 9781317195283",
-    "own_copy_required": "You'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Book Theories and practices of development by Willis; Katie - 2021 Edition: Third edition Publisher: Routledge, Taylor &amp; Francis Group ISBN: 9781315559469; 9780203844182; 9781317195276; 9781317195269; 9781317195283"
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
   },
   "learning_activities": [
     {

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC1100-61432-7560",
-  "scraped_at": "2026-06-04T02:37:57.096948+00:00",
+  "scraped_at": "2026-09-14T09:40:50.456908+00:00",
   "course_code": "PSYC1100",
   "class_code": "61432",
   "semester_code": "7560",
@@ -65,6 +65,10 @@
     {
       "number": "LO7.",
       "description": "Improve public speaking skills (at least in theory)."
+    },
+    {
+      "number": "LO8.",
+      "description": "Understand how communication is shaped by cultural factors, with a particular focus on how communication might vary across First Nations (Aboriginal and/or Torres Strait Islander) and non-Indigenous groups."
     }
   ],
   "assessment_summary": [

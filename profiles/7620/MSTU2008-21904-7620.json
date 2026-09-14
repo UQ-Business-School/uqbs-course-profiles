@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MSTU2008-21904-7620",
-  "scraped_at": "2026-06-02T04:35:10.738932+00:00",
+  "scraped_at": "2026-09-14T08:47:41.235194+00:00",
   "course_code": "MSTU2008",
   "class_code": "21904",
   "semester_code": "7620",
@@ -35,16 +35,6 @@
       "role": "Course coordinator",
       "name": "Professor Jason Jacobs",
       "email": "j.jacobs@uq.edu.au"
-    },
-    {
-      "role": "Course coordinator",
-      "name": "Dr Matthew Cipa",
-      "email": "m.cipa@uq.edu.au"
-    },
-    {
-      "role": "Lecturer",
-      "name": "Dr Matthew Cipa",
-      "email": "m.cipa@uq.edu.au"
     }
   ],
   "course_staff": [
@@ -52,6 +42,16 @@
       "role": "Lecturer",
       "name": "Professor Jason Jacobs",
       "email": "j.jacobs@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Matthew Cipa",
+      "email": "m.cipa@uq.edu.au"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Matthew Cipa",
+      "email": "m.cipa@uq.edu.au"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nThe contact hours consist of a weekly lecture and a tutorial. Students should be engaging with the material in both for satisfactory completion of the course. The lectures will model the kind of attention and discussion you are expected to follow and develop in your assessment tasks. Tutorials will practice ways of approaching the subject matter for that week and will include some group discussions and exercises based on viewing clips of television, the set readings and the weekly topic. Your preparation for class each week will be based on set readings and suggested viewings.\nIf anything is unclear as the course proceeds please contact the convenor for clarification immediately.\nWhilst every effort is made to place students in their preferred activity, it is not always possible for a student to be enrolled in their tutorial of choice. If you require assistance, please ensure that you email\ntimetabling.commarts@enquire.uq.edu.au\nfrom your\nUQ student email\nwith:\nYour name\nYour student ID\nThe course code\nA list of three tutorial preferences (in order of preference)\nReason for the change – e.g. timetable clash, elite athlete status, SAP\nTeaching staff do not have access to change tutorials or help with timetables; all timetabling changes must be processed through the Timetabling Team.",

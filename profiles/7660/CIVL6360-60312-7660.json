@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/CIVL6360-60312-7660",
-  "scraped_at": "2026-09-07T05:48:17.353164+00:00",
+  "scraped_at": "2026-09-14T06:06:02.197981+00:00",
   "course_code": "CIVL6360",
   "class_code": "60312",
   "semester_code": "7660",
@@ -100,6 +100,7 @@
       "due_date": "Assignment 1 - weighted residual integral 18/08/2026 5:00 pm Assignment 2 - beam deflection 25/08/2026 5:00 pm Assignment 3 - FEM formulation 1/09/2026 5:00 pm Assignment 4 - axial bar element 8/09/2026 5:00 pm Assignment 5 - heat transfer 15/09/2026 5:00 pm Assignment 6 - Euler-Bernoulli beam element 22/09/2026 5:00 pm Assignment 7 - Eigenvalue problem (beam vibration) 6/10/2026 5:00 pm Assignment 8 - Eigenvalue problem (column buckling) 13/10/2026 5:00 pm Assignment 9 - two-dimensional plate problem I 20/10/2026 5:00 pm Assignment 10 - two-dimensional plate problem II 30/10/2026 5:00 pm Each assignment is marked out of 5 marks. The total mark for the assignment series is calculated as the sum of the best 9 out of the 10 assignments completed. If fewer than 9 assignments are submitted, the total mark for the assignment series will be the sum of the marks obtained for all submitted assignments.",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Each assignment is marked out of 5 marks. The total mark for the assignment series is calculated as the sum of the best 9 out of the 10 assignments completed. If fewer than 9 assignments are submitted, the total mark for the assignment series will be the sum of the marks obtained for all submitted assignments. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Assessment must be submitted through the course BlackBoard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited as feedback will be provided within 14 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -115,6 +116,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "The final exam will include conventional problem-solving calculation questions. This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 180 minutes Calculator options Any calculator permitted Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/COMU7400-20257-7620",
-  "scraped_at": "2026-06-02T04:23:43.306163+00:00",
+  "scraped_at": "2026-09-14T06:15:58.935655+00:00",
   "course_code": "COMU7400",
   "class_code": "20257",
   "semester_code": "7620",
@@ -44,7 +44,7 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Understand how communication impacts management and leadership in a range of organisations"
+      "description": "Understand how communication impacts management and leadership in a range of organisations."
     },
     {
       "number": "LO2.",
@@ -52,11 +52,15 @@
     },
     {
       "number": "LO3.",
-      "description": "Identify how interpersonal dynamics, gender and culture impact communication in local, national, and global contexts"
+      "description": "Identify how interpersonal dynamics, gender and culture impact communication in local, national, and global contexts."
     },
     {
       "number": "LO4.",
-      "description": "Develop the skills to showcase yourself as a potential manager and leader in the communication management domain"
+      "description": "Develop the skills to showcase yourself as a potential manager and leader in the communication management domain."
+    },
+    {
+      "number": "LO5.",
+      "description": "Ability to demonstrate and deliver effective verbal and nonverbal communication skills in the workplace context."
     }
   ],
   "assessment_summary": [

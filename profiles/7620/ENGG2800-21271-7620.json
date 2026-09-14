@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG2800-21271-7620",
-  "scraped_at": "2026-06-02T04:27:47.709765+00:00",
+  "scraped_at": "2026-09-14T07:05:58.098739+00:00",
   "course_code": "ENGG2800",
   "class_code": "21271",
   "semester_code": "7620",
@@ -21,10 +21,6 @@
       "ENGG1300",
       "CSSE1001",
       "ENGG1001"
-    ],
-    "incompatible": [
-      "You can't enrol in this course if you've already completed the following:",
-      "METR2800"
     ],
     "restrictions": [
       "BE(Hons) and BE(Hons) dual/integrated degrees"

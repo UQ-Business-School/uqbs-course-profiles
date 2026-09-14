@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ECON2020-61204-7660",
-  "scraped_at": "2026-09-07T05:54:14.658726+00:00",
+  "scraped_at": "2026-09-14T06:37:48.611666+00:00",
   "course_code": "ECON2020",
   "class_code": "61204",
   "semester_code": "7660",
@@ -119,6 +119,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "30 minute quiz conducted during the regular lecture time. There are 4 lecture quizzes worth 10% each. Students may choose any 3 of these tests for a total of 30% assessment. If all 4 tests are taken, the student will be given their best 3 marks. The quizzes will be conducted in Lectures 5, 7, 9 and 11. The topic will be the content in the prior week's lecture. E.g. The quiz in Lecture 5 will be on Lecture 4 content. No deferred quizzes will be offered. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Submission occurs at the end of the 30 minutes scheduled for the quiz .\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nNo late submission is possible.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "late_submission": "No late submission is possible.",
@@ -136,6 +137,7 @@
       "due_date": "21/09/2026 - 12/10/2026 The assignment will be available from 21 September at 12 pm. Submission is due by 12 October at 5 pm.",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "This assignment will consist of a set of questions requiring analysis of the Reserve Bank of Australia Statement on Monetary Policy, August 2026. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submission is via the Turnitin Link in Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -150,6 +152,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "The final exam will consist of short-answer questions requiring analysis and discussion. The final exam is designed to cover all learning objectives and to test both depth and breadth of students' knowledge of material covered throughout the course. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

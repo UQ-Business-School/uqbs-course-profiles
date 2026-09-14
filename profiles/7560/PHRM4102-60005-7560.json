@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHRM4102-60005-7560",
-  "scraped_at": "2026-06-04T02:35:02.647669+00:00",
+  "scraped_at": "2026-09-14T09:12:39.252343+00:00",
   "course_code": "PHRM4102",
   "class_code": "60005",
   "semester_code": "7560",
@@ -13,7 +13,7 @@
   "units": "4",
   "administrative_campus": "Dutton Park",
   "coordinating_unit": "Pharmacy and Pharmaceutical Sciences School",
-  "course_description": "Integrate and apply your knowledge and skills in pharmacy practice and medicines management. Develop your professional identity and approach to practice. Demonstrate professional decision-making skills to improve health outcomes employing knowledge of pharmacology, physiology, therapeutics and evidence-based practice. Demonstrate your skills in providing patient-centred care, medication review and dispensing medicines safely and effectively.\n\nPHRM4102 is designed to develop and assess your readiness to become an Intern Pharmacist using the Australian Pharmacy Council (APC) Performance Outcomes. The knowledge and skills expected of a graduate are divided into five domains:\n\nAs such, all assessment items in the course contribute marks towards specific domains, and you will be required to accumulate at least 50% of the marks available in each domain over the semester to demonstrate proficiency.",
+  "course_description": "Integrate and apply your knowledge and skills in pharmacy practice and medicines management. Develop your professional identity and approach to practice. Demonstrate professional decision-making skills to improve health outcomes by employing knowledge of pharmacology, physiology, therapeutics and evidence-based practice. Demonstrate your skills in providing patient-centred care, medication review and dispensing medicines safely and effectively.\n\nPHRM4102 is designed to develop and assess your readiness to become an Intern Pharmacist using the Australian Pharmacy Council (APC) Performance Outcomes. The knowledge and skills expected of a graduate are divided into five domains:\n\nAs such, all assessment items in the course contribute marks towards specific domains, and you will be required to accumulate at least 50% of the marks available in each domain over the semester to demonstrate proficiency.",
   "requirements": {
     "prerequisites": [
       "You'll need to complete the following courses before enrolling in this one:",
@@ -75,7 +75,7 @@
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPHRM4102 is taught through UQ Extend and in-person Tutorials. The course is divided into three simultaneous streams:\nAdvanced medication management\nProfessional responsibilities\nExtending pharmacy practice\nThe time commitment to this course is 20 hours per week. This is comprised of active online learning in UQ Extend for all three streams, attending three timetabled Tutorials (one for each stream), and working on assessments.",
-  "course_aims": "Demonstrate essential scientific, clinical and professional knowledge in medicines management. Demonstrate professional decision-making and skills in collaborative care. Demonstrate skills in patient-centred care, dispensing and medication review in a wide variety and increasingly complex scenarios.",
+  "course_aims": "Demonstrate essential scientific, clinical and professional knowledge in medicines management. Demonstrate professional decision-making and skills in collaborative care. Demonstrate skills in patient-centred care, dispensing and medication review in a wide variety of increasingly complex scenarios.",
   "learning_outcomes": [
     {
       "number": "LO1.",

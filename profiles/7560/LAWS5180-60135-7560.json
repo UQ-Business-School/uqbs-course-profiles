@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/LAWS5180-60135-7560",
-  "scraped_at": "2026-06-04T02:27:34.860490+00:00",
+  "scraped_at": "2026-09-14T08:03:12.629147+00:00",
   "course_code": "LAWS5180",
   "class_code": "60135",
   "semester_code": "7560",
@@ -41,7 +41,8 @@
     {
       "role": "School enquiries",
       "name": "Mrs Loretta Smyth",
-      "email": "l.smyth@uq.edu.au"
+      "email": "l.smyth@uq.edu.au",
+      "phone": "+61 7 3443 5148"
     }
   ],
   "timetable": "Additional timetable information\nThere is no timetable for this course.ﾠ Students will be advised of clinic times at the orientation session for the course.",

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MECH2210-60799-7560",
-  "scraped_at": "2026-06-04T02:29:43.266212+00:00",
+  "scraped_at": "2026-09-14T08:23:14.411405+00:00",
   "course_code": "MECH2210",
   "class_code": "60799",
   "semester_code": "7560",
@@ -27,7 +27,7 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Professor Martin Veidt",
+      "name": "Emeritus Professor Martin Veidt",
       "email": "m.veidt@uq.edu.au",
       "notes": "Professor Veidt will be available in the Applied Classes. They are the best opportunity to discuss anything related to the course."
     }
@@ -35,7 +35,7 @@
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Professor Martin Veidt",
+      "name": "Emeritus Professor Martin Veidt",
       "email": "m.veidt@uq.edu.au"
     },
     {

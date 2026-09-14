@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MECH3301-61058-7660",
-  "scraped_at": "2026-09-07T06:11:55.525086+00:00",
+  "scraped_at": "2026-09-14T08:23:57.751325+00:00",
   "course_code": "MECH3301",
   "class_code": "61058",
   "semester_code": "7660",
@@ -112,6 +112,7 @@
       "due_date": "Assignment 1 (5%) 18/08/2026 4:00 pm Assignment 2 (10%) 1/09/2026 4:00 pm Assignment 3 (10%) 22/09/2026 4:00 pm Assignment 4 (10%) 13/10/2026 4:00 pm Assignment 5 (10%) 30/10/2026 4:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
       "task_description": "The question sheet will be published in Blackboard before the Applied Class. You will be solving the problem-based questions with the help of the teaching team. The answers will be published in Blackboard after the due day. A1: Use of Materials Selection Charts (weight: 5%) A2: Material Indices (weight: 10%) A3: Materials and Shape (weight: 10%) A4: Multiple Constraints & conflicting objectives (weight: 10%) A5: Hybrid Materials (weight: 10%) Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submission of these assessment items must be through TurnItIn via Blackboard site to detect any possibilities of plagiarism or collusion with another student(s) or existing documents.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 days as feedback will be released to students after 14 days, and avoids overlap into next exercise.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -125,6 +126,7 @@
       "due_date": "8/10/2026 4:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "Materials Selection Project completed in pairs. This assessment is a project-based report that requires students to attend a practical session to collect experimental data. Students will then required to analyse the data and prepare a report based on their findings. Students who are unable to attend their allocated practical session should contact the teaching team to discuss the available options. See details in Blackboard, Laboratory Project folder. If, for whatever reason, you find that your group is not functioning effectively, please contact your Course Coordinator for support. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit via TurnItIn on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 14 days as feedback released to students after 21 days.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -142,6 +144,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
       "task_description": "The Final Exam normally consists of a set of questions involving short derivations of material indices and the use of charts, and one or two exercises on Materials Selection related to existing components of, e.g., cars, aeroplanes, home appliances, bridges, musical instruments, sport goods, etc. (See examples of past exams at the library: https://www.library.uq.edu.au/exams/search.html ). Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials Hardcover Textbook: Ashby, M. F., Materials Selection in Mechanical Design, 4th and 5th edition. Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

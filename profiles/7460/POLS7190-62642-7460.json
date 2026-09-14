@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/POLS7190-62642-7460",
-  "scraped_at": "2026-06-04T01:14:55.295442+00:00",
+  "scraped_at": "2026-09-14T09:37:03.500654+00:00",
   "course_code": "POLS7190",
   "class_code": "62642",
   "semester_code": "7460",
@@ -48,6 +48,10 @@
     {
       "number": "LO3.",
       "description": "Identify possible pathways and practices for improving political relations and policy-making between Indigenous and non-Indigenous peoples."
+    },
+    {
+      "number": "LO4.",
+      "description": "Critically reflect upon how existing knowledge is disrupted, confirmed or extended amid the contestations that accompany knowing about Indigenous politics."
     }
   ],
   "assessment_summary": [
