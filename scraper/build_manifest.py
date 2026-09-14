@@ -5,7 +5,7 @@ Scans profiles/{semester_code}/*.json and writes:
   docs/assets/manifest.json      — UQBS courses only (filtered by taxonomy)
   docs/assets/manifest-all.json  — all courses (entire profiles/ directory)
 
-The UQBS manifest powers the live viewer at uqsmitc6.github.io and is never
+The UQBS manifest powers the live viewer at uq-business-school.github.io and is never
 affected by all-of-UQ scrapes. The full manifest is consumed by ATLAS and
 other downstream tools that need the complete dataset.
 

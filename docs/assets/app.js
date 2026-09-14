@@ -603,7 +603,7 @@ function buildCourseMarkdown(c, taxonomy) {
     lines.push("", "## Policies and procedures", "", htmlToMarkdown(String(c.policies_and_procedures)));
   }
 
-  lines.push("", "---", "", `*Generated ${new Date().toLocaleDateString("en-AU")} from the [UQBS Course Profile Viewer](https://uqsmitc6.github.io/uqbs-course-profiles/).*`);
+  lines.push("", "---", "", `*Generated ${new Date().toLocaleDateString("en-AU")} from the [UQBS Course Profile Viewer](https://uq-business-school.github.io/uqbs-course-profiles/).*`);
   return lines.join("\n");
 }
 
@@ -765,7 +765,7 @@ function buildPrintableHtml(c, taxonomy) {
 
   if (c.policies_and_procedures) parts.push(`<h2>Policies and procedures</h2><div>${renderLongText(String(c.policies_and_procedures))}</div>`);
 
-  parts.push(`<div class="footer">Generated ${esc(new Date().toLocaleDateString("en-AU"))} from the UQBS Course Profile Viewer · <a href="https://uqsmitc6.github.io/uqbs-course-profiles/">uqsmitc6.github.io/uqbs-course-profiles</a></div>`);
+  parts.push(`<div class="footer">Generated ${esc(new Date().toLocaleDateString("en-AU"))} from the UQBS Course Profile Viewer · <a href="https://uq-business-school.github.io/uqbs-course-profiles/">uq-business-school.github.io/uqbs-course-profiles</a></div>`);
   parts.push(`</body></html>`);
   return parts.join("");
 }
@@ -1424,7 +1424,7 @@ function renderOfferingDiff(diff) {
 // Build a mailto: link for an error report, with the exact course/offering
 // location baked into the body so a fix can be pinpointed (often an LO-mapping gap).
 function buildReportMailto(c, filePath, description) {
-  const to = SITE.reportEmail || "uqsmitc6@uq.edu.au";
+  const to = SITE.reportEmail || "learningdesign@business.uq.edu.au";
   const code = c.full_course_code || c.course_code || "";
   const sem = semesterLabel(c);
   const subject = `Course profile error: ${c.course_code || ""} (${sem})`;
@@ -2419,7 +2419,7 @@ function renderNav() {
   if (page === "landing") return; // the splash front door has no section nav
   const nav = document.querySelector("header.site nav");
   if (!nav) return;
-  const repoUrl = SITE.repoUrl || "https://github.com/uqsmitc6/uqbs-course-profiles";
+  const repoUrl = SITE.repoUrl || "https://github.com/UQ-Business-School/uqbs-course-profiles";
   const home = EDITION === "uqbs" ? ["business.html", "UQBS"] : ["browse-all.html", "All UQ"];
   const links = [["index.html", "⌂ Editions", "_editions"], [home[0], home[1], "home"]];
   if (EDITION === "uqbs") {

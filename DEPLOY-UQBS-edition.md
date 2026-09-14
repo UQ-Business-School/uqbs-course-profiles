@@ -60,7 +60,7 @@ into the team repo at:
 ## If something looks off
 
 - **Page loads but no courses appear:** the data comes from your existing live
-  site. Check `https://uqsmitc6.github.io/uqbs-course-profiles/` is up. If you
+  site. Check `https://uq-business-school.github.io/uqbs-course-profiles/` is up. If you
   ever rename/retire that repo, the UQBS edition's data link must be updated
   (rebuild with a new `--all-data-base`).
 - **404 / nothing there after 15 min:** confirm the files are directly inside
@@ -76,7 +76,7 @@ into the team repo at:
 Claude (or you, on your Mac) re-runs:
 
     python3 scraper/build_editions.py --editions uqbs \
-        --all-data-base https://uqsmitc6.github.io/uqbs-course-profiles \
+        --all-data-base https://uq-business-school.github.io/uqbs-course-profiles \
         --uqbs-repo https://github.com/UQ-Business-School/courses
 
 then repeat steps 5–7 to copy the refreshed `build/uqbs/` over the old files.

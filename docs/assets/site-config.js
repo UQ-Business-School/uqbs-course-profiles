@@ -16,8 +16,8 @@
 window.SITE = {
   edition: "uqbs",
   dataBase: "",
-  repoUrl: "https://github.com/uqsmitc6/uqbs-course-profiles",
+  repoUrl: "https://github.com/UQ-Business-School/uqbs-course-profiles",
   uqbsUrl: "business.html",
   allUrl: "browse-all.html",
-  reportEmail: "uqsmitc6@uq.edu.au",
+  reportEmail: "learningdesign@business.uq.edu.au",
 };

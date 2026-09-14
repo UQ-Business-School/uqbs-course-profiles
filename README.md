@@ -2,6 +2,8 @@
 
 Enriched course profile scraper and static-site viewer, originally built for UQ Business School and now supporting all of UQ. Captures a comprehensive data set from published UQ course profiles for use in learning design, Graduate Attribute mapping, and Assurance of Learning reporting.
 
+> **Not an official UQ source.** This is a working tool maintained by the UQ Business School learning design team. It is not endorsed by, or an official publication of, The University of Queensland. The data is scraped from the publicly published course profiles at course-profiles.uq.edu.au and can lag, drop or misread what is published there. The published course profile is always the source of truth; check it before relying on anything here. Questions and corrections: learningdesign@business.uq.edu.au.
+
 Built on the [JacSON](https://github.com/uq-course-profiles/jacson) architecture by Geoff, extended with enriched fields and a UQBS-specific intelligence layer.
 
 **Components:**

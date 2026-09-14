@@ -22,8 +22,8 @@ Examples
 
     # Real build for deployment
     python3 scraper/build_editions.py \
-        --all-data-base https://uqsmitc6.github.io/uqbs-course-profiles-all \
-        --all-repo  https://github.com/uqsmitc6/uqbs-course-profiles-all \
+        --all-data-base https://uq-business-school.github.io/uqbs-course-profiles \
+        --all-repo  https://github.com/UQ-Business-School/uqbs-course-profiles \
         --uqbs-repo https://github.com/UQ-Business-School/courses
 """
 from __future__ import annotations
@@ -39,14 +39,14 @@ DOCS = REPO / "docs"
 ASSETS = DOCS / "assets"
 
 # Defaults — override on the command line once the repos/URLs are settled.
-DEFAULT_ALL_DATA_BASE = "https://uqsmitc6.github.io/uqbs-course-profiles-all"
-DEFAULT_ALL_REPO = "https://github.com/uqsmitc6/uqbs-course-profiles-all"
+DEFAULT_ALL_DATA_BASE = "https://uq-business-school.github.io/uqbs-course-profiles"
+DEFAULT_ALL_REPO = "https://github.com/UQ-Business-School/uqbs-course-profiles"
 DEFAULT_UQBS_REPO = "https://github.com/UQ-Business-School/courses"
 
 # Where the landing page's two buttons point (absolute, so the same splash works
 # on either edition). Override on the command line once the URLs are settled.
 DEFAULT_UQBS_URL = "http://teach.business.uq.edu.au/ld/uqbsld/profiles/business.html"
-DEFAULT_ALL_URL = "https://uqsmitc6.github.io/uqbs-course-profiles/browse-all.html"
+DEFAULT_ALL_URL = "https://uq-business-school.github.io/uqbs-course-profiles/browse-all.html"
 
 # Viewer files shared by every edition.
 VIEWER_ASSETS = ["app.js", "styles.css"]
@@ -229,7 +229,7 @@ def main(argv=None) -> int:
                     help="landing button target for the UQBS edition browser")
     ap.add_argument("--all-url", default=DEFAULT_ALL_URL,
                     help="landing button target for the All-UQ edition browser")
-    ap.add_argument("--report-email", default="uqsmitc6@uq.edu.au",
+    ap.add_argument("--report-email", default="learningdesign@business.uq.edu.au",
                     help="recipient for the 'Report an error' button")
     ap.add_argument("--uqbs-self-contained", action="store_true",
                     help="UQBS edition carries its own profile data (no cross-origin fetch)")
