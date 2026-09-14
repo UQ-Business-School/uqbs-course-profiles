@@ -56,7 +56,7 @@ PROFILES_DIR = REPO_ROOT / "profiles"
 
 COURSE_PAGE = "https://programs-courses.uq.edu.au/course.html?course_code={code}"
 JACSON_TREE = "https://api.github.com/repos/uq-course-profiles/jacson/git/trees/main?recursive=1"
-HEADERS = {"User-Agent": "UQBS-LD-team course profile indexer (contact: uqsmitc6@uq.edu.au)"}
+HEADERS = {"User-Agent": "UQBS-LD-team course profile indexer (contact: learningdesign@business.uq.edu.au)"}
 
 # Matches .../course-profiles/MGTS7610-20353-7620 (current system, S2 2024 onwards)
 RE_TRIPLET = re.compile(r"/course-profiles/([A-Z]{4}\d{4}[A-Z]?)-(\d{3,6})-(\d{4})")

@@ -44,7 +44,7 @@ INDEX = REPO / "data" / "offerings-index.json"
 OUT = REPO / "data" / "legacy_html"
 TAXONOMY = REPO / "taxonomy" / "uqbs-programs.json"
 BASE = "https://archive.course-profiles.uq.edu.au/student_section_loader"
-HEADERS = {"User-Agent": "UQBS-LD-team legacy profile archiver (contact: uqsmitc6@uq.edu.au)"}
+HEADERS = {"User-Agent": "UQBS-LD-team legacy profile archiver (contact: learningdesign@business.uq.edu.au)"}
 PRINT_BODY = {f"print_section_{i}": "1" for i in range(1, 8)}
 
 
