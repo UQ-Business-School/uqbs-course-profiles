@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC7830-21062-7620",
-  "scraped_at": "2026-06-02T04:39:33.896550+00:00",
+  "scraped_at": "2026-09-14T09:49:57.320117+00:00",
   "course_code": "PSYC7830",
   "class_code": "21062",
   "semester_code": "7620",
@@ -47,43 +47,35 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Relational skills - Includes ability for empathic understanding, application of basic counselling techniques, and collaborative goal formulation with clients."
+      "description": "Applies and builds scientific knowledge of psychology to inform safe and effective practice Demonstrates foundational knowledge of psychological theories, research methods, and evidence-based practice. Critically evaluates scientific literature, research principles, and culturally informed practice to guide clinical decision-making and professional practice."
     },
     {
       "number": "LO2.",
-      "description": "Assessment Skills - Includes ability to perform adequate assessments in a time efficient and in a personally/socio-culturally sensitive manner. Ability to demonstrate appropriate diagnostic skills, prioritise issues, and assess risk."
+      "description": "Practises ethically and professionally Takes responsibility for professional conduct aligned with ethical standards and legal requirements. Practises within boundaries of competence, manages risks appropriately, and seeks consultation when needed. Demonstrates digital competence."
     },
     {
       "number": "LO3.",
-      "description": "Psychological Testing Competencies - Applies knowledge to correctly select, administer, score and interpret common psychological tests, and to generate psychology reports. Demonstrates knowledge of psychological issues and testing theory"
+      "description": "Exercises professional reflexivity, purposeful and deliberate practice, and self-care Engages in critical self-reflection regarding one’s own culture, values, biases, and their impact on practice. Actively identifies areas for professional development and maintains self-care to sustain effective functioning."
     },
     {
       "number": "LO4.",
-      "description": "Case Conceptualisation - Appropriately integrates information from multiple sources to inform and formulate appropriate case conceptualizations, diagnosis, and generate realistic treatment plans."
+      "description": "Conducts psychological assessments Selects, administers, and interprets culturally appropriate assessment methods across the lifespan. Collaboratively develops goals with clients, formulates results, and provides meaningful feedback based on results."
     },
     {
       "number": "LO5.",
-      "description": "Intervention Competencies - Skilfully implements appropriate, empirically supported treatment interventions, monitors treatment progress and outcomes."
+      "description": "Conducts psychological interventions Implements evidence-based, culturally safe interventions appropriate to client needs and context. Outlines risks and benefits to clients. Regularly evaluates intervention effectiveness and adjusts approaches based on client progress and feedback."
     },
     {
       "number": "LO6.",
-      "description": "Ethical Attitude and Behaviour - Demonstrates knowledge of ethical/professional codes, standards and guidelines, and commitment to their application. Maintains appropriate and respectful boundaries and seeks consultation on ethical issues."
+      "description": "Communicates and relates to others effectively and appropriately Establishes and maintains professional, safe, respectful relationships with clients, colleagues, and stakeholders. Communicates clearly using appropriate modes of delivery (includes digital) and works collaboratively with other professionals."
     },
     {
       "number": "LO7.",
-      "description": "Scientist Practitioner Approach - Demonstrates knowledge of theoretical and research evidence related to diagnosis, assessment and intervention. Shows respect for scientific methods and empirical evidence and commitment to their application to clinical practice."
+      "description": "Demonstrates a health equity and human rights approach when working with people from diverse groups Works inclusively and respectfully with people from diverse backgrounds, recognising intersecting forms of diversity. Understands and applies cultural responsiveness, trauma-informed care, and adapts practice to meet diverse client needs."
     },
     {
       "number": "LO8.",
-      "description": "Professionalism - Demonstrates effective organisation and time management. Clear and professional expressive skills, professional dress and demeanour. Good interactional skills with colleagues and other professionals."
-    },
-    {
-      "number": "LO9.",
-      "description": "Reflective Practice - Demonstrates self-care, self- awareness and reflectivity reflection on own emotions, beliefs, values and behaviour and their effect on others. Appropriately self corrects when required."
-    },
-    {
-      "number": "LO10.",
-      "description": "Response to Supervision - Demonstrates good preparation and collaboration within supervision, openness to and effective use of feedback. Ability to self-reflect and self-evaluate accurately."
+      "description": "Demonstrates a health equity and human rights approach when working with Aboriginal and Torres Strait Islander Peoples, families and communities Understands the historical and ongoing impacts of colonisation and applies culturally safe, trauma-informed practice. Works in partnership with Aboriginal and Torres Strait Islander peoples, respecting self-determination and consulting appropriately."
     }
   ],
   "assessment_summary": [

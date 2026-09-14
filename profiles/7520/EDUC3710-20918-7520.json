@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/EDUC3710-20918-7520",
-  "scraped_at": "2026-06-04T01:35:38.007885+00:00",
+  "scraped_at": "2026-09-14T06:48:52.024412+00:00",
   "course_code": "EDUC3710",
   "class_code": "20918",
   "semester_code": "7520",
@@ -33,19 +33,19 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Mrs Skye Playsted",
+      "name": "Dr Skye Playsted",
       "email": "s.playsted@uq.edu.au"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Mrs Skye Playsted",
+      "name": "Dr Skye Playsted",
       "email": "s.playsted@uq.edu.au"
     },
     {
       "role": "Tutor",
-      "name": "Mrs Skye Playsted",
+      "name": "Dr Skye Playsted",
       "email": "s.playsted@uq.edu.au"
     }
   ],

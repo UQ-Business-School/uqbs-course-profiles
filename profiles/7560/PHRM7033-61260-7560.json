@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHRM7033-61260-7560",
-  "scraped_at": "2026-06-04T02:35:05.300417+00:00",
+  "scraped_at": "2026-09-14T09:13:10.378547+00:00",
   "course_code": "PHRM7033",
   "class_code": "61260",
   "semester_code": "7560",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "Dutton Park",
   "coordinating_unit": "Pharmacy and Pharmaceutical Sciences School",
-  "course_description": "This course aims to further extend the student's practice of clinical pharmacy and to integrate the skills and knowledge developed in PHRM7031 and PHRM7010, The student will demonstrate their ability to take responsibility for ensuring optimal prevention of VTE and drug management in people at the extremes of age (paediatrics and geriatrics), and people suffering with cancer, terminal illness (palliative care), kidney disease, liver disease or diseases of the gastrointestinal tract.\n\nThis course is delivered entirely online. Students will complete three online Modules across the semester. Attendance and presentation at three online tutorials (one per module) is expected.\n\nAn introductory online tutorial will be held on Thursday of Orientation Week (O-Week) from 7 - 8pm Queensland time (AEST GMT+10).",
+  "course_description": "This course aims to further extend the student's practice of clinical pharmacy and to integrate the skills and knowledge developed in PHRM7031 and PHRM7010, The student will demonstrate their ability to take responsibility for ensuring optimal prevention of VTE and drug management in people at the extremes of age (paediatrics and geriatrics), and people with terminal illness (palliative care), kidney disease, liver disease or diseases of the gastrointestinal tract.\n\nThis course is delivered entirely online. Students will complete three online Modules across the semester. Attendance and presentation at three online tutorials (one per module) is expected.\n\nAn introductory online tutorial will be held on Thursday of Orientation Week (O-Week) from 7 - 8pm Queensland time (AEST GMT+10).",
   "requirements": {
     "prerequisites": [
       "You'll need to complete the following courses before enrolling in this one:",
@@ -47,7 +47,7 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Access, interpret, critically appraise, and communicate current best evidence to apply to the treatment of patients with pain, cancer, terminal illness, chronic kidney disease, liver and gastrointestinal diseases."
+      "description": "Access, interpret, critically appraise, and communicate current best evidence to apply to the treatment of patients with pain, terminal illness, chronic kidney disease, liver and gastrointestinal diseases."
     },
     {
       "number": "LO2.",
@@ -63,7 +63,7 @@
     },
     {
       "number": "LO5.",
-      "description": "Use a systematic and respectful approach to collect clinical information, identify and prioritise problems, develop and defend solutions to identified problems for complex patients."
+      "description": "Use a systematic and respectful approach to collect clinical information, identify and prioritise problems, and develop and defend solutions to identified problems for complex patients."
     },
     {
       "number": "LO6.",
@@ -71,7 +71,7 @@
     },
     {
       "number": "LO7.",
-      "description": "Learn from and with your peers to share ideas, provide and receive honest constructive feedback, and demonstrate team management skills to complete joint projects."
+      "description": "Learn from and with your peers to share ideas, provide and receive honest, constructive feedback, and demonstrate team management skills to complete joint projects."
     },
     {
       "number": "LO8.",

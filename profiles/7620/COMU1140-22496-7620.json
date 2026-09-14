@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/COMU1140-22496-7620",
-  "scraped_at": "2026-06-02T04:23:25.732786+00:00",
+  "scraped_at": "2026-09-14T06:11:11.904622+00:00",
   "course_code": "COMU1140",
   "class_code": "22496",
   "semester_code": "7620",
@@ -45,7 +45,7 @@
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nWhilst every effort is made to place students in their preferred activity, it is not always possible for a student to be enrolled in their tutorial of choice. If you require assistance, please ensure that you email\ntimetabling.commarts@enquire.uq.edu.au\nfrom your\nUQ student email\nwith:\nYour name\nYour student ID\nThe course code\nA list of three tutorial preferences (in order of preference)\nReason for the change – e.g. timetable clash, elite athlete status, SAP\nTeaching staff do not have access to change tutorials or help with timetables; all timetabling changes must be processed through the Timetabling Team.\nACTIVITIES ASSOCIATED WITH THIS COURSE\n1 Tutorials:\nTutorials are where you discuss ideas with your colleagues and tutors and get feedback on your work. Please ensure that you successfully sign up for a tutorial (T Group) in Allocate by the first week of class and show up to that same tutorial and that tutorial only throughout the semester. Tutorials commence in Week 2. If you show up to a tutorial you are not enrolled in, you will be asked to leave. This is because the main assessment for this course is a group project and we need to keep the same people in their assigned tutorial over the semester.\nThe tutorials are organised around smaller cohorts (20-25 students) and will involve more hands-on group exercises and learning that incorporates ongoing tutor feedback. If you do not attend any tutorials by Tutorial 4, you will be in danger of failing the course entirely and may be advised to withdraw.\nEach week, you are asked to complete a module on Blackboard and come to the tutorial prepared. The modules introduce key concepts in narrative theory, transmedia theory, and how to work across multiple media formats. They also give you important case studies of existing transmedia stories that will help you generate ideas for your own work.\nMissing tutorials:\nWhen you skip class, it leaves your team members in a difficult situation, and you miss important information and discussions designed to help you do well in the assessments. There is a strong correlation between students who do well in the assessments and those who attend tutorials.\n2 Lectures:\nWe have face to face lectures starting in Week 1. The lectures will also be available as video recordings on Blackboard, after their scheduled time. Please try to attend lectures in person. This is another opportunity to engage with other students and ask questions to the lecturer.\n3 Production Skills Workshops:\nTutorials centre on group work and conceptual ideas introduced in the course material. The main technical nitty-gritty software skills are taught through workshops offered by an on-campus department called\nJactech\nand this will be discussed in further detail at the first lecture.\n4 Be on top of the Course Activities\nFailing to engage with the online components of the course or the technical skills learning resources available to you will reflect in poor performance on your assignments.\nMissing tutorials regularly will result in poor performance in the assignments as well as negative peer assessment from your team members.",
-  "course_aims": "The course teaches you to spread a transmedia story-world across multiple media platforms with purpose and criticality, matching media content to the media platform that suits it best. This class involves working in groups to develop and ultimately pitch your cross platform story-world.",
+  "course_aims": "This course develops your capacity to work purposefully and critically across multiple media platforms, building the analytical and creative skills to select, adapt, and distribute content in ways that serve both the story and the audience. Working in creative teams, you will design and develop an original transmedia storyworld from concept to execution.",
   "learning_outcomes": [
     {
       "number": "LO1.",
@@ -53,7 +53,7 @@
     },
     {
       "number": "LO2.",
-      "description": "Work effectively in creative teams to pitch a multimedia storyworld in the form of a formal presentation involving all team members."
+      "description": "Collaborate effectively in creative teams across the full semester, with documented individual contribution to group concept development."
     },
     {
       "number": "LO3.",
@@ -61,7 +61,7 @@
     },
     {
       "number": "LO4.",
-      "description": "Critically explain and justify creative decisions in a media portfolio through application of transmedia concepts and relevant theoretical ideas covered in the course."
+      "description": "Critically justify creative decisions, including reflection on authentic authorship, applying transmedia concepts and relevant theoretical ideas covered in the course."
     }
   ],
   "assessment_summary": [

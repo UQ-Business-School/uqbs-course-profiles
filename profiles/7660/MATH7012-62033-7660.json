@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MATH7012-62033-7660",
-  "scraped_at": "2026-09-07T06:10:52.985709+00:00",
+  "scraped_at": "2026-09-14T08:18:23.856194+00:00",
   "course_code": "MATH7012",
   "class_code": "62033",
   "semester_code": "7660",
@@ -98,6 +98,7 @@
       "other_conditions": "Student specific. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "The progress report should contain (*) a substantially complete literature review, (*) a draft outline of the thesis. (e.g. chapters and titles), and (*) a realistic schedule of tasks to be completed in the remainder of the time. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "An electronic version is required, preferably in PDF format. The file is to be submitted to the Blackboard system.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -112,6 +113,7 @@
       "other_conditions": "Student specific, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "The aim of the seminar is to explain the project to a general mathematical audience that includes all your fellow graduate students and members of staff. At least the first half of the talk should be understandable by everyone. The last few minutes may be a little more technical and explain the project’s contributions to experts. The seminar should last for about 20 minutes leaving about 5 minutes for questions. This assessment item is not eligible for a remark due to it being independently marked by two examiners as per university policy. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "The seminar should be video recorded. The video record could be submitted to the Blackboard system, or saved by the supervisor for one year.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "special_indicators": [
@@ -128,6 +130,7 @@
       "other_conditions": "Student specific. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L05",
       "task_description": "There is no formal page limit, typically the thesis is up to 100 pages long. No formatting or referencing style is formally prescribed, but formatting and referencing should be clear, be used consistently, and be in accordance with the standard practices of the discipline. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "An electronic version is required, preferably in PDF format. The file is to be submitted to the Blackboard system.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -142,6 +145,7 @@
       "other_conditions": "Student specific, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L03, L05, L06",
       "task_description": "Students will be interviewed by a committee and required to answer questions regarding their research project. This assessment item is not eligible for a remark due to it being independently marked by two examiners as per university policy. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "The thesis defense should be video recorded and the recording must be uploaded to Blackboard within 48 hours of the defense. If no recording is uploaded then you will receive 0 marks for the defense.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension and deferred examination information relating to this assessment item.\nBased on the current due time, the 7-day extension constitutes the maximum allowance the teaching team can offer, ensuring sufficient time for moderation, and score uploading, regardless of approved extensions.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "special_indicators": [

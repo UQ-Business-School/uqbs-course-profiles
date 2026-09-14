@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/COMS7309-61072-7560",
-  "scraped_at": "2026-06-04T02:16:13.345169+00:00",
+  "scraped_at": "2026-09-14T06:10:29.965473+00:00",
   "course_code": "COMS7309",
   "class_code": "61072",
   "semester_code": "7560",
@@ -36,7 +36,7 @@
     },
     {
       "role": "Lecturer",
-      "name": "Dr Syed Naqvi"
+      "name": "Dr Akbar Naqvi"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",

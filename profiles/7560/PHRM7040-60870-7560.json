@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHRM7040-60870-7560",
-  "scraped_at": "2026-06-04T02:35:06.427012+00:00",
+  "scraped_at": "2026-09-14T09:13:16.827869+00:00",
   "course_code": "PHRM7040",
   "class_code": "60870",
   "semester_code": "7560",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "Dutton Park",
   "coordinating_unit": "Pharmacy and Pharmaceutical Sciences School",
-  "course_description": "In this course, you will build upon your knowledge and skills to continue to advance your learning journey in cultural safety and delivering person-centred care; and explore interprofessional collaborative practice and aspects of digital health in the contemporary health system.\n\nThis course is delivered entirely online. Students will complete three online Modules across the semester. Attendance and presentation at three online workshops (one per module) is expected.\n\nAn introductory online seminar will be held on Thursday of Week 1 at 6-7pm Queensland time (AEST GMT+10).",
+  "course_description": "In this course, you will build upon your knowledge and skills to continue to advance your learning journey in cultural safety and delivering person-centred care, and explore interprofessional collaborative practice and aspects of digital health in the contemporary health system.\n\nThis course is delivered entirely online. Students will complete three online Modules across the semester. Attendance and presentation at three online workshops (one per module) is expected.\n\nAn introductory online seminar will be held on Thursday of Week 1 at 6-7pm Queensland time (AEST GMT+10).",
   "requirements": {
     "restrictions": [
       "This course is restricted to students enrolled in the Graduate Certificate in Pharmacy Practice, Graduate Certificate in Clinical Pharmacy, or Master of Clinical Pharmacy."
@@ -50,7 +50,7 @@
     },
     {
       "number": "LO4.",
-      "description": "Reflect on opportunities for enabling interprofessional collaborative practice, and empowering patients/consumers to become active participants in their own care."
+      "description": "Reflect on opportunities for enabling interprofessional collaborative practice and empowering patients/consumers to become active participants in their own care."
     },
     {
       "number": "LO5.",
@@ -58,7 +58,7 @@
     },
     {
       "number": "LO6.",
-      "description": "Apply awareness of the benefits and risks of digital health systems, to analyse and critically evaluate current and emerging technologies and trends in digital health."
+      "description": "Apply awareness of the benefits and risks of digital health systems to analyse and critically evaluate current and emerging technologies and trends in digital health."
     }
   ],
   "assessment_summary": [

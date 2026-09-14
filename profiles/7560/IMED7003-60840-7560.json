@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/IMED7003-60840-7560",
-  "scraped_at": "2026-06-04T02:26:26.637288+00:00",
+  "scraped_at": "2026-09-14T07:50:18.298875+00:00",
   "course_code": "IMED7003",
   "class_code": "60840",
   "semester_code": "7560",
@@ -41,31 +41,27 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Understand the value of dermatoscopy as an integral part of the clinical assessment of pigmented and non-pigmented skin tumours."
+      "description": "Apply in-depth knowledge of clinical signs and diagnostic approaches for suspicious skin lesions."
     },
     {
       "number": "LO2.",
-      "description": "Confidently describe the key dermatoscopy features of skin lesions using descriptive/Kittlerian terminology."
+      "description": "Integrate clinical and dermatoscopic data in decision-making to formulate accurate diagnoses."
     },
     {
       "number": "LO3.",
-      "description": "Confidently and safely identify suspicious skin lesions requiring biopsy using the 'Chaos and Clues' algorithm for pigmented lesions and 'Prediction Without Pigment' algorithm for non-pigmented lesions."
+      "description": "Collaborate in interdisciplinary environments for coordinated patient assessment."
     },
     {
       "number": "LO4.",
-      "description": "Confidently make lesion-specific diagnosis for a wide range of skin lesions either by pattern recognition or by formal pattern analysis."
+      "description": "Acknowledge social and cultural factors influencing patient presentation and care."
     },
     {
       "number": "LO5.",
-      "description": "Confidently assess, diagnose and manage the range of skin lesions which commonly present to skin cancer practitioners."
+      "description": "Clearly communicate clinical findings to support shared decision-making."
     },
     {
       "number": "LO6.",
-      "description": "Make predictably safe initial management decisions for the less common and rare skin lesions which may present to skin cancer practitioners."
-    },
-    {
-      "number": "LO7.",
-      "description": "Demonstrate understanding of basic statistical concepts relevant to appraising journal articles on skin cancer."
+      "description": "Apply ethical decision-making in ambiguous or complex diagnostic situations."
     }
   ],
   "assessment_summary": [

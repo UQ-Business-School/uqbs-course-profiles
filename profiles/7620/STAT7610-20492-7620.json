@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/STAT7610-20492-7620",
-  "scraped_at": "2026-06-02T04:42:25.509781+00:00",
+  "scraped_at": "2026-09-14T10:28:34.800844+00:00",
   "course_code": "STAT7610",
   "class_code": "20492",
   "semester_code": "7620",
@@ -43,7 +43,7 @@
     },
     {
       "number": "LO2.",
-      "description": "Develop and analytically describe an appropriate model for longitudinal or correlated data based on subject matter considerations;"
+      "description": "Develop and analytically describe appropriate models for longitudinal and correlated data based on subject matter considerations;"
     },
     {
       "number": "LO3.",

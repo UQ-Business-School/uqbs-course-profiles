@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC7043-60733-7460",
-  "scraped_at": "2026-06-04T01:15:42.012152+00:00",
+  "scraped_at": "2026-09-14T09:45:33.274727+00:00",
   "course_code": "PSYC7043",
   "class_code": "60733",
   "semester_code": "7460",
@@ -27,7 +27,7 @@
     {
       "role": "Course coordinator",
       "name": "Professor Vanessa Cobham",
-      "email": "vanessa@psy.uq.edu.au",
+      "email": "v.cobham@uq.edu.au",
       "phone": "+61 7 3346 9911"
     }
   ],
@@ -35,7 +35,7 @@
     {
       "role": "Lecturer",
       "name": "Professor Vanessa Cobham",
-      "email": "vanessa@psy.uq.edu.au"
+      "email": "v.cobham@uq.edu.au"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTraining in Primary Care Triple P is a compulsory element of this course and occurs on the Monday and Tuesday of Orientation Week.",

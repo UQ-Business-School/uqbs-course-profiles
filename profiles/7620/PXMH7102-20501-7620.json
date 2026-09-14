@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PXMH7102-20501-7620",
-  "scraped_at": "2026-06-02T04:40:17.239299+00:00",
+  "scraped_at": "2026-09-14T09:59:25.790543+00:00",
   "course_code": "PXMH7102",
   "class_code": "20501",
   "semester_code": "7620",
@@ -83,16 +83,16 @@
       "due_date": "20/04/2026 5:00 pm"
     },
     {
-      "category": "Participation/ Student contribution",
-      "title": "Ethical Practice Tutorial",
-      "weight": "10%",
-      "due_date": "13/04/2026 - 6/05/2026"
-    },
-    {
       "category": "Presentation",
       "title": "Ethical Safeguards",
       "weight": "30%",
       "due_date": "11/05/2026 - 27/05/2026"
+    },
+    {
+      "category": "Participation/ Student contribution",
+      "title": "Ethical Practice Tutorial",
+      "weight": "10%",
+      "due_date": "13/04/2026 - 6/05/2026"
     }
   ],
   "assessment_details": [
@@ -105,6 +105,7 @@
       "due_date": "23/03/2026 5:00 pm",
       "learning_outcomes_assessed": "L01",
       "task_description": "Students will complete a written report based on an interview with a consumer or carer who has engaged with mental health, psychotherapy, counselling, or art therapy services. The purpose of the task is to explore real experiences of care, including examples of both respectful/effective and less helpful practices, and to reflect on the implications for ethical, person-centred practice. The report must demonstrate sensitive engagement with the interviewee, integrate their narrative meaningfully, and include a structured personal reflection on the learning gained from the interview process. Students must attach a signed consent form in Appendix A, confirming the interviewee understood the purpose of the interview and agreed to participate. Students must also include original interview notes in Appendix B, in order to support academic integrity and authorship. Word limit: 1,500 words (+/- 10%) Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submitted through Turnitin on the Learn.UQ (Blackboard) site\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0."
@@ -118,35 +119,40 @@
       "due_date": "20/04/2026 5:00 pm",
       "learning_outcomes_assessed": "L02, L03",
       "task_description": "Length: 2,500 words (+/- 10%, excluding appendix) Students will prepare a written essay in two parts that develops an individual ethical decision-making framework for mental health practice and critically reflects on the use of this framework in conjunction with generative artificial intelligence (AI). The task is designed to deepen students’ understanding of ethical theory, professional values, and real-world decision-making processes, while also encouraging critical evaluation of the emerging role of AI in mental health practice. PART 1: Ethical Framework Development Students will conduct a literature review drawing on ethical theory, professional codes, regulatory expectations, and relevant mental health ethics literature. Using this evidence base, students will develop and justify a personalised ethical decision-making framework tailored to their professional identity and therapeutic context. The framework should be original, theoretically supported, and structured as a practical step-by-step model for guiding future ethical decisions in mental health practice. PART 2: Applied Reflection & AI Analysis Students will apply their ethical framework to a hypothetical ethical dilemma provided in the course and will input their framework into a generative AI tool to explore how AI interprets, applies, or distorts their model. Students will then critically analyse the strengths, limitations, and ethical risks associated with AI-mediated decision making, including potential issues around bias, confidentiality, professional judgement, clinical nuance, and client safety. Students will conclude this section with a reflective statement articulating their professional position on whether, when, and how AI could be ethically incorporated into mental health practice. Appendix Requirement: All AI prompts and AI-generated outputs must be submitted in an appendix. Students must clearly distinguish their own ideas, interpretation, and reasoning within the essay from any AI-generated material. Failure to include prompts/output may result in academic penalty. Read full task description Hide full task description",
-      "submission_guidelines": "Submitted through Turnitin on the course Learn.UQ (Blackboard) site\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Submitted through Turnitin on the course Learn.UQ (Blackboard) site\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
-      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "ai_statement": "Length: 2,500 words (+/- 10%, excluding appendix) Students will prepare a written essay in two parts that develops an individual ethical decision-making framework for mental health practice and critically reflects on the use of this framework in conjunction with generative artificial intelligence (AI). The task is designed to deepen students’ understanding of ethical theory, professional values, and real-world decision-making processes, while also encouraging critical evaluation of the emerging role of AI in mental health practice. PART 1: Ethical Framework Development Students will conduct a literature review drawing on ethical theory, professional codes, regulatory expectations, and relevant mental health ethics literature. Using this evidence base, students will develop and justify a personalised ethical decision-making framework tailored to their professional identity and therapeutic context. The framework should be original, theoretically supported, and structured as a practical step-by-step model for guiding future ethical decisions in mental health practice. PART 2: Applied Reflection & AI Analysis Students will apply their ethical framework to a hypothetical ethical dilemma provided in the course and will input their framework into a generative AI tool to explore how AI interprets, applies, or distorts their model. Students will then critically analyse the strengths, limitations, and ethical risks associated with AI-mediated decision making, including potential issues around bias, confidentiality, professional judgement, clinical nuance, and client safety. Students will conclude this section with a reflective statement articulating their professional position on whether, when, and how AI could be ethically incorporated into mental health practice. Appendix Requirement: All AI prompts and AI-generated outputs must be submitted in an appendix. Students must clearly distinguish their own ideas, interpretation, and reasoning within the essay from any AI-generated material. Failure to include prompts/output may result in academic penalty. Read full task description Hide full task description\nStudents will prepare a written essay in two parts that develops an individual ethical decision-making framework for mental health practice and critically reflects on the use of this framework in conjunction with generative artificial intelligence (AI). The task is designed to deepen students’ understanding of ethical theory, professional values, and real-world decision-making processes, while also encouraging critical evaluation of the emerging role of AI in mental health practice.\nStudents will apply their ethical framework to a hypothetical ethical dilemma provided in the course and will input their framework into a generative AI tool to explore how AI interprets, applies, or distorts their model. Students will then critically analyse the strengths, limitations, and ethical risks associated with AI-mediated decision making, including potential issues around bias, confidentiality, professional judgement, clinical nuance, and client safety. Students will conclude this section with a reflective statement articulating their professional position on whether, when, and how AI could be ethically incorporated into mental health practice."
     },
     {
       "id": "assessment-detail-2",
-      "title": "Ethical Practice Tutorial",
-      "mode": "Activity/ Performance, Oral",
-      "category": "Participation/ Student contribution",
-      "weight": "10%",
-      "due_date": "13/04/2026 - 6/05/2026",
-      "learning_outcomes_assessed": "L01, L02, L03, L04",
-      "task_description": "Across Weeks 7–10, students will participate in Ethical Practice Tutorials designed to explore how ethical principles translate into real-world mental health work. Each student will be assigned to one tutorial week in which they will contribute to the teaching process by presenting a short, de-identified practice case example that illustrates the ethical theme for that week. For their allocated week, students will briefly outline the case, highlight the relevant ethical principles drawn from the assigned readings, and engage in a tutor-led Q&A discussion to demonstrate understanding and application of ethical ideas. While only the allocated week is formally assessed, all students are encouraged to contribute to discussions across the tutorial series to support an interactive and collegial learning environment. Assessment will consider: • the clarity and relevance of the case example to the ethical theme • demonstrated integration of core readings and ethical theory • ability to engage with questions and discussion in their allocated week Confidentiality requirement: All case material must be fully de-identified and free of information that could reasonably identify clients, settings, or organisations. Composite cases may be used where necessary to protect confidentiality. Read full task description Hide full task description",
-      "submission_guidelines": "Submission will occur during an assigned tutorial time, to be discussed with your tutor.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThose who are unable to attend and have an approved extension will be provided with a date for an oral examination outside of tutorial times.",
-      "deferral_or_extension": "You may be able to apply for an extension ."
-    },
-    {
-      "id": "assessment-detail-3",
       "title": "Ethical Safeguards",
       "mode": "Activity/ Performance",
       "category": "Presentation",
       "weight": "30%",
       "due_date": "11/05/2026 - 27/05/2026",
+      "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "Ethical mental health practice requires proactive planning and preventative safeguards to reduce the likelihood of future ethical dilemmas. For this assessment students will design an original ethical safeguard (e.g., clinical guideline, policy or structured protocol) relevant to their area of mental health practice. The safeguard should reflect the student's own original thinking and be informed by relevant ethical theory, professional codes and research evidence. Students will present their safeguard to the class in a brief 10-minute presentation , outlining: the ethical issue or context the safeguard addresses, the rationale underpinning their guideline or policy, and important limitations, caveats, and implementation considerations. Following the presentation, students will engage in a 5-minute Q&A , responding to questions about the conceptual basis, applicability, and ethical reasoning underpinning their safeguard. The Q&A is designed to strengthen authorship security and give students the opportunity to demonstrate genuine understanding of the ethical and practical implications of their proposed safeguard. Read full task description Hide full task description",
-      "submission_guidelines": "Submit slides for presentation on Week 11, 11/05/2026\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0.",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "submission_guidelines": "Submit slides for presentation on Week 11, 11/05/2026\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
-      "late_submission": "A penalty of 1 grade for each 24 hour period from time submission is due will apply for up to 7 days. After 7 days you will receive a mark of 0."
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-3",
+      "title": "Ethical Practice Tutorial",
+      "mode": "Activity/ Performance, Oral",
+      "category": "Participation/ Student contribution",
+      "weight": "10%",
+      "due_date": "13/04/2026 - 6/05/2026",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "Across Weeks 7–10, students will participate in Ethical Practice Tutorials designed to explore how ethical principles translate into real-world mental health work. Each student will be assigned to one tutorial week in which they will contribute to the teaching process by presenting a short, de-identified practice case example that illustrates the ethical theme for that week. For their allocated week, students will briefly outline the case, highlight the relevant ethical principles drawn from the assigned readings, and engage in a tutor-led Q&A discussion to demonstrate understanding and application of ethical ideas. While only the allocated week is formally assessed, all students are encouraged to contribute to discussions across the tutorial series to support an interactive and collegial learning environment. Assessment will consider: • the clarity and relevance of the case example to the ethical theme • demonstrated integration of core readings and ethical theory • ability to engage with questions and discussion in their allocated week Confidentiality requirement: All case material must be fully de-identified and free of information that could reasonably identify clients, settings, or organisations. Composite cases may be used where necessary to protect confidentiality. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "submission_guidelines": "Submission will occur during an assigned tutorial time, to be discussed with your tutor.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThose who are unable to attend and have an approved extension will be provided with a date for an oral examination outside of tutorial times.",
+      "deferral_or_extension": "You may be able to apply for an extension ."
     }
   ],
   "learning_resources": {

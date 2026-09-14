@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BIOL1630-61181-7560",
-  "scraped_at": "2026-06-04T02:12:30.859652+00:00",
+  "scraped_at": "2026-09-14T05:33:49.987458+00:00",
   "course_code": "BIOL1630",
   "class_code": "61181",
   "semester_code": "7560",
@@ -34,15 +34,14 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Professor Andrew Cresswell",
-      "email": "a.cresswell@uq.edu.au",
-      "phone": "+61 7 3365 6769"
+      "name": "Prof Andrew Cresswell",
+      "email": "a.cresswell@uq.edu.au"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Professor Andrew Cresswell"
+      "name": "Prof Andrew Cresswell"
     },
     {
       "role": "Tutor",
@@ -138,8 +137,10 @@
       "category": "Practical/ Demonstration",
       "weight": "12% (6 x practical tasks @ 2% each)",
       "due_date": "(Online) Week 1 28/07/2025 - 1/08/2025 (In-person) Week 3 11/08/2025 - 15/08/2025 (In-person) Week 5 25/08/2025 - 29/08/2025 (In-person) Week 6 1/09/2025 - 5/09/2025 (In-person) Week 8 15/09/2025 - 19/09/2025 (In-person) Week 9 22/09/2025 - 26/09/2025 Completed during timetabled practical.",
+      "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "There are 6 practical sessions. The first practical is conducted online and must be completed in Week 1, prior to the first lecture. The following 5 practicals require in-person attendance and active participation to complete the associated practical task. Use of generative Artificial Intelligence (AI) or Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nPlease refer to ' Additional Assessment Information ' for instructions on what to do if you are absent from a practical.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
@@ -156,9 +157,11 @@
       "category": "Examination",
       "weight": "35%",
       "due_date": "In-semester Saturday 6/09/2025 - 20/09/2025",
+      "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "This exam covers all content (lectures and laboratories from Weeks 1-5) There will be a combination of multiple choice, short answer, calculation questions and various matching type questions and each student will get a random set of questions. To ensure you are well prepared for the exam, we suggest you complete the tutorial questions available in blackboard, as well as read and relevant sections from the recommended text. Revise what was also covered in the practical. Use of generative Artificial Intelligence (AI) or Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
-      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials Unmarked language dictionary Exam platform Paper based Invigilation Invigilated in person",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Materials Unmarked language dictionary Exam platform Inspera Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
       "deferral_or_extension": "You may be able to defer this exam .",
       "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
@@ -177,6 +180,7 @@
       "due_date": "24/10/2025 5:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "This assignment will require you to demonstrate how your biomechanical knowledge and skills can be used to analyse, interpret and communicate biomechanical data for the purposes of performance enhancement, injury prevention or training in health and disease. Group component Your group needs to select one of the movement scenarios provided (see the 'Scenarios' in Blackboard). Each scenario has a number of videos relevant to the scenario that can be analysed. The group will be required to define the main aim of the analysis and define the quantitative or qualitative variables or principles that you will analyse in any number of the provided videos. The group will then perform a quantitative and/or qualitative analysis based on the video/s and present any key findings. You will have to submit a group report outlining the following - Clearly define the aim of your analysis, including a breakdown of any key biomechanical principles that will contribute to your analysis. Analyse the motion using appropriate anatomical and biomechanical principles using measurement tools within a video analysis software package, to provide a biomechanical description of the motion. Present the analysis within a document describing the aims, breakdown of movement and analysis/calculations and any appropriate graphical representation of the analysis. A basic template for the report will be provided for this submission. Analysis component (600 word maximum) The analysis component is divided into two main sections: Interpretation of data and recommendations: You will need to interpret the data that you have collected and analysed with your group and provide key outcomes of the analysis with respect to the aims outlined. You should interpret this data with respect to biomechanical theory or any relevant research literature (appropriately cited) and provide recommendations or potential intervention strategies based on the scenario requirements or highlight key limitations in the approach and/or future directions for investigation. Reflection on practice: Provide a brief reflection of how the group see the skills you have learnt in this assignment, or in the course more generally, for conducting a movement analysis might be able to add to the needs of a client, colleague or student. Your group assignment will be graded based on both the group component and analysis components. There will also be peer assessment of your contribution to the group, which will be decided by the other members of your group. Please ensure you include a grade (0-3) for each of the individual group members contribution based on the criteria Group Work Contribution criteria, which can be found below. e.g. Group Work Contribution: Jill Bliggs = 3, Joe Bloggs = 3, Issac Newton = 2. You may wish to include some justification for the scores you leave, particularly if you give a very low score to an individual student. DO NOT PROVIDE A GRADE FOR YOURSELF. Resources: The software package for the video analysis is called Kinovea (www.kinovea.org) and is a freely available software package for Windows. This is also available at all library computers. You will need to ensure that at least one person in your group has access to a Windows machine to conduct the analysis, or that students in your group have physical access to the UQ library. Use of generative Artificial Intelligence (AI) or Machine Translation (MT) This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Your report must be submitted via Blackboard by only one of your group members. Please ensure all group members are identified on the first page.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nExtensions for group work assessment may be available and will require a single request submitted with agreement from at least 50% of the members of the group, and recognition of potential impacts on the other group members. Download and complete the form below, and attach this form to your extension request: Extension of Group Assessment - Group Member Acknowledgement (PDF, 144.9 KB)\nStudent Access Plans for an individual student do not guarantee an extension for the assessment item. Extension Verification Letters cannot be used for group-based assessments and activities.\nDysfunctional group dynamics, poor performance by individual group members, or illness or other issues of a group member are generally not considered sufficient grounds for an extension on submission of a group assessment item. These issues should be actively managed by the group and the Course Coordinator as appropriate, during semester.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -192,9 +196,11 @@
       "category": "Examination",
       "weight": "35%",
       "due_date": "End of Semester Exam Period 8/11/2025 - 22/11/2025",
+      "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "This exam covers all content (lectures and laboratories from Weeks 7-12) There will be a combination of multiple choice, short answer, calculation questions and various matching type questions and each student will get a random set of questions. To ensure you are well prepared for the exam, we suggest you complete the tutorial questions available in blackboard, as well as read and relevant sections from the recommended text. Revise what was also covered in the practical. Use of generative Artificial Intelligence (AI) or Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
-      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Inspera Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
       "deferral_or_extension": "You may be able to defer this exam .",
       "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
@@ -390,7 +396,7 @@
     },
     {
       "learning_period": "Week 13 (27 Oct - 02 Nov)",
-      "activity_type": "Team Based Learning",
+      "activity_type": "Not Timetabled",
       "topic": "Group Assignment/Project Submission of group video analysis project (Friday 5pm) Learning outcomes: L01, L02, L03, L04",
       "learning_outcomes": [
         "L01",

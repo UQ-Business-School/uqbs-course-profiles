@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MEDI7200-20191-7620",
-  "scraped_at": "2026-06-02T04:33:21.222668+00:00",
+  "scraped_at": "2026-09-14T08:25:15.691562+00:00",
   "course_code": "MEDI7200",
   "class_code": "20191",
   "semester_code": "7620",
@@ -26,12 +26,15 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Dr Christine Devine",
-      "email": "med.yr2coursecoord@uq.edu.au"
+      "name": "Dr Christine Devine"
     },
     {
       "role": "Course coordinator",
-      "name": "Dr Lea Merone",
+      "name": "Dr Amanda Cuss"
+    },
+    {
+      "role": "Course enquiries",
+      "name": "Course Coordinator",
       "email": "med.yr2coursecoord@uq.edu.au"
     },
     {
@@ -48,8 +51,68 @@
   ],
   "course_staff": [
     {
-      "role": "Tutor",
-      "name": "Dr Fiona Watson"
+      "role": "Lecturer",
+      "name": "Associate Professor Devi Mohan"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Sarah Birtwistle"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Kimberly Haladyn"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Robyn Cooke"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Stephen Allison"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Craig Hacking"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Christian Gray"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Bernadette Richards"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Mark Midwinter"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Frederik Steyn"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Suja Pillai"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Peter Simpson"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Sherry Wu"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Mary-Louise Roy Manchadi"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Fahmida Sonya"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Justin Ridge"
     },
     {
       "role": "Tutor",
@@ -69,15 +132,11 @@
     },
     {
       "role": "Tutor",
-      "name": "Ms Maddie Williams"
+      "name": "Dr Maddie Williams"
     },
     {
       "role": "Tutor",
       "name": "Dr Krishna Thilakarathne Bodhipaksha"
-    },
-    {
-      "role": "Tutor",
-      "name": "Dr Anna Balzer"
     },
     {
       "role": "Tutor",
@@ -86,6 +145,14 @@
     {
       "role": "Tutor",
       "name": "Ms Cherie Baars"
+    },
+    {
+      "role": "Tutor",
+      "name": "Associate Professor Eugene Wong"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Therese Ryan"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nSome learning experiences (Clinical Scenario Based Learning, Clinical Plenaries, Integrated Symposia) are generally held at the same time each week; however, the timetable for other learning experiences might vary from one week to another. A considerable amount of learning will occur in clinical environments. Some of these learning experiences will be scheduled and coordinated by individual Learning Communities. Although most of these activities will be timetabled between 8am and 6pm Monday to Friday, some sessions and clinical immersion activities may be scheduled outside this timeframe.\nSome public holidays will have an impact on scheduling learning experiences.\nIn the event of an unexpected disruption that prevents in-person learning experiences from taking place as scheduled, activities may be moved online.",

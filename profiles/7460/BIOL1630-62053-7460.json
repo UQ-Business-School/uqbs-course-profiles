@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BIOL1630-62053-7460",
-  "scraped_at": "2026-06-04T00:48:54.340184+00:00",
+  "scraped_at": "2026-09-14T05:33:48.617909+00:00",
   "course_code": "BIOL1630",
   "class_code": "62053",
   "semester_code": "7460",
@@ -28,15 +28,14 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Professor Andrew Cresswell",
-      "email": "a.cresswell@uq.edu.au",
-      "phone": "+61 7 3365 6769"
+      "name": "Prof Andrew Cresswell",
+      "email": "a.cresswell@uq.edu.au"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Professor Andrew Cresswell",
+      "name": "Prof Andrew Cresswell",
       "email": "a.cresswell@uq.edu.au"
     },
     {

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHTY7953-62616-7560",
-  "scraped_at": "2026-06-04T02:36:01.141531+00:00",
+  "scraped_at": "2026-09-14T09:21:32.503043+00:00",
   "course_code": "PHTY7953",
   "class_code": "62616",
   "semester_code": "7560",
@@ -99,19 +99,23 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Understand exercise induced adaptations and mal-adaptations."
+      "description": "Understand the acute and long‑term physiological adaptations and maladaptations to different types of exercise across the neuromuscular, sensorimotor, cardiorespiratory, and metabolic systems."
     },
     {
       "number": "LO2.",
-      "description": "Demonstrated an advance understanding of the use of exercise in the treatment and prevention of musculoskeletal, occupational and sports injuries and conditions, and chronic disease."
+      "description": "Design individualised, safe and progressive evidence‑based exercise programs for diverse populations with musculoskeletal, occupational, sports, and chronic health conditions."
     },
     {
       "number": "LO3.",
-      "description": "Demonstrate the ability to develop, implement and progress effective exercise programs at individual and population levels with understanding of pathological and adaptive timeframes."
+      "description": "Select appropriate assessment, monitoring, periodisation, workload management and criteria‑driven progression to optimise health outcomes at individual and group levels."
     },
     {
       "number": "LO4.",
-      "description": "Demonstrate the ability to develop and implement appropriate assessments and collection of outcome measure data to guide exercise prescription and progression."
+      "description": "Apply advanced clinical reasoning and behaviour‑change strategies to enhance engagement with exercise programs and support sustainable physical activity participation."
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate and critically reflect on the effectiveness of exercise‑based rehabilitation to improve client outcomes and refine clinical practice."
     }
   ],
   "assessment_summary": [

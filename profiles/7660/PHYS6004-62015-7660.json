@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS6004-62015-7660",
-  "scraped_at": "2026-09-07T06:21:20.440242+00:00",
+  "scraped_at": "2026-09-14T09:25:32.289504+00:00",
   "course_code": "PHYS6004",
   "class_code": "62015",
   "semester_code": "7660",
@@ -61,6 +61,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01",
       "task_description": "Assessments will be specified by the supervising staff member. Assessment items may include the following: problem sets, literature surveys, seminars, exams, etc. The assessment items will be such that none will exceed 60% of the 100% mark, and at least 30% of the course assessment will be secure assessment. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "To be advised by the supervising staff member.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nAvailability of extension or deferral will be advised by the supervising staff member.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "special_indicators": [

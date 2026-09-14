@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/COSC7500-60903-7660",
-  "scraped_at": "2026-09-07T05:50:34.673661+00:00",
+  "scraped_at": "2026-09-14T06:17:25.491029+00:00",
   "course_code": "COSC7500",
   "class_code": "60903",
   "semester_code": "7660",
@@ -101,6 +101,7 @@
       "due_date": "Module 1: 4/09/2026 3:00 pm Module 2: 25/09/2026 3:00 pm Module 3: 16/10/2026 3:00 pm Module 4: 30/10/2026 3:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "Students will work on sets of exercises, one for each of modules 1-4. The exercises will primarily consist of practical computer exercises, but can include mathematical and research tasks as well. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Exercises must be submitted via the course Blackboard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item then the listed penalty will be deducted per day for up to 7 calendar days, at which point any submission will not receive any marks unless an extension has been approved. Each 24-hour block is recorded from the time the submission is due.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -114,6 +115,7 @@
       "due_date": "9/11/2026 3:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "Project on topic of student's choice. Students will submit a written report. Pass/fail oral exams will be conducted for projects that receive a grade of 3 and above. Projects with a grade of 2 or less cannot qualify for an oral exam and the maximum possible grade for the course will be 3. Oral exams will be held during the exam period; times and dates will be individually arranged. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "The written report for the project must be submitted via the course Blackboard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
@@ -132,6 +134,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L04, L05",
       "task_description": "Satisfactory responses to a combination of mandatory and project-specific questions that demonstrate course graduate attributes. Answers must demonstrate good understanding of course material (numerical methods and programming) using the project as a stimulus for discussion. Projects must be awarded a minimum grade of 3 to be eligible for oral assessment. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time no planning time minutes Duration 30 minutes Calculator options No calculators permitted Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted A copy of the submitted written project and code used to generate it Exam platform Other Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
       "deferral_or_extension": "You may be able to apply for an extension .",

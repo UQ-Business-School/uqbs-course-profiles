@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHRM2300-60324-7560",
-  "scraped_at": "2026-06-04T02:34:48.024600+00:00",
+  "scraped_at": "2026-09-14T09:10:32.398023+00:00",
   "course_code": "PHRM2300",
   "class_code": "60324",
   "semester_code": "7560",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "Dutton Park",
   "coordinating_unit": "Pharmacy and Pharmaceutical Sciences School",
-  "course_description": "This course explores the principles, concepts and factors including cultural safety considerations which influence consumer behaviour in relation to health care. It covers the development of professional socialisation, collegiality, and leadership. Students will also learn the essentials of strategic business planning and sustainable business.\n\nIn this course, students will learn what it means for a pharmacist to be socially accountable to consumers, patients and the public. Students will examine arguments relating to professional and business ethics. Finally, students will develop knowledge and skills in relation to pharmacy as a business and reflect on the responsibilities of pharmacists in a retail environment.ﾠ",
+  "course_description": "This course explores the principles, concepts and factors, including cultural safety considerations, that influence consumer behaviour in relation to health care. It covers the development of professional socialisation, collegiality, and leadership. Students will also learn the essentials of strategic business planning and sustainable business.\n\nIn this course, students will learn what it means for a pharmacist to be socially accountable to consumers, patients and the public. Students will examine arguments relating to professional and business ethics. Finally, students will develop knowledge and skills in relation to pharmacy as a business and reflect on the responsibilities of pharmacists in a retail environment.ﾠ",
   "requirements": {
     "restrictions": [
       "Bachelor of Pharmacy (Honours)"
@@ -38,27 +38,27 @@
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
-  "course_aims": "To explore how to manage and lead change in a complex health environment including: understanding change management principles, decision making, managing people, and managing yourself. You will look at applying the social and behavioural science of consumer behaviour and their attitudes to their health and illness to pharmacy practice.",
+  "course_aims": "To explore how to manage and lead change in a complex health environment, including: understanding change management principles, decision making, managing people, and managing yourself. You will apply the social and behavioural science of consumer behaviour and attitudes to health and illness to pharmacy practice.",
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Explore how to manage and lead change in a complex health environment"
+      "description": "Explore how to manage and lead change in a complex health environment."
     },
     {
       "number": "LO2.",
-      "description": "Characterise and debate what it means for a pharmacist to apply social and ethical accountability for providing patient-centred, culturally safe care and services, and respond to health inequity"
+      "description": "Characterise and debate what it means for a pharmacist to apply social and ethical accountability for providing patient-centred, culturally safe care and services, and respond to health inequity."
     },
     {
       "number": "LO3.",
-      "description": "Examine the responsibilities of pharmacists as health professionals working in a business environment"
+      "description": "Examine the responsibilities of pharmacists as health professionals working in a business environment."
     },
     {
       "number": "LO4.",
-      "description": "Apply strategies and approaches that develop culturally safe practice including recognition of the distinct needs of Aboriginal and Torres Strait Islander peoples"
+      "description": "Apply strategies and approaches that develop culturally safe practice, including recognition of the distinct needs of Aboriginal and Torres Strait Islander peoples."
     },
     {
       "number": "LO5.",
-      "description": "Apply social and behavioural science regarding consumer behaviour, health, and illness to pharmacy practice"
+      "description": "Apply social and behavioural science regarding consumer behaviour, health, and illness to pharmacy practice."
     }
   ],
   "assessment_summary": [

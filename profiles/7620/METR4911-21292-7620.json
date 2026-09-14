@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/METR4911-21292-7620",
-  "scraped_at": "2026-06-02T04:33:49.519418+00:00",
+  "scraped_at": "2026-09-14T08:29:27.686003+00:00",
   "course_code": "METR4911",
   "class_code": "21292",
   "semester_code": "7620",
@@ -90,7 +90,7 @@
       "category": "Paper/ Report/ Annotation",
       "title": "Topic Definition",
       "weight": "Pass/Fail",
-      "due_date": "2/03/2026 - 20/03/2026; The Topic Definition must be submitted between Weeks 2 and 4. Submissions will be marked within three days, with feedback provided. Resubmissions are permitted before the due date, and multiple submissions are allowed within the submission window. It is strongly recommended that your initial submission is made well before the end of Week 4 (the final deadline).; You must have submitted a satisfactory Topic Definition by Friday of week 4 to satisfy the hurdle requirement.; To receive a grade of 5 or higher for the Project Proposal, you must complete a satisfactory Topic Definition. If the Topic Definition is not completed to a satisfactory standard, the maximum grade achievable for the Project Proposal will be capped at 4.",
+      "due_date": "2/03/2026 - 20/03/2026; The Topic Definition must be submitted between Weeks 2 and 4. Submissions will be marked within three days, with feedback provided. Resubmissions are permitted before the due date, and multiple submissions are allowed within the submission window. It is strongly recommended that your initial submission is made well before the end of Week 4 (the final deadline).; You must have submitted a satisfactory Topic Definition by 5pm Friday of week 4 to satisfy the hurdle requirement.",
       "conditions": [
         "Hurdle"
       ]
@@ -108,7 +108,7 @@
       "category": "Presentation",
       "title": "Progress Seminar",
       "weight": "15%",
-      "due_date": "11/05/2026 - 15/05/2026",
+      "due_date": "11/05/2026 - 15/05/2026; Slides must be submitted to Blackboard by 5pm Friday of Week 11.",
       "conditions": [
         "Hurdle",
         "Identity Verified"
@@ -127,7 +127,7 @@
       "category": "Paper/ Report/ Annotation",
       "title": "Thesis Plan",
       "weight": "Pass/Fail",
-      "due_date": "3/08/2026 - 21/08/2026; The Thesis Plan must submitted between Weeks 2 and 4. Submissions will be marked within three days, with feedback provided. Resubmissions are permitted before the due deadline, and multiple submissions are allowed within the submission window. It is strongly recommended that your initial submission is made well before the end of Week 4 (the final deadline).; You must have submitted a satisfactory Thesis Plan by Friday of week 4 to satisfy the hurdle requirement.; To receive a grade of 5 or higher for the Thesis Report, you must complete a satisfactory Thesis Plan. If the Thesis Plan is not completed to a satisfactory standard, the maximum grade achievable for the Thesis Report will be capped at 4.",
+      "due_date": "3/08/2026 - 21/08/2026; The Thesis Plan must submitted between Weeks 2 and 4. Submissions will be marked within three days, with feedback provided. Resubmissions are permitted before the due deadline, and multiple submissions are allowed within the submission window. It is strongly recommended that your initial submission is made well before the end of Week 4 (the final deadline).; You must have submitted a satisfactory Thesis Plan by 5pm Friday of week 4 to satisfy the hurdle requirement.",
       "conditions": [
         "Hurdle"
       ]
@@ -175,7 +175,7 @@
       "mode": "Written",
       "category": "Paper/ Report/ Annotation",
       "weight": "Pass/Fail",
-      "due_date": "2/03/2026 - 20/03/2026 The Topic Definition must be submitted between Weeks 2 and 4. Submissions will be marked within three days, with feedback provided. Resubmissions are permitted before the due date, and multiple submissions are allowed within the submission window. It is strongly recommended that your initial submission is made well before the end of Week 4 (the final deadline). You must have submitted a satisfactory Topic Definition by Friday of week 4 to satisfy the hurdle requirement. To receive a grade of 5 or higher for the Project Proposal, you must complete a satisfactory Topic Definition. If the Topic Definition is not completed to a satisfactory standard, the maximum grade achievable for the Project Proposal will be capped at 4.",
+      "due_date": "2/03/2026 - 20/03/2026 The Topic Definition must be submitted between Weeks 2 and 4. Submissions will be marked within three days, with feedback provided. Resubmissions are permitted before the due date, and multiple submissions are allowed within the submission window. It is strongly recommended that your initial submission is made well before the end of Week 4 (the final deadline). You must have submitted a satisfactory Topic Definition by 5pm Friday of week 4 to satisfy the hurdle requirement.",
       "learning_outcomes_assessed": "L03, L04",
       "task_description": "See https://eecs.uq.edu.au/current-students/thesis-coursework-information/assessment This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. You may appropriately use generative AI tools in completing this task but you must reference every instance of any such use of AI. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. You take responsibility for fully understanding any work that you submit; if you cannot reasonably explain or justify any parts of the submission that you were individually responsible for, a significant penalty for this task will apply individually (up to the total number of marks available for this task) as the submission will be considered to have low or no academic merit. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
       "submission_guidelines": "Assignments are to be submitted online via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThis is a Pass/Fail assessment item.\n100% Late Penalty after 1 hour grace period.\nThe one-hour grace period is recorded from the time the submission is due.",
@@ -209,7 +209,7 @@
       "mode": "Activity/ Performance, Oral",
       "category": "Presentation",
       "weight": "15%",
-      "due_date": "11/05/2026 - 15/05/2026",
+      "due_date": "11/05/2026 - 15/05/2026 Slides must be submitted to Blackboard by 5pm Friday of Week 11.",
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "See https://eecs.uq.edu.au/current-students/thesis-coursework-information/assessment This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. You may appropriately use generative AI tools in completing this task but you must reference every instance of any such use of AI. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. You take responsibility for fully understanding any work that you submit; if you cannot reasonably explain or justify any parts of the submission that you were individually responsible for, a significant penalty for this task will apply individually (up to the total number of marks available for this task) as the submission will be considered to have low or no academic merit. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
@@ -245,7 +245,7 @@
       "mode": "Written",
       "category": "Paper/ Report/ Annotation",
       "weight": "Pass/Fail",
-      "due_date": "3/08/2026 - 21/08/2026 The Thesis Plan must submitted between Weeks 2 and 4. Submissions will be marked within three days, with feedback provided. Resubmissions are permitted before the due deadline, and multiple submissions are allowed within the submission window. It is strongly recommended that your initial submission is made well before the end of Week 4 (the final deadline). You must have submitted a satisfactory Thesis Plan by Friday of week 4 to satisfy the hurdle requirement. To receive a grade of 5 or higher for the Thesis Report, you must complete a satisfactory Thesis Plan. If the Thesis Plan is not completed to a satisfactory standard, the maximum grade achievable for the Thesis Report will be capped at 4.",
+      "due_date": "3/08/2026 - 21/08/2026 The Thesis Plan must submitted between Weeks 2 and 4. Submissions will be marked within three days, with feedback provided. Resubmissions are permitted before the due deadline, and multiple submissions are allowed within the submission window. It is strongly recommended that your initial submission is made well before the end of Week 4 (the final deadline). You must have submitted a satisfactory Thesis Plan by 5pm Friday of week 4 to satisfy the hurdle requirement.",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06",
       "task_description": "See https://eecs.uq.edu.au/current-students/thesis-coursework-information/assessment This task has been designed to be challenging, authentic and complex. Whilst students may use AI and/or MT technologies, successful completion of assessment in this course will require students to critically engage in specific contexts and tasks for which artificial intelligence will provide only limited support and guidance. You may appropriately use generative AI tools in completing this task but you must reference every instance of any such use of AI. A failure to reference generative AI use may constitute student misconduct under the Student Code of Conduct. You take responsibility for fully understanding any work that you submit; if you cannot reasonably explain or justify any parts of the submission that you were individually responsible for, a significant penalty for this task will apply individually (up to the total number of marks available for this task) as the submission will be considered to have low or no academic merit. To pass this assessment, students will be required to demonstrate detailed comprehension of their written submission independent of AI and MT tools. Read full task description Hide full task description",
       "submission_guidelines": "The Thesis Plan is to be submitted online via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThis is a Pass/Fail assessment item.\n100% Late Penalty after 1 hour grace period.\nThe one-hour grace period is recorded from the time the submission is due.",

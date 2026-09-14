@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/DENT1020-22435-7520",
-  "scraped_at": "2026-06-04T01:33:10.321574+00:00",
+  "scraped_at": "2026-09-14T06:28:31.250616+00:00",
   "course_code": "DENT1020",
   "class_code": "22435",
   "semester_code": "7520",
@@ -18,7 +18,8 @@
     {
       "role": "Course coordinator",
       "name": "Dr Sepanta Hosseinpour",
-      "email": "s.hosseinpour@uq.edu.au"
+      "email": "s.hosseinpour@uq.edu.au",
+      "phone": "+61 7 3365 8160"
     }
   ],
   "course_staff": [

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ECON7333-61144-7660",
-  "scraped_at": "2026-09-07T05:55:20.710042+00:00",
+  "scraped_at": "2026-09-14T06:43:50.497146+00:00",
   "course_code": "ECON7333",
   "class_code": "61144",
   "semester_code": "7660",
@@ -109,6 +109,7 @@
       "due_date": "Periodic Assessments Throughout the Semester",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "Take-home quizzes throughout the semester, with the first assignment due on Friday in Week 4. There will be 6 quizzes in total. Each quiz will consist of short-answer questions and R-exercises related to the material covered in lectures and tutorials. Students are STRICTLY REQUIRED to use R-MARKDOWN to \" KNIT \" a PDF file and submit it online via Blackboard. Marks will be awarded as indicated for each question on the quiz. The top 4 scores across 6 quizzes will count toward a student's final grade for the course. Students will be given the opportunity to obtain partial marks for incorrect final answers by explaining the steps taken in the derivations and clearly identifying where the error occurred. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Online via Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extensions are possible, even with a medical certificate. Online Turnitin access will be blocked after the due date and time.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nNo late submissions will be accepted. No extensions are possible, even with a medical certificate. Online Turnitin access will be blocked after the due date and time.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
@@ -123,6 +124,7 @@
       "other_conditions": "Time limited, Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "This is a closed-book exam and will cover statistical learning methods up to week 8. Marks will be shown on the paper next to each question. Up to half marks will be awarded for incorrect numerical answers, provided correct methods/formulas have been used. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",
@@ -140,6 +142,7 @@
       "due_date": "30/10/2026 4:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "The assignment will contain a set of practical and theoretical questions that guide students to write a research report . The contents will cover topics from previous lectures and tutorials. Answers and discussions, including the solution to each part of the project and the computer output, need to be provided. Students are STRICTLY REQUIRED to use R-MARKDOWN to \" KNIT \" a PDF file and submit it online via Blackboard. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Online submission via BB.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."

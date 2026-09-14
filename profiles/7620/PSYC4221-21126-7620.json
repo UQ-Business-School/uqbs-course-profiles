@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC4221-21126-7620",
-  "scraped_at": "2026-06-02T04:39:08.593116+00:00",
+  "scraped_at": "2026-09-14T09:44:07.936103+00:00",
   "course_code": "PSYC4221",
   "class_code": "21126",
   "semester_code": "7620",
@@ -52,6 +52,14 @@
     {
       "number": "LO4.",
       "description": "Demonstrate ability to monitor and manage your learning in a work context."
+    },
+    {
+      "number": "LO5.",
+      "description": "Apply culturally responsive and safe practices in professional settings, recognising the distinct cultural identities, values, and self-determination rights of Aboriginal and Torres Strait Islander peoples."
+    },
+    {
+      "number": "LO6.",
+      "description": "Identify and apply appropriate ethical guidelines for the use of AI tools in professional psychology settings, including considerations of transparency, bias, data privacy, and accountability to clients and communities."
     }
   ],
   "assessment_summary": [

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHYS7200-62086-7660",
-  "scraped_at": "2026-09-07T06:21:31.615835+00:00",
+  "scraped_at": "2026-09-14T09:26:41.511010+00:00",
   "course_code": "PHYS7200",
   "class_code": "62086",
   "semester_code": "7660",
@@ -112,6 +112,7 @@
       "weight": "40% : 2 x 6% each for special relativity + 2 X 6% each for chaos + 2 X 8% each for dynamics",
       "due_date": "Problem Sheet 1: Special Relativity 14/08/2026 4:00 pm Problem Sheet 2: Special Relativity 28/08/2026 4:00 pm Problem Sheet 3: Dynamics 11/09/2026 4:00 pm Problem Sheet 4: Dynamics 25/09/2026 4:00 pm Problem Sheet 5: Chaos 16/10/2026 4:00 pm Problem Sheet 6: Chaos 30/10/2026 4:00 pm",
       "task_description": "Work on and solve problems in special relativity, dynamics and chaos. Problem sheets will be made available at least a week before they are due, and can be worked on in the applied class time slot. Each problem sheet will be worth 6% of the final course mark for special relativity and chaos problem sheets. Each problem sheet will be worth 8% of the final course mark for dynamics problem sheets. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "They must be submitted (electronically) via Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nSolutions for the problem sheets will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.\nSee ADDITIONAL ASSESSMENT INFORMATION for extension information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nSolutions for the problem sheets will be released 7 days after the assessment is due and as such, late submission after 7 days from the original time submission is due will not be possible, regardless of approved extensions.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -125,6 +126,7 @@
       "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
       "other_conditions": "Secure. See the conditions definitions",
       "task_description": "Answer conceptual and quantitative questions relating to the course material on Lagrangian mechanics, calculus of variations, Hamiltonian dynamics, dynamical systems, chaos and special relativity. The examination in this course will be held during the end-of-semester examination period. It will be an in-person exam held on campus. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for deferred examination information relating to this assessment item.",
       "deferral_or_extension": "You may be able to defer this exam .",

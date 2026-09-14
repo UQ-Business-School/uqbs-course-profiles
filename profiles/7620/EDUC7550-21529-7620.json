@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/EDUC7550-21529-7620",
-  "scraped_at": "2026-06-02T04:27:02.141535+00:00",
+  "scraped_at": "2026-09-14T06:58:27.708254+00:00",
   "course_code": "EDUC7550",
   "class_code": "21529",
   "semester_code": "7620",
@@ -26,19 +26,19 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Mrs Skye Playsted",
+      "name": "Dr Skye Playsted",
       "email": "s.playsted@uq.edu.au"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Mrs Skye Playsted",
+      "name": "Dr Skye Playsted",
       "email": "s.playsted@uq.edu.au"
     },
     {
       "role": "Tutor",
-      "name": "Mrs Skye Playsted",
+      "name": "Dr Skye Playsted",
       "email": "s.playsted@uq.edu.au"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/IMED7001-20476-7620",
-  "scraped_at": "2026-06-02T04:30:49.741153+00:00",
+  "scraped_at": "2026-09-14T07:49:57.771296+00:00",
   "course_code": "IMED7001",
   "class_code": "20476",
   "semester_code": "7620",
@@ -47,39 +47,27 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Understand and be familiar in the use of the terminology used within cutaneous oncology;"
+      "description": "Apply detailed and integrated knowledge of skin anatomy, histology, physiology, dermatopathology, oncology, dermatoscopy, and epidemiology within an interdisciplinary skin cancer medical context."
     },
     {
       "number": "LO2.",
-      "description": "Have a clear understanding of the anatomy, histology and physiology of skin;"
+      "description": "Critically evaluate and interpret dermatological and dermatopathological data and published literature using foundational research principles to support evidence-based diagnosis and treatment decisions."
     },
     {
       "number": "LO3.",
-      "description": "Have a clear understanding of the biology and pathology of skin malignancies;"
+      "description": "Collaborate with other members of healthcare teams, participating in professional, therapeutic interactions and applying relevant ethical and legal frameworks to achieve equitable and improved health outcomes."
     },
     {
       "number": "LO4.",
-      "description": "Have a clear understanding of the risk factors for skin malignancies and precursor conditions and of core therapeutic principles;"
+      "description": "Recognise cultural, social, and ethical dimensions in skin cancer care—particularly in diverse populations—and integrate respectful, equitable practices into patient-centred diagnosis and management."
     },
     {
       "number": "LO5.",
-      "description": "Have a clear understanding of the epidemiology of skin malignancies and precursor conditions, and the recommended prevention strategies;"
+      "description": "Communicate dermatoscopic, histopathological, and clinical findings effectively to peers, patients, and professionals, using precise and appropriate terminology and reasoning."
     },
     {
       "number": "LO6.",
-      "description": "Demonstrate knowledge of relevant ethical and legal requirements and expectations;"
-    },
-    {
-      "number": "LO7.",
-      "description": "Display professional characteristics of a modern medical practitioner as expected by state medical boards such as working with patients in a therapeutic relationship and working as a member of a health care team;"
-    },
-    {
-      "number": "LO8.",
-      "description": "Understand basics of clinical, dermatoscopic and dermatopathological characteristics of skin lesions, and how they correlate together and integrate with clinical practice;"
-    },
-    {
-      "number": "LO9.",
-      "description": "Understand basic research principles as they relate to critical evaluation of published medical literature."
+      "description": "Demonstrate professional leadership through ethical and responsible practice, working collaboratively and upholding standards expected of modern medical practitioners."
     }
   ],
   "assessment_summary": [

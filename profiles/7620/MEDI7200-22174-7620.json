@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MEDI7200-22174-7620",
-  "scraped_at": "2026-06-02T04:33:21.949459+00:00",
+  "scraped_at": "2026-09-14T08:25:18.313933+00:00",
   "course_code": "MEDI7200",
   "class_code": "22174",
   "semester_code": "7620",
@@ -26,12 +26,15 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Dr Christine Devine",
-      "email": "med.yr2coursecoord@uq.edu.au"
+      "name": "Dr Christine Devine"
     },
     {
       "role": "Course coordinator",
-      "name": "Dr Lea Merone",
+      "name": "Dr Amanda Cuss"
+    },
+    {
+      "role": "Course enquiries",
+      "name": "Course Coordinator",
       "email": "med.yr2coursecoord@uq.edu.au"
     },
     {
@@ -44,6 +47,104 @@
       "name": "Contact details",
       "email": "med.southlcstudents@uq.edu.au",
       "notes": "South: med.southlcstudents@uq.edu.au Central: med.centrallcstudents@uq.edu.au West: med.westlcstudents@uq.edu.au North: med.northlcstudents@uq.edu.au Central Queensland: med.rcs.rockhamptonstudents@uq.edu.au Wide Bay - Bundaberg: med.rcs.bundabergstudents@uq.edu.au Wide Bay - Hervey Bay: med.rcs.herveybaystudents@uq.edu.au Darling Downs - Southwest: med.rcs.toowoombastudents@uq.edu.au Ochsner Clinical School: med.ocsStudentAdmin@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Devi Mohan"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Sarah Birtwistle"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Kimberly Haladyn"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Robyn Cooke"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Stephen Allison"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Craig Hacking"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Christian Gray"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Bernadette Richards"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Mark Midwinter"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Frederik Steyn"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Suja Pillai"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Peter Simpson"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Sherry Wu"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Mary-Louise Roy Manchadi"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Fahmida Sonya"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr Justin Ridge"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Desmond Hui"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Erin Taylor"
+    },
+    {
+      "role": "Tutor",
+      "name": "Professor Hwee Sin Chong"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Wasana Jayarathne"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Loretto Wainwright"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Furhan Iqbal"
+    },
+    {
+      "role": "Tutor",
+      "name": "Dr Chithralekha Vivekananda"
+    },
+    {
+      "role": "Tutor",
+      "name": "Professor Eliza Whiteside"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nSome learning experiences (Clinical Scenario Based Learning, Clinical Plenaries, Integrated Symposia) are generally held at the same time each week; however, the timetable for other learning experiences might vary from one week to another. A considerable amount of learning will occur in clinical environments. Some of these learning experiences will be scheduled and coordinated by individual Learning Communities. Although most of these activities will be timetabled between 8am and 6pm Monday to Friday, some sessions and clinical immersion activities may be scheduled outside this timeframe.\nSome public holidays will have an impact on scheduling learning experiences.\nIn the event of an unexpected disruption that prevents in-person learning experiences from taking place as scheduled, activities may be moved online.",

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC2030-60946-7560",
-  "scraped_at": "2026-06-04T02:38:00.355398+00:00",
+  "scraped_at": "2026-09-14T09:41:13.120137+00:00",
   "course_code": "PSYC2030",
   "class_code": "60946",
   "semester_code": "7560",
@@ -46,31 +46,23 @@
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.",
-  "course_aims": "(1) To acquaint students with the basic concepts, theories, and research methods in lifespan developmental psychology, highlighting links between developmental processes in childhood and later life and development in socio-cultural context. (2) To provide opportunities for students to develop an understanding of research methods used in developmental psychology and an awareness of ethical considerations when conducting research. (3) To provide opportunities for students to develop written and oral communication skills.",
+  "course_aims": "1. To acquaint students with the basic concepts, theories, and empirical research in lifespan developmental psychology, highlighting links between psychological processes in childhood and later life.\n\n2. To develop an understanding of research methods used in developmental psychology and relevant ethical considerations.\n\n3. To foster the habit of reflecting on social-cultural influences when interpreting human development and behaviour.\n\n4. To equip students with written and oral communication skills that allow effective exchange of perspectives with people of diverse backgrounds.",
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "demonstrate familiarity with key concepts, theories, and research methods in lifespan developmental psychology"
+      "description": "Knowledge of key concepts, theories, and research methods in developmental psychology with the understanding of how psychological processes in childhood link to those observed later in life."
     },
     {
       "number": "LO2.",
-      "description": "describe links between developmental processes in childhood and later life and development in socio-cultural context"
+      "description": "Capacity to meaningfully evaluate empirical research in developmental psychology with attention to methodological detail and awareness of relevant ethical considerations."
     },
     {
       "number": "LO3.",
-      "description": "demonstrate an understanding of research methods used in developmental psychology"
+      "description": "Proclivity to engage in reflective practice of psychological concepts in everyday behaviour with consideration of social-cultural influences (e.g., Indigenous perspectives in Australia)."
     },
     {
       "number": "LO4.",
-      "description": "demonstrate the fundamentals of critical thinking in psychology"
-    },
-    {
-      "number": "LO5.",
-      "description": "demonstrate further development of written and oral communication skills and effectively engage with others to discuss and evaluate empirical research"
-    },
-    {
-      "number": "LO6.",
-      "description": "demonstrate an awareness of ethical considerations when conducting psychological research"
+      "description": "Competence in communicating effectively with people of diverse backgrounds through writing and oral discussions."
     }
   ],
   "assessment_summary": [

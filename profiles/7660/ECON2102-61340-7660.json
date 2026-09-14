@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ECON2102-61340-7660",
-  "scraped_at": "2026-09-07T05:54:23.526180+00:00",
+  "scraped_at": "2026-09-14T06:38:37.028728+00:00",
   "course_code": "ECON2102",
   "class_code": "61340",
   "semester_code": "7660",
@@ -108,6 +108,7 @@
       "due_date": "Experiments will be run during the timetabled lecture time.",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "There will be NINE (9) experiments conducted in lectures throughout the semester as shown in the schedule of Learning Activities. Students will receive 1% (per experiment) for actively participating in up to 8 of these experiments and in the discussion that follows (for a maximum of 8% of your final course grade). To participate, students will need to bring their own device to the lecture - ideally a laptop or tablet - in order to access the experimental interface. (Phone screens are too small to properly view the experiment.) Note that due to the software used for the experiments, once the experiment begins it is impossible to add extra participants. Therefore, if you arrive late to the lecture you will not be able to participate. Also, note that, at a minimum, active participation requires paying attention to the ongoing experiment and not unduly holding up progress by inattention. Students are required to actively participate in the online experiments and discussion conducted during our weekly lectures. This assessment task is to be completed in-person. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nNon-participation in experiments will result in no marks for the experiments missed. There are 9 experiments conducted in lectures throughout the semester, the best 8 will be taken into account.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "late_submission": "Non-participation in experiments will result in no marks for the experiments missed. There are 9 experiments conducted in lectures throughout the semester, the best 8 will be taken into account.",
@@ -124,6 +125,7 @@
       "due_date": "1/09/2026 1:00 pm",
       "learning_outcomes_assessed": "L02, L03, L04",
       "task_description": "The purpose of the Proposal is to identify an appropriate problem to analyse in your final Policy Recommendation Report . Students will get feedback from the marker on their proposed problem and selection of articles, which they can incorporate when developing their final Policy Recommendation Report . Detailed instructions and the marking criteria will be provided on the course Blackboard site. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit proposal electronically using the provided template via Turnitin on Blackboard by the deadline date and time.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 14 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -137,6 +139,7 @@
       "due_date": "13/10/2026 1:00 pm",
       "learning_outcomes_assessed": "L02, L03, L04",
       "task_description": "You are working as a consultant for the government, a business, or an NGO. Your task is to write a research report on a problem of your choice with a recommendation on how best to address the problem based on evidence from experimental economics . The report should evaluate several different solutions to your problem and then make a recommendation based on the credibility of the experimental evidence presented. Your report should be based on your earlier Proposal. Detailed instructions and marking criteria will be provided on the course Blackboard site. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submit report electronically via Turnitin on Blackboard by the deadline date and time.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 14 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -151,6 +154,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "The final exam will cover all course content and be comprised of a combination of multiple choice, short answer, and longer answer questions. Further details will be made available on the course Blackboard site. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",
@@ -160,8 +164,7 @@
     }
   ],
   "learning_resources": {
-    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.\nOwn copy required\nYou'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Book Behavioural economics and experiments by Chaudhuri; Ananish - 2021 Publisher: Routledge ISBN: 9781000375718; 9781003028536; 9781000375749; 9780367463939; 9780367463946",
-    "own_copy_required": "You'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Book Behavioural economics and experiments by Chaudhuri; Ananish - 2021 Publisher: Routledge ISBN: 9781000375718; 9781003028536; 9781000375749; 9780367463939; 9780367463946"
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
   },
   "learning_activities": [
     {

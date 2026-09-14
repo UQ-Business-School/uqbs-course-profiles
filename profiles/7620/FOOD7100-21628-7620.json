@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/FOOD7100-21628-7620",
-  "scraped_at": "2026-06-02T04:29:28.695281+00:00",
+  "scraped_at": "2026-09-14T07:29:54.742715+00:00",
   "course_code": "FOOD7100",
   "class_code": "21628",
   "semester_code": "7620",
@@ -26,6 +26,12 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
+      "name": "Dr Marlize Bekker",
+      "email": "m.bekker@uq.edu.au",
+      "notes": "Consultation is by appointment. To make an appointment, please email."
+    },
+    {
+      "role": "Lecturer",
       "name": "Dr Marlize Bekker",
       "email": "m.bekker@uq.edu.au",
       "notes": "Consultation is by appointment. To make an appointment, please email."

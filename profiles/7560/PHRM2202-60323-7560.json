@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHRM2202-60323-7560",
-  "scraped_at": "2026-06-04T02:34:46.874777+00:00",
+  "scraped_at": "2026-09-14T09:10:23.114522+00:00",
   "course_code": "PHRM2202",
   "class_code": "60323",
   "semester_code": "7560",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "Dutton Park",
   "coordinating_unit": "Pharmacy and Pharmaceutical Sciences School",
-  "course_description": "This pharmaceutical science course explores drug delivery systems that involve the active pharmaceutical ingredient being in a solid form, such as tablets and capsules, or a semi-solid form such as creams, ointments and gels. It also considers the design of devices that deliver medicines via the transdermal route, such as patches, and devices for pulmonary or buccal delivery such as inhalers, vaping devices and mouth sprays. Students then gain experience in extemporaneous compounding of solid and semi-solid medicines including creams, ointments, pastes, capsules and suppositories.\n\nPharmacists must understand the physicochemical basis of drug formulation and drug delivery systems to extemporaneously compounded medicines, select the appropriate dosage form to be administered (or suggest alternatives) and predict the behaviour and efficacy of pharmaceuticals. There is a strong emphasis on active learning, data analysis, and calculations throughout this course, which is divided into the four modules described below.\n\nModule 1 Solid Dosage Forms introduces the wide range of solid dosage forms, such as tablets, capsules, lozenges, gums, pessaries and suppositories. You will examine powder characteristics such as particle properties and powder flow, and pharmaceutical concepts encompassing dissolution and bioavailability. Manufacturing processes along with quality assurance and quality control will be covered, and you will measure tablet properties such as uniformity, hardness, friability, disintegration and dissolution. Module 1 is assessed by an online quiz and a written report.\n\nModule 2 Semi-Solid Dosage Forms explores the physicochemical basis for designing different types of semi-solids such as creams, gels, ointments and pastes. You will consider rheological properties of pharmaceutical products and investigate these characteristics for polymer-based formulations with the aim of understanding product design, formulation and effective use. Module 2 is assessed by an online quiz and a written report.\n\nModule 3 Specialised Devices considers devices designed for delivery of medicines via the transdermal route, such as patches, and devices for pulmonary or buccal delivery such as inhalers, vaping devices and mouth sprays. You will explore the mechanism by which they deliver medicines in the context of their practical applications. Module 3 is assessed by an online quiz.\n\nModule 4 Compounding Semi-Solid and Solid Dosage Forms focuses on extemporaneous compounding, where you will gain experience preparing pharmaceutically elegant dosage forms such as capsules, suppositories, creams, ointments, and pastes. Module 4 has a compounding skills assessment at the end that is a hurdle assessment for this course.",
+  "course_description": "This pharmaceutical science course explores drug delivery systems that involve the active pharmaceutical ingredient being in a solid form, such as tablets and capsules, or a semi-solid form, such as creams, ointments and gels. It also considers the design of devices that deliver medicines via the transdermal route, such as patches, and devices for pulmonary or buccal delivery, such as inhalers, vaping devices and mouth sprays. Students then gain experience in extemporaneous compounding of solid and semi-solid medicines, including creams, ointments, pastes, capsules and suppositories.\n\nPharmacists must understand the physicochemical basis of drug formulation and drug delivery systems to extemporaneously compounded medicines, select the appropriate dosage form to be administered (or suggest alternatives) and predict the behaviour and efficacy of pharmaceuticals. There is a strong emphasis on active learning, data analysis, and calculations throughout this course, which is divided into the four modules described below.\n\nModule 1 Solid Dosage Forms introduces the wide range of solid dosage forms, such as tablets, capsules, lozenges, gums, pessaries and suppositories. You will examine powder characteristics such as particle properties and powder flow, and pharmaceutical concepts encompassing dissolution and bioavailability. Manufacturing processes along with quality assurance and quality control will be covered, and you will measure tablet properties such as uniformity, hardness, friability, disintegration and dissolution. Module 1 is assessed by an online quiz and a written report.\n\nModule 2 Semi-Solid Dosage Forms explores the physicochemical basis for designing different types of semi-solids such as creams, gels, ointments and pastes. You will consider rheological properties of pharmaceutical products and investigate these characteristics for polymer-based formulations with the aim of understanding product design, formulation and effective use. Module 2 is assessed by an online quiz and a written report.\n\nModule 3 Specialised Devices considers devices designed for delivery of medicines via the transdermal route, such as patches, and devices for pulmonary or buccal delivery such as inhalers, vaping devices and mouth sprays. You will explore the mechanism by which they deliver medicines in the context of their practical applications. Module 3 is assessed by an online quiz.\n\nModule 4 Compounding Semi-Solid and Solid Dosage Forms focuses on extemporaneous compounding, where you will gain experience preparing pharmaceutically elegant dosage forms such as capsules, suppositories, creams, ointments, and pastes. Module 4 has a compounding skills assessment at the end that is a hurdle assessment for this course.",
   "requirements": {
     "incompatible": [
       "You can't enrol in this course if you've already completed the following:",
@@ -48,31 +48,31 @@
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nIn 2025, the modules will be delivered in the order Module 3, Module 2, Module 1, Module 4.\nSee Learn.UQ (Blackboard) for the detailed course timetable.",
-  "course_aims": "This course will contribute to your formation as a pharmacist who understands the physicochemical basis of the formulation and clinical use of medicines. You will learn to explain and apply physicochemical principles to the formulation of medicines into solid and semi-solid dosage forms, and specialised devices for transdermal, pulmonary, and buccal delivery. You will also develop skills in the extemporaneous compounding of solid and semi-solid medicines including creams, ointments, pastes, capsules, and suppositories.",
+  "course_aims": "This course will contribute to your formation as a pharmacist who understands the physicochemical basis of the formulation and clinical use of medicines. You will learn to explain and apply physicochemical principles to the formulation of medicines into solid and semi-solid dosage forms, and specialised devices for transdermal, pulmonary, and buccal delivery. You will also develop skills in the extemporaneous compounding of solid and semi-solid medicines, including creams, ointments, pastes, capsules, and suppositories.",
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Apply physicochemical principles to the formulation of semi-solid and solid dosage forms and medicines use"
+      "description": "Apply physicochemical principles to the formulation of semi-solid and solid dosage forms and medicines use."
     },
     {
       "number": "LO2.",
-      "description": "Explain the mechanism of transdermal, pulmonary, and buccal delivery through specialised devices to inform medicines use"
+      "description": "Explain the mechanism of transdermal, pulmonary, and buccal delivery through specialised devices to inform medicines use."
     },
     {
       "number": "LO3.",
-      "description": "Collate, analyse, and interpret scientific data to inform pharmaceutical decisions"
+      "description": "Collate, analyse, and interpret scientific data to inform pharmaceutical decisions."
     },
     {
       "number": "LO4.",
-      "description": "Communicate using appropriate formats"
+      "description": "Communicate using appropriate formats."
     },
     {
       "number": "LO5.",
-      "description": "Perform pharmaceutical calculations relating to semi-solid and solid medicines"
+      "description": "Perform pharmaceutical calculations relating to semi-solid and solid medicines."
     },
     {
       "number": "LO6.",
-      "description": "Design and prepare accurate and pharmaceutically elegant extemporaneous semi-solid and solid dosage forms"
+      "description": "Design and prepare accurate and pharmaceutically elegant extemporaneous semi-solid and solid dosage forms."
     }
   ],
   "assessment_summary": [

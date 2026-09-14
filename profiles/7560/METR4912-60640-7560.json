@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/METR4912-60640-7560",
-  "scraped_at": "2026-06-04T02:30:16.599474+00:00",
+  "scraped_at": "2026-09-14T08:29:32.495818+00:00",
   "course_code": "METR4912",
   "class_code": "60640",
   "semester_code": "7560",
@@ -317,7 +317,7 @@
     },
     {
       "learning_period": "Multiple weeks",
-      "activity_type": "General contact hours",
+      "activity_type": "Not Timetabled",
       "topic": "Meetings with thesis supervisor Your thesis supervisor will provide you with guidance to help you complete your thesis. You should meet with your thesis supervisor regularly throughout the project to advise them of your progress and seek guidance on difficulties you are facing. Learning outcomes: L03, L04, L05, L06",
       "learning_outcomes": [
         "L03",

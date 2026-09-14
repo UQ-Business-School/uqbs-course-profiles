@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/LTCS3002-21311-7620",
-  "scraped_at": "2026-06-02T04:32:16.160732+00:00",
+  "scraped_at": "2026-09-14T08:11:06.425045+00:00",
   "course_code": "LTCS3002",
   "class_code": "21311",
   "semester_code": "7620",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "St Lucia",
   "coordinating_unit": "Languages & Cultures School",
-  "course_description": "LTCS3002 Translating and Interpreting Studies is offered to students who have already achieved a high level (at B2 in the CEFR) of spoken and written competence in at least two languages: English and one of the following, Chinese, Japanese, French, German, Indonesian, Russian. The aim of this course is to introduce you to the background knowledge, technical terminology, cultural awareness and communication skills required for employment in translating and interpreting (T&I) related fields. As this is a designated Work Integrated Learning (WIL) course, a key practical element involves completing an industry translation project for a client, with an option for translations prepared by student-translators to be published online if they meet professional standards. A minimum of two students per language is required to run the WIL project in the language. If this minimum is not met, the course will not be offered in that language for the semester, and affected students will be required to defer their enrolment to a future offering (this course is offered in both Semester 1 and Semester 2).\n\nLTCS3002 Translating and Interpreting Studies is offered to students who have already achieved a high level of spoken and written competence in at least two languages, English and a LOTE. The aim of this course is to introduce you to the background knowledge, technical terminology, cultural awareness and communication skills required for employment in translating and interpreting (T&I) related fields. A further aim is to familiarise you with the standard equipment and software in common use in T&I professions. This course therefore involves both a theoretical and a practical component. The theoretical component includes an introduction to the history of T&I, an overview of the most important theories in the field of T&I research and practice, the Code of Ethics for T&I practitioners, a comparison of workplace cultures prevailing both in different industries and in different countries, and appropriate use of supporting tools such as machine translation (MT) and artificial intelligence (AI). Part of the practical component will take the form of practical on-campus training. As this is a designated Work Integrated Learning (WIL) course, a key practical element involves completing an industry translation project for a client, with an option for translations prepared by student-translators to be published online if they meet professional standards.",
+  "course_description": "This is a restricted entry course. To be eligible to apply, students must (a) have already achieved a high level (at B2 in the CEFR) of spoken and written competence in one of the following languages: Chinese, French, German, Indonesian, or Japanese as determined by the Course Coordinator; OR (b) have successfully completed a minimum 8 units of relevant language studies. As a minimum of 2 students per language is required to run the WIL project in the language, eligible students are not automatically guaranteed a place in the course. The aim of this course is to introduce the background knowledge, technical terminology, cultural awareness and communication skills required for employment in translating and interpreting (T&I) related fields. As this is a designated Work Integrated Learning (WIL) course, a key practical element involves completing an industry translation project for a client, with an option for translations prepared by student-translators to be published online if they meet professional standards. Prospective students may apply by completing this Expression of Interest Form .\n\nThe Expression of Interest Form is due Monday 20 July 2026. Students will be advised of the outcome no later than Friday 24 July 2026.\n\nLTCS3002 Translating and Interpreting Studies is offered to students who have already achieved a high level of spoken and written competence in at least two languages, English and a LOTE. The aim of this course is to introduce you to the background knowledge, technical terminology, cultural awareness and communication skills required for employment in translating and interpreting (T&I) related fields. A further aim is to familiarise you with the standard equipment and software in common use in T&I professions. This course therefore involves both a theoretical and a practical component. The theoretical component includes an introduction to the history of T&I, an overview of the most important theories in the field of T&I research and practice, the Code of Ethics for T&I practitioners, a comparison of workplace cultures prevailing both in different industries and in different countries, and appropriate use of supporting tools such as machine translation (MT) and artificial intelligence (AI). Part of the practical component will take the form of practical on-campus training. As this is a designated Work Integrated Learning (WIL) course, a key practical element involves completing an industry translation project for a client, with an option for translations prepared by student-translators to be published online if they meet professional standards.",
   "requirements": {
     "prerequisites": [
       "You'll need to complete the following courses before enrolling in this one:",
@@ -37,23 +37,23 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Recognise common T&I challenges and find and apply appropriate strategies to solve problems."
+      "description": "Analyse translation and interpreting challenges and justify appropriate strategies used to resolve them."
     },
     {
       "number": "LO2.",
-      "description": "Grasp theoretical aspects of T&I and be able to apply this knowledge to T&I practice."
+      "description": "Apply key concepts from translation and interpreting studies to analyse professional translation practice."
     },
     {
       "number": "LO3.",
-      "description": "Demonstrate a sound understanding of the ethics of the profession."
+      "description": "Evaluate ethical issues that arise in translation and interpreting and justify appropriate professional responses."
     },
     {
       "number": "LO4.",
-      "description": "Have a good understanding of the roles and responsibilities of T&I professionals and demonstrate appropriate professional conduct in a work environment."
+      "description": "Demonstrate professional roles, responsibilities, and collaborative practices in translation and interpreting contexts."
     },
     {
       "number": "LO5.",
-      "description": "Use a range of technological tools available for T&I practitioners."
+      "description": "Use and critically reflect on digital tools relevant to contemporary translation and interpreting practice."
     }
   ],
   "assessment_summary": [

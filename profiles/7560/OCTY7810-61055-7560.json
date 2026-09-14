@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/OCTY7810-61055-7560",
-  "scraped_at": "2026-06-04T02:33:54.658404+00:00",
+  "scraped_at": "2026-09-14T09:02:06.712611+00:00",
   "course_code": "OCTY7810",
   "class_code": "61055",
   "semester_code": "7560",
@@ -51,7 +51,7 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Apply models (including the CMOP-E) to identify the elements of the person, environment and occupation which change across the lifespan, and explain how these changes are linked with occupational performance in occupational roles."
+      "description": "Apply occupational therapy models to identify the elements of the person, environment and occupation which change across the lifespan, and explain how these changes are linked with occupational performance in occupational roles."
     },
     {
       "number": "LO2.",
@@ -59,22 +59,18 @@
     },
     {
       "number": "LO3.",
-      "description": "Explain the contemporary health context for Aboriginal and Torres Straight Islander Peoples, and describe its relationship with occupational performance."
-    },
-    {
-      "number": "LO4.",
       "description": "Assess aspects of occupational performance following the protocol and scoring instructions of a standardised assessment tool, and interpret the findings of this assessment."
     },
     {
-      "number": "LO5.",
+      "number": "LO4.",
       "description": "Work collaboratively with peers to analyse and assess occupational performance."
     },
     {
-      "number": "LO6.",
+      "number": "LO5.",
       "description": "Convey the outcomes of the assessment of occupational performance to relevant stakeholders both verbally and in written format, using professional language and expression appropriate to the audience."
     },
     {
-      "number": "LO7.",
+      "number": "LO6.",
       "description": "Apply, demonstrate and evaluate strategies related to communicating openly, effectively and respectfully with peers and professional colleagues, and relevant stakeholders."
     }
   ],

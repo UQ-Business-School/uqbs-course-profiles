@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/IMED7002-20473-7520",
-  "scraped_at": "2026-06-04T01:43:17.823473+00:00",
+  "scraped_at": "2026-09-14T07:50:04.655257+00:00",
   "course_code": "IMED7002",
   "class_code": "20473",
   "semester_code": "7520",
@@ -58,35 +58,27 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Demonstrate expertise in clinical and dermatoscopic diagnosis of all commonly encountered benign, pre-malignant and malignant skin lesions."
+      "description": "Apply clinical and dermatoscopic principles and lesion recognition techniques in diagnosing skin cancer."
     },
     {
       "number": "LO2.",
-      "description": "Demonstrate expertise in clinical and dermatoscopic diagnosis of all uncommonly encountered malignant skin lesions"
+      "description": "Analyse and evaluate dermatoscopic patterns to inform diagnostic pathways and refine clinical reasoning."
     },
     {
       "number": "LO3.",
-      "description": "Demonstrate competence in clinical and dermatoscopic diagnosis of some rarely encountered malignant skin lesions."
+      "description": "Demonstrate awareness of public health issues and collaborative practice in skin cancer prevention."
     },
     {
       "number": "LO4.",
-      "description": "Be aware of the limitations of clinical and dermatoscopic examination in the clinical context."
+      "description": "Integrate cultural and social awareness in dermatoscopic assessments, particularly for underserved communities."
     },
     {
       "number": "LO5.",
-      "description": "Demonstrate knowledge of the histological basis for the dermatoscopic appearance of benign and malignant melanocytic lesions."
+      "description": "Present and explain dermatoscopic findings clearly and accurately to peers and patients."
     },
     {
       "number": "LO6.",
-      "description": "Demonstrate the ability to differentiate between benign and malignant melanocytic lesions by dermatoscopic assessment."
-    },
-    {
-      "number": "LO7.",
-      "description": "Demonstrate knowledge of relevant ethical and legal requirements and expectations."
-    },
-    {
-      "number": "LO8.",
-      "description": "Demonstrate professionalism as a modern medical practitioner as expected by state medical boards such as working with patients in a therapeutic relationship and working as a member of a health care team."
+      "description": "Model ethical, accurate documentation and decision-making in dermatoscopic practice."
     }
   ],
   "assessment_summary": [

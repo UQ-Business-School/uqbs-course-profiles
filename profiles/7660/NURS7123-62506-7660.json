@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/NURS7123-62506-7660",
-  "scraped_at": "2026-09-07T06:17:01.198423+00:00",
+  "scraped_at": "2026-09-14T08:57:34.407899+00:00",
   "course_code": "NURS7123",
   "class_code": "62506",
   "semester_code": "7660",
@@ -96,6 +96,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L04",
       "task_description": "Please refer to the assessment task sheet. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Please refer to the assessment task sheet.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nStudents who cannot attend their exam due to unavoidable reasons must contact their course coordinator to re-arrange a suitable time. Please see the Deferring and exam information on the UQ website for details of Acceptable grounds for deferral of an examination .",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
@@ -113,6 +114,7 @@
       "due_date": "23/09/2026 1:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "Students are required to review the assessment task sheet and grading rubric. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.",
       "deferral_or_extension": "You may be able to apply for an extension ."
     },
@@ -126,6 +128,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L04",
       "task_description": "Students are required to review the assessment task sheet and grading rubric. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 30 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Other Invigilation Invigilated in person",
       "submission_guidelines": "Please refer to the assessment task sheet and grading rubric.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nIf you miss your oral viva timeslot through lack of planning and/or poor organisation, you will receive a mark of 0/100. If you miss your oral viva timeslot through some other error, depending on circumstance, limited “make-up” slots are available in exam week 2 but will incur a 10% late penalty. If there are extenuating circumstances, evidence of these will need to be submitted as an extension request and, if approved, your session will be rescheduled. Rescheduled vivas are managed the same as deferred assessment – there is no option for the viva to be rescheduled a second time.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",

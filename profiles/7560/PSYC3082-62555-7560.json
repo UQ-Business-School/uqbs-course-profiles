@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC3082-62555-7560",
-  "scraped_at": "2026-06-04T02:38:10.400724+00:00",
+  "scraped_at": "2026-09-14T09:42:58.356352+00:00",
   "course_code": "PSYC3082",
   "class_code": "62555",
   "semester_code": "7560",
@@ -67,6 +67,10 @@
     {
       "number": "LO7.",
       "description": "Build your repertoire of self-care behaviours and skills"
+    },
+    {
+      "number": "LO8.",
+      "description": "Understand the importance of cultural safety and culturally respectful communication and how these concepts may be applied when working with Aboriginal and Torres Strait Islander peoples, families and communities."
     }
   ],
   "assessment_summary": [

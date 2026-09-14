@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHRM4012-61037-7560",
-  "scraped_at": "2026-06-04T02:34:57.932007+00:00",
+  "scraped_at": "2026-09-14T09:11:52.702238+00:00",
   "course_code": "PHRM4012",
   "class_code": "61037",
   "semester_code": "7560",
@@ -47,27 +47,31 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Apply expert knowledge of medicines gained throughout the program to improve person-centred health outcomes and reduce the risk of medicine-related harm to patients"
+      "description": "Apply expert knowledge of medicines gained throughout the program to improve person-centred health outcomes and reduce the risk of medicine-related harm to patients."
     },
     {
       "number": "LO2.",
-      "description": "Use effective communication skills to comprehensively consult patients and clinicians (healthcare professionals) with patient-centred medicine information and care in a range of simulated pharmacy practice scenarios"
+      "description": "Use effective communication skills to comprehensively consult patients and clinicians (healthcare professionals) with patient-centred medicine information and care in a range of simulated pharmacy practice scenarios."
     },
     {
       "number": "LO3.",
-      "description": "Identify, evaluate and justify the clinical significance of medication related problems in complex patient case scenarios"
+      "description": "Identify, evaluate and justify the clinical significance of medication related problems in complex patient case scenarios."
     },
     {
       "number": "LO4.",
-      "description": "Develop patient-centred medication management plans to resolve medication-related problems in complex patient case scenarios by referring to evidence-based clinical evidence (literature and tools) and the patient's context and goals"
+      "description": "Develop patient-centred medication management plans to resolve medication-related problems in complex patient case scenarios by referring to evidence-based clinical evidence (literature and tools) and the patient's context and goals."
     },
     {
       "number": "LO5.",
-      "description": "Contribute to team-based care by expertly communicating and working with other members of the healthcare team in complex patient case scenarios"
+      "description": "Contribute to team-based care by expertly communicating and working with other members of the healthcare team in complex patient case scenarios."
     },
     {
       "number": "LO6.",
-      "description": "Apply a model of ethical decision making to identify and propose practical, patient-centred solutions to ethical problems in complex patient case scenarios"
+      "description": "Apply a model of ethical decision making to identify and propose practical, patient-centred solutions to ethical problems in complex patient case scenarios."
+    },
+    {
+      "number": "LO7.",
+      "description": "Demonstrate teamwork behaviours as appropriate to the roles of pharmacists within health care teams, including oral and written communication."
     }
   ],
   "assessment_summary": [

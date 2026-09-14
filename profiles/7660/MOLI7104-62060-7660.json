@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MOLI7104-62060-7660",
-  "scraped_at": "2026-09-07T06:14:39.611326+00:00",
+  "scraped_at": "2026-09-14T08:42:42.556482+00:00",
   "course_code": "MOLI7104",
   "class_code": "62060",
   "semester_code": "7660",
@@ -98,6 +98,7 @@
       "weight": "10%",
       "due_date": "Due dates for responses will be throughout the semester and are listed on blackboard",
       "task_description": "Discussion questions will be posted on Blackboard Ultra and in the lectures for modules 2-6 throughout the semester (5 sets of questions in total). Post your response to the questions on the Blackboard Discussion Board. For each discussion in which you submit a response by the due date, you will receive marks, to a maximum of 10 for the whole semester. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nAn extension is not available for this task due to the answers being discussed in the next available lecture. However, successful applications for an extension in extenuating circumstances may be offered an alternative assessment. If there are extenuating circumstances why you were unable to complete this task then please email smp.student@uq.edu.au. You will need to do this within 5 calendar days of your quiz and include evidence (e.g., medical certificate).\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThe quizzes are open for 7 days and can not be accessed once closed. A 100% penalty will be applied if the quiz is not attempted within that period.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
@@ -110,6 +111,7 @@
       "weight": "15%",
       "due_date": "25/09/2026 2:00 pm",
       "task_description": "There are 15 questions in total. Please allow an uninterrupted 30 minutes to take the quiz. When the time runs out the quiz will automatically be saved and submitted as is. You are allowed only one attempt at each question. The correct answers will be shown after you complete the quiz. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Deferral or extension\nYou cannot defer or apply for an extension for this assessment.\nAn extension is not available for this quiz due to the answers being discussed in the next available lecture. However, successful applications for an extension in extenuating circumstances may be offered an alternative assessment. If there are extenuating circumstances why you were unable to complete your quiz then please email smp.student@uq.edu.au. You will need to do this within 5 calendar days of your quiz and include evidence (e.g., medical certificate).\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nThe quiz is open for at least 7 days prior to the due date. Students are required to submit the answers online before the due date, otherwise the penalty will be applied.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "late_submission": "You will receive a mark of 0 if this assessment is submitted late ."
@@ -122,6 +124,7 @@
       "weight": "25%",
       "due_date": "9/10/2026 2:00 pm",
       "task_description": "Students are required to address a question listed on Blackboard. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Please submit your assignment via Blackboard. Students are permitted to submit a draft prior to final submission.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -135,6 +138,7 @@
       "due_date": "End of Semester Exam Period 7/11/2026 - 21/11/2026",
       "other_conditions": "Secure. See the conditions definitions",
       "task_description": "The End of Semester Examination will be an in-person, paper-based exam for all students. Internally enrolled students The end-of-semester exam will be an in-person, paper-based exam. Students will sit the exam at the St Lucia Campus. Externally enrolled students The end-of-semester exam will be an in-person, paper-based exam. UQ Examinations will contact students directly to confirm arrangements. You will either sit the exam at the St Lucia campus (if you live within 200km radius of the campus) or will be directed to nominate an exam centre by a certain date. Please ensure you update your semester address in Si-net at the start of the semester. One reminder will be sent and students who fail to nominate an exam centre and will be automatically assigned to the St Lucia campus. Late nominations will not be accepted. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Open book examination - any written or printed material is permitted; material may be annotated Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
       "deferral_or_extension": "You may be able to defer this exam .",

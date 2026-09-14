@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC3020-61006-7560",
-  "scraped_at": "2026-06-04T02:38:09.056700+00:00",
+  "scraped_at": "2026-09-14T09:42:35.010657+00:00",
   "course_code": "PSYC3020",
   "class_code": "61006",
   "semester_code": "7560",
@@ -53,7 +53,11 @@
     },
     {
       "number": "LO3.",
-      "description": "Create a proposal for a behavioural measure, including how to evaluate its psychometric properties."
+      "description": "Create a proposal for a novel behaviour measure, including how to evaluate its psychometric properties, and be able to communicate this via both written and oral formats."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand key considerations involved in psychological assessment with respect to Aboriginal and Torres Strait Islander groups."
     }
   ],
   "assessment_summary": [

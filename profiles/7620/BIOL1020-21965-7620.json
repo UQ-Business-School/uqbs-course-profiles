@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BIOL1020-21965-7620",
-  "scraped_at": "2026-06-02T04:20:55.986180+00:00",
+  "scraped_at": "2026-09-14T05:33:36.021137+00:00",
   "course_code": "BIOL1020",
   "class_code": "21965",
   "semester_code": "7620",
@@ -22,7 +22,8 @@
     "incompatible": [
       "You can't enrol in this course if you've already completed the following:",
       "CHEE1001",
-      "BIOL7020"
+      "BIOL7020",
+      "BIOE1001"
     ],
     "restrictions": [
       "AGRC1020",

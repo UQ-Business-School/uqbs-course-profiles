@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PHRM3202-60012-7560",
-  "scraped_at": "2026-06-04T02:34:55.229430+00:00",
+  "scraped_at": "2026-09-14T09:11:29.287634+00:00",
   "course_code": "PHRM3202",
   "class_code": "60012",
   "semester_code": "7560",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "Dutton Park",
   "coordinating_unit": "Pharmacy and Pharmaceutical Sciences School",
-  "course_description": "This pharmaceutical science course focuses on the study and application of research in pharmaceutical drug delivery technologies and how it can be applied to clinical context. The objectives are to educate students in research-based strategies for drug formulation development and enable them to integrate their understanding of quality medicine use, drug discovery, and dosage form design concepts.\n\nThis course, centred on an inquiry-based curriculum, immerses students in independent research to tackle clinical cases through formulation approaches. Working collaboratively in groups, and individually students will engage in hands-on laboratory work over a three-week period (6 h per week), applying their theoretical knowledge to develop hypotheses, and to develop and optimise pharmaceutical formulations. This course aims to enhance critical thinking, problem-solving skills, and practical expertise, preparing students for the complexities of pharmaceutical research and development to be applied in clinical scenarios such as compounding pharmacy, hospitals, R&D, and community pharmacy. Through this immersive experience, students will gain invaluable insights into the intricacies of drug formulation and its clinical applications.",
+  "course_description": "This pharmaceutical science course focuses on the study and application of research in pharmaceutical drug delivery technologies and how it can be applied to a clinical context. The objectives are to educate students in research-based strategies for drug formulation development and enable them to integrate their understanding of quality medicine use, drug discovery, and dosage form design concepts.\n\nThis course, centred on an inquiry-based curriculum, immerses students in independent research to tackle clinical cases through formulation approaches. Working collaboratively in groups, and individually students will engage in hands-on laboratory work over a three-week period (6 h per week), applying their theoretical knowledge to develop hypotheses, and to develop and optimise pharmaceutical formulations. This course aims to enhance critical thinking, problem-solving skills, and practical expertise, preparing students for the complexities of pharmaceutical research and development to be applied in clinical scenarios such as compounding pharmacy, hospitals, R&D, and community pharmacy. Through this immersive experience, students will gain invaluable insights into the intricacies of drug formulation and its clinical applications.",
   "requirements": {
     "prerequisites": [
       "We recommend completing the following courses before enrolling in this one:",
@@ -63,27 +63,27 @@
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nIn each of weeks 1, 2 & 13 participate in a 2-hour workshop face to face. Students will attend one 1-hour workshop focusing on practical tips for your laboratory research project.\nStudents will be scheduled into a 3-week block of 6 hours per week to conduct group-based laboratory research projects. Please note that additional preparation before each practical with your groups is expected to maximise the value of your time in the laboratory.",
-  "course_aims": "Pharmacists need to grasp the physicochemical principles of drug formulation and delivery to compound medicines, choose suitable dosage forms, and predict drug effectiveness. This course heavily emphasizes research, active learning, data analysis, and interpretation. Students will conduct a research project in teams, simulating clinical scenarios, and develop a prototype formulation, assessing its validity using variety of quality control tests.",
+  "course_aims": "Pharmacists need to grasp the physicochemical principles of drug formulation and delivery to compound medicines, choose suitable dosage forms, and predict drug effectiveness. This course heavily emphasises research, active learning, data analysis, and interpretation. Students will conduct a research project in teams, simulating clinical scenarios, and develop a prototype formulation, assessing its validity using a variety of quality control tests.",
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Demonstrate and apply principles of drug delivery to hypothesise, propose and justify optimum solutions in developing new formulation"
+      "description": "Demonstrate and apply principles of drug delivery to hypothesise, propose and justify optimum solutions in developing new formulations."
     },
     {
       "number": "LO2.",
-      "description": "Integrate and apply Good Laboratory Practices (GLP) to range of formulation concepts in groups"
+      "description": "Integrate and apply Good Laboratory Practices (GLP) to a range of formulation concepts in groups."
     },
     {
       "number": "LO3.",
-      "description": "Integrate evidence from variety of sources and hypothesise a potential solution using the pharmaceutical sciences to solve a clinical problem"
+      "description": "Integrate evidence from a variety of sources and hypothesise a potential solution using the pharmaceutical sciences to solve a clinical problem."
     },
     {
       "number": "LO4.",
-      "description": "Create and evaluate a pharmaceutical product using range of appropriate formulation and analytical methods with a view to optimise the properties of the product"
+      "description": "Create and evaluate a pharmaceutical product using a range of appropriate formulation and analytical methods with a view to optimising the properties of the product."
     },
     {
       "number": "LO5.",
-      "description": "Justify the formulation design based on literature and experimental data via written and oral modes of communication"
+      "description": "Justify the formulation design based on literature and experimental data via written and oral modes of communication."
     }
   ],
   "assessment_summary": [

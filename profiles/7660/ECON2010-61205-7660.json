@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ECON2010-61205-7660",
-  "scraped_at": "2026-09-07T05:54:13.279297+00:00",
+  "scraped_at": "2026-09-14T06:37:32.418388+00:00",
   "course_code": "ECON2010",
   "class_code": "61205",
   "semester_code": "7660",
@@ -132,6 +132,7 @@
       "due_date": "9/09/2026 10:00 am Submission due on Blackboard via Turnitin at 10.00 AM. See Blackboard for detailed submission instructions in due course. Problem set will be released to students 24 hours in advance from the submission day/time.",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "You will be assessed on the topics covered in Lectures 1-6 (and tutorials 1-6). Exercise I will be posted on Blackboard and needs to be submitted through Turnitin. It will consist of problem solving questions and/or short questions. Further details will be posted on Blackboard. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions are limited to 7 calendar days to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -145,6 +146,7 @@
       "due_date": "18/08/2026 12:00 pm Refer to description on Blackboard.",
       "learning_outcomes_assessed": "L04",
       "task_description": "Task A simple “meet and greet” introductory activity to be completed in a collaborative platform: students must join a group and complete a simple activity (details on Blackboard). Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submissions instructions to be provided on Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment."
     },
@@ -157,6 +159,7 @@
       "due_date": "3/09/2026 1:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "Students work in groups to create an infographic and companion page explaining (i) an economic policy problem, (ii) a policy to address the problem (iii) how the policy solves the problem. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submissions instructions to be provided on Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment."
     },
@@ -169,6 +172,7 @@
       "due_date": "15/09/2026 12:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "Groups provide written feedback on other group’s submission assessing both the infographic and companion page. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submissions instructions to be provided on Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment."
     },
@@ -181,6 +185,7 @@
       "due_date": "25/09/2026 1:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04",
       "task_description": "Final submission of the Infographic and companion page, including a response letter explaining how the feedback is addressed in the revision. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Submissions instructions to be provided on Blackboard.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment."
     },
@@ -194,6 +199,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02",
       "task_description": "Students will have 20-30 minutes to complete 2-3 questions on paper. In this assessment, you will solve problems that demonstrate your understanding of key concepts and your ability to apply them. The task is designed to assess your skills in analysis and to support your development in these capabilities. Completing this assessment will help you build practical skills that you can carry into future coursework. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "submission_guidelines": "Submission in paper during tutorial to the tutor.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nNo extensions are allowed for this item. Best 2 out of 3 quizzes count towards final grade.\nLate submission\nLate submission will not be possible as the Quizzes are due in the tutorials.",
       "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
       "late_submission": "Late submission will not be possible as the Quizzes are due in the tutorials.",

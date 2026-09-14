@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC7043-60620-7560",
-  "scraped_at": "2026-06-04T02:38:23.566149+00:00",
+  "scraped_at": "2026-09-14T09:45:35.583594+00:00",
   "course_code": "PSYC7043",
   "class_code": "60620",
   "semester_code": "7560",
@@ -27,7 +27,7 @@
     {
       "role": "Course coordinator",
       "name": "Professor Vanessa Cobham",
-      "email": "vanessa@psy.uq.edu.au",
+      "email": "v.cobham@uq.edu.au",
       "phone": "+61 7 3346 9911"
     }
   ],
@@ -35,7 +35,7 @@
     {
       "role": "Lecturer",
       "name": "Professor Vanessa Cobham",
-      "email": "vanessa@psy.uq.edu.au"
+      "email": "v.cobham@uq.edu.au"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nTraining in Primary Care Triple P is a compulsory element of this course and occurs on the Monday and Tuesday of Orientation Week.",
@@ -43,7 +43,7 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Demonstrate an understanding of the importance of taking an approach to all aspects of child and adolescent emotional or mental health that is developmentally, systemically and culturally informed."
+      "description": "Demonstrate an understanding of the importance of taking an approach to all aspects of child and adolescent emotional or mental health that is developmentally, systemically and culturally informed, including working with Aboriginal and Torres Strait Islander children, young people and families."
     },
     {
       "number": "LO2.",

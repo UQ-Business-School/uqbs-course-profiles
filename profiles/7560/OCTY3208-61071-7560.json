@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/OCTY3208-61071-7560",
-  "scraped_at": "2026-06-04T02:33:47.937691+00:00",
+  "scraped_at": "2026-09-14T09:01:17.611775+00:00",
   "course_code": "OCTY3208",
   "class_code": "61071",
   "semester_code": "7560",
@@ -24,7 +24,8 @@
     "incompatible": [
       "You can't enrol in this course if you've already completed the following:",
       "OCTY3206",
-      "OCTY3207"
+      "OCTY3207",
+      "OCTY3209"
     ]
   },
   "course_contacts": [

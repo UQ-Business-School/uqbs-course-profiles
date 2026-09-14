@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PSYC2010-60945-7560",
-  "scraped_at": "2026-06-04T02:37:59.097490+00:00",
+  "scraped_at": "2026-09-14T09:41:03.473532+00:00",
   "course_code": "PSYC2010",
   "class_code": "60945",
   "semester_code": "7560",
@@ -46,6 +46,10 @@
     {
       "number": "LO2.",
       "description": "Write the 'Results' component of a research report."
+    },
+    {
+      "number": "LO3.",
+      "description": "Recognise assumptions and limitations in psychological research methods, including the underrepresentation of groups such as Aboriginal and Torres Strait Islander peoples and its implications for the generalisability of research findings."
     }
   ],
   "assessment_summary": [

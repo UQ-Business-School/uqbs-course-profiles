@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/SOCY2340-61592-7560",
-  "scraped_at": "2026-06-04T02:41:34.144429+00:00",
+  "scraped_at": "2026-09-14T10:16:05.843008+00:00",
   "course_code": "SOCY2340",
   "class_code": "61592",
   "semester_code": "7560",
@@ -17,7 +17,7 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Mrs Sara Mejia Munoz",
+      "name": "Dr Sara Mejia Munoz",
       "email": "s.mejiamunoz@uq.edu.au"
     },
     {
@@ -31,7 +31,7 @@
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Mrs Sara Mejia Munoz",
+      "name": "Dr Sara Mejia Munoz",
       "email": "s.mejiamunoz@uq.edu.au"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/IMED7003-20478-7620",
-  "scraped_at": "2026-06-02T04:30:51.176477+00:00",
+  "scraped_at": "2026-09-14T07:50:20.478623+00:00",
   "course_code": "IMED7003",
   "class_code": "20478",
   "semester_code": "7620",
@@ -41,31 +41,27 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Understand the value of dermatoscopy as an integral part of the clinical assessment of pigmented and non-pigmented skin tumours."
+      "description": "Apply in-depth knowledge of clinical signs and diagnostic approaches for suspicious skin lesions."
     },
     {
       "number": "LO2.",
-      "description": "Confidently describe the key dermatoscopy features of skin lesions using descriptive/Kittlerian terminology."
+      "description": "Integrate clinical and dermatoscopic data in decision-making to formulate accurate diagnoses."
     },
     {
       "number": "LO3.",
-      "description": "Confidently and safely identify suspicious skin lesions requiring biopsy using the 'Chaos and Clues' algorithm for pigmented lesions and 'Prediction Without Pigment' algorithm for non-pigmented lesions."
+      "description": "Collaborate in interdisciplinary environments for coordinated patient assessment."
     },
     {
       "number": "LO4.",
-      "description": "Confidently make lesion-specific diagnosis for a wide range of skin lesions either by pattern recognition or by formal pattern analysis."
+      "description": "Acknowledge social and cultural factors influencing patient presentation and care."
     },
     {
       "number": "LO5.",
-      "description": "Confidently assess, diagnose and manage the range of skin lesions which commonly present to skin cancer practitioners."
+      "description": "Clearly communicate clinical findings to support shared decision-making."
     },
     {
       "number": "LO6.",
-      "description": "Make predictably safe initial management decisions for the less common and rare skin lesions which may present to skin cancer practitioners."
-    },
-    {
-      "number": "LO7.",
-      "description": "Demonstrate understanding of basic statistical concepts relevant to appraising journal articles on skin cancer."
+      "description": "Apply ethical decision-making in ambiguous or complex diagnostic situations."
     }
   ],
   "assessment_summary": [
@@ -180,8 +176,8 @@
     }
   ],
   "learning_resources": {
-    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.\nOwn copy required\nYou'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Book Dermatoscopy and Skin Cancer: A Handbook for Hunters of Skin Cancer and Melanoma by Rosendahl; Cliff; Marozava; Aksana; Hassani; Mohammadreza; Clark; Simon - 2025 Edition: 2nd ed Publisher: Scion Publishing Limited ISBN: 9781914961762; 9781914961670",
-    "own_copy_required": "You'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Book Dermatoscopy and Skin Cancer: A Handbook for Hunters of Skin Cancer and Melanoma by Rosendahl; Cliff; Marozava; Aksana; Hassani; Mohammadreza; Clark; Simon - 2025 Edition: 2nd ed Publisher: Scion Publishing Limited ISBN: 9781914961762; 9781914961670"
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.\nOwn copy required\nYou'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Book Dermatoscopy: pattern analysis of pigmented and non-pigmented lesions by Kittler; Harald; Rosendahl; Cliff; Cameron; Alan - 2016 Edition: 2nd edition Publisher: Facultas ISBN: 9783708913858; 9783990305751 Book Dermatoscopy and Skin Cancer: A Handbook for Hunters of Skin Cancer and Melanoma by Rosendahl; Cliff; Marozava; Aksana; Hassani; Mohammadreza; Clark; Simon - 2025 Edition: 2nd ed Publisher: Scion Publishing Limited ISBN: 9781914961762; 9781914961670 Book Dermatoscopy and Skin Cancer: A handbook for hunters of skin cancer and melanoma by Rosendahl; Cliff; Marozava; Aksana - 2023 Edition: updated edition Publisher: Scion Publishing ISBN: 9781914961205; 9781914961229",
+    "own_copy_required": "You'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Book Dermatoscopy: pattern analysis of pigmented and non-pigmented lesions by Kittler; Harald; Rosendahl; Cliff; Cameron; Alan - 2016 Edition: 2nd edition Publisher: Facultas ISBN: 9783708913858; 9783990305751 Book Dermatoscopy and Skin Cancer: A Handbook for Hunters of Skin Cancer and Melanoma by Rosendahl; Cliff; Marozava; Aksana; Hassani; Mohammadreza; Clark; Simon - 2025 Edition: 2nd ed Publisher: Scion Publishing Limited ISBN: 9781914961762; 9781914961670 Book Dermatoscopy and Skin Cancer: A handbook for hunters of skin cancer and melanoma by Rosendahl; Cliff; Marozava; Aksana - 2023 Edition: updated edition Publisher: Scion Publishing ISBN: 9781914961205; 9781914961229"
   },
   "learning_activities": [
     {

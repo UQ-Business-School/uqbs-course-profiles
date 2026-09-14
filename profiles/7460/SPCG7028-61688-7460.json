@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/SPCG7028-61688-7460",
-  "scraped_at": "2026-06-04T01:18:49.228966+00:00",
+  "scraped_at": "2026-09-14T10:19:05.706667+00:00",
   "course_code": "SPCG7028",
   "class_code": "61688",
   "semester_code": "7460",
@@ -27,7 +27,7 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Miss Emily Hall",
+      "name": "Dr Emily Hall",
       "email": "emily.hall@uq.edu.au",
       "notes": "By negotiation"
     }
@@ -35,7 +35,7 @@
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Miss Emily Hall",
+      "name": "Dr Emily Hall",
       "email": "emily.hall@uq.edu.au"
     }
   ],

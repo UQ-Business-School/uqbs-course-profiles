@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/DENT8040-61962-7460",
-  "scraped_at": "2026-06-04T00:55:10.466134+00:00",
+  "scraped_at": "2026-09-14T06:32:34.594725+00:00",
   "course_code": "DENT8040",
   "class_code": "61962",
   "semester_code": "7460",
@@ -26,7 +26,8 @@
     {
       "role": "Course coordinator",
       "name": "Dr Bilal El Masoud",
-      "email": "b.elmasoud@uq.edu.au"
+      "email": "b.elmasoud@uq.edu.au",
+      "phone": "+61 7 3365 8108"
     },
     {
       "role": "Lecturer",

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/LAWS5122-20110-7520",
-  "scraped_at": "2026-06-04T01:44:32.771822+00:00",
+  "scraped_at": "2026-09-14T08:01:56.825859+00:00",
   "course_code": "LAWS5122",
   "class_code": "20110",
   "semester_code": "7520",
@@ -31,19 +31,19 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Professor Graeme Orr",
+      "name": "Prof Graeme Orr",
       "email": "g.orr@law.uq.edu.au"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Professor Graeme Orr",
+      "name": "Prof Graeme Orr",
       "email": "g.orr@law.uq.edu.au"
     },
     {
       "role": "Tutor",
-      "name": "Professor Graeme Orr",
+      "name": "Prof Graeme Orr",
       "email": "g.orr@law.uq.edu.au"
     }
   ],

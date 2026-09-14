@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/COSC2500-61970-7660",
-  "scraped_at": "2026-09-07T05:50:30.682635+00:00",
+  "scraped_at": "2026-09-14T06:17:08.967722+00:00",
   "course_code": "COSC2500",
   "class_code": "61970",
   "semester_code": "7660",
@@ -109,6 +109,7 @@
       "due_date": "Module 1: 4/09/2026 3:00 pm Module 2: 25/09/2026 3:00 pm Module 3: 16/10/2026 3:00 pm Module 4: 30/10/2026 3:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "Students will work on sets of exercises, one for each of modules 1-4. The exercises will primarily consist of practical computer exercises but can include mathematical and research tasks as well. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Exercises must be submitted via the course Blackboard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -122,6 +123,7 @@
       "due_date": "9/11/2026 3:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
       "task_description": "Project on topic of student's choice. Students will submit a written report. The project is a class B assessment item and is not required to be attempted to obtain a passing grade for the course. Points awarded for the project will contribute towards obtaining grades of 6 and 7 only. Points are awarded for high levels of achievement only. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "The project must be submitted via the course Blackboard site.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
@@ -136,6 +138,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L03, L04, L05",
       "task_description": "The exam will be a centrally timetabled exam. Questions can cover any topic covered in the course, which can include discussions/reflection about Guest Lectures, lessons learned from computer lab exercises, and on programming methods or techniques. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee ADDITIONAL ASSESSMENT INFORMATION for the extension and deferred examination information relating to this assessment item.",
       "deferral_or_extension": "You may be able to defer this exam .",

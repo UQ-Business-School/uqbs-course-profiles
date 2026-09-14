@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ENVH7002-61227-7560",
-  "scraped_at": "2026-06-04T02:22:33.593949+00:00",
+  "scraped_at": "2026-09-14T07:11:52.569711+00:00",
   "course_code": "ENVH7002",
   "class_code": "61227",
   "semester_code": "7560",
@@ -13,7 +13,7 @@
   "units": "2",
   "administrative_campus": "Dutton Park",
   "coordinating_unit": "Pharmacy and Pharmaceutical Sciences School",
-  "course_description": "This course provides a broad overview the diverse range of chemical risks encountered in the environment, which will allow students to better understand the public health implications of exposures to such hazards. This course will develop students' knowledge and multidisciplinary skills on how to assess and manage the risks posed by chemical exposures in an environmental health context. The risk from organic, inorganic and radioactive chemicals that pose hazards through exposure via atmospheric, aqueous, food and other sources will be covered. Students will develop and refine their understanding of how and where exposures occur, how to calculate health risks associated with these exposures, and how to reduce risk through management strategies.\n\nChemicals are an essential part of life - they are present in us, all around us and in every product we buy. We therefore need to be able to identify which chemicals are relevant to our health and identify those that can pose a risk to health. The Environmental Health Risks - Chemical Hazards course provides a comprehensive introduction to chemicals and the hazards they can pose. The course will develop an in-depth understanding of how the risks associated with chemical exposure are assessed and how these approaches are used. The hazards of naturally occurring and synthetic organic, inorganic and radioactive chemicals will be explored and pertinent case studies used to demonstrate chemical exposures via different pathways and media and how these can be assessed. Assessing any risk that chemicals may pose also requires an understanding of the uptake and distribution of chemicals in the body and how this could lead to harmful effects. As such, this course is relevant to all students with an interest in chemicals in the environment and health.",
+  "course_description": "This course provides a broad overview of the diverse range of chemical risks encountered in the environment, which will allow students to better understand the public health implications of exposures to such hazards. This course will develop students' knowledge and multidisciplinary skills on how to assess and manage the risks posed by chemical exposures in an environmental health context. The risk from organic, inorganic and radioactive chemicals that pose hazards through exposure via atmospheric, aqueous, food and other sources will be covered. Students will develop and refine their understanding of how and where exposures occur, how to calculate health risks associated with these exposures, and how to reduce risk through management strategies.\n\nChemicals are an essential part of life - they are present in us, all around us and in every product we buy. We therefore need to be able to identify which chemicals are relevant to our health and identify those that can pose a risk to health. The Environmental Health Risks - Chemical Hazards course provides a comprehensive introduction to chemicals and the hazards they can pose. The course will develop an in-depth understanding of how the risks associated with chemical exposure are assessed and how these approaches are used. The hazards of naturally occurring and synthetic organic, inorganic and radioactive chemicals will be explored and pertinent case studies used to demonstrate chemical exposures via different pathways and media and how these can be assessed. Assessing any risk that chemicals may pose also requires an understanding of the uptake and distribution of chemicals in the body and how this could lead to harmful effects. As such, this course is relevant to all students with an interest in chemicals in the environment and health.",
   "course_contacts": [
     {
       "role": "Course coordinator",
@@ -74,27 +74,27 @@
   "learning_outcomes": [
     {
       "number": "LO1.",
-      "description": "Identify the different types of chemical hazards in the environment"
+      "description": "Identify the different types of chemical hazards in the environment."
     },
     {
       "number": "LO2.",
-      "description": "Understand the characteristics of common chemical hazards that pose human health risks"
+      "description": "Understand the characteristics of common chemical hazards that pose human health risks."
     },
     {
       "number": "LO3.",
-      "description": "Describe the major pathways of exposures to chemical hazards and methods for measuring or estimating (e.g. modelling) exposure"
+      "description": "Describe the major pathways of exposures to chemical hazards and methods for measuring or estimating (e.g. modelling) exposure."
     },
     {
       "number": "LO4.",
-      "description": "Understand the key principles of chemical toxicology, including uptake and distribution pathways for chemicals in(to) humans"
+      "description": "Understand the key principles of chemical toxicology, including uptake and distribution pathways for chemicals in(to) humans."
     },
     {
       "number": "LO5.",
-      "description": "Apply a systematic, evidence-based approach for investigating chemical hazards and conducting basic risk assessments"
+      "description": "Apply a systematic, evidence-based approach for investigating chemical hazards and conducting basic risk assessments."
     },
     {
       "number": "LO6.",
-      "description": "Interpret the results of risk assessment and effectively communicate these to a range of stakeholders, including appropriate recommendations for risk management"
+      "description": "Interpret the results of risk assessment and effectively communicate these to a range of stakeholders, including appropriate recommendations for risk management."
     }
   ],
   "assessment_summary": [

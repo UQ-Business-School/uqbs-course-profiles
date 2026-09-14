@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG4901-20033-7520",
-  "scraped_at": "2026-06-04T01:38:09.596537+00:00",
+  "scraped_at": "2026-09-14T07:06:50.164013+00:00",
   "course_code": "ENGG4901",
   "class_code": "20033",
   "semester_code": "7520",
@@ -33,14 +33,15 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Prof Paul Lant",
-      "email": "paul.lant@uq.edu.au"
+      "name": "Professor Paul Lant",
+      "email": "paul.lant@uq.edu.au",
+      "phone": "+61 7 3365 6195"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Prof Paul Lant",
+      "name": "Professor Paul Lant",
       "email": "paul.lant@uq.edu.au"
     },
     {

@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/BIOM6080-62740-7560",
-  "scraped_at": "2026-06-04T02:13:14.763586+00:00",
+  "scraped_at": "2026-09-14T05:40:57.543296+00:00",
   "course_code": "BIOM6080",
   "class_code": "62740",
   "semester_code": "7560",
@@ -16,7 +16,7 @@
   "course_description": "Biomedical Science Research Techniques is a preparative course for Biomedical Science Honours students and forms 2 units of the 16-unit program. An in-depth understanding of biomedical research requires knowledge of the experimental techniques used to generate scientific data. Students will learn foundational skills in biostatistics, hypothesis testing, experimental design, and research integrity. A focus on selected research techniques will round out student’s preparation and include in depth background knowledge of the chosen techniques, hands-on demonstrations of critical technologies and analysis of captured datasets. Students will be assessed on their understanding of a range of research techniques and biostatistics.\n\nIt has been estimated that around 70% of scientists have tried and failed to replicate published experiments. What is behind this replication crisis? Can an honest scientist publish disreputable or non-reproducible work? What is p-hacking? A knowledge of best practice experimental design and data analysis can help you stay out of these traps and lay the foundations for a successful and impactful career in research. Furthermore, what are the best techniques to use to address your scientific questions? How do I determine if two proteins interact? How can I see what cells express a gene or protein of interest? How do I survey the diverse cell types and gene profiles expressed in normal versus diseased tissues? How can I start to determine the mechanisms underlying a physiological response? To answer these questions and more, you will need to arm yourself with knowledge of both standard and cutting-edge techniques in the biomedical sciences space.\n\nIn BIOM6080 you will learn about best practices in experimental design and data analysis through case studies and lectures. You will get hands on experience with several exemplars of biomedical science techniques, learning not only how the techniques work, but their limitations and specific data analysis. The goal of the course is to promote an exploration of experimental design and techniques that can lay the foundations for you to apply this knowledge to your current honours research project and beyond. You will come away from BIOM6080 with scientific skills you can transfer across your subsequent research endeavours and underpin your development as an impactful biomedical research scientist.",
   "requirements": {
     "restrictions": [
-      "Restricted to students enrolled in BBiomedSc(Hons); or BSc(Hons) or BAdvSc(Hons) majoring in Biomedical Science or Cell Biology only."
+      "Restricted to students enrolled in BBiomedSc(Hons); or BSc(Hons) or BAdvSc(Hons) majoring in Biomedical Science only."
     ]
   },
   "course_contacts": [

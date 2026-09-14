@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/NEUR2020-21238-7520",
-  "scraped_at": "2026-06-04T01:50:25.811567+00:00",
+  "scraped_at": "2026-09-14T08:54:15.161337+00:00",
   "course_code": "NEUR2020",
   "class_code": "21238",
   "semester_code": "7520",
@@ -95,11 +95,11 @@
     },
     {
       "number": "LO11.",
-      "description": "demonstrate, through active laboratory activities, a knowledge of some key perceptual functions."
+      "description": "demonstrate, through active laboratory activities, a knowledge of some key perceptual functions"
     },
     {
       "number": "LO12.",
-      "description": "demonstrate, through active laboratory activities, an understanding of selected cognitive functions."
+      "description": "demonstrate, through active laboratory activities, an understanding of selected cognitive functions"
     },
     {
       "number": "LO13.",
@@ -107,11 +107,11 @@
     },
     {
       "number": "LO14.",
-      "description": "Identify and explain the range of research methods used in neuroscience"
+      "description": "identify and explain the range of research methods used in neuroscience"
     },
     {
       "number": "LO15.",
-      "description": "Understand some preliminary principles of computer programming (Matlab)"
+      "description": "consider how social and emotional aspects related to cognition are impacted by culture, including First Nations"
     }
   ],
   "assessment_summary": [

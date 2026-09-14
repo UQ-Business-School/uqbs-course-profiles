@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/HPRM2000-60674-7660",
-  "scraped_at": "2026-09-07T06:05:47.069150+00:00",
+  "scraped_at": "2026-09-14T07:46:40.993103+00:00",
   "course_code": "HPRM2000",
   "class_code": "60674",
   "semester_code": "7660",
@@ -47,11 +47,6 @@
       "role": "Facilitator",
       "name": "Miss Niloofar Fakhraei Rad",
       "email": "n.fakhraeirad@uq.edu.au"
-    },
-    {
-      "role": "Facilitator",
-      "name": "Miss Jodie Tully",
-      "email": "j.tully@uq.edu.au"
     },
     {
       "role": "Facilitator",
@@ -143,6 +138,7 @@
       "other_conditions": "Student specific. See the conditions definitions",
       "learning_outcomes_assessed": "L02, L03, L06, L08",
       "task_description": "You will be given a contemporary health promotion issue (e.g. Coca Cola is responsible for the obesity epidemic). Using a debate style format, present a critical synthesis of empirical evidence in a one-page written format along with a 2 min video on the health promotion issue. Recording of Assessment: Assessment Procedure When a student is required to complete an oral or practical assessment item worth 20% or more, the performance will be recorded and retained as per Appendix 1 as the official recording of the item for re-mark purposes. Recordings will be stored in a secure manner and will only be accessed for the purposes of: i. moderation of marking ii. provision of feedback to the student(s) recorded; and/or iii. re-marking following a successful re-mark application. Use of generative Artificial Intelligence (AI) or Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
       "submission_guidelines": "Deferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
       "deferral_or_extension": "You may be able to apply for an extension .",
       "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
@@ -158,6 +154,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
       "task_description": "In-class quiz on independent tasks and lecture/applied class content Use of generative Artificial Intelligence (AI) or Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time no planning time minutes Duration 10 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Inspera Invigilation Invigilated in person",
       "submission_guidelines": "To be completed in-person as an online quiz in class in weeks 6, 7, 8, 9, 11, 12.\nDeferral or extension\nYou may be able to defer this exam .\nYour new quiz date and time will be determined by the course coordinator and communicated to you via your UQ student email account.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .",
       "deferral_or_extension": "You may be able to defer this exam .",
@@ -178,6 +175,7 @@
       "other_conditions": "Secure. See the conditions definitions",
       "learning_outcomes_assessed": "L01, L02, L03, L04, L05, L06, L07",
       "task_description": "This exam will consist of short-answer questions, ranging from 2-5 marks each. All course lectures, workshops, tasks and set readings will be covered in the exam. Use of generative Artificial Intelligence (AI) or Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
       "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
       "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
       "deferral_or_extension": "You may be able to defer this exam .",

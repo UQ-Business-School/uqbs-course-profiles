@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/PUBH7110-60842-7560",
-  "scraped_at": "2026-06-04T02:39:23.946214+00:00",
+  "scraped_at": "2026-09-14T09:56:08.802226+00:00",
   "course_code": "PUBH7110",
   "class_code": "60842",
   "semester_code": "7560",
@@ -23,14 +23,14 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Mr Condy Canuto",
+      "name": "Dr Condy Canuto",
       "email": "c.canuto@uq.edu.au"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Mr Condy Canuto",
+      "name": "Dr Condy Canuto",
       "email": "c.canuto@uq.edu.au"
     },
     {
