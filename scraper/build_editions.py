@@ -52,7 +52,7 @@ DEFAULT_ALL_URL = "https://uq-business-school.github.io/uqbs-course-profiles/bro
 VIEWER_ASSETS = ["app.js", "styles.css"]
 
 # Taxonomy/overlay files. AoL + GA overlays are UQBS-only.
-OVERLAYS_COMMON = ["uqbs-programs.json", "teaching-periods.json", "lo-overrides.json"]
+OVERLAYS_COMMON = ["uqbs-programs.json", "all-programs.json", "teaching-periods.json", "lo-overrides.json"]
 OVERLAYS_UQBS_ONLY = ["aol-status.json"]  # plus any ga*.json, matched dynamically
 
 
@@ -160,8 +160,10 @@ def build_uqbs(out: Path, args) -> None:
 
     data_base = "" if args.uqbs_self_contained else args.all_data_base
 
-    # Pages — front-door landing (index) + the UQBS browser + detail/programs/AoL.
-    for page in ["index.html", "business.html", "course.html", "program.html", "aol.html"]:
+    # Pages: landing, the UQBS browser, detail, programs, AoL, and the all-UQ browser
+    # too, since 14 September 2026 the UQBS edition is one site with both dashboards
+    # (the nav in app.js links business.html and browse-all.html side by side).
+    for page in ["index.html", "business.html", "browse-all.html", "course.html", "program.html", "aol.html"]:
         copy(DOCS / page, root / page)
 
     # Viewer + config.
@@ -170,7 +172,7 @@ def build_uqbs(out: Path, args) -> None:
     # This edition's own browser is a relative link (works on any host); the
     # other edition is absolute (cross-site).
     (root / "assets" / "site-config.js").write_text(
-        site_config("uqbs", data_base, args.uqbs_repo, "business.html", args.all_url, args.report_email),
+        site_config("uqbs", data_base, args.uqbs_repo, "business.html", "browse-all.html", args.report_email),
         encoding="utf-8",
     )
 
