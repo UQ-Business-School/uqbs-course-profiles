@@ -4,11 +4,11 @@
     "source": "my.UQ program requirements pages (programs-courses.uq.edu.au) + UQBS GA Mapping spreadsheet for major course lists",
     "generated": "2026-04-15",
     "verified_against": "my.UQ 2026 programme requirements (window.AppData JSON)",
-    "total_courses": 326,
+    "total_courses": 327,
     "total_programs": 22,
     "total_programs_breakdown": "7 UG + 15 PG (excl. Elective cross-programme tag)",
-    "total_mappings": 526,
-    "updated": "2026-09-15: added TIMS7334, MGTS7527, MKTG7505 from the AoL register (MBus majors; GCBus program electives)"
+    "total_mappings": 527,
+    "updated": "2026-09-15: added TIMS7334, MGTS7527, MKTG7505 from the AoL register (MBus majors; GCBus program electives); MGTS2301 (BAB core)"
   },
   "programs": {
     "BBusMan": {
@@ -266,6 +266,7 @@
         "FINM2412",
         "IBUS2301",
         "LAWS1100",
+        "MGTS2301",
         "MGTS2604",
         "MGTS4602",
         "MKTG1501",
@@ -3173,6 +3174,14 @@
       {
         "program": "BBusMan",
         "program_name": "Bachelor of Business Management",
+        "role": "Core",
+        "level": "UG"
+      }
+    ],
+    "MGTS2301": [
+      {
+        "program": "BAB",
+        "program_name": "Bachelor of Advanced Business (Honours)",
         "role": "Core",
         "level": "UG"
       }
