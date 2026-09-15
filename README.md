@@ -104,38 +104,23 @@ profiles/
 
 **Optional: macOS launchd** — For a local backup runner, edit the path in `com.uqbs.course-scraper.plist` and install it with `launchctl load ~/Library/LaunchAgents/com.uqbs.course-scraper.plist`. Manual run: `./run_scrape.sh --push`.
 
-## Viewer (GitHub Pages)
+## Viewer and data host
 
-The `docs/` folder is a vanilla HTML/JS static site that renders the scraped data:
+The viewer is not in this repo. It lives in `UQ-Business-School/courses` under `uqbsld/profiles/` and is served at `teach.business.uq.edu.au/ld/uqbsld/profiles/` (the school server mirrors that repo with about a 15 minute delay). Edit the viewer there; there is no other copy.
 
-- `index.html` — UQBS course browser (by programme, level, mode, location, with AoL status)
-- `browse-all.html` — All-of-UQ course browser (by school/faculty, level, mode, location)
-- `course.html?file=…` — Per-course detail view showing every scraped field (works for any course)
-- `program.html?program=…` — UQBS programme/major navigation with course lists from the taxonomy
-- `aol.html` — Assurance of Learning dashboard
+This repo is the data host. `.github/workflows/pages.yml` publishes `docs/` to GitHub Pages whenever `profiles/`, `taxonomy/` or `docs/` change: it rebuilds the manifests, builds the assessment security feed, copies `profiles/`, `profiles-legacy/` and `taxonomy/` in, and deploys. The viewer fetches everything it reads (manifests, profile JSON, taxonomies, LO overrides, teaching periods, the AoL feed) from that Pages site, set as `dataBase` in the viewer's `assets/site-config.js`. `docs/index.html` is a redirect to the viewer for anyone who lands on the Pages site directly.
 
-The UQBS viewer reads `manifest.json` (UQBS courses only). The All UQ viewer reads `manifest-all.json` (everything). This separation means the UQBS viewer is never affected by all-of-UQ data.
-
-**Deployment:** The `.github/workflows/pages.yml` workflow rebuilds the site whenever `profiles/`, `taxonomy/`, or `docs/` change. It regenerates both manifests, stages `profiles/` and `taxonomy/` into `docs/`, and deploys to GitHub Pages. You'll need to enable Pages in the repo settings ("Build and deployment" → Source: "GitHub Actions").
-
-**Local dev:**
+The manifest generator can be run on its own:
 
 ```bash
-./docs/serve_local.sh           # rebuild manifest, stage symlinks, serve on :8000
-# then open http://localhost:8000/index.html
-```
-
-The manifest generator can be run independently:
-
-```bash
-python3 scraper/build_manifest.py   # writes both manifest.json and manifest-all.json
+python3 scraper/build_manifest.py   # writes docs/assets/manifest.json, manifest-all.json and manifest-legacy.json
 ```
 
 ## AoL feed
 
-The Assurance of Learning layer (the AoL column, the course-page card and `aol.html`) reads `taxonomy/aol-status.json`. That file is built from `taxonomy/aol-template.csv`, which is exported from the UQBS AoL register workbook (`UQBS-AoL-Register.xlsx` in the team's SharePoint AoL folder). The register is the master: statuses in the CSV, in `scraper/import_aol.py` and in `AOL_STATUS` in `docs/assets/app.js` mirror its Lists tab, so a new status is added to the register first and then to both files.
+The viewer's Assurance of Learning layer (the AoL column, the course-page card and `aol.html`) reads `taxonomy/aol-status.json` from this repo's Pages site. That file is built from `taxonomy/aol-template.csv`, which is exported from the UQBS AoL register workbook (`UQBS-AoL-Register.xlsx` in the team's SharePoint AoL folder). The register is the master: statuses in the CSV, in `scraper/import_aol.py` and in `AOL_STATUS` in the viewer's `assets/app.js` (courses repo) mirror its Lists tab, so a new status is added to the register first and then to both files.
 
-The feed carries course, GA, assessment, status and rubric link only. Learning designer names, coordinators and notes stay in the workbook. Rubric links point into SharePoint and open for signed-in staff; the AoL layer is only built into the UQBS edition (`scraper/build_editions.py`), never the all-of-UQ site.
+The feed carries course, GA, assessment, status and rubric link only. Learning designer names, coordinators and notes stay in the workbook. Rubric links point into SharePoint and open for signed-in staff.
 
 The semester on each row is the offering the rubric was found in. `scraper/export_aol_register.py` works it out from the Blackboard pull folders and gradebook notes of the September 2026 sweeps, then from the register's "First implemented" column, and otherwise uses the current semester; `logs/aol-export-report.csv` records the source for every row.
 
@@ -149,7 +134,7 @@ python3 scraper/export_aol_register.py \
 git add taxonomy/aol-template.csv taxonomy/aol-status.json logs/aol-export-report.csv && git commit -m "AoL feed: register as at <date>" && git push
 ```
 
-The weekly scrape run rebuilds `aol-status.json` from the committed CSV as well, so committing the CSV alone is enough; committing the JSON too means the site updates on the next Pages build rather than the next scrape.
+The weekly scrape run rebuilds `aol-status.json` from the committed CSV as well, so committing the CSV alone is enough; committing the JSON too means the viewer shows it after the next Pages build (a few minutes) rather than the next scrape.
 
 ## Semester codes
 

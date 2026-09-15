@@ -10,7 +10,8 @@ edited by hand. Columns:
   semester_code, course_code, ga, assessment_title, status, rubric_url, notes
 
 Statuses mirror the register's Lists tab exactly. The register is the master;
-this file and docs/assets/app.js (AOL_STATUS) carry the same nine. Change the
+this file and AOL_STATUS in the viewer's assets/app.js (UQ-Business-School/courses,
+uqbsld/profiles) carry the same nine. Change the
 register first, then both of these.
 
 Semester labels come from taxonomy/teaching-periods.json, the single source
