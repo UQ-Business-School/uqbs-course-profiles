@@ -13,6 +13,7 @@ const STORE = {
   manifestAll: null,
   manifestLegacy: null,
   taxonomy: null,
+  taxonomyAll: null,
   aol: null,
   loOverrides: null,
   teachingPeriods: null,
@@ -40,17 +41,17 @@ function dataUrl(rel) {
   return DATA_BASE ? `${DATA_BASE}/${clean}` : `./${clean}`;
 }
 
-// Everything the weekly scrape refreshes (the manifests, the program taxonomy, the
+// Everything the weekly scrape refreshes (the manifests, the program taxonomies, the
 // LO overrides, the teaching periods) is read from the data host when one is set,
-// so a hosted edition such as teach.business follows the scrape without a rebuild
-// (2026-09-07; until then the UQBS edition shipped a frozen copy of the manifest
-// and showed the 6 June scrape for three months). Only aol-status.json, which the
-// UQBS edition alone carries, stays local.
+// so this hosted edition follows the scrape without a rebuild (2026-09-07; until
+// then it shipped a frozen copy of the manifest and showed the 6 June scrape for
+// three months). Only aol-status.json, which this edition alone carries, stays local.
 const DATA_PATHS = {
   manifest: dataUrl("assets/manifest.json"),
   manifestAll: dataUrl("assets/manifest-all.json"),
   manifestLegacy: dataUrl("assets/manifest-legacy.json"),
   taxonomy: dataUrl("taxonomy/uqbs-programs.json"),
+  taxonomyAll: dataUrl("taxonomy/all-programs.json"),
   aol: "./taxonomy/aol-status.json",
   loOverrides: dataUrl("taxonomy/lo-overrides.json"),
   teachingPeriods: dataUrl("taxonomy/teaching-periods.json"),
@@ -103,6 +104,15 @@ async function loadTaxonomy() {
   if (!res.ok) throw new Error(`Could not load taxonomy: ${res.status}`);
   STORE.taxonomy = await res.json();
   return STORE.taxonomy;
+}
+
+// All-of-UQ program taxonomy (all-programs.json) for the All-UQ dashboard.
+async function loadTaxonomyAll() {
+  if (STORE.taxonomyAll) return STORE.taxonomyAll;
+  const res = await fetch(DATA_PATHS.taxonomyAll, { cache: "no-cache" });
+  if (!res.ok) throw new Error(`Could not load all-UQ taxonomy: ${res.status}`);
+  STORE.taxonomyAll = await res.json();
+  return STORE.taxonomyAll;
 }
 
 async function loadAol() {
@@ -384,6 +394,24 @@ function getQueryParam(name) {
 function programRolesFor(code, taxonomy) {
   if (!taxonomy || !taxonomy.course_programs) return [];
   return taxonomy.course_programs[code] || [];
+}
+
+// Stable colour (hue 0-360) per program, so chips are consistent for a program
+// and visually distinct between programs. Curated hues for the main programs;
+// a spread hash covers anything else.
+const PROGRAM_HUE = {
+  BBusMan: 210, BCom: 280, BAB: 330, BAFE: 165, BTHEM: 30,
+  MBA: 0, MBus: 48, MCom: 190, MBusAn: 100, MEI: 255,
+  BBusManHons: 225, BComHons: 295, MFIM: 140, MTHEM: 15,
+  GCBus: 60, GCFIM: 120, GCTHEM: 45, GCBusAn: 85, GCBusAdmin: 200,
+  GCCom: 300, GCEI: 240,
+};
+function hueForProgram(code) {
+  if (PROGRAM_HUE[code] != null) return PROGRAM_HUE[code];
+  let h = 0;
+  const s = String(code);
+  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0;
+  return Math.round((h * 137.508) % 360);
 }
 
 // ---- export helpers -------------------------------------------------------
@@ -826,6 +854,13 @@ async function initBrowser() {
         .map(([k, v]) => ({ value: k, label: `${v.name} (${k})` }));
       populateSelect("filter-program", progOpts);
     }
+    if (taxonomy && taxonomy.course_programs) {
+      const majors = new Set();
+      for (const lst of Object.values(taxonomy.course_programs)) {
+        for (const r of lst) majors.add(`${r.program}: ${r.role || ""}`);
+      }
+      populateSelect("filter-major", [...majors].sort().map(m => ({ value: m, label: m })));
+    }
 
     // Populate semester filter and default to most recent
     const semCodes = uniqueSorted(courses.map(c => c.semester_code));
@@ -847,7 +882,7 @@ async function initBrowser() {
     bindControls();
     render();
   } catch (err) {
-    $body.innerHTML = `<tr><td colspan="11" class="error">Error loading data: ${escapeHtml(err.message)}</td></tr>`;
+    $body.innerHTML = `<tr><td colspan="10" class="error">Error loading data: ${escapeHtml(err.message)}</td></tr>`;
     console.error(err);
   }
 }
@@ -864,7 +899,7 @@ function populateSelect(id, options) {
 }
 
 function bindControls() {
-  for (const id of ["search", "filter-semester", "filter-level", "filter-mode", "filter-location", "filter-program"]) {
+  for (const id of ["search", "filter-semester", "filter-level", "filter-mode", "filter-location", "filter-program", "filter-major"]) {
     const el = document.getElementById(id);
     if (el) el.addEventListener("input", render);
   }
@@ -1081,6 +1116,7 @@ function applyFilters(courses) {
   const mode = document.getElementById("filter-mode")?.value;
   const loc = document.getElementById("filter-location")?.value;
   const prog = document.getElementById("filter-program")?.value;
+  const major = document.getElementById("filter-major")?.value;
 
   return courses.filter(c => {
     if (q) {
@@ -1094,6 +1130,10 @@ function applyFilters(courses) {
     if (prog && STORE.taxonomy && STORE.taxonomy.course_programs) {
       const roles = STORE.taxonomy.course_programs[c.course_code] || [];
       if (!roles.some(r => r.program === prog)) return false;
+    }
+    if (major && STORE.taxonomy && STORE.taxonomy.course_programs) {
+      const roles = STORE.taxonomy.course_programs[c.course_code] || [];
+      if (!roles.some(r => `${r.program}: ${r.role || ""}` === major)) return false;
     }
     return true;
   });
@@ -1120,7 +1160,7 @@ function render() {
   $count.textContent = courses.length;
 
   if (courses.length === 0) {
-    $body.innerHTML = `<tr><td colspan="11" class="empty">No courses match the current filters.</td></tr>`;
+    $body.innerHTML = `<tr><td colspan="10" class="empty">No courses match the current filters.</td></tr>`;
     updateSortIndicators();
     refreshSelectionUI();
     return;
@@ -1129,18 +1169,12 @@ function render() {
   const taxonomy = STORE.taxonomy;
   const rows = courses.map(c => {
     const roles = taxonomy ? programRolesFor(c.course_code, taxonomy) : [];
-    const progChips = roles.slice(0, 3).map(r => {
-      const isCore = (r.role || "").toLowerCase() === "core";
-      const cls = isCore ? "chip role-core" : "chip";
-      return `<span class="${cls}" title="${escapeHtml(r.program_name || r.program)} — ${escapeHtml(r.role || "")}">${escapeHtml(r.program)}</span>`;
-    }).join("");
-    const more = roles.length > 3 ? `<span class="chip muted">+${roles.length - 3}</span>` : "";
-    // Where the course lives in each program: "Core", or the major/list name.
-    const roleChips = roles.slice(0, 3).map(r => {
-      const isCore = (r.role || "").toLowerCase() === "core";
-      return `<span class="chip ${isCore ? "role-core" : "role-major"}" title="${escapeHtml(r.program_name || r.program)}">${escapeHtml(r.role || "")}</span>`;
-    }).join("");
-    const roleMore = roles.length > 3 ? `<span class="chip muted">+${roles.length - 3}</span>` : "";
+    // One chip per program: "Program: role", coloured consistently by program.
+    const progChips = roles.slice(0, 4).map(r => {
+      const hue = hueForProgram(r.program);
+      return `<span class="chip" style="--chip-hue:${hue}" title="${escapeHtml(r.program_name || r.program)} — ${escapeHtml(r.role || "")}">${escapeHtml(r.program)}: ${escapeHtml(r.role || "")}</span>`;
+    }).join(" ");
+    const more = roles.length > 4 ? `<span class="chip muted">+${roles.length - 4}</span>` : "";
     const levelClass = (c.study_level || "").toLowerCase().includes("post") ? "level-pill pg" : "level-pill";
     const fullCode = c.full_course_code || [c.course_code, c.class_code, c.semester_code].filter(Boolean).join("-");
     const pfx = coursePrefix(c.course_code);
@@ -1161,7 +1195,6 @@ function render() {
         <td>${escapeHtml(c.attendance_mode || "")}</td>
         <td>${escapeHtml(c.location || "")}</td>
         <td>${progChips}${more}</td>
-        <td>${roleChips}${roleMore}</td>
         <td class="aol-col">${aolCell}</td>
       </tr>`;
   }).join("");
@@ -1191,7 +1224,7 @@ async function initCourseDetail() {
   }
   try {
     const [course, manifest, manifestLegacy, taxonomy, aol] = await Promise.all([
-      loadCourseJson(filePath), loadManifest(), loadManifestLegacy().catch(() => ({ periods: {} })), loadTaxonomy().catch(() => null), loadAol().catch(() => null), loadLoOverrides().catch(() => null), loadTeachingPeriods().catch(() => null)
+      loadCourseJson(filePath), loadManifest(), loadManifestLegacy().catch(() => ({ periods: {} })), loadTaxonomyAll().catch(() => null), loadAol().catch(() => null), loadLoOverrides().catch(() => null), loadTeachingPeriods().catch(() => null)
     ]);
     STORE.currentCourse = course;
     STORE.currentTaxonomy = taxonomy;
@@ -1623,9 +1656,6 @@ function renderCourseDetail($root, c, taxonomy, otherOfferings, currentFile) {
     const loHeader = hasAnyLos ? `<th>LOs</th>` : "";
     const rows = c.assessment_summary.map((a, i) => {
       const { los, override, notes, source } = resolved[i];
-      // Two provenances: "Jac" is the authored record read back from Jac; "Carried"
-      // was inferred from the previous offering by carry_forward_lo.py (the notes say
-      // which offering and what the published profile showed).
       const carried = source === "carried";
       const why = carried ? "Carried forward from the previous offering because the published profile dropped it" : "From Jac, the authored curriculum record — omitted from the published profile";
       const chips = los.length
@@ -2054,6 +2084,45 @@ const MODE_LABELS = { auto: "Auto", light: "Light", dark: "Dark", fun: "Fun" };
 const MODE_ICONS = { auto: "☾", light: "☀", dark: "●", fun: "✦" };
 const MODE_STORAGE_KEY = "uqbs-mode";
 
+// Synthwave neon pairs [primary, secondary]. Fun rolls one of these each time
+// it's selected, so the accent colours vary while the look stays coherent.
+const FUN_PALETTES = [
+  ["#ff4fd8", "#2de2e6"], // pink + cyan
+  ["#b16bff", "#5cf08a"], // violet + green
+  ["#ff9f45", "#45c8ff"], // orange + sky
+  ["#2de2e6", "#ff4fd8"], // cyan + pink
+  ["#c08cff", "#34e7e7"], // violet + cyan
+  ["#ff5e5e", "#4d9fff"], // coral + blue
+  ["#5cf08a", "#b16bff"], // green + violet
+  ["#ffd23f", "#ff4fd8"], // gold + pink
+];
+const FUN_PALETTE_KEY = "uqbs-fun-palette";
+
+function applyFunPalette(i) {
+  const n = FUN_PALETTES.length;
+  const p = FUN_PALETTES[((i % n) + n) % n];
+  const r = document.documentElement;
+  r.style.setProperty("--neon-1", p[0]);
+  r.style.setProperty("--neon-2", p[1]);
+}
+function clearFunPalette() {
+  const r = document.documentElement;
+  r.style.removeProperty("--neon-1");
+  r.style.removeProperty("--neon-2");
+}
+function rollFunPalette() {
+  const i = Math.floor(Math.random() * FUN_PALETTES.length);
+  try { localStorage.setItem(FUN_PALETTE_KEY, String(i)); } catch (_) { /* ignore */ }
+  applyFunPalette(i);
+}
+function storedFunPalette() {
+  try {
+    const v = parseInt(localStorage.getItem(FUN_PALETTE_KEY), 10);
+    if (!isNaN(v)) { applyFunPalette(v); return; }
+  } catch (_) { /* ignore */ }
+  rollFunPalette();
+}
+
 function getMode() {
   try {
     const stored = localStorage.getItem(MODE_STORAGE_KEY);
@@ -2070,10 +2139,12 @@ function applyMode(mode) {
   if (mode === "fun") {
     root.setAttribute("data-theme", "fun");
     root.removeAttribute("data-color-mode");
+    rollFunPalette();   // new neon pair each time Fun is chosen
   } else {
     root.setAttribute("data-theme", "classic");
     if (mode === "light" || mode === "dark") root.setAttribute("data-color-mode", mode);
     else root.removeAttribute("data-color-mode");
+    clearFunPalette();
   }
   try { localStorage.setItem(MODE_STORAGE_KEY, mode); } catch (_) { /* ignore */ }
   updateModeButton(mode);
@@ -2092,7 +2163,9 @@ function updateModeButton(mode) {
 }
 
 function initMode() {
-  updateModeButton(getMode());
+  const mode = getMode();
+  if (mode === "fun") storedFunPalette();  // keep the chosen pair stable across pages
+  updateModeButton(mode);
   const $btn = document.getElementById("mode-toggle");
   if ($btn && !$btn.dataset.modeBound) {
     $btn.dataset.modeBound = "1";
@@ -2257,11 +2330,10 @@ async function initAllBrowser() {
   const $count = document.getElementById("course-count");
   const $meta = document.getElementById("meta-info");
   try {
-    const [manifest] = await Promise.all([loadManifestAll(), loadTeachingPeriods().catch(() => null)]);
+    const [manifest, taxonomy] = await Promise.all([loadManifestAll(), loadTaxonomyAll().catch(() => null), loadTeachingPeriods().catch(() => null)]);
     const courses = getAllCourses(manifest);
     STORE.allCourses = courses;
-    // No taxonomy or AoL for all-of-UQ view
-    STORE.taxonomy = null;
+    STORE.taxonomy = taxonomy;   // all-UQ program/major taxonomy (all-programs.json)
     STORE.aol = null;
     $meta.innerHTML = `<span>Scrape generated</span> <b>${escapeHtml(fmtDate(manifest.generated_at))}</b> <span>· ${manifest.total_profiles} profiles</span>`;
 
@@ -2270,6 +2342,13 @@ async function initAllBrowser() {
     populateSelect("filter-mode", uniqueSorted(courses.map(c => c.attendance_mode)));
     populateSelect("filter-location", uniqueSorted(courses.map(c => c.location)));
     populateSelect("filter-school", uniqueSorted(courses.map(c => c.coordinating_unit)));
+    if (taxonomy && taxonomy.course_programs) {
+      const progs = new Set();
+      for (const lst of Object.values(taxonomy.course_programs)) {
+        for (const r of lst) progs.add(r.program);
+      }
+      populateSelect("filter-program", [...progs].sort().map(p => ({ value: p, label: p })));
+    }
 
     // Populate semester filter and default to most recent
     const semCodes = uniqueSorted(courses.map(c => c.semester_code));
@@ -2290,13 +2369,13 @@ async function initAllBrowser() {
     bindAllBrowserControls();
     renderAllBrowser();
   } catch (err) {
-    $body.innerHTML = `<tr><td colspan="9" class="error">Error loading data: ${escapeHtml(err.message)}</td></tr>`;
+    $body.innerHTML = `<tr><td colspan="10" class="error">Error loading data: ${escapeHtml(err.message)}</td></tr>`;
     console.error(err);
   }
 }
 
 function bindAllBrowserControls() {
-  for (const id of ["search", "filter-semester", "filter-level", "filter-mode", "filter-location", "filter-school"]) {
+  for (const id of ["search", "filter-semester", "filter-level", "filter-mode", "filter-location", "filter-school", "filter-program"]) {
     const el = document.getElementById(id);
     if (el) el.addEventListener("input", renderAllBrowser);
   }
@@ -2328,6 +2407,7 @@ function applyAllFilters(courses) {
   const mode = document.getElementById("filter-mode")?.value;
   const loc = document.getElementById("filter-location")?.value;
   const school = document.getElementById("filter-school")?.value;
+  const prog = document.getElementById("filter-program")?.value;
 
   return courses.filter(c => {
     if (q) {
@@ -2339,6 +2419,10 @@ function applyAllFilters(courses) {
     if (mode && c.attendance_mode !== mode) return false;
     if (loc && c.location !== loc) return false;
     if (school && c.coordinating_unit !== school) return false;
+    if (prog && STORE.taxonomy && STORE.taxonomy.course_programs) {
+      const roles = STORE.taxonomy.course_programs[c.course_code] || [];
+      if (!roles.some(r => r.program === prog)) return false;
+    }
     return true;
   });
 }
@@ -2351,18 +2435,27 @@ function renderAllBrowser() {
   $count.textContent = courses.length;
 
   if (courses.length === 0) {
-    $body.innerHTML = `<tr><td colspan="9" class="empty">No courses match the current filters.</td></tr>`;
+    $body.innerHTML = `<tr><td colspan="10" class="empty">No courses match the current filters.</td></tr>`;
     updateSortIndicators();
     refreshSelectionUI();
     return;
   }
 
+  const taxonomy = STORE.taxonomy;
   const rows = courses.map(c => {
     const levelClass = (c.study_level || "").toLowerCase().includes("post") ? "level-pill pg" : "level-pill";
     const pfx = coursePrefix(c.course_code);
     const codeCls = pfx ? `code prefix-${pfx}` : "code";
     const semLabel = semesterLabel(c);
     const school = c.coordinating_unit || "";
+    const roles = taxonomy ? programRolesFor(c.course_code, taxonomy) : [];
+    const progChips = roles.slice(0, 3).map(r => {
+      const hue = hueForProgram(r.program);
+      const label = r.role ? `${r.program}: ${r.role}` : r.program;
+      const title = `${r.program_name || r.program}${r.role ? " — " + r.role : ""}`;
+      return `<span class="chip" style="--chip-hue:${hue}" title="${escapeHtml(title)}">${escapeHtml(label)}</span>`;
+    }).join(" ");
+    const progMore = roles.length > 3 ? `<span class="chip muted">+${roles.length - 3}</span>` : "";
     return `
       <tr>
         ${selCell(c)}
@@ -2374,6 +2467,7 @@ function renderAllBrowser() {
         <td>${escapeHtml(c.attendance_mode || "")}</td>
         <td>${escapeHtml(c.location || "")}</td>
         <td class="school-col">${escapeHtml(school)}</td>
+        <td>${progChips}${progMore}</td>
       </tr>`;
   }).join("");
   $body.innerHTML = rows;
@@ -2426,11 +2520,14 @@ function renderNav() {
   const nav = document.querySelector("header.site nav");
   if (!nav) return;
   const repoUrl = SITE.repoUrl || "https://github.com/UQ-Business-School/uqbs-course-profiles";
-  const home = EDITION === "uqbs" ? ["business.html", "UQBS"] : ["browse-all.html", "All UQ"];
-  const links = [["index.html", "⌂ Editions", "_editions"], [home[0], home[1], "home"]];
-  if (EDITION === "uqbs") {
-    links.push(["program.html", "Programs", "programs"], ["aol.html", "AoL", "aol"]);
-  }
+  // One site, both dashboards as sub-pages.
+  const links = [
+    ["index.html", "⌂ Home", "_home"],
+    ["business.html", "UQBS", "home"],
+    ["browse-all.html", "All UQ", "all"],
+    ["program.html", "Programs", "programs"],
+    ["aol.html", "AoL", "aol"],
+  ];
   const html = links
     .map(([href, label, key]) => `<a href="${href}"${key === page ? ' class="active"' : ""}>${escapeHtml(label)}</a>`)
     .join("\n      ")

@@ -59,6 +59,10 @@
         <select id="filter-program"><option value="">Any program</option></select>
       </div>
       <div>
+        <label for="filter-major">Major / core</label>
+        <select id="filter-major"><option value="">Any major</option></select>
+      </div>
+      <div>
         <label for="filter-level">Study level</label>
         <select id="filter-level"><option value="">Any level</option></select>
       </div>
@@ -85,12 +89,11 @@
             <th data-sort="attendance_mode">Mode</th>
             <th data-sort="location">Location</th>
             <th>Programs</th>
-            <th>Core / Major</th>
             <th>AoL</th>
           </tr>
         </thead>
         <tbody id="courses-body">
-          <tr><td colspan="11" class="loading">Loading profiles…</td></tr>
+          <tr><td colspan="10" class="loading">Loading profiles…</td></tr>
         </tbody>
       </table>
     </div>
