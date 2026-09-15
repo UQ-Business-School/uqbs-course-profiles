@@ -147,12 +147,18 @@ function getAolForCourse(aol, courseCode, semesterCode) {
 }
 
 // Status display config
+// Mirrors the register's Lists tab and scraper/import_aol.py STATUSES. Order is
+// the ladder: change the register first, then import_aol.py, then this.
 const AOL_STATUS = {
-  tbd:           { label: "TBD",            icon: "📋", cls: "aol-tbd" },
-  identified:    { label: "Identified",     icon: "🔍", cls: "aol-identified" },
-  rubric_in_dev: { label: "Rubric in Dev",  icon: "🔨", cls: "aol-rubric-dev" },
-  active:        { label: "Active",         icon: "✅", cls: "aol-active" },
-  established:   { label: "Established",    icon: "🏆", cls: "aol-established" },
+  na:                         { label: "N/A",                         icon: "🚫", cls: "aol-na" },
+  tbd:                        { label: "TBD",                         icon: "📋", cls: "aol-tbd" },
+  identified:                 { label: "Identified",                  icon: "🔍", cls: "aol-identified" },
+  rubric_in_dev:              { label: "Rubric in development",       icon: "🔨", cls: "aol-rubric-dev" },
+  partial_mapping:            { label: "Partial mapping",             icon: "◐",  cls: "aol-partial" },
+  built_awaiting_coordinator: { label: "Built, awaiting coordinator", icon: "📨", cls: "aol-built" },
+  approved_not_installed:     { label: "Approved, not installed",     icon: "👍", cls: "aol-approved" },
+  awaiting_ld_check:          { label: "Awaiting LD check",           icon: "👀", cls: "aol-awaiting-ld" },
+  active:                     { label: "Active",                      icon: "✅", cls: "aol-active" },
 };
 
 function aolStatusChip(status) {
@@ -2161,7 +2167,7 @@ function renderAolDashboard($root, aol, taxonomy, courses) {
   `);
 
   // Status summary cards
-  const statusOrder = ["tbd", "identified", "rubric_in_dev", "active", "established"];
+  const statusOrder = Object.keys(AOL_STATUS);
   const statusCards = statusOrder.map(s => {
     const info = AOL_STATUS[s] || {};
     const count = statusCounts[s] || 0;

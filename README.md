@@ -131,6 +131,26 @@ The manifest generator can be run independently:
 python3 scraper/build_manifest.py   # writes both manifest.json and manifest-all.json
 ```
 
+## AoL feed
+
+The Assurance of Learning layer (the AoL column, the course-page card and `aol.html`) reads `taxonomy/aol-status.json`. That file is built from `taxonomy/aol-template.csv`, which is exported from the UQBS AoL register workbook (`UQBS-AoL-Register.xlsx` in the team's SharePoint AoL folder). The register is the master: statuses in the CSV, in `scraper/import_aol.py` and in `AOL_STATUS` in `docs/assets/app.js` mirror its Lists tab, so a new status is added to the register first and then to both files.
+
+The feed carries course, GA, assessment, status and rubric link only. Learning designer names, coordinators and notes stay in the workbook. Rubric links point into SharePoint and open for signed-in staff; the AoL layer is only built into the UQBS edition (`scraper/build_editions.py`), never the all-of-UQ site.
+
+The semester on each row is the offering the rubric was found in. `scraper/export_aol_register.py` works it out from the Blackboard pull folders and gradebook notes of the September 2026 sweeps, then from the register's "First implemented" column, and otherwise uses the current semester; `logs/aol-export-report.csv` records the source for every row.
+
+To refresh after a register change (SharePoint is not reachable from Actions, so this runs on a machine that can see the workbook):
+
+```bash
+python3 scraper/export_aol_register.py \
+  --workbook "<SharePoint>/4. AoL (Sean)/UQBS-AoL-Register.xlsx" \
+  --pulls "<Curriculum Uplift>/AoL_sweep_pulls" --pulls "<Curriculum Uplift>/AoL_wide_pulls" \
+  --native-rubrics "<Curriculum Uplift>/AoL_wide_pulls/AoLPULL__wide_native_rubrics.json"
+git add taxonomy/aol-template.csv taxonomy/aol-status.json logs/aol-export-report.csv && git commit -m "AoL feed: register as at <date>" && git push
+```
+
+The weekly scrape run rebuilds `aol-status.json` from the committed CSV as well, so committing the CSV alone is enough; committing the JSON too means the site updates on the next Pages build rather than the next scrape.
+
 ## Semester codes
 
 | Code | Semester |

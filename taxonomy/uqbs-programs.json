@@ -4,10 +4,11 @@
     "source": "my.UQ program requirements pages (programs-courses.uq.edu.au) + UQBS GA Mapping spreadsheet for major course lists",
     "generated": "2026-04-15",
     "verified_against": "my.UQ 2026 programme requirements (window.AppData JSON)",
-    "total_courses": 323,
+    "total_courses": 326,
     "total_programs": 22,
     "total_programs_breakdown": "7 UG + 15 PG (excl. Elective cross-programme tag)",
-    "total_mappings": 521
+    "total_mappings": 526,
+    "updated": "2026-09-15: added TIMS7334, MGTS7527, MKTG7505 from the AoL register (MBus majors; GCBus program electives)"
   },
   "programs": {
     "BBusMan": {
@@ -555,6 +556,7 @@
           "MKTG7502",
           "MKTG7503",
           "MKTG7504",
+          "MKTG7505",
           "MKTG7510",
           "MKTG7512",
           "MKTG7513"
@@ -562,7 +564,8 @@
         "Supply Chain Management": [
           "BISM7202",
           "IBUS7316",
-          "IBUS7322"
+          "IBUS7322",
+          "MGTS7527"
         ],
         "Sustainability: Strategy and Leadership": [
           "MGTS7303",
@@ -573,7 +576,8 @@
           "MKTG7513",
           "TIMS7317",
           "TIMS7328",
-          "TIMS7329"
+          "TIMS7329",
+          "TIMS7334"
         ]
       },
       "foundational_courses": [
@@ -760,6 +764,10 @@
         "FINM7409",
         "MGTS7301",
         "MGTS7608"
+      ],
+      "program_electives": [
+        "MGTS7527",
+        "MKTG7505"
       ]
     },
     "GCBusAdmin": {
@@ -3497,6 +3505,20 @@
         "level": "PG"
       }
     ],
+    "MGTS7527": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Supply Chain Management",
+        "level": "PG"
+      },
+      {
+        "program": "GCBus",
+        "program_name": "Graduate Certificate in Business",
+        "role": "Program Electives",
+        "level": "PG"
+      }
+    ],
     "MGTS7601": [
       {
         "program": "MBus",
@@ -3894,6 +3916,20 @@
         "program": "MBus",
         "program_name": "Master of Business",
         "role": "Marketing",
+        "level": "PG"
+      }
+    ],
+    "MKTG7505": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Marketing",
+        "level": "PG"
+      },
+      {
+        "program": "GCBus",
+        "program_name": "Graduate Certificate in Business",
+        "role": "Program Electives",
         "level": "PG"
       }
     ],
@@ -4414,6 +4450,14 @@
         "program": "MBus",
         "program_name": "Master of Business",
         "role": "Innovation and Entrepreneurship",
+        "level": "PG"
+      }
+    ],
+    "TIMS7334": [
+      {
+        "program": "MBus",
+        "program_name": "Master of Business",
+        "role": "Sustainability: Strategy and Leadership",
         "level": "PG"
       }
     ],
