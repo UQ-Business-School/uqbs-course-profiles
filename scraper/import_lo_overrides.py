@@ -71,7 +71,7 @@ PROFILES_DIR = REPO_ROOT / "profiles"
 REQUIRED_COLUMNS = {"course_code", "assessment_title", "learning_outcomes"}
 
 
-# --- LO parsing (mirrors parseLoRefs in docs/assets/app.js) ------------------
+# --- LO parsing (mirrors parseLoRefs in the viewer's app.js, courses repo) ------------------
 
 _RE_LO = re.compile(r"L\.?[O0]\.?\s*(\d+)", re.IGNORECASE)
 _RE_BARE = re.compile(r"(?:^|[,;\s])(\d+)(?=[,;\s]|$)")

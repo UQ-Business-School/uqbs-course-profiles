@@ -1,77 +1,19 @@
-<!DOCTYPE html>
-<html lang="en-AU">
+<!doctype html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>UQ Course Profiles</title>
-  <link rel="stylesheet" href="./assets/styles.css">
-  <script>
-    // Apply saved theme + colour mode before first paint to avoid FOUC
-    (function () {
-      try {
-        var m = localStorage.getItem("uqbs-mode") || "auto";
-        var root = document.documentElement;
-        if (m === "fun") { root.setAttribute("data-theme", "fun"); }
-        else {
-          root.setAttribute("data-theme", "classic");
-          if (m === "light" || m === "dark") root.setAttribute("data-color-mode", m);
-        }
-      } catch (e) {
-        document.documentElement.setAttribute("data-theme", "classic");
-      }
-    })();
-  </script>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url=https://teach.business.uq.edu.au/ld/uqbsld/profiles/">
+<title>UQBS Course Profile Viewer has moved</title>
+<link rel="canonical" href="https://teach.business.uq.edu.au/ld/uqbsld/profiles/">
+<style>body{font-family:system-ui,sans-serif;max-width:40rem;margin:4rem auto;padding:0 1rem;color:#222}</style>
 </head>
-<body data-page="landing">
-  <header class="site">
-    <h1>UQ Course Profiles</h1>
-    <nav>
-      <button id="mode-toggle" class="mode-toggle" type="button" aria-label="Display mode">
-        <span class="mt-icon" aria-hidden="true">☾</span>
-        <span class="mt-label">Auto</span>
-      </button>
-    </nav>
-  </header>
-
-  <main class="landing">
-    <section class="landing-intro">
-      <p class="lead">Every UQ course profile in one place. Search, compare across years,
-      and download in bulk.</p>
-    </section>
-
-    <section class="edition-cards">
-      <a id="btn-uqbs" class="edition-card" href="business.html">
-        <span class="ec-title">Strictly Business</span>
-        <span class="ec-sub">UQBS courses, with assurance-of-learning and graduate-attribute mapping (coming soon).</span>
-        <span class="ec-note">For UQBS staff.</span>
-        <span class="ec-go">Open →</span>
-      </a>
-
-      <a id="btn-all" class="edition-card" href="browse-all.html">
-        <span class="ec-title">All of UQ</span>
-        <span class="ec-sub">All faculties, current and back to 2009.</span>
-        <span class="ec-note">Without the UQBS-only fields.</span>
-        <span class="ec-go">Open →</span>
-      </a>
-    </section>
-  </main>
-
-  <footer class="site">
-    UQ Course Profiles · Unofficial, not endorsed by UQ · Data scraped from course-profiles.uq.edu.au, which remains the source of truth
-  </footer>
-
-  <script src="./assets/site-config.js"></script>
-  <script src="./assets/app.js"></script>
-  <script>
-    // Display-mode control, and point the two buttons at the configured edition URLs.
-    window.UQBS.initMode();
-    (function () {
-      var s = window.SITE || {};
-      var u = document.getElementById("btn-uqbs");
-      var a = document.getElementById("btn-all");
-      if (u && s.uqbsUrl) u.href = s.uqbsUrl;
-      if (a && s.allUrl) a.href = s.allUrl;
-    })();
-  </script>
+<body>
+<h1>This site is the data host</h1>
+<p>The course profile viewer lives at
+<a href="https://teach.business.uq.edu.au/ld/uqbsld/profiles/">teach.business.uq.edu.au/ld/uqbsld/profiles/</a>.
+You should be taken there now.</p>
+<p>What is served here is the scraped data the viewer reads: <code>profiles/</code>, <code>profiles-legacy/</code>,
+<code>taxonomy/</code> and <code>assets/manifest*.json</code>. Unofficial; not endorsed by UQ.
+Source: <a href="https://github.com/UQ-Business-School/uqbs-course-profiles">UQ-Business-School/uqbs-course-profiles</a>.</p>
 </body>
 </html>
