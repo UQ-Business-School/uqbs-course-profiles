@@ -185,7 +185,11 @@
   :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-identified    { background: #1a237e; color: #9fa8da; }
   :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-rubric-dev    { background: #4e2700; color: #ffcc80; }
   :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-active        { background: #1b3e20; color: #a5d6a7; }
-  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-established   { background: #3a1450; color: #ce93d8; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-na            { background: #263238; color: #90a4ae; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-partial       { background: #3e3400; color: #fff59d; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-built         { background: #003c46; color: #80deea; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-approved      { background: #00352f; color: #80cbc4; }
+  :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-awaiting-ld   { background: #1f3a10; color: #c5e1a5; }
   :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-disrupted     { background: #4a1010; color: #ef9a9a; }
   :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-heat-0 { background: #2a2730; color: #666; }
   :root:not([data-color-mode="light"]):not([data-color-mode="dark"]) .aol-heat-1 { background: #1a237e; color: #9fa8da; }
@@ -196,7 +200,11 @@
 :root[data-color-mode="dark"] .aol-identified    { background: #1a237e; color: #9fa8da; }
 :root[data-color-mode="dark"] .aol-rubric-dev    { background: #4e2700; color: #ffcc80; }
 :root[data-color-mode="dark"] .aol-active        { background: #1b3e20; color: #a5d6a7; }
-:root[data-color-mode="dark"] .aol-established   { background: #3a1450; color: #ce93d8; }
+:root[data-color-mode="dark"] .aol-na            { background: #263238; color: #90a4ae; }
+:root[data-color-mode="dark"] .aol-partial       { background: #3e3400; color: #fff59d; }
+:root[data-color-mode="dark"] .aol-built         { background: #003c46; color: #80deea; }
+:root[data-color-mode="dark"] .aol-approved      { background: #00352f; color: #80cbc4; }
+:root[data-color-mode="dark"] .aol-awaiting-ld   { background: #1f3a10; color: #c5e1a5; }
 :root[data-color-mode="dark"] .aol-disrupted     { background: #4a1010; color: #ef9a9a; }
 :root[data-color-mode="dark"] .aol-heat-0 { background: #2a2730; color: #666; }
 :root[data-color-mode="dark"] .aol-heat-1 { background: #1a237e; color: #9fa8da; }
@@ -622,7 +630,11 @@ table.assessment .lo-list { white-space: normal; }
 .aol-identified    { background: #e8eaf6; color: #283593; }
 .aol-rubric-dev    { background: #fff3e0; color: #e65100; }
 .aol-active        { background: #e8f5e9; color: #2e7d32; }
-.aol-established   { background: #f3e5f5; color: #6a1b9a; }
+.aol-na            { background: #eceff1; color: #546e7a; }
+.aol-partial       { background: #fffde7; color: #9e7c00; }
+.aol-built         { background: #e0f7fa; color: #00697a; }
+.aol-approved      { background: #e0f2f1; color: #00695c; }
+.aol-awaiting-ld   { background: #f1f8e9; color: #558b2f; }
 .aol-disrupted     { background: #fce4ec; color: #c62828; }
 
 .aol-ga-chip {
@@ -670,7 +682,7 @@ table.assessment .lo-list { white-space: normal; }
   display: flex; gap: 12px; flex-wrap: wrap; margin: 16px 0 24px;
 }
 .aol-stat-card {
-  flex: 1 1 140px;
+  flex: 1 1 110px;
   min-width: 120px;
   background: var(--bg-card);
   border-radius: var(--radius);

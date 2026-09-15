@@ -21,6 +21,8 @@
     "7580": { "label": "Summer Semester, 2025-26", "short": "Sum 25/26", "type": "summer", "year": 2025, "jac_period": null, "jac_yyyyss": null, "system": "current", "confidence": "confirmed-label" },
     "7590": { "label": "Medical special period, 2025-26", "short": "Med 25/26", "type": "special", "year": 2025, "jac_period": null, "jac_yyyyss": null, "system": "current", "confidence": "inferred" },
     "7620": { "label": "Semester 1, 2026", "short": "S1 2026", "type": "semester", "year": 2026, "jac_period": 1, "jac_yyyyss": 202601, "system": "current", "confidence": "confirmed" },
-    "7660": { "label": "Semester 2, 2026", "short": "S2 2026", "type": "semester", "year": 2026, "jac_period": 2, "jac_yyyyss": 202602, "system": "current", "confidence": "confirmed" }
+    "7660": { "label": "Semester 2, 2026", "short": "S2 2026", "type": "semester", "year": 2026, "jac_period": 2, "jac_yyyyss": 202602, "system": "current", "confidence": "confirmed" },
+    "7700": { "label": "Semester 1, 2027", "short": "S1 2027", "type": "semester", "year": 2027, "jac_period": 1, "jac_yyyyss": 202701, "system": "current", "confidence": "inferred" },
+    "7740": { "label": "Semester 2, 2027", "short": "S2 2027", "type": "semester", "year": 2027, "jac_period": 2, "jac_yyyyss": 202702, "system": "current", "confidence": "inferred" }
   }
 }
