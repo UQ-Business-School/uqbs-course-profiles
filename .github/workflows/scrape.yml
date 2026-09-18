@@ -90,14 +90,9 @@ jobs:
             echo "No profiles — skipping manifest regen"
           fi
 
-      - name: Rebuild AoL overlay
-        if: always()
-        run: |
-          if [ -f "taxonomy/aol-template.csv" ]; then
-            python scraper/import_aol.py
-          else
-            echo "No AoL CSV — skipping"
-          fi
+      # The AoL overlay (taxonomy/aol-status.json) is no longer rebuilt here: the
+      # AoL register feed workflow (aol-register.yml) commits it with the CSV, and a
+      # weekly rebuild only changed its timestamp and could collide with that run.
 
       - name: Carry LO mappings forward over the publishing fault
         if: always()
@@ -131,7 +126,8 @@ jobs:
               TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
               PROFILE_COUNT=$(find profiles/ -name "*.json" | wc -l)
               git commit -m "Scrape update: ${PROFILE_COUNT} profiles as at ${TIMESTAMP}"
-              git push
+              # The AoL feed workflow may have pushed while this ran; the two touch different files.
+              git push || { echo "Push refused; rebasing onto the latest main"; git pull --rebase --autostash origin main && git push; }
             fi
           else
             echo "No profile files found — skipping commit"

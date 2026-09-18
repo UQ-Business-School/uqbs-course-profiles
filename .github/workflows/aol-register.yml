@@ -1,0 +1,130 @@
+name: AoL register feed
+
+# Every morning the Power Automate flow "AoL register to course profiles" runs the
+# Office Script automation/aol-register-feed.ts against UQBS-AoL-Register.xlsx on
+# SharePoint and sends the rows here as a repository_dispatch event (event type
+# aol-register). This job turns them into taxonomy/aol-template.csv and
+# aol-status.json, commits only when the register has changed, and redeploys Pages.
+# GitHub never reaches SharePoint and holds no Microsoft credentials.
+#
+# The payload carries only what the public feed shows (course, GA, assessment,
+# status, First implemented, rubric file). Run logs are public; do not print more.
+#
+# A manual run (Actions tab, Run workflow) is a dry run on the saved sample payload
+# in data/: it checks the job still works and never commits.
+# Setup and troubleshooting: automation/README.md.
+
+on:
+  repository_dispatch:
+    types: [aol-register]
+  workflow_dispatch:
+
+permissions:
+  contents: write   # commit the feed
+  actions: write    # dispatch the Pages deploy
+  issues: write     # raise an issue when a run fails
+
+concurrency:
+  group: aol-register
+  cancel-in-progress: false
+
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Save the register rows
+        run: |
+          if [ "$GITHUB_EVENT_NAME" = "repository_dispatch" ]; then
+            # The flow sends the script's result as the payload itself, or as a JSON
+            # string under "feed" if the connector would not take an object.
+            jq '.client_payload
+                | if has("schema") then .
+                  elif (.result | type) == "object" then .result
+                  elif (.feed | type) == "string" then (.feed | fromjson)
+                  elif (.feed | type) == "object" then .feed
+                  else . end' "$GITHUB_EVENT_PATH" > "$RUNNER_TEMP/payload.json"
+          else
+            cp data/aol-register-payload-sample.json "$RUNNER_TEMP/payload.json"
+          fi
+          jq -r '"Payload: \(.source // "?"), \(.row_count // "?") rows, schema \(.schema // "?")"' "$RUNNER_TEMP/payload.json"
+
+      - name: Build the feed and commit if the register changed
+        id: feed
+        if: github.event_name == 'repository_dispatch'
+        run: |
+          git config user.name "UQ AoL Feed Bot"
+          git config user.email "uq-scraper[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            # Register text is printed below; stop it being read as workflow commands.
+            stop="stop-$(date +%s%N)"
+            echo "::stop-commands::$stop"
+            python scraper/export_aol_register.py --payload "$RUNNER_TEMP/payload.json" --default-semester auto
+            echo "::$stop::"
+            # aol-status.json carries a timestamp, so judge change by the CSV alone.
+            if git diff --quiet -- taxonomy/aol-template.csv; then
+              echo "The register has not changed since the last feed. Nothing to commit."
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git add taxonomy/aol-template.csv taxonomy/aol-status.json logs/aol-export-report.csv
+            git commit -m "AoL feed: register as at $(TZ=Australia/Brisbane date '+%Y-%m-%d %H:%M')"
+            if git push; then
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "Push refused (probably a scrape commit landed first). Starting again from the latest main."
+            git fetch origin main
+            git reset --hard origin/main
+          done
+          echo "Could not push after three attempts."
+          exit 1
+
+      - name: Dry run (manual runs never commit)
+        if: github.event_name != 'repository_dispatch'
+        run: |
+          stop="stop-$(date +%s%N)"
+          echo "::stop-commands::$stop"
+          python scraper/export_aol_register.py --payload "$RUNNER_TEMP/payload.json" --default-semester auto --dry-run
+          echo "::$stop::"
+
+      - name: Redeploy the site
+        # A push made with GITHUB_TOKEN never triggers pages.yml, so dispatch it (as scrape.yml does).
+        if: steps.feed.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for attempt in 1 2 3; do
+            gh workflow run pages.yml --ref main && exit 0
+            sleep 20
+          done
+          echo "Could not start the Pages deploy. The feed is committed; run pages.yml by hand (Actions > Deploy Course Profile Viewer > Run workflow)."
+          exit 1
+
+      - name: Raise an issue if the feed failed
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          title="AoL register feed failed"
+          body="The AoL register feed failed, so the course profiles site may not show the latest register.
+
+          Run: $RUN_URL
+
+          Usual causes: a status or GA the feed does not know, a register column renamed, the register losing more than a fifth of its rows or rubric links in a day, a new year missing from taxonomy/teaching-periods.json, or the Pages deploy not starting. automation/README.md has the fixes."
+          n=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number' 2>/dev/null || true)
+          if [ -n "$n" ]; then
+            gh issue comment "$n" --body "Failed again: $RUN_URL" || echo "Could not comment on issue $n"
+          else
+            gh issue create --title "$title" --body "$body" || echo "Could not raise an issue (are issues switched off for this repo?)"
+          fi

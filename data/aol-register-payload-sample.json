@@ -1,0 +1,1640 @@
+{
+ "schema": 1,
+ "source": "UQBS-AoL-Register-MGTS2301-15Sep2026.xlsx",
+ "file_base": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)",
+ "columns": [
+  "course_code",
+  "ga",
+  "assessment",
+  "status",
+  "first_implemented",
+  "rubric_file"
+ ],
+ "rows": [
+  [
+   "ACCT1101",
+   "GA1",
+   "A3 Final Exam, short-answer questions (individual, invigilated)",
+   "Active",
+   "S2 2026",
+   "ACCT1101/ACCT1101_A3_Rubric_GA1.docx"
+  ],
+  [
+   "ACCT1102",
+   "GA5",
+   "A2 Group Assignment (20%)",
+   "Awaiting LD check",
+   "",
+   "ACCT1102/ACCT1102 A2 Rubric.pdf"
+  ],
+  [
+   "ACCT1110",
+   "GA1",
+   "A1 Tutorial Preparation Tasks (20%)",
+   "Awaiting LD check",
+   "",
+   "ACCT1110/ACCT1110-Assessment 1 Rubric.pdf"
+  ],
+  [
+   "ACCT1112",
+   "GA2",
+   "Group Assignment: Case Study",
+   "Awaiting LD check",
+   "",
+   "ACCT1112/ACCT1112_Group Assignment Marking Rubric.pdf"
+  ],
+  [
+   "ACCT3101",
+   "GA5",
+   "Group Assignment",
+   "Awaiting LD check",
+   "",
+   "ACCT3101/ACCT3101_AoL_gradebook_rubric_note_15Sep2026.md"
+  ],
+  [
+   "ACCT3103",
+   "GA5",
+   "Individual Video Presentation (20%)",
+   "Awaiting LD check",
+   "",
+   "ACCT3103/ACCT3103 - Assessment AoL Rubric.pdf"
+  ],
+  [
+   "FINM1416",
+   "GA3",
+   "A1 Workshop group reports, with individual marks through peer assessment. GA3 splits across Workshop 1 (Community Understanding, Collaboration) and Workshop 2 (Social Impact)",
+   "Active",
+   "S2 2026",
+   ""
+  ],
+  [
+   "ACCT3104",
+   "GA1",
+   "A2",
+   "Awaiting LD check",
+   "",
+   "ACCT3104/ACCT3104_AoL_gradebook_rubric_note_15Sep2026.md"
+  ],
+  [
+   "ACCT3106",
+   "GA2",
+   "A2 Financial Analysis and Valuation (20%)",
+   "Awaiting LD check",
+   "",
+   "ACCT3106/Stage2 ACCT3106 A2 - AoLRubricDRAFT.docx"
+  ],
+  [
+   "ACCT7804",
+   "GA5",
+   "A1 Corporate Analysis Briefing",
+   "Awaiting LD check",
+   "",
+   "ACCT7804/ACCT7804_AoL_gradebook_rubric_note_15Sep2026.md"
+  ],
+  [
+   "BISM1201",
+   "GA2",
+   "A1 IS Analysis Report (individual)",
+   "Approved, not installed",
+   "S2 2026",
+   "BISM1201/BISM1201_A1_Rubric_GA2_v2.docx"
+  ],
+  [
+   "BISM7202",
+   "GA2",
+   "A1 MS Excel Assignment and Reflective Essay",
+   "Awaiting LD check",
+   "",
+   "BISM7202/BISM 7202 Rubric Excel assignment.pdf"
+  ],
+  [
+   "BISM7208",
+   "GA5",
+   "A3 Digital Transformation Hackathon Project",
+   "Awaiting LD check",
+   "",
+   "BISM7208/BISM7208_A3_Rubric.pdf"
+  ],
+  [
+   "BISM7221",
+   "GA6",
+   "Business Consulting Report: IS Recommendations (40%)",
+   "Awaiting LD check",
+   "",
+   "BISM7221/BISM7221 Report - Business Consulting Report Assessment Rubric 2026S1.pdf"
+  ],
+  [
+   "MGTS3602",
+   "GA3",
+   "A2: Case Analysis Report (Group Assignment)",
+   "Active",
+   "S2 2026",
+   "MGTS3602/MGTS3602_A2_Rubric_GA3.docx"
+  ],
+  [
+   "BSAN2201",
+   "GA2",
+   "A2: C1",
+   "Active",
+   "S2 2026",
+   "BSAN2201/BSAN2201_A2C1_Rubric_GA2_1.docx"
+  ],
+  [
+   "BSAN2204",
+   "GA1",
+   "",
+   "Active",
+   "S2 2026",
+   ""
+  ],
+  [
+   "BSAN2205",
+   "GA5",
+   "A1 and A3",
+   "Active",
+   "S2 2026",
+   ""
+  ],
+  [
+   "BSAN3212",
+   "GA6",
+   "A1",
+   "Active",
+   "S2 2026",
+   ""
+  ],
+  [
+   "BSAN7206",
+   "GA2",
+   "A1 Data Warehousing Project Part 1 (40%)",
+   "Awaiting LD check",
+   "",
+   "BSAN7206/BSAN7206_A1_Rubric.pdf"
+  ],
+  [
+   "DECO1100",
+   "",
+   "",
+   "N/A",
+   "",
+   ""
+  ],
+  [
+   "ECON1011",
+   "",
+   "",
+   "N/A",
+   "",
+   ""
+  ],
+  [
+   "ECON2060",
+   "",
+   "",
+   "N/A",
+   "",
+   ""
+  ],
+  [
+   "EIBS7300",
+   "GA5",
+   "A1 Building Empathy through User Journey Mapping",
+   "Awaiting LD check",
+   "",
+   "EIBS7300/[EIBS7300] Assessment 1_Rubric_2026.pdf"
+  ],
+  [
+   "EIBS7304",
+   "GA6",
+   "A2 Wellbeing Polarity Leadership",
+   "Awaiting LD check",
+   "",
+   "EIBS7304/EIBS7304_Assessment 2_Wellbeing Polarity Map_Rubric_GA6 Respectful Leaders.pdf"
+  ],
+  [
+   "EIBS7311",
+   "GA2",
+   "A3 Final Business Model Report",
+   "Awaiting LD check",
+   "",
+   "EIBS7311/EIBS7311_AoL_gradebook_rubric_note_15Sep2026.md"
+  ],
+  [
+   "FINM2415",
+   "GA5",
+   "A2 Groupwork Report (25%)",
+   "Awaiting LD check",
+   "",
+   "FINM2415/FINM2415-Group Assignment-Marking Rubric.pdf"
+  ],
+  [
+   "FINM3405",
+   "GA2",
+   "A2 Case Study, groupwork (30%)",
+   "Awaiting LD check",
+   "",
+   "FINM3405/Group Assignment Marking Rubric.pdf"
+  ],
+  [
+   "FINM3422",
+   "GA1",
+   "A1 Turnaround Case Study",
+   "Awaiting LD check",
+   "",
+   "FINM3422/AoL mapped FINM3422 A1-VantageCaseStudyRubric.pdf"
+  ],
+  [
+   "FINM7101",
+   "GA2",
+   "A1 Data Analysis Task",
+   "Awaiting LD check",
+   "",
+   "FINM7101/FINM7101-A1 Rubric AoL 2026.pdf"
+  ],
+  [
+   "FINM7103",
+   "GA6",
+   "A3 Oral Interview (20%)",
+   "Awaiting LD check",
+   "",
+   "FINM7103/FINM7103_S1 2026_A3_Rubric.pdf"
+  ],
+  [
+   "MGTS3607",
+   "GA3",
+   "A1:Executive Summary",
+   "Active",
+   "S1 2026",
+   "MGTS3607/MGTS3607_A1_ES%20_Case%20Study_Rubric_(GA3).pdf"
+  ],
+  [
+   "FINM7104",
+   "GA1",
+   "A2 Critical Analysis (60%)",
+   "Awaiting LD check",
+   "",
+   "FINM7104/FINM7104 A2 AoL Rubric.pdf"
+  ],
+  [
+   "FINM7106",
+   "GA5",
+   "A3 Groupwork Presentation (40%)",
+   "Awaiting LD check",
+   "",
+   "FINM7106/FINM7106 A3 Group presentation AoL Rubric 2026.pdf"
+  ],
+  [
+   "FINM7108",
+   "GA4",
+   "A4 Reflection",
+   "Awaiting LD check",
+   "",
+   "FINM7108/FINM7108-A4 Reflection Rubric.pdf"
+  ],
+  [
+   "FINM7402",
+   "GA1",
+   "A3 Case Study Assignment",
+   "Awaiting LD check",
+   "",
+   "FINM7402/2 FINM7402 Marking Rubric.pdf"
+  ],
+  [
+   "FINM7407",
+   "GA5",
+   "A2 Case Study Assignment",
+   "Awaiting LD check",
+   "",
+   "FINM7407/FINM7407_S2 2026_A2_AoL Rubric.pdf"
+  ],
+  [
+   "FINM7409",
+   "GA2",
+   "A2 Investment Proposal (30%)",
+   "Awaiting LD check",
+   "",
+   "FINM7409/Rubric - Investment Proposal Report.pdf"
+  ],
+  [
+   "MGTS7603",
+   "GA3",
+   "A2: Current Issues in SHRM in Organisations",
+   "Partial mapping",
+   "S2 2026",
+   ""
+  ],
+  [
+   "FINM7805",
+   "GA2",
+   "A2: Team Project",
+   "Active",
+   "S1 2026",
+   "FINM7805/FINM7805_A2_Rubric_GA2.docx"
+  ],
+  [
+   "HOSP2006",
+   "GA2",
+   "A1 Simulation Report and Reflection",
+   "Awaiting LD check",
+   "",
+   "HOSP2006/Ind_Reflection_HOSP2006.pdf"
+  ],
+  [
+   "MGTS7618",
+   "GA3",
+   "A1: Wise Leadership Social Entrepreneurship Initiative",
+   "Active",
+   "S1 2026",
+   "MGTS7618/MGTS7618_A1_Rubric_GA3.docx"
+  ],
+  [
+   "HOSP3000",
+   "GA5",
+   "A1 Board Discussion of a Casino Development",
+   "Awaiting LD check",
+   "",
+   "HOSP3000/HOSP3000 A1_TaskDescriptionRubric.pdf"
+  ],
+  [
+   "HOSP3005",
+   "GA6",
+   "Reflective Vlog",
+   "Awaiting LD check",
+   "",
+   "HOSP3005/HOSP3005 Reflective YouTube Vlog Rubric.docx"
+  ],
+  [
+   "HOSP7050",
+   "GA5",
+   "Emerging Trends and Future F&B Experience Design: Reflections",
+   "Awaiting LD check",
+   "",
+   "HOSP7050/HOSP7050_AoL_gradebook_rubric_note_15Sep2026.md"
+  ],
+  [
+   "HOSP7051",
+   "GA1",
+   "Industry Forum",
+   "Awaiting LD check",
+   "",
+   "HOSP7051/HOSP7051_AoL_gradebook_rubric_note_15Sep2026.md"
+  ],
+  [
+   "HOSP7053",
+   "GA6",
+   "A2: Leadership Analysis and Self-Evaluation (40%)",
+   "Active",
+   "S2 2026",
+   "HOSP7053/HOSP7053_A2_Rubric_GA6.docx"
+  ],
+  [
+   "TOUR7050",
+   "GA3",
+   "A3: Special Interest Tour Design (25%)",
+   "Active",
+   "S2 2026",
+   "TOUR7050/TOUR7050_A3_Rubric_GA3.docx"
+  ],
+  [
+   "IBUS2301",
+   "GA5",
+   "A1 Company Pitches",
+   "Awaiting LD check",
+   "",
+   "IBUS2301/Rubric (Company Pitches).docx"
+  ],
+  [
+   "IBUS3310",
+   "GA2",
+   "Team Case Study Presentation (in tutorial)",
+   "Awaiting LD check",
+   "",
+   "IBUS3310/IBUS3310 Team Presentation Rubric.pdf"
+  ],
+  [
+   "IBUS4301",
+   "GA1",
+   "A1 Discussion",
+   "Awaiting LD check",
+   "",
+   "IBUS4301/IBUS4301 Discussion Outline and Rubric.pdf"
+  ],
+  [
+   "MGTS3604",
+   "GA3",
+   "A1: Portfolio: Case Analysis and Executive Summaries (30%)",
+   "Active",
+   "S1 2026",
+   "MGTS3604/MGTS3604_A1_Rubric_GA3%20%20S1%2026.pdf"
+  ],
+  [
+   "IBUS7302",
+   "GA1",
+   "A2 Topic Analysis Assignment",
+   "Awaiting LD check",
+   "",
+   "IBUS7302/IBUS7302_AoL_gradebook_rubric_note_15Sep2026.md"
+  ],
+  [
+   "IBUS7312",
+   "GA2",
+   "A3 Business in An Asian Region: Research Essay (30%)",
+   "Awaiting LD check",
+   "",
+   "IBUS7312/IBUS7312 Rubric - A3.pdf"
+  ],
+  [
+   "LAWS1100",
+   "",
+   "",
+   "N/A",
+   "",
+   ""
+  ],
+  [
+   "MGTS1301",
+   "GA4",
+   "Final Exam",
+   "Active",
+   "S2 2026",
+   "MGTS1301/MGTS1301_FinalExam_Rubric_GA4_2026S2.docx"
+  ],
+  [
+   "MGTS1301",
+   "GA6",
+   "A2 Structured Analysis of Everest Simulation",
+   "Active",
+   "S2 2026",
+   "MGTS1301/MGTS1301_Everest%20Simulation_Rubric_2026S2_130826.docx"
+  ],
+  [
+   "MGTS1601",
+   "GA5",
+   "A2 Team Workshop",
+   "Active",
+   "S2 2026",
+   "MGTS1601/MGTS1601_A2_Rubric_GA5.docx"
+  ],
+  [
+   "MGTS2603",
+   "GA1",
+   "A2",
+   "Identified",
+   "S1 2027",
+   ""
+  ],
+  [
+   "MGTS2604",
+   "GA1",
+   "A1: Research Essay",
+   "Active",
+   "S1 2026",
+   "MGTS2604/MGTS2604_Assessment%20One%20Research%20Essay%20Marking%20Rubric.pdf"
+  ],
+  [
+   "MGTS2604",
+   "GA5",
+   "A2: Career Plan Report",
+   "Identified",
+   "S1 2026",
+   "MGTS2604/Assessment%202%20-%20Career%20Plan%20Report%20Marking%20Rubric%20(GA5).pdf"
+  ],
+  [
+   "MGTS2606",
+   "GA5",
+   "A3: Textographic Presentation",
+   "Active",
+   "S2 2026",
+   "MGTS2606/MGTS2606_A3_Rubric_GA5.pdf"
+  ],
+  [
+   "EIBS7301",
+   "GA3",
+   "A3 Idea Management Strategy",
+   "Awaiting LD check",
+   "",
+   "EIBS7301/EIBS7301 A3 Hackathon rubric.pdf"
+  ],
+  [
+   "MGTS2607",
+   "GA4",
+   "A2: Indigenous Reflection (10%), in-class and secure",
+   "Active",
+   "S2 2026",
+   "MGTS2607/MGTS2607_A2_Rubric_GA4.docx"
+  ],
+  [
+   "MGTS2607",
+   "",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "FINM7102",
+   "GA3",
+   "A1 Written Paper (30%)",
+   "Awaiting LD check",
+   "",
+   "FINM7102/AoL GA3 FINM7102-A1 Rubric FINAL.pdf"
+  ],
+  [
+   "MGTS2609",
+   "GA2",
+   "A1",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "MGTS2609",
+   "GA1",
+   "A2",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "MGTS3601",
+   "GA6",
+   "A2: Group Report",
+   "Active",
+   "S1 2026",
+   "MGTS3601/MGTS3601%20A2%20Group%20Report%20(GA6).docx"
+  ],
+  [
+   "MGTS3601",
+   "GA5",
+   "A1: Organisational Change Consulting Presentation",
+   "Active",
+   "S1 2026",
+   "MGTS3601/MGTS3601%20A1%20(GA5).docx"
+  ],
+  [
+   "MGTS3602",
+   "GA6",
+   "A3: Reflective Exam",
+   "Identified",
+   "S2 2026",
+   ""
+  ],
+  [
+   "MGTS3603",
+   "",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "MGTS3604",
+   "GA6",
+   "A2: report on Training Program and Evaluation",
+   "Partial mapping",
+   "S1 2026",
+   "MGTS3604/MGTS3604_A2_Rubric_(GA6).pdf"
+  ],
+  [
+   "MGTS3605",
+   "",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "MGTS3607",
+   "GA2",
+   "A2: Report on Evaluation of a Performance Management System",
+   "Partial mapping",
+   "S1 2026",
+   "MGTS3607/MGTS3607_A2_Rubric_(GA2).pdf"
+  ],
+  [
+   "MGTS3609",
+   "GA5",
+   "A2: Group Presentation",
+   "Active",
+   "S1 2026",
+   "MGTS3609/MGTS3609%20A2%20Groupwork%20RUBRIC.docx"
+  ],
+  [
+   "MGTS7301",
+   "GA3",
+   "A3 Individual Reflection (S1 2026)",
+   "Awaiting LD check",
+   "",
+   "MGTS7301/MGTS7301 Assessment 3 Business Tools For Making Decisions rubric.pdf"
+  ],
+  [
+   "MGTS3610",
+   "",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "MGTS4602",
+   "GA6",
+   "A2: Four Frames Individual Report",
+   "Active",
+   "S2 2026",
+   "MGTS4602/MGTS4602_A2_Rubric_GA6%20(1).docx"
+  ],
+  [
+   "MGTS4603",
+   "GA5",
+   "A1: Critical Analysis Presentation",
+   "Active",
+   "S1 2026",
+   "MGTS4603/MGTS4603_A1_Rubric_GA5.pdf"
+  ],
+  [
+   "MGTS4603",
+   "GA1",
+   "A2: Research Proposal",
+   "Active",
+   "S1 2026",
+   "MGTS4603/MGTS4603_A2_Rubric_GA1.pdf"
+  ],
+  [
+   "TIMS1301",
+   "GA3",
+   "A1 Understanding the Customer Problem",
+   "Awaiting LD check",
+   "",
+   "TIMS1301/TIMS1301 A1 rubric.pdf"
+  ],
+  [
+   "MGTS7523",
+   "GA5",
+   "A2 Systems Thinking Presentation (group)",
+   "Awaiting LD check",
+   "",
+   "MGTS7523/MGTS7523 Assessment 2 - Rubric (Presentation).pdf"
+  ],
+  [
+   "MGTS7527",
+   "GA2",
+   "A1 Team Project Plan (30%)",
+   "Awaiting LD check",
+   "",
+   "MGTS7527/MGTS7527 A1 Rubric.pdf"
+  ],
+  [
+   "MGTS7601",
+   "GA5",
+   "A1: Case Analysis Presentation (Group)",
+   "Active",
+   "S2 2026",
+   "MGTS7601/MGTS7601_A1_Rubric%20(GA5).pdf"
+  ],
+  [
+   "MGTS7601",
+   "GA6",
+   "A2: Critical Reflection: Indigeneity At Work (Individual)",
+   "Active",
+   "S2 2026",
+   "MGTS7601/MGTS7601_A2_Rubric%20(GA6).pdf"
+  ],
+  [
+   "MGTS7603",
+   "GA1",
+   "A1: In-Seminar Case Study (15%)",
+   "Built, awaiting coordinator",
+   "",
+   "MGTS7603/MGTS7603_A1_Rubric_GA1.docx"
+  ],
+  [
+   "MGTS7604",
+   "GA5",
+   "A3 International Assignment Advisory Pitch",
+   "Awaiting LD check",
+   "",
+   "MGTS7604/MGTS7604 A3 Pitch.pdf"
+  ],
+  [
+   "TOUR1003",
+   "GA3",
+   "A2 Stakeholder Meetings and Reflections",
+   "Awaiting LD check",
+   "",
+   "TOUR1003/TOUR1003 Ass2 Stakeholder Meeting Rubric.pdf"
+  ],
+  [
+   "MGTS7605",
+   "GA5",
+   "A2: Evaluate and Design a Performance Management System, Team Report (30%)",
+   "Active",
+   "S1 2026",
+   "MGTS7605/MGTS7605_Assessment%202_Marking%20Rubric_TEAM%20REPORT.pdf"
+  ],
+  [
+   "MGTS7608",
+   "GA6",
+   "A2 Individual Stakeholder and Ethics Analysis",
+   "Awaiting LD check",
+   "",
+   "MGTS7608/Assessment 2 rubric - Individual stakeholder and ethics analysis.pdf"
+  ],
+  [
+   "MGTS7609",
+   "GA4",
+   "Research essay (50%)",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "MGTS7610",
+   "GA5",
+   "A1 In-semester Exam: Rationale and Business Communication",
+   "Awaiting LD check",
+   "",
+   "MGTS7610/AoL Assessment rubric by assignment MGTS7610.pdf"
+  ],
+  [
+   "MGTS7611",
+   "",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "MGTS7612",
+   "GA2",
+   "A2",
+   "Active",
+   "",
+   ""
+  ],
+  [
+   "MGTS7612",
+   "GA4",
+   "A3",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BISM2207",
+   "GA3",
+   "A2 System Development",
+   "Awaiting LD check",
+   "",
+   "BISM2207/BISM2207 rubric.pdf"
+  ],
+  [
+   "BISM7206",
+   "GA3",
+   "A2 Database Design",
+   "Awaiting LD check",
+   "",
+   "BISM7206/BISM7206 A2 Rubric S2.pdf"
+  ],
+  [
+   "MGTS7618",
+   "GA2",
+   "A2: Preparing Your Path Ahead to Wise Leadership",
+   "Active",
+   "S1 2026",
+   "MGTS7618/MGTS7618_A2_Rubric_GA2.docx"
+  ],
+  [
+   "MGTS7810",
+   "GA6",
+   "Assessment 2: Individual Case Analysis",
+   "Approved, not installed",
+   "S1 2026",
+   "MGTS7810/MGTS7810_A2_Rubric_GA6_v2.docx"
+  ],
+  [
+   "MGTS7812",
+   "GA4",
+   "A2: Closing the Gap Group Presentation",
+   "Active",
+   "S1 2026",
+   "MGTS7812/MGTS7812_A2_Rubric_GA4.docx"
+  ],
+  [
+   "BSAN7209",
+   "GA3",
+   "A2 Project Initiation Document",
+   "Awaiting LD check",
+   "",
+   "BSAN7209/BSAN7209_A2_Rubric.pdf"
+  ],
+  [
+   "MKTG1501",
+   "GA2",
+   "A2 Marketing Plan Part 2: Marketing Strategy (individual report)",
+   "Active",
+   "S2 2026",
+   "MKTG1501/MKTG1501_A2_Part2_Rubric_GA2_v3.docx"
+  ],
+  [
+   "MKTG2501",
+   "GA5",
+   "A2 Case study research (45%)",
+   "Identified",
+   "S1 2027",
+   ""
+  ],
+  [
+   "MKTG7505",
+   "GA5",
+   "A1 New Product Concept Pitch",
+   "Awaiting LD check",
+   "",
+   "MKTG7505/MKTG7505_A1_Rubric_GA5.docx"
+  ],
+  [
+   "PSYC3052",
+   "",
+   "",
+   "N/A",
+   "",
+   ""
+  ],
+  [
+   "TIMS2301",
+   "GA2",
+   "A2 Case Analysis",
+   "Awaiting LD check",
+   "",
+   "TIMS2301/TIMS2301_AoL_gradebook_rubric_note_15Sep2026.md"
+  ],
+  [
+   "TIMS3309",
+   "GA2",
+   "A2 Innovation Case Study (Group Report) (40%)",
+   "Awaiting LD check",
+   "",
+   "TIMS3309/TIMS3309_Assessment 2_2026(1).pdf"
+  ],
+  [
+   "TIMS7317",
+   "GA6",
+   "A2 Individual Reflection: Leadership Simulation",
+   "Awaiting LD check",
+   "",
+   "TIMS7317/TIMS7317 A2 Rubric.pdf"
+  ],
+  [
+   "TIMS7328",
+   "GA2",
+   "A3 Reflection on Scenario Planning",
+   "Awaiting LD check",
+   "",
+   "TIMS7328/TIMS7328 A3 Rubric.pdf"
+  ],
+  [
+   "TIMS7334",
+   "GA5",
+   "A2 Team Project: Sustainability Strategy Report and Presentation (50%)",
+   "Awaiting LD check",
+   "",
+   "TIMS7334/TIMS7334 A2 Rubric.pdf"
+  ],
+  [
+   "MGTS7308",
+   "GA3",
+   "A1 Map the System Proposal (20%)",
+   "Awaiting LD check",
+   "",
+   "MGTS7308/MGTS7308 Assessment 1_Outline and Rubric.pdf"
+  ],
+  [
+   "TOUR1000",
+   "GA5",
+   "A2 Destination Pitch (40%)",
+   "Awaiting LD check",
+   "",
+   "TOUR1000/TOUR1000 2026 S1 Assessment 2 Rubric with AoL - V02.pdf"
+  ],
+  [
+   "TOUR1002",
+   "GA2",
+   "A3 Visitor Experience Redesign Proposal Report",
+   "Awaiting LD check",
+   "",
+   "TOUR1002/TOUR1002 A3 Rubric.docx"
+  ],
+  [
+   "TOUR7053",
+   "GA3",
+   "A1 Engaging with Stakeholders in Tourism in Developing Countries",
+   "Awaiting LD check",
+   "",
+   "TOUR7053/2026_TOUR7053_A1 Rubric.pdf"
+  ],
+  [
+   "TOUR7021",
+   "GA5",
+   "A1 Service Experience Oral Pitch",
+   "Awaiting LD check",
+   "",
+   "TOUR7021/TOUR7021 – Service Experience Pitch – Marking Rubric.docx"
+  ],
+  [
+   "TOUR7023",
+   "GA6",
+   "A2 Case Study (50%)",
+   "Awaiting LD check",
+   "",
+   "TOUR7023/A2-TOUR7023 Rubric.pdf"
+  ],
+  [
+   "TOUR7031",
+   "GA5",
+   "A2 Management Consultant Briefing",
+   "Awaiting LD check",
+   "",
+   "TOUR7031/TOUR7031 - Rubric.pdf"
+  ],
+  [
+   "TOUR7032",
+   "GA2",
+   "A3 Market Research Project",
+   "Awaiting LD check",
+   "",
+   "TOUR7032/TOUR7032 Assessment 3- marking criteria.xlsx"
+  ],
+  [
+   "TOUR7050",
+   "GA1",
+   "A2: Special Interest Tourism Market Analysis, including the tour reflection (30%)",
+   "Active",
+   "S2 2026",
+   "TOUR7050/TOUR7050_A2_Rubric_GA1.docx"
+  ],
+  [
+   "BISM7213",
+   "GA4",
+   "Assignment 2: Question 3\nIndigenous Data Sovereignty and Information Security",
+   "Approved, not installed",
+   "S2 2026",
+   ""
+  ],
+  [
+   "EIBS7303",
+   "GA3",
+   "A1 In-Class Activities",
+   "Awaiting LD check",
+   "",
+   "EIBS7303/A1 - Rubric for In-Class Activities.pdf"
+  ],
+  [
+   "EIBS7303",
+   "GA6",
+   "A2 Group Report",
+   "Awaiting LD check",
+   "",
+   "EIBS7303/A2 - Rubric for Group Report.pdf"
+  ],
+  [
+   "EIBS7303",
+   "GA1",
+   "A3 Individual Reflection",
+   "Awaiting LD check",
+   "",
+   "EIBS7303/A3 - Rubric for Individual Reflection.pdf"
+  ],
+  [
+   "BSAN7209",
+   "GA6",
+   "A3 Reflective Report (20%)",
+   "Awaiting LD check",
+   "",
+   "BSAN7209/BSAN7209_A3_Rubric.pdf"
+  ],
+  [
+   "TIMS7317",
+   "GA4",
+   "A3 Community Project",
+   "Awaiting LD check",
+   "",
+   "TIMS7317/TIMS7317 2026 S1 A3 Rubric.pdf"
+  ],
+  [
+   "TOUR1004",
+   "GA1",
+   "A3",
+   "Rubric in development",
+   "",
+   "TOUR1004/TOUR1004_Assessment_3_Marking_Criteria_S2_2026.pdf"
+  ],
+  [
+   "HOSP3004",
+   "GA2",
+   "A1 Written Report (40%)",
+   "Active",
+   "",
+   "HOSP3004/HOSP3004-Report Rubric.docx"
+  ],
+  [
+   "BSAN7208",
+   "GA2",
+   "A2 Project Report (45%)",
+   "Partial mapping",
+   "",
+   "BSAN7208/BSAN7208_A2_Rubric.pdf"
+  ],
+  [
+   "ACCT1111",
+   "GA1",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "ACCT2110",
+   "GA2",
+   "A1, A3 Online In-semester Exam",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "ACCT2113",
+   "GA2",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "ACCT7102",
+   "GA5",
+   "A2 Individual Case Study Assignment",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "ACCT7103",
+   "GA6",
+   "A2 Case Study: Audit Planning and testing",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "ACCT7104",
+   "GA2",
+   "A1, A2, A3 Case Study",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "ACCT7106",
+   "GA2",
+   "A1, A2 Financial Statement Analysis Project - Part 1",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "ACCT7107",
+   "GA1",
+   "A1, A3 In-Semester Exam During Class",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "ADVT7513",
+   "GA6",
+   "A2, A3",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BISM2203",
+   "GA2",
+   "A1, A3 A1: Process Modelling",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BISM3205",
+   "GA4",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BISM3208",
+   "GA5",
+   "A1, A3 Emerging Technology: Team presentation",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BISM7216",
+   "GA2",
+   "A1, A3 A1: Process Modelling",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BISM7216",
+   "GA3",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "BISM7217",
+   "GA1",
+   "A1, A2, A3 ML Mastery Quizzes",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BISM7233",
+   "GA2",
+   "A1, A2 Data Integration Using SSIS",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BISM7255",
+   "GA4",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "BSAN3210",
+   "GA5",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BSAN4201",
+   "GA3",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BSAN4204",
+   "GA5",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BSAN7211",
+   "GA1",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BSAN7212",
+   "GA1",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BSAN7213",
+   "GA2",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "BSAN7215",
+   "GA2",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "EIBS7302",
+   "GA1",
+   "A3 Self-written case study",
+   "Rubric in development",
+   "",
+   ""
+  ],
+  [
+   "EIBS7302",
+   "GA2",
+   "A3 Self-written case study",
+   "Rubric in development",
+   "",
+   ""
+  ],
+  [
+   "EIBS7302",
+   "GA5",
+   "A3 Self-written case study",
+   "Rubric in development",
+   "",
+   ""
+  ],
+  [
+   "EVNT7050",
+   "GA6",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "EVNT7051",
+   "GA5",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "FINM1415",
+   "GA3",
+   "A1 Team Project",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "FINM2416",
+   "GA2",
+   "A2 Equity Valuation and Portfolio Simulation",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "FINM3403",
+   "GA3",
+   "A2 Case Study - Assignment",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "FINM3404",
+   "GA5",
+   "A1 In-Semester Exam",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "FINM3406",
+   "GA6",
+   "A2 Group Report - Evaluation of Real Estate Project",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "FINM3407",
+   "GA1",
+   "A1, A3 In-Semester Exam (TBC - waiting for School Approval for Saturday Exam. More details will be shared)",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "FINM3414",
+   "GA2",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "FINM7105",
+   "GA2",
+   "A1 A1: Report and Trading Game Simulation",
+   "Rubric in development",
+   "",
+   ""
+  ],
+  [
+   "FINM7105",
+   "GA3",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "FINM7403",
+   "GA3",
+   "A2 Group Presentations and Reflection",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "FINM7405",
+   "GA3",
+   "A2 Trading Game",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "FINM7406",
+   "GA5",
+   "A2 Individual Project",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "IBUS7306",
+   "GA2",
+   "A2 Innovation in Global Business Systems using Teaming and Design Thinking",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "IBUS7306",
+   "GA5",
+   "A1, A2 Wicked Debates",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "IBUS7322",
+   "GA3",
+   "A2 International Service Operations Team Oral Presentation",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "MGTS2301",
+   "GA1",
+   "A1 Assessment 1: In-Semester Examination",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "MGTS7303",
+   "GA1",
+   "A3 Reflection",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "MGTS7303",
+   "GA3",
+   "A2 Business Simulation of Strategic Choice",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "MGTS7309",
+   "GA3",
+   "A1 Case Studies",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "MGTS7329",
+   "GA3",
+   "A4",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "RBUS3900",
+   "GA2",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS2302",
+   "GA1",
+   "A1 A1 | multi-team debate",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS2302",
+   "GA2",
+   "A3 F1 | Week 4 checkpoint",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS2302",
+   "GA5",
+   "A2 A2 | Analytical thinking",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS3302",
+   "GA1",
+   "A2 Analysis | Across 4 case topics",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS3302",
+   "GA2",
+   "A3 Case Study | Emerging opportunities",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS3302",
+   "GA5",
+   "A1 Team Presentations | Pitch, Video, Autopsy",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS3304",
+   "GA1",
+   "A2, A4 Test the Problem: Peer Feedback",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS3311",
+   "GA1",
+   "A3 Project report or business case",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS3311",
+   "GA2",
+   "A3 Project report or business case",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS7301",
+   "GA1",
+   "A3 Case Study | Emerging opportunities",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS7301",
+   "GA2",
+   "A3 Case Study | Emerging opportunities",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TIMS7329",
+   "GA5",
+   "A1, A2, A3 Test the Problem & Solution Review",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TOUR3008",
+   "GA2",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "TOUR7051",
+   "GA2",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TRVT2000",
+   "GA1",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "TRVT2001",
+   "GA5",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "TRVT2002",
+   "GA2",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TRVT2002",
+   "GA5",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "TRVT2003",
+   "GA5",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TRVT3001",
+   "GA4",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "TRVT3002",
+   "GA3",
+   "",
+   "TBD",
+   "",
+   ""
+  ],
+  [
+   "TRVT3003",
+   "GA6",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TRVT3004",
+   "GA2",
+   "",
+   "Identified",
+   "",
+   ""
+  ],
+  [
+   "TRVT3004",
+   "GA5",
+   "",
+   "TBD",
+   "",
+   ""
+  ]
+ ],
+ "row_count": 203
+}

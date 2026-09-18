@@ -124,7 +124,9 @@ The feed carries course, GA, assessment, status and rubric link only. Learning d
 
 The semester on each row is the offering the rubric was found in. `scraper/export_aol_register.py` works it out from the Blackboard pull folders and gradebook notes of the September 2026 sweeps, then from the register's "First implemented" column, and otherwise uses the current semester; `logs/aol-export-report.csv` records the source for every row.
 
-To refresh after a register change (SharePoint is not reachable from Actions, so this runs on a machine that can see the workbook):
+The feed follows the register automatically. Every morning at 5:00 Brisbane time a Power Automate flow runs the Office Script `automation/aol-register-feed.ts` against the workbook and sends the public columns here as a `repository_dispatch` event; `.github/workflows/aol-register.yml` runs `export_aol_register.py --payload`, commits the feed only when the register has changed, and redeploys Pages. GitHub never reaches SharePoint. The sweep terms the automatic run cannot read are saved in `data/aol-semester-evidence.csv`. Setup, what learning designers need to know, and what to do when a run fails: `automation/README.md`.
+
+To run the export by hand instead (on a machine that can see the workbook):
 
 ```bash
 python3 scraper/export_aol_register.py \
@@ -134,7 +136,7 @@ python3 scraper/export_aol_register.py \
 git add taxonomy/aol-template.csv taxonomy/aol-status.json logs/aol-export-report.csv && git commit -m "AoL feed: register as at <date>" && git push
 ```
 
-The weekly scrape run rebuilds `aol-status.json` from the committed CSV as well, so committing the CSV alone is enough; committing the JSON too means the viewer shows it after the next Pages build (a few minutes) rather than the next scrape.
+The export will not replace the CSV when the register has lost more than a fifth of its rows (`--allow-shrink` overrides that) or when a row fails `import_aol.py`'s checks. The weekly scrape no longer rebuilds `aol-status.json`; it is committed with the CSV by whichever route ran the export.
 
 ## Semester codes
 
