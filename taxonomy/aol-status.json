@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "UQBS Assurance of Learning status overlay, mirrored from the AoL register",
-    "last_updated": "2026-09-15 12:32",
+    "last_updated": "2026-09-18 06:36",
     "generated_from": "taxonomy/aol-template.csv",
     "status_order": [
       "na",
@@ -365,8 +365,8 @@
         {
           "course_code": "ACCT1111",
           "ga": "GA1",
-          "assessment_title": "",
-          "status": "identified"
+          "assessment_title": "A2 Case Study",
+          "status": "active"
         },
         {
           "course_code": "ACCT1112",
@@ -378,8 +378,8 @@
         {
           "course_code": "ACCT2110",
           "ga": "GA2",
-          "assessment_title": "A1, A3 Online In-semester Exam",
-          "status": "identified"
+          "assessment_title": "A2 Case study Analysis",
+          "status": "active"
         },
         {
           "course_code": "ACCT2113",
@@ -419,7 +419,7 @@
           "course_code": "ACCT7102",
           "ga": "GA5",
           "assessment_title": "A2 Individual Case Study Assignment",
-          "status": "identified"
+          "status": "built_awaiting_coordinator"
         },
         {
           "course_code": "ACCT7103",
@@ -459,10 +459,16 @@
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/BISM1201/BISM1201_A1_Rubric_GA2_v2.docx"
         },
         {
+          "course_code": "BISM2202",
+          "ga": "GA2",
+          "assessment_title": "A2:  Business Analytics Case Study",
+          "status": "approved_not_installed"
+        },
+        {
           "course_code": "BISM2203",
           "ga": "GA2",
-          "assessment_title": "A1, A3 A1: Process Modelling",
-          "status": "identified"
+          "assessment_title": "A2: Process Modelling",
+          "status": "built_awaiting_coordinator"
         },
         {
           "course_code": "BISM2207",
@@ -470,6 +476,12 @@
           "assessment_title": "A2 System Development",
           "status": "awaiting_ld_check",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/BISM2207/BISM2207%20rubric.pdf"
+        },
+        {
+          "course_code": "BISM2207",
+          "ga": "GA3",
+          "assessment_title": "A2: System Design",
+          "status": "active"
         },
         {
           "course_code": "BISM3205",
@@ -491,6 +503,12 @@
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/BISM7206/BISM7206%20A2%20Rubric%20S2.pdf"
         },
         {
+          "course_code": "BISM7206",
+          "ga": "GA3",
+          "assessment_title": "A2: System Design",
+          "status": "active"
+        },
+        {
           "course_code": "BISM7208",
           "ga": "GA5",
           "assessment_title": "A3 Digital Transformation Hackathon Project",
@@ -506,8 +524,8 @@
         {
           "course_code": "BISM7216",
           "ga": "GA2",
-          "assessment_title": "A1, A3 A1: Process Modelling",
-          "status": "identified"
+          "assessment_title": "A2: Process Modelling",
+          "status": "built_awaiting_coordinator"
         },
         {
           "course_code": "BISM7216",
@@ -524,8 +542,8 @@
         {
           "course_code": "BISM7233",
           "ga": "GA2",
-          "assessment_title": "A1, A2 Data Integration Using SSIS",
-          "status": "identified"
+          "assessment_title": "A2 Business Analytics Case",
+          "status": "approved_not_installed"
         },
         {
           "course_code": "BISM7255",
@@ -544,12 +562,6 @@
           "course_code": "BSAN2204",
           "ga": "GA1",
           "assessment_title": "",
-          "status": "active"
-        },
-        {
-          "course_code": "BSAN2205",
-          "ga": "GA5",
-          "assessment_title": "A1 and A3",
           "status": "active"
         },
         {
@@ -702,20 +714,20 @@
         {
           "course_code": "EVNT7050",
           "ga": "GA6",
-          "assessment_title": "",
-          "status": "identified"
+          "assessment_title": "A3 Written Paper",
+          "status": "built_awaiting_coordinator"
         },
         {
           "course_code": "EVNT7051",
           "ga": "GA5",
-          "assessment_title": "",
-          "status": "identified"
+          "assessment_title": "A1 Group Pitch",
+          "status": "active"
         },
         {
           "course_code": "FINM1415",
           "ga": "GA3",
           "assessment_title": "A1 Team Project",
-          "status": "identified"
+          "status": "built_awaiting_coordinator"
         },
         {
           "course_code": "FINM1416",
@@ -727,7 +739,7 @@
           "course_code": "FINM2415",
           "ga": "GA5",
           "assessment_title": "A2 Groupwork Report (25%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM2415/FINM2415-Group%20Assignment-Marking%20Rubric.pdf"
         },
         {
@@ -828,7 +840,7 @@
           "course_code": "HOSP2006",
           "ga": "GA2",
           "assessment_title": "A1 Simulation Report and Reflection",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/HOSP2006/Ind_Reflection_HOSP2006.pdf"
         },
         {
@@ -849,7 +861,7 @@
           "course_code": "HOSP3005",
           "ga": "GA6",
           "assessment_title": "Reflective Vlog",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/HOSP3005/HOSP3005%20Reflective%20YouTube%20Vlog%20Rubric.docx"
         },
         {
@@ -912,6 +924,12 @@
           "assessment_title": "A3 Business in An Asian Region: Research Essay (30%)",
           "status": "awaiting_ld_check",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/IBUS7312/IBUS7312%20Rubric%20-%20A3.pdf"
+        },
+        {
+          "course_code": "IBUS7316",
+          "ga": "GA1",
+          "assessment_title": "A2: Literature Review",
+          "status": "active"
         },
         {
           "course_code": "IBUS7322",
@@ -1143,7 +1161,7 @@
           "course_code": "MKTG7505",
           "ga": "GA5",
           "assessment_title": "A1 New Product Concept Pitch",
-          "status": "awaiting_ld_check",
+          "status": "partial_mapping",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MKTG7505/MKTG7505_A1_Rubric_GA5.docx"
         },
         {
@@ -1333,7 +1351,7 @@
           "course_code": "TRVT2003",
           "ga": "GA5",
           "assessment_title": "",
-          "status": "identified"
+          "status": "active"
         },
         {
           "course_code": "TRVT3001",
