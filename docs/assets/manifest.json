@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T10:34:26.294288+00:00",
-  "total_profiles": 1089,
+  "generated_at": "2026-09-19T14:10:32.507485+00:00",
+  "total_profiles": 1095,
   "semesters": {
     "7460": [
       {
@@ -3064,6 +3064,24 @@
         "file": "profiles/7460/MKTG7503-60301-7460.json"
       },
       {
+        "course_code": "MKTG7505",
+        "class_code": "60302",
+        "semester_code": "7460",
+        "full_course_code": "MKTG7505-60302-7460",
+        "course_title": "Product Strategy & Development",
+        "study_period": "Semester 2, 2024 (22/07/2024 - 18/11/2024)",
+        "study_level": "Postgraduate Coursework",
+        "location": "St Lucia",
+        "attendance_mode": "In Person",
+        "units": "2",
+        "coordinating_unit": "Business School",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG7505-60302-7460",
+        "scraped_at": "2026-09-14T08:41:29.110090+00:00",
+        "assessment_count": 4,
+        "lo_count": 6,
+        "file": "profiles/7460/MKTG7505-60302-7460.json"
+      },
+      {
         "course_code": "MKTG7512",
         "class_code": "60303",
         "semester_code": "7460",
@@ -3508,7 +3526,7 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/TOUR1000-60327-7460",
-        "scraped_at": "2026-09-14T04:38:35.102053+00:00",
+        "scraped_at": "2026-09-14T10:34:28.769878+00:00",
         "assessment_count": 3,
         "lo_count": 5,
         "file": "profiles/7460/TOUR1000-60327-7460.json"
@@ -10126,6 +10144,24 @@
         "file": "profiles/7560/MGTS1601-60429-7560.json"
       },
       {
+        "course_code": "MGTS2301",
+        "class_code": "62751",
+        "semester_code": "7560",
+        "full_course_code": "MGTS2301-62751-7560",
+        "course_title": "Business Strategy in Practice",
+        "study_period": "Semester 2, 2025 (30/06/2025 - 23/08/2025)",
+        "study_level": "Undergraduate",
+        "location": "St Lucia",
+        "attendance_mode": "In Person",
+        "units": "2",
+        "coordinating_unit": "Business School",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS2301-62751-7560",
+        "scraped_at": "2026-09-14T08:30:09.979213+00:00",
+        "assessment_count": 3,
+        "lo_count": 5,
+        "file": "profiles/7560/MGTS2301-62751-7560.json"
+      },
+      {
         "course_code": "MGTS2604",
         "class_code": "60430",
         "semester_code": "7560",
@@ -10862,6 +10898,24 @@
         "assessment_count": 4,
         "lo_count": 5,
         "file": "profiles/7560/MKTG7504-60109-7560.json"
+      },
+      {
+        "course_code": "MKTG7505",
+        "class_code": "60454",
+        "semester_code": "7560",
+        "full_course_code": "MKTG7505-60454-7560",
+        "course_title": "Product Strategy & Development",
+        "study_period": "Semester 2, 2025 (28/07/2025 - 22/11/2025)",
+        "study_level": "Postgraduate Coursework",
+        "location": "St Lucia",
+        "attendance_mode": "In Person",
+        "units": "2",
+        "coordinating_unit": "Business School",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG7505-60454-7560",
+        "scraped_at": "2026-09-14T08:41:31.347676+00:00",
+        "assessment_count": 4,
+        "lo_count": 6,
+        "file": "profiles/7560/MKTG7505-60454-7560.json"
       },
       {
         "course_code": "MKTG7512",
@@ -18106,6 +18160,24 @@
         "file": "profiles/7660/MGTS1601-60442-7660.json"
       },
       {
+        "course_code": "MGTS2301",
+        "class_code": "62448",
+        "semester_code": "7660",
+        "full_course_code": "MGTS2301-62448-7660",
+        "course_title": "Business Strategy in Practice",
+        "study_period": "Semester 2, 2026 (29/06/2026 - 22/08/2026)",
+        "study_level": "Undergraduate",
+        "location": "St Lucia",
+        "attendance_mode": "In Person",
+        "units": "2",
+        "coordinating_unit": "Business School",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS2301-62448-7660",
+        "scraped_at": "2026-09-14T08:30:12.157717+00:00",
+        "assessment_count": 3,
+        "lo_count": 5,
+        "file": "profiles/7660/MGTS2301-62448-7660.json"
+      },
+      {
         "course_code": "MGTS2604",
         "class_code": "60443",
         "semester_code": "7660",
@@ -18862,6 +18934,24 @@
         "file": "profiles/7660/MKTG7504-60094-7660.json"
       },
       {
+        "course_code": "MKTG7505",
+        "class_code": "60467",
+        "semester_code": "7660",
+        "full_course_code": "MKTG7505-60467-7660",
+        "course_title": "Product Strategy & Development",
+        "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+        "study_level": "Postgraduate Coursework",
+        "location": "St Lucia",
+        "attendance_mode": "In Person",
+        "units": "2",
+        "coordinating_unit": "Business School",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/MKTG7505-60467-7660",
+        "scraped_at": "2026-09-14T08:41:33.681010+00:00",
+        "assessment_count": 4,
+        "lo_count": 6,
+        "file": "profiles/7660/MKTG7505-60467-7660.json"
+      },
+      {
         "course_code": "MKTG7512",
         "class_code": "60468",
         "semester_code": "7660",
@@ -19312,6 +19402,24 @@
         "file": "profiles/7660/TIMS7328-60105-7660.json"
       },
       {
+        "course_code": "TIMS7334",
+        "class_code": "62523",
+        "semester_code": "7660",
+        "full_course_code": "TIMS7334-62523-7660",
+        "course_title": "Sustainability Strategy and Leadership Capstone",
+        "study_period": "Semester 2, 2026 (27/07/2026 - 21/11/2026)",
+        "study_level": "Postgraduate Coursework",
+        "location": "St Lucia",
+        "attendance_mode": "In Person",
+        "units": "2",
+        "coordinating_unit": "Business School",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS7334-62523-7660",
+        "scraped_at": "2026-09-14T10:34:13.235111+00:00",
+        "assessment_count": 3,
+        "lo_count": 5,
+        "file": "profiles/7660/TIMS7334-62523-7660.json"
+      },
+      {
         "course_code": "TIMS7811",
         "class_code": "60132",
         "semester_code": "7660",
@@ -19324,7 +19432,7 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS7811-60132-7660",
-        "scraped_at": "2026-09-14T04:38:33.356443+00:00",
+        "scraped_at": "2026-09-14T10:34:26.344514+00:00",
         "assessment_count": 4,
         "lo_count": 4,
         "file": "profiles/7660/TIMS7811-60132-7660.json"

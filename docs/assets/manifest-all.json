@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:34:26.138649+00:00",
+  "generated_at": "2026-09-19T14:10:32.339320+00:00",
   "total_profiles": 9848,
   "semesters": {
     "7460": [
@@ -33622,7 +33622,7 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/TOUR1000-60327-7460",
-        "scraped_at": "2026-09-14T04:38:35.102053+00:00",
+        "scraped_at": "2026-09-14T10:34:28.769878+00:00",
         "assessment_count": 3,
         "lo_count": 5,
         "file": "profiles/7460/TOUR1000-60327-7460.json"
@@ -175888,7 +175888,7 @@
         "units": "2",
         "coordinating_unit": "Business School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/TIMS7811-60132-7660",
-        "scraped_at": "2026-09-14T04:38:33.356443+00:00",
+        "scraped_at": "2026-09-14T10:34:26.344514+00:00",
         "assessment_count": 4,
         "lo_count": 4,
         "file": "profiles/7660/TIMS7811-60132-7660.json"
@@ -177222,7 +177222,7 @@
         "units": "4",
         "coordinating_unit": "Mech & Mine Engineering School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG7340-21256-7720",
-        "scraped_at": "2026-09-14T07:07:40.425047+00:00",
+        "scraped_at": "2026-09-19T14:10:21.485992+00:00",
         "assessment_count": 6,
         "lo_count": 9,
         "file": "profiles/7720/ENGG7340-21256-7720.json"
@@ -177240,7 +177240,7 @@
         "units": "2",
         "coordinating_unit": "Human Movement & Nutrition Sci",
         "url": "https://course-profiles.uq.edu.au/course-profiles/HMST4925-21055-7720",
-        "scraped_at": "2026-09-14T07:44:14.950188+00:00",
+        "scraped_at": "2026-09-19T14:10:23.753563+00:00",
         "assessment_count": 4,
         "lo_count": 3,
         "file": "profiles/7720/HMST4925-21055-7720.json"
@@ -177260,7 +177260,7 @@
         "units": "2",
         "coordinating_unit": "Chemistry & Molec Biosciences",
         "url": "https://course-profiles.uq.edu.au/course-profiles/BIOC3006-61826-7760",
-        "scraped_at": "2026-09-14T05:31:18.183803+00:00",
+        "scraped_at": "2026-09-19T14:10:26.034617+00:00",
         "assessment_count": 4,
         "lo_count": 9,
         "file": "profiles/7760/BIOC3006-61826-7760.json"
@@ -177278,7 +177278,7 @@
         "units": "2",
         "coordinating_unit": "Chemical Engineering School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG1500-60747-7760",
-        "scraped_at": "2026-09-14T07:05:33.503444+00:00",
+        "scraped_at": "2026-09-19T14:10:28.457296+00:00",
         "assessment_count": 4,
         "lo_count": 7,
         "file": "profiles/7760/ENGG1500-60747-7760.json"
