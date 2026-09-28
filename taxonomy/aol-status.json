@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "UQBS Assurance of Learning status overlay, mirrored from the AoL register",
-    "last_updated": "2026-09-18 06:36",
+    "last_updated": "2026-09-28 19:01",
     "generated_from": "taxonomy/aol-template.csv",
     "status_order": [
       "na",
@@ -130,7 +130,7 @@
           "course_code": "FINM7108",
           "ga": "GA4",
           "assessment_title": "A4 Reflection",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM7108/FINM7108-A4%20Reflection%20Rubric.pdf"
         },
         {
@@ -370,8 +370,8 @@
         },
         {
           "course_code": "ACCT1112",
-          "ga": "GA2",
-          "assessment_title": "Group Assignment: Case Study",
+          "ga": "GA1",
+          "assessment_title": "A2 Group Assignment: Case Study",
           "status": "awaiting_ld_check",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/ACCT1112/ACCT1112_Group%20Assignment%20Marking%20Rubric.pdf"
         },
@@ -801,7 +801,7 @@
           "course_code": "FINM7106",
           "ga": "GA5",
           "assessment_title": "A3 Groupwork Presentation (40%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM7106/FINM7106%20A3%20Group%20presentation%20AoL%20Rubric%202026.pdf"
         },
         {
