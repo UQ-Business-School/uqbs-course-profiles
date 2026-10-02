@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "UQBS Assurance of Learning status overlay, mirrored from the AoL register",
-    "last_updated": "2026-09-28 19:01",
+    "last_updated": "2026-10-02 19:01",
     "generated_from": "taxonomy/aol-template.csv",
     "status_order": [
       "na",
@@ -443,6 +443,24 @@
           "course_code": "ACCT7107",
           "ga": "GA1",
           "assessment_title": "A1, A3 In-Semester Exam During Class",
+          "status": "identified"
+        },
+        {
+          "course_code": "ADVT7506",
+          "ga": "GA2",
+          "assessment_title": "A1: Consumer Insight Analysis Report",
+          "status": "identified"
+        },
+        {
+          "course_code": "ADVT7506",
+          "ga": "GA5",
+          "assessment_title": "A2: Advertising Campaign Pitch Project (Group)",
+          "status": "rubric_in_dev"
+        },
+        {
+          "course_code": "ADVT7512",
+          "ga": "GA3",
+          "assessment_title": "A3 (A): AI-Assisted Omnichannel Media Plan (Group)",
           "status": "identified"
         },
         {
@@ -1156,6 +1174,12 @@
           "assessment_title": "A2 Marketing Plan Part 2: Marketing Strategy (individual report)",
           "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MKTG1501/MKTG1501_A2_Part2_Rubric_GA2_v3.docx"
+        },
+        {
+          "course_code": "MKTG7502",
+          "ga": "GA5",
+          "assessment_title": "A2: Brand Strategy Audit",
+          "status": "built_awaiting_coordinator"
         },
         {
           "course_code": "MKTG7505",
