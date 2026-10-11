@@ -1,11 +1,11 @@
 {
   "_metadata": {
     "description": "LO-to-assessment mappings restored from Jac (curriculum.uq.edu.au), the authored curriculum record. UQ's published course profiles omit these mappings (fully or partially) due to a publishing fault; this overlay completes the record. Replace semantics: an entry is the authoritative full LO list for its assessment.",
-    "last_updated": "2026-10-10 11:10",
+    "last_updated": "2026-10-11 11:35",
     "generated_from": "lo-overrides.csv",
     "semantics": "replace_per_assessment; exact class_number wins over exact semester_code, which wins over blank. Entries with class_number apply ONLY to that SI-NET class (parallel deliveries can map differently). Consumers that do not distinguish classes should ignore class_number entries for offerings they cannot match.",
-    "class_scoped_entries": 120,
-    "carried_entries": 115
+    "class_scoped_entries": 122,
+    "carried_entries": 117
   },
   "overrides": [
     {
@@ -1043,6 +1043,33 @@
       ],
       "notes": "Source: Jac curriculum.uq.edu.au, Sem 1 2026 (auto-extracted)",
       "source": "jac"
+    },
+    {
+      "course_code": "BISM7807",
+      "semester_code": "7660",
+      "assessment_title": "A2: Team Case Study Presentation and Reflection",
+      "learning_outcomes": [
+        "LO2",
+        "LO3",
+        "LO4"
+      ],
+      "class_number": "60173",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
+    },
+    {
+      "course_code": "BISM7807",
+      "semester_code": "7660",
+      "assessment_title": "A3: Operational Review Report",
+      "learning_outcomes": [
+        "LO1",
+        "LO2",
+        "LO4",
+        "LO5"
+      ],
+      "class_number": "60173",
+      "notes": "Carried forward from 7620 (override): the 7660 profile shows no mapping, a whole drop by the publishing fault. Confirm in Jac if the mapping changed.",
+      "source": "carried"
     },
     {
       "course_code": "BISM7808",
