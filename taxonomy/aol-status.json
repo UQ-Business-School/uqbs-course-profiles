@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "UQBS Assurance of Learning status overlay, mirrored from the AoL register",
-    "last_updated": "2026-10-02 19:01",
+    "last_updated": "2026-10-12 19:01",
     "generated_from": "taxonomy/aol-template.csv",
     "status_order": [
       "na",
@@ -46,6 +46,29 @@
     }
   },
   "semesters": {
+    "7560": {
+      "label": "Semester 2, 2025",
+      "entries": [
+        {
+          "course_code": "IBUS3310",
+          "ga": "GA6",
+          "assessment_title": "A2 Company Analysis Report",
+          "status": "active"
+        },
+        {
+          "course_code": "IBUS4301",
+          "ga": "GA6",
+          "assessment_title": "A3 Research Proposal",
+          "status": "active"
+        },
+        {
+          "course_code": "MGTS7523",
+          "ga": "GA2",
+          "assessment_title": "A4 System Dynamics Modelling Assignment",
+          "status": "active"
+        }
+      ]
+    },
     "7620": {
       "label": "Semester 1, 2026",
       "entries": [
@@ -79,17 +102,36 @@
         },
         {
           "course_code": "EIBS7300",
+          "ga": "GA2",
+          "assessment_title": "A2 Ideation Prototyping and Testing (Group Assessment)",
+          "status": "active"
+        },
+        {
+          "course_code": "EIBS7300",
           "ga": "GA5",
           "assessment_title": "A1 Building Empathy through User Journey Mapping",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/EIBS7300/%5BEIBS7300%5D%20Assessment%201_Rubric_2026.pdf"
+        },
+        {
+          "course_code": "EIBS7300",
+          "ga": "GA5",
+          "assessment_title": "A2 Ideation Prototyping and Testing (Group Assessment)",
+          "status": "active"
         },
         {
           "course_code": "EIBS7301",
           "ga": "GA3",
           "assessment_title": "A3 Idea Management Strategy",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/EIBS7301/EIBS7301%20A3%20Hackathon%20rubric.pdf"
+        },
+        {
+          "course_code": "EIBS7311",
+          "ga": "GA2",
+          "assessment_title": "A3 Final Business Model Report",
+          "status": "active",
+          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/EIBS7311/EIBS7311_AoL_gradebook_rubric_note_15Sep2026.md"
         },
         {
           "course_code": "FINM3422",
@@ -135,9 +177,15 @@
         },
         {
           "course_code": "FINM7409",
+          "ga": "GA1",
+          "assessment_title": "A3 Exam",
+          "status": "active"
+        },
+        {
+          "course_code": "FINM7409",
           "ga": "GA2",
           "assessment_title": "A2 Investment Proposal (30%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM7409/Rubric%20-%20Investment%20Proposal%20Report.pdf"
         },
         {
@@ -219,16 +267,21 @@
         },
         {
           "course_code": "MGTS7301",
+          "ga": "GA2",
+          "assessment_title": "A3 Boardroom Roleplay",
+          "status": "active"
+        },
+        {
+          "course_code": "MGTS7301",
           "ga": "GA3",
-          "assessment_title": "A3 Individual Reflection (S1 2026)",
-          "status": "awaiting_ld_check",
-          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7301/MGTS7301%20Assessment%203%20Business%20Tools%20For%20Making%20Decisions%20rubric.pdf"
+          "assessment_title": "A4 Business Tools for Making Decisions",
+          "status": "active"
         },
         {
           "course_code": "MGTS7308",
           "ga": "GA3",
           "assessment_title": "A1 Map the System Proposal (20%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7308/MGTS7308%20Assessment%201_Outline%20and%20Rubric.pdf"
         },
         {
@@ -240,16 +293,56 @@
         },
         {
           "course_code": "MGTS7608",
+          "ga": "GA3",
+          "assessment_title": "A1 Team Case Analysis",
+          "status": "active"
+        },
+        {
+          "course_code": "MGTS7608",
+          "ga": "GA4",
+          "assessment_title": "A3 Exam",
+          "status": "active"
+        },
+        {
+          "course_code": "MGTS7608",
           "ga": "GA6",
           "assessment_title": "A2 Individual Stakeholder and Ethics Analysis",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7608/Assessment%202%20rubric%20-%20Individual%20stakeholder%20and%20ethics%20analysis.pdf"
+        },
+        {
+          "course_code": "MGTS7610",
+          "ga": "GA4",
+          "assessment_title": "A3 Interactive Oral Assessment",
+          "status": "rubric_in_dev",
+          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7610/AoL%20Assessment%20rubric%20by%20assignment%20MGTS7610.pdf"
         },
         {
           "course_code": "MGTS7610",
           "ga": "GA5",
           "assessment_title": "A1 In-semester Exam: Rationale and Business Communication",
-          "status": "awaiting_ld_check",
+          "status": "active",
+          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7610/AoL%20Assessment%20rubric%20by%20assignment%20MGTS7610.pdf"
+        },
+        {
+          "course_code": "MGTS7610",
+          "ga": "GA5",
+          "assessment_title": "A2 Boardroom Presentation",
+          "status": "active",
+          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7610/AoL%20Assessment%20rubric%20by%20assignment%20MGTS7610.pdf"
+        },
+        {
+          "course_code": "MGTS7610",
+          "ga": "GA5",
+          "assessment_title": "A3 Interactive Oral Assessment",
+          "status": "active",
+          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7610/AoL%20Assessment%20rubric%20by%20assignment%20MGTS7610.pdf"
+        },
+        {
+          "course_code": "MGTS7610",
+          "ga": "GA6",
+          "assessment_title": "A2 Boardroom Presentation",
+          "status": "rubric_in_dev",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7610/AoL%20Assessment%20rubric%20by%20assignment%20MGTS7610.pdf"
         },
         {
@@ -281,18 +374,71 @@
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7812/MGTS7812_A2_Rubric_GA4.docx"
         },
         {
+          "course_code": "TIMS2302",
+          "ga": "GA1",
+          "assessment_title": "A1 A1 | multi-team debate",
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS2302",
+          "ga": "GA2",
+          "assessment_title": "A3 F1 | Week 4 checkpoint",
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS2302",
+          "ga": "GA5",
+          "assessment_title": "A2 A2 | Analytical thinking",
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS3302",
+          "ga": "GA1",
+          "assessment_title": "A2 Analysis | Across 4 case topics",
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS3302",
+          "ga": "GA2",
+          "assessment_title": "A3 Case Study | Emerging opportunities",
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS3302",
+          "ga": "GA5",
+          "assessment_title": "A1 Team Presentations | Pitch, Video, Autopsy",
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS7301",
+          "ga": "GA1",
+          "assessment_title": "A2 Analysis | Across 4 Case Topics",
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS7301",
+          "ga": "GA2",
+          "assessment_title": "A3 Case Study | Emerging opportunities",
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS7301",
+          "ga": "GA5",
+          "assessment_title": "A1 Team Presentations",
+          "status": "active"
+        },
+        {
           "course_code": "TIMS7317",
           "ga": "GA4",
           "assessment_title": "A3 Community Project",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TIMS7317/TIMS7317%202026%20S1%20A3%20Rubric.pdf"
         },
         {
           "course_code": "TIMS7317",
           "ga": "GA6",
-          "assessment_title": "A2 Individual Reflection: Leadership Simulation",
-          "status": "awaiting_ld_check",
-          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TIMS7317/TIMS7317%20A2%20Rubric.pdf"
+          "assessment_title": "A2 Leadership Reflection",
+          "status": "active"
         },
         {
           "course_code": "TOUR1000",
@@ -680,54 +826,52 @@
           "course_code": "EIBS7302",
           "ga": "GA1",
           "assessment_title": "A3 Self-written case study",
-          "status": "rubric_in_dev"
+          "status": "active"
         },
         {
           "course_code": "EIBS7302",
           "ga": "GA2",
-          "assessment_title": "A3 Self-written case study",
-          "status": "rubric_in_dev"
+          "assessment_title": "A2 Simulation Reflection",
+          "status": "active"
         },
         {
           "course_code": "EIBS7302",
           "ga": "GA5",
           "assessment_title": "A3 Self-written case study",
-          "status": "rubric_in_dev"
+          "status": "active"
         },
         {
           "course_code": "EIBS7303",
           "ga": "GA1",
           "assessment_title": "A3 Individual Reflection",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/EIBS7303/A3%20-%20Rubric%20for%20Individual%20Reflection.pdf"
         },
         {
           "course_code": "EIBS7303",
           "ga": "GA3",
           "assessment_title": "A1 In-Class Activities",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/EIBS7303/A1%20-%20Rubric%20for%20In-Class%20Activities.pdf"
         },
         {
           "course_code": "EIBS7303",
           "ga": "GA6",
           "assessment_title": "A2 Group Report",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/EIBS7303/A2%20-%20Rubric%20for%20Group%20Report.pdf"
+        },
+        {
+          "course_code": "EIBS7304",
+          "ga": "GA4",
+          "assessment_title": "A1 In-Class Essay",
+          "status": "rubric_in_dev"
         },
         {
           "course_code": "EIBS7304",
           "ga": "GA6",
           "assessment_title": "A2 Wellbeing Polarity Leadership",
-          "status": "awaiting_ld_check",
-          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/EIBS7304/EIBS7304_Assessment%202_Wellbeing%20Polarity%20Map_Rubric_GA6%20Respectful%20Leaders.pdf"
-        },
-        {
-          "course_code": "EIBS7311",
-          "ga": "GA2",
-          "assessment_title": "A3 Final Business Model Report",
-          "status": "awaiting_ld_check",
-          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/EIBS7311/EIBS7311_AoL_gradebook_rubric_note_15Sep2026.md"
+          "status": "active"
         },
         {
           "course_code": "EVNT7050",
@@ -898,31 +1042,61 @@
         },
         {
           "course_code": "IBUS2301",
+          "ga": "GA1",
+          "assessment_title": "A3 Case Study",
+          "status": "approved_not_installed"
+        },
+        {
+          "course_code": "IBUS2301",
           "ga": "GA5",
           "assessment_title": "A1 Company Pitches",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/IBUS2301/Rubric%20(Company%20Pitches).docx"
+        },
+        {
+          "course_code": "IBUS2309",
+          "ga": "GA3",
+          "assessment_title": "A1 Cultural Immersion Reflection (Presentation)",
+          "status": "active"
+        },
+        {
+          "course_code": "IBUS2309",
+          "ga": "GA4",
+          "assessment_title": "A3 Exam",
+          "status": "active"
         },
         {
           "course_code": "IBUS3310",
           "ga": "GA2",
-          "assessment_title": "Team Case Study Presentation (in tutorial)",
-          "status": "awaiting_ld_check",
+          "assessment_title": "A1 Team Case Study Presentation (in tutorial)",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/IBUS3310/IBUS3310%20Team%20Presentation%20Rubric.pdf"
         },
         {
           "course_code": "IBUS4301",
           "ga": "GA1",
           "assessment_title": "A1 Discussion",
-          "status": "awaiting_ld_check",
+          "status": "active",
+          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/IBUS4301/IBUS4301%20Discussion%20Outline%20and%20Rubric.pdf"
+        },
+        {
+          "course_code": "IBUS4301",
+          "ga": "GA5",
+          "assessment_title": "A1 Discussion",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/IBUS4301/IBUS4301%20Discussion%20Outline%20and%20Rubric.pdf"
         },
         {
           "course_code": "IBUS7302",
           "ga": "GA1",
           "assessment_title": "A2 Topic Analysis Assignment",
-          "status": "awaiting_ld_check",
-          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/IBUS7302/IBUS7302_AoL_gradebook_rubric_note_15Sep2026.md"
+          "status": "active"
+        },
+        {
+          "course_code": "IBUS7302",
+          "ga": "GA5",
+          "assessment_title": "A2 Topic Analysis Assignment",
+          "status": "active"
         },
         {
           "course_code": "IBUS7306",
@@ -938,10 +1112,22 @@
         },
         {
           "course_code": "IBUS7312",
+          "ga": "GA1",
+          "assessment_title": "A2 Reflective Essay",
+          "status": "active"
+        },
+        {
+          "course_code": "IBUS7312",
           "ga": "GA2",
           "assessment_title": "A3 Business in An Asian Region: Research Essay (30%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/IBUS7312/IBUS7312%20Rubric%20-%20A3.pdf"
+        },
+        {
+          "course_code": "IBUS7312",
+          "ga": "GA3",
+          "assessment_title": "A1 Team Oral Presentation",
+          "status": "active"
         },
         {
           "course_code": "IBUS7316",
@@ -1028,6 +1214,12 @@
           "status": "identified"
         },
         {
+          "course_code": "MGTS3301",
+          "ga": "GA6",
+          "assessment_title": "A3 Self as Strategist",
+          "status": "approved_not_installed"
+        },
+        {
           "course_code": "MGTS3602",
           "ga": "GA3",
           "assessment_title": "A2: Case Analysis Report (Group Assignment)",
@@ -1051,6 +1243,18 @@
           "ga": "",
           "assessment_title": "",
           "status": "tbd"
+        },
+        {
+          "course_code": "MGTS3606",
+          "ga": "GA4",
+          "assessment_title": "A4 Cultural Agility Development Portfolio",
+          "status": "rubric_in_dev"
+        },
+        {
+          "course_code": "MGTS3606",
+          "ga": "GA5",
+          "assessment_title": "A3 Global Mobility Pitch",
+          "status": "active"
         },
         {
           "course_code": "MGTS3609",
@@ -1093,22 +1297,40 @@
         {
           "course_code": "MGTS7329",
           "ga": "GA3",
-          "assessment_title": "A4",
-          "status": "identified"
+          "assessment_title": "A1 Group Presentation",
+          "status": "active"
+        },
+        {
+          "course_code": "MGTS7329",
+          "ga": "GA4",
+          "assessment_title": "A3 Exam",
+          "status": "active"
         },
         {
           "course_code": "MGTS7523",
           "ga": "GA5",
           "assessment_title": "A2 Systems Thinking Presentation (group)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7523/MGTS7523%20Assessment%202%20-%20Rubric%20(Presentation).pdf"
         },
         {
           "course_code": "MGTS7527",
           "ga": "GA2",
           "assessment_title": "A1 Team Project Plan (30%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7527/MGTS7527%20A1%20Rubric.pdf"
+        },
+        {
+          "course_code": "MGTS7527",
+          "ga": "GA4",
+          "assessment_title": "A3 Stakeholder Presentation",
+          "status": "rubric_in_dev"
+        },
+        {
+          "course_code": "MGTS7527",
+          "ga": "GA6",
+          "assessment_title": "A4 Reflection Report",
+          "status": "active"
         },
         {
           "course_code": "MGTS7601",
@@ -1141,7 +1363,7 @@
           "course_code": "MGTS7604",
           "ga": "GA5",
           "assessment_title": "A3 International Assignment Advisory Pitch",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/MGTS7604/MGTS7604%20A3%20Pitch.pdf"
         },
         {
@@ -1202,53 +1424,22 @@
         },
         {
           "course_code": "TIMS1301",
+          "ga": "GA2",
+          "assessment_title": "A2 Pitch Presentation",
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS1301",
           "ga": "GA3",
           "assessment_title": "A1 Understanding the Customer Problem",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TIMS1301/TIMS1301%20A1%20rubric.pdf"
         },
         {
           "course_code": "TIMS2301",
           "ga": "GA2",
           "assessment_title": "A2 Case Analysis",
-          "status": "awaiting_ld_check",
-          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TIMS2301/TIMS2301_AoL_gradebook_rubric_note_15Sep2026.md"
-        },
-        {
-          "course_code": "TIMS2302",
-          "ga": "GA1",
-          "assessment_title": "A1 A1 | multi-team debate",
-          "status": "identified"
-        },
-        {
-          "course_code": "TIMS2302",
-          "ga": "GA2",
-          "assessment_title": "A3 F1 | Week 4 checkpoint",
-          "status": "identified"
-        },
-        {
-          "course_code": "TIMS2302",
-          "ga": "GA5",
-          "assessment_title": "A2 A2 | Analytical thinking",
-          "status": "identified"
-        },
-        {
-          "course_code": "TIMS3302",
-          "ga": "GA1",
-          "assessment_title": "A2 Analysis | Across 4 case topics",
-          "status": "identified"
-        },
-        {
-          "course_code": "TIMS3302",
-          "ga": "GA2",
-          "assessment_title": "A3 Case Study | Emerging opportunities",
-          "status": "identified"
-        },
-        {
-          "course_code": "TIMS3302",
-          "ga": "GA5",
-          "assessment_title": "A1 Team Presentations | Pitch, Video, Autopsy",
-          "status": "identified"
+          "status": "active"
         },
         {
           "course_code": "TIMS3304",
@@ -1260,39 +1451,50 @@
           "course_code": "TIMS3309",
           "ga": "GA2",
           "assessment_title": "A2 Innovation Case Study (Group Report) (40%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TIMS3309/TIMS3309_Assessment%202_2026(1).pdf"
         },
         {
+          "course_code": "TIMS3310",
+          "ga": "GA6",
+          "assessment_title": "A2 Wellbeing Polarity Mapping",
+          "status": "active"
+        },
+        {
           "course_code": "TIMS3311",
           "ga": "GA1",
-          "assessment_title": "A3 Project report or business case",
-          "status": "identified"
+          "assessment_title": "A2 Reflective Interview",
+          "status": "active"
         },
         {
           "course_code": "TIMS3311",
           "ga": "GA2",
           "assessment_title": "A3 Project report or business case",
-          "status": "identified"
+          "status": "active"
         },
         {
-          "course_code": "TIMS7301",
-          "ga": "GA1",
-          "assessment_title": "A3 Case Study | Emerging opportunities",
-          "status": "identified"
-        },
-        {
-          "course_code": "TIMS7301",
-          "ga": "GA2",
-          "assessment_title": "A3 Case Study | Emerging opportunities",
-          "status": "identified"
+          "course_code": "TIMS3311",
+          "ga": "GA5",
+          "assessment_title": "A1 Proposal Presentation",
+          "status": "approved_not_installed"
         },
         {
           "course_code": "TIMS7328",
           "ga": "GA2",
+          "assessment_title": "A2 Team Scenario Planning Video",
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS7328",
+          "ga": "GA3",
           "assessment_title": "A3 Reflection on Scenario Planning",
-          "status": "awaiting_ld_check",
-          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TIMS7328/TIMS7328%20A3%20Rubric.pdf"
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS7328",
+          "ga": "GA5",
+          "assessment_title": "A2 Team Scenario Planning Video",
+          "status": "active"
         },
         {
           "course_code": "TIMS7329",
@@ -1302,10 +1504,29 @@
         },
         {
           "course_code": "TIMS7334",
+          "ga": "GA2",
+          "assessment_title": "A2 Team Project: Sustainability Strategy Report and Presentation (50%)",
+          "status": "active",
+          "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TIMS7334/TIMS7334%20A2%20Rubric.pdf"
+        },
+        {
+          "course_code": "TIMS7334",
+          "ga": "GA3",
+          "assessment_title": "A3 Reflective Interview",
+          "status": "active"
+        },
+        {
+          "course_code": "TIMS7334",
           "ga": "GA5",
           "assessment_title": "A2 Team Project: Sustainability Strategy Report and Presentation (50%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TIMS7334/TIMS7334%20A2%20Rubric.pdf"
+        },
+        {
+          "course_code": "TIMS7334",
+          "ga": "GA6",
+          "assessment_title": "A1 Sustainability Leadership Diary",
+          "status": "active"
         },
         {
           "course_code": "TOUR1002",
