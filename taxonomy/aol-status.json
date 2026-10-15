@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "UQBS Assurance of Learning status overlay, mirrored from the AoL register",
-    "last_updated": "2026-10-12 19:01",
+    "last_updated": "2026-10-15 19:01",
     "generated_from": "taxonomy/aol-template.csv",
     "status_order": [
       "na",
@@ -1565,8 +1565,8 @@
         {
           "course_code": "TOUR7051",
           "ga": "GA2",
-          "assessment_title": "",
-          "status": "identified"
+          "assessment_title": "A2: Part B Interview",
+          "status": "active"
         },
         {
           "course_code": "TRVT2000",
