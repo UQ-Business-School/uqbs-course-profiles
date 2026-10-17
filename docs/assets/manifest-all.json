@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:35:54.834286+00:00",
+  "generated_at": "2026-10-17T11:08:40.390475+00:00",
   "total_profiles": 9850,
   "semesters": {
     "7460": [
@@ -177260,7 +177260,7 @@
         "units": "4",
         "coordinating_unit": "Mech & Mine Engineering School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG7340-21256-7720",
-        "scraped_at": "2026-10-10T11:09:59.971706+00:00",
+        "scraped_at": "2026-10-17T11:08:32.207225+00:00",
         "assessment_count": 6,
         "lo_count": 9,
         "file": "profiles/7720/ENGG7340-21256-7720.json"
@@ -177278,7 +177278,7 @@
         "units": "2",
         "coordinating_unit": "Human Movement & Nutrition Sci",
         "url": "https://course-profiles.uq.edu.au/course-profiles/HMST4925-21055-7720",
-        "scraped_at": "2026-10-10T11:10:01.674183+00:00",
+        "scraped_at": "2026-10-17T11:08:33.861121+00:00",
         "assessment_count": 4,
         "lo_count": 3,
         "file": "profiles/7720/HMST4925-21055-7720.json"
