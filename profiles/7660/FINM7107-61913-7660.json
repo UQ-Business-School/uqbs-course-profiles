@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/FINM7107-61913-7660",
-  "scraped_at": "2026-10-11T11:17:45.769167+00:00",
+  "scraped_at": "2026-10-18T11:15:54.411996+00:00",
   "course_code": "FINM7107",
   "class_code": "61913",
   "semester_code": "7660",
@@ -91,7 +91,7 @@
       "category": "Paper/ Report/ Annotation",
       "title": "A3: Written Case Study Analysis",
       "weight": "40%",
-      "due_date": "13/11/2026 4:00 pm"
+      "due_date": "25/11/2026 4:00 pm"
     }
   ],
   "assessment_details": [
@@ -138,7 +138,7 @@
       "mode": "Written",
       "category": "Paper/ Report/ Annotation",
       "weight": "40%",
-      "due_date": "13/11/2026 4:00 pm",
+      "due_date": "25/11/2026 4:00 pm",
       "learning_outcomes_assessed": "L01, L02, L03",
       "task_description": "Following completion of the online content and face-to-face sessions, students will be required to apply knowledge and skills to analyse an authentic case study and provide recommendations to highlight ways to minimise the challenges, maximise impact, and optimise investment returns. This assessment is to be completed individually and submitted via Blackboard. Read full task description Hide full task description",
       "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
