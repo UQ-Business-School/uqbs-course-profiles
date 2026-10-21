@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "UQBS Assurance of Learning status overlay, mirrored from the AoL register",
-    "last_updated": "2026-10-15 19:01",
+    "last_updated": "2026-10-21 19:01",
     "generated_from": "taxonomy/aol-template.csv",
     "status_order": [
       "na",
@@ -76,14 +76,14 @@
           "course_code": "ACCT1110",
           "ga": "GA1",
           "assessment_title": "A1 Tutorial Preparation Tasks (20%)",
-          "status": "awaiting_ld_check",
+          "status": "approved_not_installed",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/ACCT1110/ACCT1110-Assessment%201%20Rubric.pdf"
         },
         {
           "course_code": "ACCT7804",
           "ga": "GA5",
           "assessment_title": "A1 Corporate Analysis Briefing",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/ACCT7804/ACCT7804_AoL_gradebook_rubric_note_15Sep2026.md"
         },
         {
@@ -505,7 +505,7 @@
           "course_code": "ACCT1102",
           "ga": "GA5",
           "assessment_title": "A2 Group Assignment (20%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/ACCT1102/ACCT1102%20A2%20Rubric.pdf"
         },
         {
@@ -516,9 +516,9 @@
         },
         {
           "course_code": "ACCT1112",
-          "ga": "GA1",
+          "ga": "GA2",
           "assessment_title": "A2 Group Assignment: Case Study",
-          "status": "awaiting_ld_check",
+          "status": "approved_not_installed",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/ACCT1112/ACCT1112_Group%20Assignment%20Marking%20Rubric.pdf"
         },
         {
@@ -535,30 +535,30 @@
         },
         {
           "course_code": "ACCT3101",
-          "ga": "GA5",
+          "ga": "GA6",
           "assessment_title": "Group Assignment",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/ACCT3101/ACCT3101_AoL_gradebook_rubric_note_15Sep2026.md"
         },
         {
           "course_code": "ACCT3103",
           "ga": "GA5",
           "assessment_title": "Individual Video Presentation (20%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/ACCT3103/ACCT3103%20-%20Assessment%20AoL%20Rubric.pdf"
         },
         {
           "course_code": "ACCT3104",
           "ga": "GA1",
-          "assessment_title": "A2",
-          "status": "awaiting_ld_check",
+          "assessment_title": "A2 Case study Analysis",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/ACCT3104/ACCT3104_AoL_gradebook_rubric_note_15Sep2026.md"
         },
         {
           "course_code": "ACCT3106",
           "ga": "GA2",
           "assessment_title": "A2 Financial Analysis and Valuation (20%)",
-          "status": "awaiting_ld_check",
+          "status": "identified",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/ACCT3106/Stage2%20ACCT3106%20A2%20-%20AoLRubricDRAFT.docx"
         },
         {
@@ -571,7 +571,7 @@
           "course_code": "ACCT7103",
           "ga": "GA6",
           "assessment_title": "A2 Case Study: Audit Planning and testing",
-          "status": "identified"
+          "status": "approved_not_installed"
         },
         {
           "course_code": "ACCT7104",
@@ -588,8 +588,8 @@
         {
           "course_code": "ACCT7107",
           "ga": "GA1",
-          "assessment_title": "A1, A3 In-Semester Exam During Class",
-          "status": "identified"
+          "assessment_title": "A2 Case Study",
+          "status": "approved_not_installed"
         },
         {
           "course_code": "ADVT7506",
@@ -887,7 +887,7 @@
         },
         {
           "course_code": "FINM1415",
-          "ga": "GA3",
+          "ga": "GA2",
           "assessment_title": "A1 Team Project",
           "status": "built_awaiting_coordinator"
         },
