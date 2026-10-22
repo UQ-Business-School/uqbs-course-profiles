@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "UQBS Assurance of Learning status overlay, mirrored from the AoL register",
-    "last_updated": "2026-10-21 19:01",
+    "last_updated": "2026-10-22 19:01",
     "generated_from": "taxonomy/aol-template.csv",
     "status_order": [
       "na",
@@ -137,35 +137,35 @@
           "course_code": "FINM3422",
           "ga": "GA1",
           "assessment_title": "A1 Turnaround Case Study",
-          "status": "awaiting_ld_check",
+          "status": "approved_not_installed",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM3422/AoL%20mapped%20FINM3422%20A1-VantageCaseStudyRubric.pdf"
         },
         {
           "course_code": "FINM7101",
           "ga": "GA2",
           "assessment_title": "A1 Data Analysis Task",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM7101/FINM7101-A1%20Rubric%20AoL%202026.pdf"
         },
         {
           "course_code": "FINM7102",
           "ga": "GA3",
           "assessment_title": "A1 Written Paper (30%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM7102/AoL%20GA3%20FINM7102-A1%20Rubric%20FINAL.pdf"
         },
         {
           "course_code": "FINM7103",
           "ga": "GA6",
           "assessment_title": "A3 Oral Interview (20%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM7103/FINM7103_S1%202026_A3_Rubric.pdf"
         },
         {
           "course_code": "FINM7104",
           "ga": "GA1",
           "assessment_title": "A2 Critical Analysis (60%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM7104/FINM7104%20A2%20AoL%20Rubric.pdf"
         },
         {
@@ -198,8 +198,8 @@
         {
           "course_code": "HOSP7050",
           "ga": "GA5",
-          "assessment_title": "Emerging Trends and Future F&B Experience Design: Reflections",
-          "status": "awaiting_ld_check",
+          "assessment_title": "A1 Emerging Trends and Future F&B Experience Design: Reflections",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/HOSP7050/HOSP7050_AoL_gradebook_rubric_note_15Sep2026.md"
         },
         {
@@ -444,49 +444,49 @@
           "course_code": "TOUR1000",
           "ga": "GA5",
           "assessment_title": "A2 Destination Pitch (40%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TOUR1000/TOUR1000%202026%20S1%20Assessment%202%20Rubric%20with%20AoL%20-%20V02.pdf"
         },
         {
           "course_code": "TOUR1003",
           "ga": "GA3",
           "assessment_title": "A2 Stakeholder Meetings and Reflections",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TOUR1003/TOUR1003%20Ass2%20Stakeholder%20Meeting%20Rubric.pdf"
         },
         {
           "course_code": "TOUR7021",
           "ga": "GA5",
           "assessment_title": "A1 Service Experience Oral Pitch",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TOUR7021/TOUR7021%20%E2%80%93%20Service%20Experience%20Pitch%20%E2%80%93%20Marking%20Rubric.docx"
         },
         {
           "course_code": "TOUR7023",
           "ga": "GA6",
           "assessment_title": "A2 Case Study (50%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TOUR7023/A2-TOUR7023%20Rubric.pdf"
         },
         {
           "course_code": "TOUR7031",
           "ga": "GA5",
           "assessment_title": "A2 Management Consultant Briefing",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TOUR7031/TOUR7031%20-%20Rubric.pdf"
         },
         {
           "course_code": "TOUR7032",
           "ga": "GA2",
           "assessment_title": "A3 Market Research Project",
-          "status": "awaiting_ld_check",
+          "status": "approved_not_installed",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TOUR7032/TOUR7032%20Assessment%203-%20marking%20criteria.xlsx"
         },
         {
           "course_code": "TOUR7053",
           "ga": "GA3",
           "assessment_title": "A1 Engaging with Stakeholders in Tourism in Developing Countries",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TOUR7053/2026_TOUR7053_A1%20Rubric.pdf"
         }
       ]
@@ -926,7 +926,7 @@
           "course_code": "FINM3405",
           "ga": "GA2",
           "assessment_title": "A2 Case Study, groupwork (30%)",
-          "status": "awaiting_ld_check",
+          "status": "approved_not_installed",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM3405/Group%20Assignment%20Marking%20Rubric.pdf"
         },
         {
@@ -939,7 +939,7 @@
           "course_code": "FINM3407",
           "ga": "GA1",
           "assessment_title": "A1, A3 In-Semester Exam (TBC - waiting for School Approval for Saturday Exam. More details will be shared)",
-          "status": "identified"
+          "status": "built_awaiting_coordinator"
         },
         {
           "course_code": "FINM3414",
@@ -957,7 +957,7 @@
           "course_code": "FINM7105",
           "ga": "GA3",
           "assessment_title": "",
-          "status": "identified"
+          "status": "approved_not_installed"
         },
         {
           "course_code": "FINM7106",
@@ -970,7 +970,7 @@
           "course_code": "FINM7402",
           "ga": "GA1",
           "assessment_title": "A3 Case Study Assignment",
-          "status": "awaiting_ld_check",
+          "status": "approved_not_installed",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM7402/2%20FINM7402%20Marking%20Rubric.pdf"
         },
         {
@@ -995,7 +995,7 @@
           "course_code": "FINM7407",
           "ga": "GA5",
           "assessment_title": "A2 Case Study Assignment",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/FINM7407/FINM7407_S2%202026_A2_AoL%20Rubric.pdf"
         },
         {
@@ -1009,7 +1009,7 @@
           "course_code": "HOSP3000",
           "ga": "GA5",
           "assessment_title": "A1 Board Discussion of a Casino Development",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/HOSP3000/HOSP3000%20A1_TaskDescriptionRubric.pdf"
         },
         {
@@ -1029,8 +1029,8 @@
         {
           "course_code": "HOSP7051",
           "ga": "GA1",
-          "assessment_title": "Industry Forum",
-          "status": "awaiting_ld_check",
+          "assessment_title": "A1 Industry Forum",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/HOSP7051/HOSP7051_AoL_gradebook_rubric_note_15Sep2026.md"
         },
         {
@@ -1532,7 +1532,7 @@
           "course_code": "TOUR1002",
           "ga": "GA2",
           "assessment_title": "A3 Visitor Experience Redesign Proposal Report",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TOUR1002/TOUR1002%20A3%20Rubric.docx"
         },
         {
@@ -1545,8 +1545,8 @@
         {
           "course_code": "TOUR3008",
           "ga": "GA2",
-          "assessment_title": "",
-          "status": "tbd"
+          "assessment_title": "A2 Service Experience Report (?)",
+          "status": "identified"
         },
         {
           "course_code": "TOUR7050",
