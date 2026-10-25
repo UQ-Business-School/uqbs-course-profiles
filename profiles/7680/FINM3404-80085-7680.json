@@ -1,0 +1,394 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3404-80085-7680",
+  "scraped_at": "2026-10-25T11:13:09.802579+00:00",
+  "course_code": "FINM3404",
+  "class_code": "80085",
+  "semester_code": "7680",
+  "full_course_code": "FINM3404-80085-7680",
+  "course_title": "Banking and Lending Decisions",
+  "study_period": "Summer Semester, 2026 (30/11/2026 - 13/02/2027)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "This course will consider the uniqueness of the financial institutions, assessment of credit risk and the principles of successful bank lending, as well as risk management in banks. At the end of this course, you will understand the risk assessment of various types of loans, the mechanisms for predicting financial distress, the principles of asset liability management, securitisation and its impact of the Global Financial Crisis (GFC) 2007, bank regulation, bank profitability analysis and international banking system.\n\nThe course highlights the traditional role of banks and how their operation has changed dramatically in recent years. In particular, this course evaluates a number of important concepts including risk assessment of loans, role of central banks, risk and performance of banks, asset-liability management, structured finance, regulation, insurance mechanisms and finally, the evolution of and risk in investment banking.\n\nCourse Changes in Response to Previous Student Feedback\n\nThe course now includes a review session for the case study assignment.\n\nSustainable Development Goals - UQ Business School is a proud supporter and Advanced Signatory of the United Nations Principles for Responsible Management Education (UN PRME) . As part of the largest global collaboration between business schools and the UN, the school emphasises its role in empowering students to drive societal transformation through the Sustainable Development Goals . The SDGs highlight that a thriving economy relies on a healthy environment, aiming to balance economic growth, social well-being, and environmental protection for a sustainable future.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "FINM2416"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "FINM3414"
+    ],
+    "restrictions": [
+      "Not to be studied by BAdvFin&Econ(Hons) students"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Yong Ming Chen",
+      "email": "y.chen@business.uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Yong Ming Chen"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email business.mytimetable@uq.edu.au from your UQ student email account with the following details:\nYour name\nYour student ID\nThe course code",
+  "course_aims": "The primary purpose of this course is to develop a broad understanding of how financial institutions operate both locally and globally. Students will evaluate the banking environment in Australia and globally with a focus on monetary policy, risk management, performance, securitisation, regulation and supervision, international banking, and investment banking.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Evaluate the importance of financial intermediaries/institutions."
+    },
+    {
+      "number": "LO2.",
+      "description": "Outline the role of the central bank in an economy."
+    },
+    {
+      "number": "LO3.",
+      "description": "Analyse risk management and performance of financial institutions."
+    },
+    {
+      "number": "LO4.",
+      "description": "Question and evaluate issues related to the global financial crisis 2007, structured finance, and financial innovation."
+    },
+    {
+      "number": "LO5.",
+      "description": "Evaluate the role of bank regulation including capital regulation and the deposit insurance scheme."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "25%",
+      "due_date": "6/01/2027; During lecture time in class exam. Seating arrangements will be announced later on Blackboard course site.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Case Study - Assignment",
+      "weight": "25%",
+      "due_date": "25/01/2027 3:00 pm",
+      "conditions": [
+        "Online"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "Final Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/02/2027 - 13/02/2027",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "25%",
+      "due_date": "6/01/2027 During lecture time in class exam. Seating arrangements will be announced later on Blackboard course site.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "The exam will be based on the materials covered in Topics 1-4 (including tutorials). This is a time-constrained in-person exam that will consist of 20 multiple-choice questions (a mix of theory and calculations) (20 marks), 1 short discussion question (2.5 marks), and 1 problem solving question (2.5 marks). Students are required to come to the class to complete the exam. We will hold the In-Semester Exam in Teaching Week 5 during the usual lecture time. More details on the exam procedure will be released closer to the exam date on Blackboard course site. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Case Study - Assignment",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "25%",
+      "due_date": "25/01/2027 3:00 pm",
+      "learning_outcomes_assessed": "L01, L03, L04, L05",
+      "task_description": "Carefully read ‘Wells Fargo: Setting the Stagecoach Thundering Again’ (see URL on Blackboard under “Assessment” and please make sure you also read other materials that will strengthen your assignment). Please use this case as a background to carefully develop your answers to the questions mentioned in the document titled \"Assignment Instruction.\" The maximum length of your submission would be 5 pages (excluding the list of references), using 1.5-line spacing, ‘Times New Roman’ font with size 12, ‘Normal’ margins, justified paragraphs, and page numbering on the bottom right-hand side. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "A student needs to upload the write-up in a single 'pdf' file using \"Case Study Submission Link\" on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 14 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "special_indicators": [
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Final Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/02/2027 - 13/02/2027",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L03, L04, L05",
+      "task_description": "The final assessment will be based on all materials covered in the course (from Topics 1-10). The exam includes short answers and problem-solving questions. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Topic 1: Financial Institutions and Credit Risk Analysis Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Tutorial",
+      "topic": "Topic 1: Financial Institutions and Credit Risk Analysis Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Topic 2: The Monetary Authorities, RBA, Interest Rates Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Tutorial",
+      "topic": "Topic 2: Monetary Authorities, RBA, Interest Rates Learning outcomes: L02",
+      "learning_outcomes": [
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Topic 3: Risks of Financial Institutions Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "Topic 3: Risks of Financial Institutions Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Lecture",
+      "topic": "Topic 4: Bank Liquidity Risk Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Tutorial",
+      "topic": "Topic 4: Bank Liquidity Risk Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Topic 5: Bank Performance Analysis and Deposit Insurance Learning outcomes: L03, L05",
+      "learning_outcomes": [
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Topic 5: Bank Performance Analysis and Deposit Insurance Learning outcomes: L03, L05",
+      "learning_outcomes": [
+        "L03",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "Topic 6: Asset-Liability Management I Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial on case discussion Learning outcomes: L01, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "No Teaching during Week 4"
+    },
+    {
+      "learning_period": "Mid-sem break",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "In-Semester Break No teaching activity"
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "Topic 7: Asset-Liability Management II Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "Review Session for In-Semester Exam Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Lecture",
+      "topic": "In-Semester Exam In-semester exam will be held in class during the class time. Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Tutorial",
+      "topic": "Topic 6: Asset-Liability Management I Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "Topic 8: Securitization & Financial Crisis Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "Topic 7: Asset-Liability Management II Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Lecture",
+      "topic": "Topic 9: Capital Adequacy Requirement Learning outcomes: L05",
+      "learning_outcomes": [
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6",
+      "activity_type": "Tutorial",
+      "topic": "Topic 8: Securitization & Financial Crisis Learning outcomes: L04",
+      "learning_outcomes": [
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "Topic 10: Concentration Risk and Investment Banking Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Tutorial",
+      "topic": "Topic 9: Capital Adequacy Requirement Learning outcomes: L05",
+      "learning_outcomes": [
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Lecture",
+      "topic": "Topic 11: Investment Banking Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 7",
+      "activity_type": "Tutorial",
+      "topic": "Topic 10: Concentration Risk and Investment Banking Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Lecture",
+      "topic": "Revision Lecture Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8",
+      "activity_type": "Tutorial",
+      "topic": "Topic 11: Investment Banking"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure AI for Assessment Guide Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Learning activities"
+}
