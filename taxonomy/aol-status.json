@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "UQBS Assurance of Learning status overlay, mirrored from the AoL register",
-    "last_updated": "2026-10-22 19:01",
+    "last_updated": "2026-10-26 19:01",
     "generated_from": "taxonomy/aol-template.csv",
     "status_order": [
       "na",
@@ -488,6 +488,12 @@
           "assessment_title": "A1 Engaging with Stakeholders in Tourism in Developing Countries",
           "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/TOUR7053/2026_TOUR7053_A1%20Rubric.pdf"
+        },
+        {
+          "course_code": "TRVT2000",
+          "ga": "GA1",
+          "assessment_title": "A2 Tourism System Pitch",
+          "status": "active"
         }
       ]
     },
@@ -1567,12 +1573,6 @@
           "ga": "GA2",
           "assessment_title": "A2: Part B Interview",
           "status": "active"
-        },
-        {
-          "course_code": "TRVT2000",
-          "ga": "GA1",
-          "assessment_title": "",
-          "status": "tbd"
         },
         {
           "course_code": "TRVT2001",
