@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T11:29:11.640910+00:00",
-  "total_profiles": 9852,
+  "generated_at": "2026-10-31T11:06:03.475702+00:00",
+  "total_profiles": 9853,
   "semesters": {
     "7460": [
       {
@@ -177296,7 +177296,7 @@
         "units": "4",
         "coordinating_unit": "Mech & Mine Engineering School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG7340-21256-7720",
-        "scraped_at": "2026-10-24T11:08:46.539799+00:00",
+        "scraped_at": "2026-10-31T11:05:54.278506+00:00",
         "assessment_count": 6,
         "lo_count": 9,
         "file": "profiles/7720/ENGG7340-21256-7720.json"
@@ -177314,13 +177314,31 @@
         "units": "2",
         "coordinating_unit": "Human Movement & Nutrition Sci",
         "url": "https://course-profiles.uq.edu.au/course-profiles/HMST4925-21055-7720",
-        "scraped_at": "2026-10-24T11:08:48.318680+00:00",
+        "scraped_at": "2026-10-31T11:05:55.721590+00:00",
         "assessment_count": 4,
         "lo_count": 3,
         "file": "profiles/7720/HMST4925-21055-7720.json"
       }
     ],
     "7760": [
+      {
+        "course_code": "ABTS2030",
+        "class_code": "62063",
+        "semester_code": "7760",
+        "full_course_code": "ABTS2030-62063-7760",
+        "course_title": "Exploring Indigenous Art, Film, Music and Literature Through Iconic Works",
+        "study_period": "Semester 2, 2027 (26/07/2027 - 20/11/2027)",
+        "study_level": "Undergraduate",
+        "location": "St Lucia",
+        "attendance_mode": "In Person",
+        "units": "2",
+        "coordinating_unit": "Education School",
+        "url": "https://course-profiles.uq.edu.au/course-profiles/ABTS2030-62063-7760",
+        "scraped_at": "2026-10-31T11:05:57.416141+00:00",
+        "assessment_count": 3,
+        "lo_count": 4,
+        "file": "profiles/7760/ABTS2030-62063-7760.json"
+      },
       {
         "course_code": "BIOC3006",
         "class_code": "61826",
