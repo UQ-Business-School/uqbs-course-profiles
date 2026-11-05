@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "UQBS Assurance of Learning status overlay, mirrored from the AoL register",
-    "last_updated": "2026-10-26 19:01",
+    "last_updated": "2026-11-05 19:01",
     "generated_from": "taxonomy/aol-template.csv",
     "status_order": [
       "na",
@@ -1395,6 +1395,12 @@
           "ga": "GA4",
           "assessment_title": "A3",
           "status": "identified"
+        },
+        {
+          "course_code": "MGTS7620",
+          "ga": "GA6",
+          "assessment_title": "A2: Leadership Simulation Viva",
+          "status": "active"
         },
         {
           "course_code": "MKTG1501",
