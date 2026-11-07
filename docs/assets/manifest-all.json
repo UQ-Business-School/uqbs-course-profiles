@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T11:29:16.686840+00:00",
+  "generated_at": "2026-11-07T11:05:45.163846+00:00",
   "total_profiles": 9853,
   "semesters": {
     "7460": [
@@ -177296,7 +177296,7 @@
         "units": "4",
         "coordinating_unit": "Mech & Mine Engineering School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/ENGG7340-21256-7720",
-        "scraped_at": "2026-10-31T11:05:54.278506+00:00",
+        "scraped_at": "2026-11-07T11:05:35.404633+00:00",
         "assessment_count": 6,
         "lo_count": 9,
         "file": "profiles/7720/ENGG7340-21256-7720.json"
@@ -177314,7 +177314,7 @@
         "units": "2",
         "coordinating_unit": "Human Movement & Nutrition Sci",
         "url": "https://course-profiles.uq.edu.au/course-profiles/HMST4925-21055-7720",
-        "scraped_at": "2026-10-31T11:05:55.721590+00:00",
+        "scraped_at": "2026-11-07T11:05:37.166298+00:00",
         "assessment_count": 4,
         "lo_count": 3,
         "file": "profiles/7720/HMST4925-21055-7720.json"
@@ -177334,7 +177334,7 @@
         "units": "2",
         "coordinating_unit": "Education School",
         "url": "https://course-profiles.uq.edu.au/course-profiles/ABTS2030-62063-7760",
-        "scraped_at": "2026-10-31T11:05:57.416141+00:00",
+        "scraped_at": "2026-11-07T11:05:38.817337+00:00",
         "assessment_count": 3,
         "lo_count": 4,
         "file": "profiles/7760/ABTS2030-62063-7760.json"
