@@ -1,7 +1,7 @@
 {
   "_metadata": {
     "description": "UQBS Assurance of Learning status overlay, mirrored from the AoL register",
-    "last_updated": "2026-11-05 19:01",
+    "last_updated": "2026-11-09 19:01",
     "generated_from": "taxonomy/aol-template.csv",
     "status_order": [
       "na",
@@ -87,6 +87,12 @@
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/ACCT7804/ACCT7804_AoL_gradebook_rubric_note_15Sep2026.md"
         },
         {
+          "course_code": "BISM3208",
+          "ga": "GA5",
+          "assessment_title": "A3 Emerging Technology: Team presentation",
+          "status": "active"
+        },
+        {
           "course_code": "BISM7202",
           "ga": "GA2",
           "assessment_title": "A1 MS Excel Assignment and Reflective Essay",
@@ -94,10 +100,22 @@
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/BISM7202/BISM%207202%20Rubric%20Excel%20assignment.pdf"
         },
         {
+          "course_code": "BISM7216",
+          "ga": "GA2",
+          "assessment_title": "A2: Process Modelling",
+          "status": "active"
+        },
+        {
+          "course_code": "BISM7216",
+          "ga": "GA3",
+          "assessment_title": "A2: Process Modelling",
+          "status": "active"
+        },
+        {
           "course_code": "BISM7221",
           "ga": "GA6",
           "assessment_title": "Business Consulting Report: IS Recommendations (40%)",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/BISM7221/BISM7221%20Report%20-%20Business%20Consulting%20Report%20Assessment%20Rubric%202026S1.pdf"
         },
         {
@@ -638,13 +656,13 @@
           "course_code": "BISM2203",
           "ga": "GA2",
           "assessment_title": "A2: Process Modelling",
-          "status": "built_awaiting_coordinator"
+          "status": "active"
         },
         {
           "course_code": "BISM2207",
           "ga": "GA3",
           "assessment_title": "A2 System Development",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/BISM2207/BISM2207%20rubric.pdf"
         },
         {
@@ -656,20 +674,14 @@
         {
           "course_code": "BISM3205",
           "ga": "GA4",
-          "assessment_title": "",
-          "status": "identified"
-        },
-        {
-          "course_code": "BISM3208",
-          "ga": "GA5",
-          "assessment_title": "A1, A3 Emerging Technology: Team presentation",
-          "status": "identified"
+          "assessment_title": "A2: Report",
+          "status": "active"
         },
         {
           "course_code": "BISM7206",
           "ga": "GA3",
           "assessment_title": "A2 Database Design",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/BISM7206/BISM7206%20A2%20Rubric%20S2.pdf"
         },
         {
@@ -682,26 +694,14 @@
           "course_code": "BISM7208",
           "ga": "GA5",
           "assessment_title": "A3 Digital Transformation Hackathon Project",
-          "status": "awaiting_ld_check",
+          "status": "active",
           "rubric_url": "https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/BISM7208/BISM7208_A3_Rubric.pdf"
         },
         {
           "course_code": "BISM7213",
           "ga": "GA4",
           "assessment_title": "Assignment 2: Question 3\nIndigenous Data Sovereignty and Information Security",
-          "status": "approved_not_installed"
-        },
-        {
-          "course_code": "BISM7216",
-          "ga": "GA2",
-          "assessment_title": "A2: Process Modelling",
-          "status": "built_awaiting_coordinator"
-        },
-        {
-          "course_code": "BISM7216",
-          "ga": "GA3",
-          "assessment_title": "",
-          "status": "tbd"
+          "status": "active"
         },
         {
           "course_code": "BISM7217",
