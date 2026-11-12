@@ -18,6 +18,8 @@ semester_code,course_code,ga,assessment_title,status,rubric_url,notes,semester_s
 7620,ACCT7804,GA5,A1 Corporate Analysis Briefing,Active,https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/ACCT7804/ACCT7804_AoL_gradebook_rubric_note_15Sep2026.md,,evidence:note:S1 2026,ACCT7804/ACCT7804_AoL_gradebook_rubric_note_15Sep2026.md,S2 2026
 7660,ADVT7513,GA6,"A2, A3",Identified,,,default,,
 7660,BISM1201,GA2,A1 IS Analysis Report (individual),"Approved, not installed",https://uq.sharepoint.com/teams/bs3u7kls/Shared%20Documents/Curriculum%20Uplift%20and%20New%20Course%20Development/01.%20Assurance%20of%20Learning%20(AoL)/4.%20AoL%20(Sean)/BISM1201/BISM1201_A1_Rubric_GA2_v2.docx,,first_implemented,BISM1201/BISM1201_A1_Rubric_GA2_v2.docx,S2 2026
+7660,BISM1210,,,TBD,,,default,,
+7660,BISM1220,,,TBD,,,default,,
 7660,BISM2202,GA2,A2:  Business Analytics Case Study,"Approved, not installed",,,first_implemented,,S2 2026
 7660,BISM2203,GA2,A2: Process Modelling,Active,,,first_implemented,,S2 2026
 7660,BISM2207,GA3,A2: System Design,Active,,,first_implemented,,S2 2026
@@ -247,3 +249,5 @@ Indigenous Data Sovereignty and Information Security",Active,,,first_implemented
 7660,ADVT7506,GA2,A1: Consumer Insight Analysis Report,Identified,,,default,,
 7660,MKTG7502,GA5,A2: Brand Strategy Audit,"Built, awaiting coordinator",,,default,,
 7660,ADVT7512,GA3,A3 (A): AI-Assisted Omnichannel Media Plan (Group),Identified,,,default,,
+7660,BISM3206,GA1,,Identified,,,default,,
+7660,BISM3222,GA6,,"Approved, not installed",,,default,,
