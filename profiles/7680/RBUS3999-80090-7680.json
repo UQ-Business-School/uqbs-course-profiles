@@ -1,0 +1,217 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/RBUS3999-80090-7680",
+  "scraped_at": "2026-11-15T11:25:02.925044+00:00",
+  "course_code": "RBUS3999",
+  "class_code": "80090",
+  "semester_code": "7680",
+  "full_course_code": "RBUS3999-80090-7680",
+  "course_title": "Business Industry Placement",
+  "study_period": "Summer Semester, 2026 (30/11/2026 - 13/02/2027)",
+  "study_level": "Undergraduate",
+  "location": "External",
+  "attendance_mode": "Online",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Business School",
+  "course_description": "This course aims to provide final year students with the opportunity to apply conceptual knowledge to the real world via a professional placement. As such, this course strongly links discipline learnings, personal employability skills and attributes developed by students across the duration of their studies with the challenges and expectations of working in industry. In doing so, students have the opportunity to gain valuable work experience in their chosen profession and to connect this experience to the development of a workplace ready skill-set. Successful completion of the course will provide students with the employability skills required for transition to the world of work. Further information about how to apply for RBUS3999 can be found on the BEL Faculty's work-integrated learning website .\n\nThe course is designed around the University of Queensland's employability framework, which focuses on four themes:\n\nThis means that during this course, you will have the opportunity to:\n\nPlacement/Internship requirements\n\nPrior to enrolling in this course, you should independently secure a work placement that's relevant to your field of study. The organisation should be willing to host you, provide meaningful work that supports the development of your skills and capabilities, and appoint an experienced industry supervisor to oversee your work, provide guidance, and offer feedback on your performance. Support is available from the BEL Faculty Employability Team to help you source an appropriate host organisation.\n\nYour industry placement (internship) should comprise between 80 and 100 hours of professional work experience, throughout (or before) the semester.ﾠAs an example, you might choose to complete your internship in one block of 3 or 4 weeks full-time,ﾠ3 days a week over 4-5 weeks, orﾠ2 days a week over 7-8 weeks.ﾠCompleting one day a week of your internship hours is notﾠrecommended as experience has shown the likelihood of you being given realistic work tasks and/or being included in the work team is significantly reduced. If completing your internship at your current employer, you must undertake higher level duties that are different from your usual role for 80-100 hours.\n\nDomestic internships that are unpaid must be approved. All international internships must be paid\n\nAfter securing your internship you need to apply for approval before you will be allowed to enrol on this course. You must complete the WIL application process, including submission of a Learning Agreement and Internship Information Form.\n\nThe course is offered four times a year to make alignment with your internship dates possible. Your internship should be as close as possible to the course start date.\n\nIf your internship commencement date is too far removed from the course start date, you may be advised to source a new internship.\n\nNOTE: Before you commence your internship, it is important you first refer to the BEL Work-integrated Learning (WIL) website to familiarise yourself with the process of having your internship approved before it can be considered suitable for course credit. Access the BEL Internships website at my.uq.edu.au .",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "GPA of 4.0 or higher. Approval required from Head of School via BEL Student Administration Team."
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "RBUS4999"
+    ],
+    "restrictions": [
+      "Restricted to students in the final year of the BBusMan, BCom, BTHEM and BIHTM programs, including duals."
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Associate Professor Rachel Fitzgerald",
+      "email": "rachel.fitzgerald@uq.edu.au"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Associate Professor Rachel Fitzgerald"
+    },
+    {
+      "role": "Internship administrator",
+      "name": "Mr Ivan Maxwell",
+      "email": "i.maxwell@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nAs you will be in the placement organisation for 80 to 100 hours there is limited seminar or lecture involvement. It is your responsibility toﾠnegotiate your working hours with your industry host, as well as manage your time effectively to attend the scheduled learning activitiesﾠthroughout the semester.\nYou must check your university email address for announcements about RBUS3999/RBUS4999/RBUS7999, for updates and additional information throughout the semester.",
+  "course_aims": "This course gives students the opportunity to link discipline learnings, employability skills and personal attributes with the challenges and expectations of working in industry. It is designed to help students identify their unique strengths and build a strong professional identity. The course will reflectively deepen students’ understanding of workplace practices, processes and challenges. Ultimately, the course will help students emerge with the confidence and skills to thrive in the modern workplace.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Reflect on and evaluate your employability skillset and attributes."
+    },
+    {
+      "number": "LO2.",
+      "description": "Communicate your employability skillset and attributes."
+    },
+    {
+      "number": "LO3.",
+      "description": "Create a professional development plan to further build upon your employability skills."
+    },
+    {
+      "number": "LO4.",
+      "description": "Critically reflect on and articulate key business practices, processes and challenges within an organisation."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Placement",
+      "title": "A1: Internship",
+      "weight": "Pass/Fail",
+      "due_date": "12/02/2027",
+      "conditions": [
+        "Hurdle"
+      ]
+    },
+    {
+      "category": "Placement, Reflection",
+      "title": "A2. Workplace reflection",
+      "weight": "50%",
+      "due_date": "17:00 PM - A2.1 Written Reflection - Formative Submission 18/12/2026; 17:00 PM - A2.1 Written Reflection - Final Submission 8/01/2027; A2.2 Interactive Oral 11/01/2027 - 29/01/2027; A2.1 Written Reflection is submitted in two parts: Part 1 is due 18 December 2026, and Part 2 (final submission) is due 8 January 2027.; A2.2 Interactive Oral Assessments will take place online between 11 and 29 January 2027. Students must book an individual interview time with the lecturer. Booking details will be provided via Blackboard.",
+      "conditions": [
+        "Identity Verified",
+        "Online"
+      ]
+    },
+    {
+      "category": "Essay/ Critique, Portfolio, Reflection",
+      "title": "A3. Professional Development Plan",
+      "weight": "50%",
+      "due_date": "10/02/2027 5:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "A1: Internship",
+      "mode": "Activity/ Performance",
+      "category": "Placement",
+      "weight": "Pass/Fail",
+      "due_date": "12/02/2027",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L04",
+      "task_description": "To complete this assessment and pass the course, you must secure a host organisation that can provide meaningful work to support skill development, arrange and complete the placement through an agreed schedule (e.g., block, part-time weekly) that will total 80-100 hours, negotiate working hours with the organisation and have the internship supervisor (or appropriate designate) complete the industry supervisor evaluation form. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "submission_guidelines": "The industry supervisor evaluation form will be submitted online by your supervisor who would have received a link to the form at the time your internship was approved. Once they’ve completed and submitted the form, you will automatically receive an emailed copy.\nImportant notes:\nConfirm with your supervisor that they have completed the form. If they lost access to the link, download the instruction sheet containing the link from the course resources section and provide it to them. If you don’t receive an emailed copy after your supervisor completed the form, contact a BEL WIL advisor at employability@bel.uq.edu.au .\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "special_indicators": [
+        "Hurdle"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "A2. Workplace reflection",
+      "mode": "Oral, Written",
+      "category": "Placement, Reflection",
+      "weight": "50%",
+      "due_date": "17:00 PM - A2.1 Written Reflection - Formative Submission 18/12/2026 17:00 PM - A2.1 Written Reflection - Final Submission 8/01/2027 A2.2 Interactive Oral 11/01/2027 - 29/01/2027 A2.1 Written Reflection is submitted in two parts: Part 1 is due 18 December 2026, and Part 2 (final submission) is due 8 January 2027. A2.2 Interactive Oral Assessments will take place online between 11 and 29 January 2027. Students must book an individual interview time with the lecturer. Booking details will be provided via Blackboard.",
+      "other_conditions": "Time limited, Work integrated learning, Longitudinal, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L04",
+      "task_description": "In this assessment, you will showcase your reflective skills by analysing and reflecting on the business/organisation you observed and engaged with during your placement. You will critically reflect on the practices, processes, challenges and/or successes of the business or organisation you worked in. Your observations will lead you to develop a foundational understanding of how businesses operate, their managerial decision-making, and how businesses respond to wider industry/economic forces. The assessment will consist of two parts: A2.1: Written Reflection You are required to prepare a written reflection that presents your observations and critical analysis of a significant or consequential practice, process, challenge and/or opportunity within the business or organisation in which you completed your placement. Your reflection should explore the key learnings gained from this experience and explicitly connect these insights to the development of your employability skills and personal attributes. The written reflection will be submitted in two parts: Part 1 (Formative) Initial Reflection: Due Friday, 18 December 2026, at 5:00 pm and Part 2 – Final Reflection: Due Friday, 8 January 2027, at 5:00 pm. Part 2 should build upon your initial reflection (and feedback received), demonstrating deeper critical analysis and consideration of how your workplace experiences have contributed to your professional development. A2.2: Interactive Oral Assessment You will participate in a semi-structured, individual online consultation with your lecturer to discuss the significant workplace issue, practice, process, challenge or opportunity identified in A2.1. During the consultation, you will be expected to critically reflect on your experience, articulate your key learnings, and explain how these have contributed to the development of your employability skills and personal attributes. The consultation provides an opportunity to demonstrate your ability to communicate and transfer your professional learning to future workplace contexts. Assessment period: 11–29 January 2027. You will be required to book an individual consultation time with your lecturer. Booking instructions will be provided through Blackboard. Secure Assessment Materials Allowed or Prohibited You may use Artificial Intelligence (AI) and Machine Translation (MT) tools to support your learning and assessment preparation for the written reflection and preparation for your Interactive Oral Assessment. You must transparently acknowledge any use of AI or MT. The use of AI during the Interactive Oral Assessment is not permitted. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "submission_guidelines": "A2.1: Submitted by the due date via the assessment submission link on the course's learn.uq site (Blackboard).\nA2.2: Offline submission managed by the lecturer/course coordinator. All interactive oral consultations must be completed by the due date stated for A2.2.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nExtensions may be available for the written submission only. If you are unable to attend your presentation, please advise your Course Coordinator on or before the due date.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\n10% Late Penalty applies to submitted material only. Late submissions are not accepted for in-class presentations. Failure to present at the scheduled time will result in a mark of zero for the presentation portion of this assessment.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In this assessment, you will showcase your reflective skills by analysing and reflecting on the business/organisation you observed and engaged with during your placement. You will critically reflect on the practices, processes, challenges and/or successes of the business or organisation you worked in. Your observations will lead you to develop a foundational understanding of how businesses operate, their managerial decision-making, and how businesses respond to wider industry/economic forces. The assessment will consist of two parts: A2.1: Written Reflection You are required to prepare a written reflection that presents your observations and critical analysis of a significant or consequential practice, process, challenge and/or opportunity within the business or organisation in which you completed your placement. Your reflection should explore the key learnings gained from this experience and explicitly connect these insights to the development of your employability skills and personal attributes. The written reflection will be submitted in two parts: Part 1 (Formative) Initial Reflection: Due Friday, 18 December 2026, at 5:00 pm and Part 2 – Final Reflection: Due Friday, 8 January 2027, at 5:00 pm. Part 2 should build upon your initial reflection (and feedback received), demonstrating deeper critical analysis and consideration of how your workplace experiences have contributed to your professional development. A2.2: Interactive Oral Assessment You will participate in a semi-structured, individual online consultation with your lecturer to discuss the significant workplace issue, practice, process, challenge or opportunity identified in A2.1. During the consultation, you will be expected to critically reflect on your experience, articulate your key learnings, and explain how these have contributed to the development of your employability skills and personal attributes. The consultation provides an opportunity to demonstrate your ability to communicate and transfer your professional learning to future workplace contexts. Assessment period: 11–29 January 2027. You will be required to book an individual consultation time with your lecturer. Booking instructions will be provided through Blackboard. Secure Assessment Materials Allowed or Prohibited You may use Artificial Intelligence (AI) and Machine Translation (MT) tools to support your learning and assessment preparation for the written reflection and preparation for your Interactive Oral Assessment. You must transparently acknowledge any use of AI or MT. The use of AI during the Interactive Oral Assessment is not permitted. Read full task description Hide full task description\nYou may use Artificial Intelligence (AI) and Machine Translation (MT) tools to support your learning and assessment preparation for the written reflection and preparation for your Interactive Oral Assessment. You must transparently acknowledge any use of AI or MT. The use of AI during the Interactive Oral Assessment is not permitted.",
+      "special_indicators": [
+        "Identity Verified",
+        "Online"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "A3. Professional Development Plan",
+      "mode": "Written",
+      "category": "Essay/ Critique, Portfolio, Reflection",
+      "weight": "50%",
+      "due_date": "10/02/2027 5:00 pm",
+      "other_conditions": "Work integrated learning. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03",
+      "task_description": "In this assessment, you will develop a comprehensive and critically reflective Professional Development Plan that evaluates your employability and identifies priorities for your future professional growth. Your plan should draw on: Self-evaluation of your placement performance and professional learning. Feedback from supervisors, mentors and colleagues. Relevant self-assessment tools and instruments. Research into industry expectations, employment trends and emerging skill requirements. UQ’s graduate attributes and employability capabilities. You will identify key areas for development and establish a clear, achievable action plan with specific goals and strategies for improvement. Your plan should conclude with a critical consideration of your professional identity, career aspirations and future career pathways, demonstrating how you intend to transfer your learning from the placement into your ongoing personal and professional development. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Your A3 assessment submission should contain three documents:\nYour written PDP. The supervisor feedback you received. The completed Self-evaluation form.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Not scheduled",
+      "activity_type": "Not Timetabled",
+      "topic": "Employ101X - Unlocking your employability This is an optional self-paced online course in which you will hear from: Employers discussing what they value when hiring new graduates Current students who have maximised their university experience Graduates who have transitioned successfully into the workplace Academics in the field of employability with insights into key topics in the course Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Multiple weeks",
+      "activity_type": "Placement",
+      "topic": "Industry placement with a host organisation 80-100 hours placement with an industry host. The placement will give you the opportunity to gain valuable work experience and to connect this experience to the development of a workplace ready skill set. Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Seminar",
+      "topic": "SEM1: Introduction to the Course This seminar will include: Course Profile Assessment overview Discover UQ WIL opportunities (Employ101x, events & workshops, employability award, etc) Discuss professionalism in the workplace Discuss agility and resilience in the workplace Learning outcomes: L01",
+      "learning_outcomes": [
+        "L01"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Seminar",
+      "topic": "SEM2: Reflecting on the workplace During this seminar we will Discover the value and modalities of workplace reflection. Explore potential topics/focus areas for reflection. Practice describing and analysing workplace dynamics. Learning outcomes: L01, L04",
+      "learning_outcomes": [
+        "L01",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Seminar",
+      "topic": "SEM3: Employability skills and attributes In this seminar we will: Differentiate between skills and attributes Explore practical ways to identify and evidence your own skills and capabilities Discover the skills and attributes most in demand by employers Understand how the UQ Graduate Attributes relate to employability Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Seminar",
+      "topic": "SEM4: Professional identity and value proposition Understanding your professional self Understanding identity Personal vis a vis Professional identity Recognising your value, interests, strengths and influences Developing your professional brand and value proposition What is a brand? Why do you need a brand? Steps to building a brand. Crafting your brand statement/value proposition Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 5",
+      "activity_type": "Seminar",
+      "topic": "SEM5: Professional Development Plan In this seminar we will Discuss the purpose and elements of a Professional Development Plan (PDP). Consider how to identify skills and knowledge gaps and derive development areas. Explore the development of an action plan to achieve your development goals. Consider the value of a PDP in the context of your professional identity and long-term career aspirations. Learning outcomes: L01, L03",
+      "learning_outcomes": [
+        "L01",
+        "L03"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Use of AI in Teaching: The University is exploring careful and responsible ways to use approved AI tools to support learning and teaching at UQ. The course Blackboard site will have further information about how AI tools might be used in this course. Please be aware that it is possible that student work may be used with approved AI tools. If you have questions about this, please consult the AI Student Hub and your Blackboard site and contact your Course Coordinator if you have any further questions. You'll also need to be aware of the following policies and procedures while completing this course: Placement Work Integrated Learning and Work Experience Learning activities"
+}

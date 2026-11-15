@@ -1,0 +1,450 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON3210-80098-7680",
+  "scraped_at": "2026-11-15T11:10:25.350508+00:00",
+  "course_code": "ECON3210",
+  "class_code": "80098",
+  "semester_code": "7680",
+  "full_course_code": "ECON3210-80098-7680",
+  "course_title": "Financial Markets & Institutions",
+  "study_period": "Summer Semester, 2026 (30/11/2026 - 13/02/2027)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "Flow of funds and financial markets, theory and behaviour of interest rates, term and risk structure of interest rates, exchange rates, interest parity, expectations formation, equity markets, debt market, Euro markets, derivatives markets, social allocation of capital.\n\nThe course aims to provide a deep and thorough understanding of the payment system, financial markets and financial institutions. The content blends economics-relevant and business-relevant topics to enhance graduate employability and captures the current financial environment. The methodology used to teach this course relies on an accounting-based representation of financial mechanisms with flow-of-fund diagrams and balance sheets, which provides a coherent and unified framework for all topics. This approach allows to debunk myths and address misconceptions that are widespread in the media, and sometimes in textbooks, concerning in particular money and banks. The course covers among other topics central bank money and private money creation, auctions in bond markets, securitisation, short selling, mark to market accounting, bank capital regulation, cash rate targeting policy and non-conventional monetary policies such as quantitative easing.\n\nBlended - learning deliveryﾠ\n\nThe course is delivered in a blended learning mode. Students self study online at their own pace on UQ Extend the content through lecturer's videos, reading, MCQ and simple problems. They then attend a two-hour tutorial where many group activities and discussions take place to apply the knowledge to problems more difficult than the ones in the self study. The tutorials run a three-colour scheme, in which differentiated parallel tutorial activities accommodate all levels of preparation and confidence.ﾠFinally, students meet the course coordinator in the workshop the week after the tutorial. In these workshops, Frederique complements the online content with recent trends, critical thinking activities around articles and data, and more challenging problems than the ones seen in tutorials. As workshops prepare for the higher-order thinking questions of the assessment, attendanceﾠis highly recommended.\n\nThe self study online material for each topic has been divided into 3 to 5 subsections that are each self contained and can therefore be easily studied in separate short sessions. The self study content is released at least three weeks ahead of related tutorials to allow greater flexibility.ﾠ\n\nInternal delivery for tutorials\n\nTutorials and tutors' consultations are offered exclusively in person on Campus. Note that the attendance in person to tutorials is essential as weekly assessments take place during tutorials.\n\nExternal delivery for workshops\n\nWorkshops and course coordinator's consultations are offered exclusively online.\n\nThe course coordinator\n\nDr Frédérique Bracoud, the course coordinator and lecturer, is a theoretical banking Microeconomist,ﾠtrained in France and Belgium, and has a long experience in teaching Financial Economics at introductory and advanced levels in the UK and in Australia.ﾠThe lecturer received a UQ Commendation for Outstanding Contribution to Student Learning (2023) and a BEL Employee Excellence award (2021) for the Three Colour Tutorial. She is the author of Financial markets and institutions: a step-by-step analysis of core mechanisms, an open access textbook at UQ Pressbooks, from which most readings for this course are extracted.ﾠ",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON1010",
+      "FINM1415",
+      "ECON2011",
+      "FINM2411",
+      "ECON2012",
+      "FINM2412",
+      "ECON2200"
+    ],
+    "companions": [
+      "We recommend completing the following courses at the same time:",
+      "ECON3550"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Frederique Bracoud",
+      "email": "econ3210@uq.edu.au",
+      "notes": "econ3210@uq.edu.au"
+    },
+    {
+      "role": "School enquiries",
+      "name": "Student Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed to enquiries@economics.uq.edu.au . Enquiries relating specifically to course content should be directed to econ3210@uq.edu.au ."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Frederique Bracoud"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nStudents are required to select their preferred class times through My Timetable and attend their allocated timeslot. Some formative assessment takes place in tutorials therefore enrolment in a tutorial group is essential. The timetable is published through the UQ Public Timetable found in the APPs section of myUQ.ﾠ\nTutorials and workshops start in\nteaching week 1\nand run until\nteaching week 8\nincluded.ﾠ\nPlease see the Learning Activities section of this Course Profile for the timetabling implications of public holidays.\nImportant Dates:\nPublic holidays:\nFriday 25 December 2026 (Christmas Day), Tuesday 26 January 2027 (Australia Day).\nIn-semester Break:\n28 December 2026 – 1 January 2027. Summer Semester classes recommence on Monday 4 January 2027.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.",
+  "course_aims": "This course aims to provide students with a thorough understanding of the foundations and core mechanisms of the financial system. It also intends to equip students with technical knowledge of the characteristics, products, and operations of major financial institutions and their roles in the economy. Lastly, it aims to empower students with tools that enable them to critically analyse contemporary real-world challenges in financial markets and institutions.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify and correct misconceptions and fallacies about the financial system embedded in financial arguments or discourses."
+    },
+    {
+      "number": "LO2.",
+      "description": "Represent financial operations and discourses using an accounting framework to check their rigour and predict their impact."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply economic theories such as demand-supply and arbitrage theories to the financial system to get a deeper understanding of financial matters."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand and critically assess complex and recent financial developments in the financial system."
+    },
+    {
+      "number": "LO5.",
+      "description": "Assess the immediate and later effects of monetary and macroprudential policies on the functioning of the financial markets and behaviours of financial institutions."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Quiz, Tutorial/ Problem Set",
+      "title": "Tutorial engagement tests",
+      "weight": "20% (Best 8 of 13)",
+      "due_date": "Due during tutorials in Week 1 to Week 8",
+      "conditions": [
+        "In-person"
+      ]
+    },
+    {
+      "category": "Essay/ Critique, Examination, Quiz, Tutorial/ Problem Set",
+      "title": "In-semester Exam",
+      "weight": "20%",
+      "due_date": "9/01/2027 11:00 am; The In-semester exam will take place on Saturday 9th January 2027 11am (venue to be confirmed).; Very strict rules apply for the single-sided A4 handwritten sheet. A document listing the requirements is available in the Assessment folder on the course Blackboard.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Essay/ Critique, Examination, Quiz, Tutorial/ Problem Set",
+      "title": "End-of-semester Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 6/02/2027 - 13/02/2027; Very strict rules apply for the double-sided A4 handwritten sheet. A document listing the requirements is available in the Assessment folder on the course Blackboard.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "Tutorial engagement tests",
+      "mode": "Written",
+      "category": "Quiz, Tutorial/ Problem Set",
+      "weight": "20% (Best 8 of 13)",
+      "due_date": "Due during tutorials in Week 1 to Week 8",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Be aware that there is no possible alternative to this assessment. 8 best tutorial engagement tests out of 13 in person during the tutorials (from week 1 to week 8). These take the form of a Gradescope written exam of 15 or so minutes and comprise 1) multiple choice questions checking that the concepts covered in the tutorial have been understood and 2) a very short exercise, also related to the exercises solved in the tutorial. Trying the exercises with peers and being attentive during the tutorial should be enough to get a good mark. As these tests require to be taken in person, it is essential that you enrol in a tutorial slot that you can actually attend. You can be absent to 5 tutorials without major consequence, so please do not contact us if you cannot make up your regular tutorial. You could check if there is a seat at another tutorial if you exceptionally cannot attend your regular one but do not wish to miss a test. Enrolled students in a class will always have priority. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "submission_guidelines": "The student must hand-write answers on Gradescope Answer Sheet provided by the tutors. Students must bring 3B pencil, eraser and calculator at all tutorials. Your name must be in capital letters to be easily recognized by the system and you must provide your Student ID (not your email address). Communication among students and access to laptop and phones are prohibited during the assessment tasks. The tutors collect the Gradebook Answer Sheet at the end of the assessment time. Please contact your course coordinator before the beginning of the term if you are entitled to extra time.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nLate submission is not possible as the tests are not available after the tutorial. Attendance is necessary to complete the test. No alternative is possible if you miss your tutorial. You can miss 5 tutorials without major consequence. If you cannot attend your regular tutorial one week, you are welcome to attend another tutorial group provided that there are enough seats available.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "In-semester Exam",
+      "mode": "Written",
+      "category": "Essay/ Critique, Examination, Quiz, Tutorial/ Problem Set",
+      "weight": "20%",
+      "due_date": "9/01/2027 11:00 am The In-semester exam will take place on Saturday 9th January 2027 11am (venue to be confirmed). Very strict rules apply for the single-sided A4 handwritten sheet. A document listing the requirements is available in the Assessment folder on the course Blackboard.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "This assessment is a supervised in person exam of 100 minutes (10mn reading time + 90mn working time). Students must advise of and seek permission from employers for their study and examination commitments at the beginning of the semester as the usual demands of employment are not grounds for a deferred exam to be approved. The exam covers topics 0 - 4 .The exam comprises 1) MCQ of the same nature of online tests 2) exercises of the same nature as in tutorials with, however, different questions and 3) critical writing questions around statements to assess as true, false or unclear (and more importantly to justify) and extracts taken from the media to explain and assess with the content of the course. The writing standards are very high in the course. Very precise and complete answers are expected, with concepts to be defined before being used, choice of approach to be justified, all stages of calculation to be shown, and result to be interpreted. Giving directly a result with no details and explanations will give students half the marks at most. More information will be provided closer to the date. See more information and advice on the in-semester exam format on Bb under Assessment closer to the date. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 90 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes , single sided, is permitted Bilingual dictionary Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nThe deferred exam is scheduled for Wednesday 20th January 2027 11am (venue to be confirmed)",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "End-of-semester Exam",
+      "mode": "Written",
+      "category": "Essay/ Critique, Examination, Quiz, Tutorial/ Problem Set",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 6/02/2027 - 13/02/2027 Very strict rules apply for the double-sided A4 handwritten sheet. A document listing the requirements is available in the Assessment folder on the course Blackboard.",
+      "other_conditions": "Time limited, Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "This assessment is a closed-book, supervised exam held on Campus at a day and time scheduled by the University for a 130mn duration (10mn reading time + 120mn working time). Students must advise of and seek permission from employers for their study and examination commitments at the beginning of the semester as the usual demands of employment are not grounds for a deferred exam to be approved. The exam covers topics 5-11. Be aware that given the interdependence among topics a good understanding of topics 0-3 is essential too. The final examination comprises 1) MCQ of the same nature as training tests 2) exercises of the same nature as in tutorials with, however, different questions and 3) critical writing questions applying course knowledge to new contexts not covered in the course. The writing standards are very high in the course. Very precise and complete answers are expected, with concepts to be defined before being used, choice of approach to be justified, all stages of calculation to be shown, and result to be interpreted. Giving directly a result with no details and explanations will give students half the marks at most. More information will be provided closer to the date. See more information and advice on the final exam format on Bb under Assessment closer to the date. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials One A4 sheet of handwritten notes, double sided, is permitted bilingual dictionary Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nA deferred exam will be held on Saturday 13th March 2027 [provisional date on UQ calendar] for students who are eligible to sit a deferred exam.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (30 Nov - 06 Dec)",
+      "activity_type": "Workshop",
+      "topic": "Course presentation: UQ extend platform, blended learning delivery, assessment standards, and three-colour tutorials"
+    },
+    {
+      "learning_period": "Week 1 (30 Nov - 06 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 0 Revision of fundamental concepts in finance: money, balance sheet in action, features of shares and bonds Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (30 Nov - 06 Dec)",
+      "activity_type": "Workshop",
+      "topic": "Topic 0 Revision of fundamental concepts in finance: money, balance sheet in action, features of shares and bonds Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (30 Nov - 06 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 1 Lifecycle of a financial instrument in diagrams of flow of funds and in balance sheets Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Workshop",
+      "topic": "Topic 1 Lifecycle of a financial instrument in diagrams of flow of funds and in balance sheets Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 2 The Payment system: the role of central bank money in settlement and creation and destruction of private money by banks Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Workshop",
+      "topic": "Topic 2 The Payment system: the role of central bank money in settlement and creation and destruction of private money by banks Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 3 The funding of the economy through direct finance, financial intermediation, and net creation of private money Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Workshop",
+      "topic": "Topic 3 The funding of the economy through direct finance, financial intermediation, and net creation of private money Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 4 Advanced topics in Debt Markets: Government Bond Auction, Securitisation and Capital notes Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Workshop",
+      "topic": "Topic 4 Advanced topics in Debt Markets: Government Bond Auction, Securitisation and Capital notes Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 5 Advanced topics in Equity Markets: Security lending and short selling Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (21 Dec - 27 Dec)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "No workshop, no tutorials"
+    },
+    {
+      "learning_period": "Mid-sem break (28 Dec - 03 Jan)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "No Workshop, no tutorials"
+    },
+    {
+      "learning_period": "Week 5 (04 Jan - 10 Jan)",
+      "activity_type": "Workshop",
+      "topic": "Topic 5 Advanced topics in Equity Markets: Security lending and short selling Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (04 Jan - 10 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 6 The Managed fund Industry: Managed funds, Hedge funds, ETF, XTB and mFunds Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (04 Jan - 10 Jan)",
+      "activity_type": "Workshop",
+      "topic": "Topic 6 The Managed fund Industry: Managed funds, Hedge funds, ETF, XTB and mFunds Learning outcomes: L01, L02, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (04 Jan - 10 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 7 Bank Financial Statements: Mark-to-market Accounting and Loan Default Accounting Learning outcomes: L01, L02, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Workshop",
+      "topic": "Topic 7 Bank Financial Statements: Mark-to-market Accounting and Loan Default Accounting Learning outcomes: L01, L02, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 8 Basel Bank capital regulation Learning outcomes: L01, L02, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Workshop",
+      "topic": "Topic 8 Basel Bank capital regulation Learning outcomes: L01, L02, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 9 Theories of Determination of Interest rates and Yield Curves: Expectations Theory and Liquidity Premium Theory Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Workshop",
+      "topic": "Topic 9 Theories of Determination of Interest rates and Yield Curves: Expectations Theory and Liquidity Premium Theory Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 10 Implementation of Monetary Policy: Central bank Balance Sheets, Tools of Monetary Policy and Determination of the Cash Rate in the Market for Reserves Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Workshop",
+      "topic": "Topic 10 Implementation of Monetary Policy: Central bank Balance Sheets, Tools of Monetary Policy and Determination of the Cash Rate in the Market for Reserves Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Topic 11 Implementation of Monetary Policy: Cash Rate Targeting and Quantitative Easing Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (25 Jan - 31 Jan)",
+      "activity_type": "Workshop",
+      "topic": "Topic 11 Implementation of Monetary Policy: Cash Rate Targeting and Quantitative Easing Thursday Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (25 Jan - 31 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Practice mock exam Thursday"
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Use of AI in Teaching: The University is exploring careful and responsible ways to use approved AI tools to support learning and teaching at UQ. The course Blackboard site will have further information about how AI tools might be used in this course. Please be aware that it is possible that student work may be used with approved AI tools. If you have questions about this, please consult the AI Student Hub and your Blackboard site and contact your Course Coordinator if you have any further questions. Learning activities"
+}

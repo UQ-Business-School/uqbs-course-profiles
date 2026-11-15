@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/FINM3411-60231-7460",
-  "scraped_at": "2026-11-08T11:13:50.110436+00:00",
+  "scraped_at": "2026-11-15T11:13:34.811887+00:00",
   "course_code": "FINM3411",
   "class_code": "60231",
   "semester_code": "7460",
@@ -30,14 +30,15 @@
   "course_contacts": [
     {
       "role": "Course coordinator",
-      "name": "Prof Stephen Gray",
-      "email": "s.gray@business.uq.edu.au"
+      "name": "Emeritus Professor Stephen Gray",
+      "email": "s.gray@business.uq.edu.au",
+      "phone": "+61 7 3346 8032"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
-      "name": "Prof Stephen Gray",
+      "name": "Emeritus Professor Stephen Gray",
       "email": "s.gray@business.uq.edu.au"
     }
   ],

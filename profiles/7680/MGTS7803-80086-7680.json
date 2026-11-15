@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/MGTS7803-80086-7680",
-  "scraped_at": "2026-11-08T11:22:30.204170+00:00",
+  "scraped_at": "2026-11-15T11:22:12.871662+00:00",
   "course_code": "MGTS7803",
   "class_code": "80086",
   "semester_code": "7680",
@@ -29,21 +29,12 @@
       "role": "Course coordinator",
       "name": "Professor Paul Spee",
       "email": "p.spee@business.uq.edu.au"
-    },
-    {
-      "role": "Course coordinator",
-      "name": "Mr Mike Thomes",
-      "email": "m.thomes@business.uq.edu.au"
     }
   ],
   "course_staff": [
     {
       "role": "Lecturer",
       "name": "Professor Paul Spee"
-    },
-    {
-      "role": "Lecturer",
-      "name": "Mr Mike Thomes"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note:\nTeaching staff do not have access to the timetabling system to help with class allocation. Therefore, should you need help with your timetable and/or allocation of classes, please ensure you email\nbusiness.mytimetable@uq.edu.au\nfrom your UQ student email account with the following details:\nFull Name\nStudent ID\nCourse Code",

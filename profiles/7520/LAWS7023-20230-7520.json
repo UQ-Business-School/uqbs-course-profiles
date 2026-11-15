@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/LAWS7023-20230-7520",
-  "scraped_at": "2026-11-08T11:18:38.750367+00:00",
+  "scraped_at": "2026-11-15T11:18:25.346136+00:00",
   "course_code": "LAWS7023",
   "class_code": "20230",
   "semester_code": "7520",
@@ -34,7 +34,7 @@
     {
       "role": "Course coordinator",
       "name": "Mr Anthony Austin",
-      "email": "a.austin@law.uq.edu.au",
+      "email": "a.austin2@uq.edu.au",
       "phone": "+61 7 3365 2639"
     }
   ],
@@ -42,7 +42,7 @@
     {
       "role": "Lecturer",
       "name": "Mr Anthony Austin",
-      "email": "a.austin@law.uq.edu.au"
+      "email": "a.austin2@uq.edu.au"
     }
   ],
   "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease enrol for a seminar that best fits in with your commitments as soon as possible.",

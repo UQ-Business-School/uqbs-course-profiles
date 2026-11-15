@@ -1,0 +1,441 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON1310-80095-7680",
+  "scraped_at": "2026-11-15T11:09:11.026598+00:00",
+  "course_code": "ECON1310",
+  "class_code": "80095",
+  "semester_code": "7680",
+  "full_course_code": "ECON1310-80095-7680",
+  "course_title": "Introductory Statistics for Social Sciences",
+  "study_period": "Summer Semester, 2026 (30/11/2026 - 13/02/2027)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "Basic statistical concepts and techniques such as descriptive statistics, probability concepts, theoretical distributions, inferential statistics (confidence intervals and hypothesis testing) are applied in business and economics.\n\nECON1310 is an introductory course in quantitative analysis for business and economics. The course covers a variety of techniques applicable to the presentation, interpretation and use of data. The main emphasis is inferential statistics with estimation and hypothesis testing techniques being an important part of the course. Inferential statistics is continued in the simple linear regression topic. There is an emphasis on the use of Excel for analysis and presentation.\n\nThis course is widely regarded as challengingﾠby many students. One reason is that the work is very cumulative. This means that it is exceptionally difficult to catch up if a student gets behind in the work.ﾠSuccess in the subject depends on keeping up-to-date.\n\nAs well as covering concepts that are an essential part of the analytical tool box for well-trained professionals, ECON1310 provides a foundation that is critical for success in later statistical courses, particularly ECON2300 Introductory Econometrics.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "MATH1040"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "CHEE2010",
+      "CIVL2530",
+      "MINE3214",
+      "PHRM1020",
+      "STAT1201"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Frederique Bracoud",
+      "email": "ECON1310@uq.edu.au",
+      "notes": "ECON1310@uq.edu.au"
+    },
+    {
+      "role": "School enquiries",
+      "name": "School Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed toﾠ enquiries@economics.uq.edu.au .ﾠ Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Ryan Leung"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures commence in Week 1\nTutorials commence in Week 2\nStudents need to sign-on to attend the live weekly lectures. All students\nmust sign on to a live tutorial group at St Lucia via My Timetable\n(available through my.UQ dashboard).\nThis is essential\nin order to attend and pass the required number of\nIn-tutorial Assessment activities\nthat run in tutorials during the semester. Students must enrol in a tutorial group prior to Week 2 and\nattend the same tutorial group each week.\nStudents\nmust only attend the tutorial they sign-on to\nfor the In-tutorial Assessment activities, otherwise they may be required to leave by the tutor\n. No tutorial changes will be approved after the UQ Census date.\nPlease see the Learning Activities section of this Course Profile for the timetabling implications of public holidays.\nImportant Dates:\nPublic Holidays\n: Friday 25 December (Christmas Day) and Tuesday 26 January (Australia Day)\nMid-Semester Break\n: 28 December – 1 January. Summer Semester classes recommence on Monday 4 January.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.",
+  "course_aims": "The aim of the course is for students to develop an ability to apply inferential statistics techniques to independently solve practical problems and to then explain the solutions using everyday language.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Use fundamental statistics terminology."
+    },
+    {
+      "number": "LO2.",
+      "description": "Apply theoretical concepts to construct analytical statistical techniques."
+    },
+    {
+      "number": "LO3.",
+      "description": "Describe the statistical techniques needed to solve particular problem types."
+    },
+    {
+      "number": "LO4.",
+      "description": "Conduct statistical analysis of data so as to draw statistical conclusions."
+    },
+    {
+      "number": "LO5.",
+      "description": "Communicate statistical findings for practical and professional use."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Participation/ Student contribution",
+      "title": "In-Tutorial Assessment",
+      "weight": "40% Best 6 out of 12.",
+      "due_date": "During a student's signed on tutorial 7/12/2026 - 25/01/2027; At the end of each tutorial.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Examination",
+      "title": "End-of-Semester Exam",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period; 6/02/2027 - 13/02/2027",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-Tutorial Assessment",
+      "mode": "Written",
+      "category": "Participation/ Student contribution",
+      "weight": "40% Best 6 out of 12.",
+      "due_date": "During a student's signed on tutorial 7/12/2026 - 25/01/2027 At the end of each tutorial.",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "Student participation is assessed by tutors who mark students’ individual handwritten solutions to tutor nominated tutorial questions from Week 2 to Week 8. Students write solutions on a blank sheet of paper (without using prewritten answers) that tutors mark after the tutorial. Students are required to attend the same tutorial each week. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "submission_guidelines": "Students must give their hand written tutorial solutions to the tutor at the end of the tutorial to receive a mark. Non submission of any hand written work will result in 0 marks awarded for that in-tutorial assessment activity. Submission of work at a tutorial where a student is NOT signed on may be marked by the tutor. However, students are strongly encouraged to only attend the tutorial they signed on to ( to receive their written work back the following week). Note that students can attend a different tutorial during the semester when their tutorial occurs on a public holiday, as outlined in this course profile under Learning Activities.\nDeferral or extension\nYou cannot defer or apply for an extension for this assessment.\nLate submission\nYou will receive a mark of 0 if this assessment is submitted late .\nLate submission is not possible. Students can only submit their written work during the relevant tutorial week.",
+      "deferral_or_extension": "You cannot defer or apply for an extension for this assessment.",
+      "late_submission": "You will receive a mark of 0 if this assessment is submitted late .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "End-of-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "60%",
+      "due_date": "End of Semester Exam Period 6/02/2027 - 13/02/2027",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04, L05",
+      "task_description": "The End-of-Semester Exam will assess material relating to Lectures 5 to 12 inclusively. There will be no multiple choice questions. Problem type questions will need to be solved, where all working will be required to be shown, along with possible written explanations of solutions or linking solutions to theoretical ideas. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - specified written materials permitted Materials A bilingual dictionary Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (30 Nov - 06 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 1: Descriptive Statistics 1 statistical concepts and definitions; data ﾖ types, sources, levels; descriptive & inferential statistics; sampling methods and errors. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (30 Nov - 06 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 2: Descriptive Statistics 2 Measures of central tendency, variation and shape for ungrouped data; box and whisker plot; linear combination of random variables; coefficient of correlation. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 3: Probability 1 Basic probability concepts, conditional probability. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 1: Descriptive Statistics 1 Tutorial on work covered in Lecture 1. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 4: Probability 2 Discrete probability distributions, binomial probability. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 2: Descriptive Statistics 2 Tutorial on work covered in Lecture 2. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 5: Normal Distribution Understanding the basis of the normal distribution, interpreting the Standardised Normal Distribution table, computing Z - scores and finding probabilities. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 3: Probability 1 Tutorial on work covered in Lecture 3. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 6: Sampling Distributions Sampling distributions of the mean and of the proportion. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 4: Probability 2 Tutorial on work covered in Lecture 4. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (21 Dec - 27 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 7: Confidence Intervals 1 Confidence interval estimate for the mean using both Z and t distributions; confidence interval for proportion. Note: This lecture will be on Monday 22nd December and there will be no lectures on Wednsday 24th December. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (21 Dec - 27 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 5: Normal Distribution Tutorial on work covered in Lecture 5. Note: This tutorial will be on Monday 22nd December and there will be no tutorials on Wednsday 24th December. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Mid-sem break (28 Dec - 03 Jan)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid semester Break Please note, there will be no classes this week."
+    },
+    {
+      "learning_period": "Week 5 (04 Jan - 10 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 8: Confidence Intervals 2 Sample size determination for the mean and proportion; confidence interval for the difference between two means. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (04 Jan - 10 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 6: Sampling Distributions Tutorial on work covered in Lecture 6. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (04 Jan - 10 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 9: Hypothesis Testing 1 Hypothesis testing methodology; one and two-tailed tests on the mean using critical value approach (Z and t); types of errors possible. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (04 Jan - 10 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 7: Confidence Intervals 1 Tutorial on work covered in Lecture 7. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 10: Hypothesis Testing 2 p-value approach to hypothesis testing; test for proportion; pooled variance test for difference between two means. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 8: Confidence Intervals 2 Tutorial on work covered in Lecture 8. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 11: Simple Linear Regression 1 SLR model; equation estimation using Excel; coefficient of determination; standard error of the estimate; confidence interval for the slope. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 9: Hypothesis Testing 1 Tutorial on work covered in Lecture 9. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 12: Simple Linear Regression 2 Assumptions; residual analysis; hypothesis test on slope. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 10: Hypothesis Testing 2 Tutorial on work covered in Lecture 10. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 13: Review Review of content from Lectures 1 - 13."
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 11: Simple Linear Regression 1 Tutorial on work covered in Lecture 11. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (25 Jan - 31 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 12: Simple Linear Regression 2 Tutorial on work covered in Lecture 12. Learning outcomes: L01, L02, L03, L04, L05",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Use of AI in Teaching: The University is exploring careful and responsible ways to use approved AI tools to support learning and teaching at UQ. The course Blackboard site will have further information about how AI tools might be used in this course. Please be aware that it is possible that student work may be used with approved AI tools. If you have questions about this, please consult the AI Student Hub and your Blackboard site and contact your Course Coordinator if you have any further questions. Learning activities"
+}

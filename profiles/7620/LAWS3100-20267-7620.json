@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/LAWS3100-20267-7620",
-  "scraped_at": "2026-11-08T11:18:18.527246+00:00",
+  "scraped_at": "2026-11-15T11:18:05.290270+00:00",
   "course_code": "LAWS3100",
   "class_code": "20267",
   "semester_code": "7620",
@@ -27,7 +27,7 @@
     {
       "role": "Course coordinator",
       "name": "Mr Anthony Austin",
-      "email": "a.austin@law.uq.edu.au",
+      "email": "a.austin2@uq.edu.au",
       "phone": "+61 7 3365 2639"
     }
   ],
@@ -35,12 +35,12 @@
     {
       "role": "Lecturer",
       "name": "Mr Anthony Austin",
-      "email": "a.austin@law.uq.edu.au"
+      "email": "a.austin2@uq.edu.au"
     },
     {
       "role": "Tutor",
       "name": "Mr Anthony Austin",
-      "email": "a.austin@law.uq.edu.au"
+      "email": "a.austin2@uq.edu.au"
     },
     {
       "role": "Tutor",
