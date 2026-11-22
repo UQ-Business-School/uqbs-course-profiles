@@ -1,0 +1,428 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/ECON2070-80096-7680",
+  "scraped_at": "2026-11-22T11:10:16.064409+00:00",
+  "course_code": "ECON2070",
+  "class_code": "80096",
+  "semester_code": "7680",
+  "full_course_code": "ECON2070-80096-7680",
+  "course_title": "Introduction to Strategic Thinking",
+  "study_period": "Summer Semester, 2026 (30/11/2026 - 13/02/2027)",
+  "study_level": "Undergraduate",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "Economics School",
+  "course_description": "The way that economists think about strategic situations is through the application of game theory. One aim of the course is to teach you some strategic considerations to take into account when making your own choices. A second aim is to predict how other people or organizations behave when they are in strategic settings. We will see that these aims are closely related. We will learn new concepts, methods and terminology. A third aim is to apply these tools to settings from economics and other disciplines. The course will emphasize examples.\n\nNon-cooperative game theory is the principal method that economists use to think about and analyse strategic situations. This course willﾠintroduce you to many of the main concepts, methods and terminology of game theory and show how these tools may be applied to settings from economics and other disciplines. The course will use examples and applications to motivate concepts.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "ECON1010"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr Kenan Kalayci",
+      "email": "k.kalayci@uq.edu.au"
+    },
+    {
+      "role": "School enquiries",
+      "name": "School Enquiries, School of Economics",
+      "email": "enquiries@economics.uq.edu.au",
+      "notes": "All enquiries regarding student and academic administration (i.e. non-course content information, e.g., class allocation, timetables, extension to assessment due date, etc.) should be directed toﾠ enquiries@economics.uq.edu.au .ﾠ Enquiries relating specifically to course content should be directed to the Course Coordinator/Lecturer."
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr Kenan Kalayci"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Mosharop Hossian"
+    },
+    {
+      "role": "Tutor",
+      "name": "Mr Spencer Tong"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nLectures and tutorials are delivered online, and lectures are recorded. The in-semester and end-of-semester exams are held in person.\nLectures commence in Week 1\nTutorials commence in Week 1 (after Lecture 2).\nPlease see the Learning Activities section of this Course Profile for the timetabling implications of public holidays.\nImportant Dates:\nPublic holidays:\nFriday 25 December 2026 (Christmas Day), Tuesday 26 January 2027 (Australia Day).\nIn-semester Break:\n28 December 2026 – 1 January 2027. Summer Semester classes recommence on Monday 4 January 2027.\nNo lectures or tutorials will be held on Monday 21 December 2026.\nStudents should refer to the timetable prior to the commencement of classes to ensure that they have the most up to date information, as from time to time late room changes may occur.",
+  "course_aims": "The way that economists think about strategic situations is through the application of game theory.\n\nThe aims of the course are:\n\n1. To teach you some strategic considerations to take into account when making your own choices.\n\n2. To predict how other people or organizations behave when they are in strategic settings.ﾠ\n\n3. To apply these tools to settings from economics and other disciplines.ﾠ\n\nWe will see that these aims are closely related. We will learn new concepts, methods and terminology.ﾠThe course will use examples and applications to motivate concepts.ﾠ",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Identify strategic considerations facing decision makers."
+    },
+    {
+      "number": "LO2.",
+      "description": "Recognise tools and concepts of game theory."
+    },
+    {
+      "number": "LO3.",
+      "description": "Predict how people or organizations in strategic settings will behave."
+    },
+    {
+      "number": "LO4.",
+      "description": "Apply game theoretic tools and concepts to a variety of settings in economics and other disciplines."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Examination",
+      "title": "In-semester Exam",
+      "weight": "30%",
+      "due_date": "18/12/2026 10:00 am; Exam will take place during lecture on Friday 18 December.",
+      "conditions": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Paper/ Report/ Annotation",
+      "title": "Report: Game Theory in the News",
+      "weight": "20%",
+      "due_date": "15/01/2027 3:59 pm"
+    },
+    {
+      "category": "Examination",
+      "title": "End-of-semester Exam",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period; 6/02/2027 - 13/02/2027",
+      "conditions": [
+        "In-person"
+      ]
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "18/12/2026 10:00 am Exam will take place during lecture on Friday 18 December.",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "In this assessment, you will answer questions and solve exercises that demonstrate your understanding of the key concepts and tools presented in the first four lectures. The task is designed to assess your skills in analysis and problem-solving. Completing this assessment will help you build technical skills that you can carry into the rest of your studies in economics. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 60 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Exam papers will be collected in person.\nDeferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Report: Game Theory in the News",
+      "mode": "Written",
+      "category": "Paper/ Report/ Annotation",
+      "weight": "20%",
+      "due_date": "15/01/2027 3:59 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "In this assessment, you will create a report that demonstrates your understanding of game theory and your ability to apply it to a real-world scenario or problem. The task is designed to assess your skills in analysis and critical thinking and to support your development in economic analysis. Completing this assessment will help you build practical skills that you can carry into future academic and professional contexts. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Upload your report via Turnitin on Blackboard.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 7 days. Extensions are given in multiples of 24 hours.\nThe maximum extension time is 7 days in order to ensure timely feedback to other students.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "End-of-semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "50%",
+      "due_date": "End of Semester Exam Period 6/02/2027 - 13/02/2027",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L03, L04",
+      "task_description": "End-of-semester exam in person. Composed of exercises on all the course content. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options (In person) Casio FX82 series only or UQ approved and labelled calculator Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "special_indicators": [
+        "In-person"
+      ]
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1 (30 Nov - 06 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 1: Decisions Under Uncertainty Preferences, utility, dominance, expected utility and the expected utility theorem Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (30 Nov - 06 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 2: Normal Form Games and Dominance Normal form games, payoff matrices, dominant and dominated strategies, iterated elimination Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 1 (30 Nov - 06 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 1: Decisions Under Uncertainty Exercises on Lecture 1: Decisions Under Uncertainty. Preferences, utility, dominance, expected utility and the expected utility theorem Learning outcomes: L01, L02, L03",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 3: Nash Equilibrium I Best responses and pure strategy Nash equilibrium Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 2: Normal Form Games and Dominance Exercises on Lecture 2: Normal Form Games and Dominance. Normal form games, payoff matrices, dominant and dominated strategies, iterated elimination Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 4: Nash Equilibrium II Mixed strategy Nash equilibrium Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 2 (07 Dec - 13 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 3: Nash Equilibrium I Exercises on Lecture 3: Nash Equilibrium I. Best responses and pure strategy Nash equilibrium Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 5: Bayesian games Extending the notion of Nash Equilibrium to situations with incomplete information Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 4: Nash Equilibrium II Exercises on Lecture 4: Nash Equilibrium II. Mixed strategy Nash equilibrium Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Lecture",
+      "topic": "In-semester Exam Exam will take place during lecture on Friday 18 December. Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3 (14 Dec - 20 Dec)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 5: Bayesian games Exercises on Lecture 5: Bayesian games. Extending the notion of Nash Equilibrium to situations with incomplete information Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 4 (21 Dec - 27 Dec)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "No lectures or tutorials in Week 4 There will be no lectures or tutorials on Monday 21 December. Friday 25 December is a public holiday."
+    },
+    {
+      "learning_period": "Mid-sem break (28 Dec - 03 Jan)",
+      "activity_type": "No student involvement (Breaks, information)",
+      "topic": "Mid-Semester Break No lecture or tutorial will be held during Mid-Semester Break"
+    },
+    {
+      "learning_period": "Week 5 (04 Jan - 10 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 6: Extensive Form Games Game trees, backward induction and subgame perfect equilibrium Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (04 Jan - 10 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 7: Extensive form games with imperfect information Information sets, perfect Bayesian equilibrium and sequential equilibrium Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 5 (04 Jan - 10 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 6: Extensive Form Games Exercises on Lecture 6: Extensive Form Games. Game trees, backward induction and subgame perfect equilibrium Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 8: Extensive Form Games with incomplete information Signalling games: separating, pooling and semi-pooling equilibria Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 7: Extensive form game with imperfect information Exercises on Lecture 7: Extensive form games with imperfect information. Information sets, perfect Bayesian equilibrium and sequential equilibrium Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 9: Long-term Relationship Repeated games, discounting and sustaining cooperation Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 6 (11 Jan - 17 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 8: Extensive form game with incomplete information Exercises on Lecture 8: Extensive Form Games with incomplete information. Signalling games: separating, pooling and semi-pooling equilibria Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 10: Mechanism design 1 - contracts and market design Principal-agent problems, incentive compatibility, hold-up, the revelation principle and market design Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 9: Long-term Relationship Exercises on Lecture 9: Long-term Relationship. Repeated games, discounting and sustaining cooperation Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 11: Mechanism design 2 - Auction and contests Auction formats, revenue equivalence, the winner's curse and contests Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 7 (18 Jan - 24 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 10: Mechanism design 1 - contracts and market design Exercises on Lecture 10: Mechanism design 1 - contracts and market design. Principal-agent problems, incentive compatibility, hold-up, the revelation principle and market design Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (25 Jan - 31 Jan)",
+      "activity_type": "Lecture",
+      "topic": "Lecture 12: Political applications - Voting and coalitions Applying game theory to voting and coalition formation Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 8 (25 Jan - 31 Jan)",
+      "activity_type": "Tutorial",
+      "topic": "Tutorial 11: Mechanism design 2 - Auction and contests Exercises on Lecture 11: Mechanism design 2 - Auction and contests. Auction formats, revenue equivalence, the winner's curse and contests Learning outcomes: L01, L02, L03, L04",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Use of AI in Teaching: The University is exploring careful and responsible ways to use approved AI tools to support learning and teaching at UQ. The course Blackboard site will have further information about how AI tools might be used in this course. Please be aware that it is possible that student work may be used with approved AI tools. If you have questions about this, please consult the AI Student Hub and your Blackboard site and contact your Course Coordinator if you have any further questions. Learning activities"
+}

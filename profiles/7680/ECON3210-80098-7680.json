@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/ECON3210-80098-7680",
-  "scraped_at": "2026-11-15T11:10:25.350508+00:00",
+  "scraped_at": "2026-11-22T11:10:55.861221+00:00",
   "course_code": "ECON3210",
   "class_code": "80098",
   "semester_code": "7680",
@@ -164,7 +164,8 @@
     }
   ],
   "learning_resources": {
-    "library_resources": "Library resources are available on the UQ Library website ."
+    "library_resources": "Find the required and recommended resources for this course on the UQ Library website.\nOwn copy required\nYou'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Webpage The Future System for Monetary Policy Implementation by Kent; Christopher - 2024-04-02 Publisher: Reserve Bank of Australia Book Financial Markets and Institutions: a step-by-step analysis of core mechanisms by Bracoud; Frederique - 2023 Publisher: UQ Pressbooks ISBN: 9781742723662 Document Australian Debt Securities and Corporate Bonds by Australian Centre for Financial Studies; Davis; Kevin; Jenkinson; Martin - June 2015 Publisher: National Australia Bank Document Regulatory Guide RG 196 Short Selling Publisher: Australian Securities and Investments Commission",
+    "own_copy_required": "You'll need to have your own copy of the following reading resources. We've indicated below if you need a personal copy of the reading materials or your own item.\nItem Description Webpage The Future System for Monetary Policy Implementation by Kent; Christopher - 2024-04-02 Publisher: Reserve Bank of Australia Book Financial Markets and Institutions: a step-by-step analysis of core mechanisms by Bracoud; Frederique - 2023 Publisher: UQ Pressbooks ISBN: 9781742723662 Document Australian Debt Securities and Corporate Bonds by Australian Centre for Financial Studies; Davis; Kevin; Jenkinson; Martin - June 2015 Publisher: National Australia Bank Document Regulatory Guide RG 196 Short Selling Publisher: Australian Securities and Investments Commission"
   },
   "learning_activities": [
     {
