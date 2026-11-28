@@ -1,0 +1,333 @@
+{
+  "url": "https://course-profiles.uq.edu.au/course-profiles/CONS7025-20688-7720",
+  "scraped_at": "2026-11-28T11:05:51.785342+00:00",
+  "course_code": "CONS7025",
+  "class_code": "20688",
+  "semester_code": "7720",
+  "full_course_code": "CONS7025-20688-7720",
+  "course_title": "Rainforest Conservation",
+  "study_period": "Semester 1, 2027 (18/01/2027 - 27/03/2027)",
+  "study_level": "Postgraduate Coursework",
+  "location": "St Lucia",
+  "attendance_mode": "In Person",
+  "units": "2",
+  "administrative_campus": "St Lucia",
+  "coordinating_unit": "The Environment School",
+  "course_description": "This course provides a comprehensive overview of the ecology of rainforests globally, and a detailed exploration of the issues relevant to their conservation. By using rainforests as a case study, it is intended that students will gain insights into the conservation and restoration of threatened habitats generally. An integral component of the course is a week-long field trip framed around a quantification of the biodiversity values of old growth rainforest versus post-clearing regrowth and restoration. From this, students will produce an assessment item in the style of a consultant's report, emphasising the effective application of real-world skills in research, analysis and communication.\n\nParticipation in the field trip for CONS7025 is compulsory. Students who do not attend the field trip will not be able to complete the course assessment. Alternative assessment arrangements would only be considered under exceptional circumstances, such as medical conditions that make field work impossible.\n\n\"Why should I even care about rainforest conservation?\" Thinking carefully and critically about this question will be at the core of this course. The most immediately obvious answer is that the highly diverse ecology of rainforests makes them unique habitats, and hence this course will present you with a sound introduction to rainforest ecology and the issues associated with rainforest conservation.\n\nBut there is a second and deeper answer, which is that understanding rainforest conservation teaches us broader principles of vegetation preservation and restoration, lessons that can be applied to conserving many other habitats and landscapes worldwide.\n\nAs well as examining the causes of rainforest destruction and how they might be reduced, the course also examines what conservation biologists can do after rainforest has been cut down. Surprisingly, the United Nations estimates that, globally, some 15% of old growth rainforest cleared in the 1990's has regrown as secondary forest on abandoned land... which equates to 1 hectare regained for every 6 lost. Understanding the biodiversity values of such secondary, \"regrowth forests\" will be a vital question for the future of conservation biology.\n\nA logical extension of this is - \"what can conservationists do to actively recreate habitat on formerly cleared lands?\" Approaches to the challenge of rainforest restoration will therefore be a keyﾠ aspect of this course. The potential for carbon trading to serve as an economic inducement for forest conservation and reforestation will be explored.",
+  "requirements": {
+    "prerequisites": [
+      "You'll need to complete the following courses before enrolling in this one:",
+      "CONS6009",
+      "CONS7008"
+    ],
+    "incompatible": [
+      "You can't enrol in this course if you've already completed the following:",
+      "ECOL6820"
+    ],
+    "restrictions": [
+      "Restricted to students enrolled in MConsBiol and MConsSc"
+    ]
+  },
+  "course_contacts": [
+    {
+      "role": "Course coordinator",
+      "name": "Dr John Hall",
+      "email": "john.hall@uq.edu.au",
+      "notes": "My name is John Hall and I am the course coordinator for CONS7025 “Rainforest Conservation”. E-mail is my best contact, but you are welcome to say hello and ask questions after lectures!"
+    }
+  ],
+  "course_staff": [
+    {
+      "role": "Lecturer",
+      "name": "Dr John Hall",
+      "email": "john.hall@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Dr John Dwyer",
+      "email": "j.dwyer2@uq.edu.au"
+    },
+    {
+      "role": "Lecturer",
+      "name": "Professor Rod Fensham",
+      "email": "r.fensham@uq.edu.au"
+    }
+  ],
+  "timetable": "The timetable for this course is available on the\nUQ Public Timetable\n.\nAdditional timetable information\nPlease note that a list of the teaching times and rooms for CONS7025 Rainforest Conservation will be posted to blackboard.",
+  "course_aims": "The learning objective for this course is to balance the daunting scale of the issues in rainforest conservation with a constructive awareness of the positive things that can be done to help. ﾠAs a starting point, you will learn how and why rainforests are different from other forest types, and explore the ecology relating to their exceptional biodiversity. You will develop an understanding of the present state of rainforest deforestation, and how this relates to the broader history of human land clearing. You will examine both the socio-economic factors that drive rainforest deforestation, and the diversity of the conservation approaches that offer some hope for the future. A strong focus of your learning will be on how habitat fragmentation, protected area management, sustainable economic opportunities, secondary forest regeneration and human-mediated restoration efforts can best be managed strategically to maximise rainforest conservation outcomes. Class-based lectures and tutorials will compliment extensive field work in local rainforests and secondary regrowth. While in the field, you will learn and apply techniques to quantify forest diversity and relate tree basal area to carbon sequestration potential. The fieldwork represents a strong opportunity to develop your ability to identify plants using dichotomous keys, an important practical skill in applied conservation biology.",
+  "learning_outcomes": [
+    {
+      "number": "LO1.",
+      "description": "Understand the ecological characteristics that gives rainforest its unique conservation significance. Understand the key threats to rainforest conservation, and the strategic possibilities to reduce those threats, both globally and in the Australian context."
+    },
+    {
+      "number": "LO2.",
+      "description": "Think critically and strategically about rainforest conservation options. Acknowledge the complexities of real world conservation debates, and give fair consideration to both sides of the issue. Appreciate the need to extract maximum value from what are often, by necessity, controversial and compromise solutions to difficult problems."
+    },
+    {
+      "number": "LO3.",
+      "description": "Apply sound methodology for the field quantification of forest plant diversity, and the statistical comparison of such data from different forest types. Develop skills in plant identification using dichotomous keys."
+    },
+    {
+      "number": "LO4.",
+      "description": "Understand the potential of carbon sequestration as possible economic mechanism to promote reforestation, and have a practical knowledge of how carbon sequestration by forests can be quantified in the field."
+    },
+    {
+      "number": "LO5.",
+      "description": "Write up a scientific research project, incorporating both the analysis of original field data and a critical review of scientific literature, into an illustrated report in a format suitable for communication with a target audience of non-scientists (such as a government agency or community group with a conservation focus)."
+    },
+    {
+      "number": "LO6.",
+      "description": "Apply your knowledge of, and insights into, rainforest conservation to similar issues that apply to the conservation of other forest types and habitats."
+    }
+  ],
+  "assessment_summary": [
+    {
+      "category": "Examination",
+      "title": "In-Semester Exam",
+      "weight": "30%",
+      "due_date": "29/01/2027",
+      "conditions": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "category": "Written assessment",
+      "title": "Carbon Sequestration Exercise: Carbon worksheet",
+      "weight": "20%",
+      "due_date": "12/02/2027 4:00 pm"
+    },
+    {
+      "category": "Written assessment",
+      "title": "Conservation Values of Rainforest and Regrowth",
+      "weight": "50%",
+      "due_date": "22/02/2027 4:00 pm"
+    }
+  ],
+  "assessment_details": [
+    {
+      "id": "assessment-detail-0",
+      "title": "In-Semester Exam",
+      "mode": "Written",
+      "category": "Examination",
+      "weight": "30%",
+      "due_date": "29/01/2027",
+      "other_conditions": "Secure. See the conditions definitions",
+      "learning_outcomes_assessed": "L01, L02, L06",
+      "task_description": "The exam will ONLY cover teaching material delivered during the first week of the course. You will be clearly advised as to what material will be covered during class. The Exam time and location will be advised via Blackboard annoucement. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "assessment_security": "Secure assessment: This assessment is designed to protect academic integrity and assess your understanding of course concepts. You must only use the approved materials and tools for this assessment task. Use of prohibited materials in this task may be investigated and treated as academic misconduct. See assessment instructions for more details.",
+      "exam_details": "Planning time 10 minutes Duration 120 minutes Calculator options No calculators permitted Open/closed book Closed book examination - no written materials permitted Exam platform Paper based Invigilation Invigilated in person",
+      "submission_guidelines": "Deferral or extension\nYou may be able to defer this exam .\nSee the Additional Assessment Information section below for information relating to extension applications.",
+      "deferral_or_extension": "You may be able to defer this exam .",
+      "ai_statement": "The exam will ONLY cover teaching material delivered during the first week of the course. You will be clearly advised as to what material will be covered during class. The Exam time and location will be advised via Blackboard annoucement. Use of Artificial Intelligence (AI) and Machine Translation (MT) This assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nThis assessment task is to be completed in-person. The use of generative Artificial Intelligence (AI) or Machine Translation (MT) tools will not be permitted. Any attempted use of AI or MT may constitute student misconduct under the Student Code of Conduct.",
+      "special_indicators": [
+        "Hurdle",
+        "Identity Verified",
+        "In-person"
+      ]
+    },
+    {
+      "id": "assessment-detail-1",
+      "title": "Carbon Sequestration Exercise: Carbon worksheet",
+      "mode": "Written",
+      "category": "Written assessment",
+      "weight": "20%",
+      "due_date": "12/02/2027 4:00 pm",
+      "learning_outcomes_assessed": "L02, L04, L06",
+      "task_description": "This assignment will involve working through a series of allometric equations to calculate the carbon values of the stands of subtropical rainforest and camphor laurel regrowth that we sampled during our fieldwork. Hence you will collect the data for this assignment in the field as a group but each individual will need to complete their calculations on their own. Part of this worksheet will also involve providing short essay answers to several questions about the use of carbon markets to promote rainforest conservation. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional Assessment Information section below for information relating to extension applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "This assignment will involve working through a series of allometric equations to calculate the carbon values of the stands of subtropical rainforest and camphor laurel regrowth that we sampled during our fieldwork. Hence you will collect the data for this assignment in the field as a group but each individual will need to complete their calculations on their own. Part of this worksheet will also involve providing short essay answers to several questions about the use of carbon markets to promote rainforest conservation. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    },
+    {
+      "id": "assessment-detail-2",
+      "title": "Conservation Values of Rainforest and Regrowth",
+      "mode": "Written",
+      "category": "Written assessment",
+      "weight": "50%",
+      "due_date": "22/02/2027 4:00 pm",
+      "learning_outcomes_assessed": "L01, L02, L03, L05, L06",
+      "task_description": "In this project report, you will write up a scientific investigation, incorporating both the analysis of original field data and a critical review of scientific literature, into an illustrated report in a format suitable for communication with a target audience of non-scientists (i.e, a “consultant report” for a local government or community group with a conservation focus). This written report will be based on the ecology we investigated on the CONS7025 field trip, and will be entitled “An assessment of the conservation values of camphor laurel regrowth versus intact native rainforest\". Your task is to provide an evidence-based assessment of the conservation values of camphor laurel regrowth in the Tweed valley relative to the original subtropical rainforests that they replaced following a history of land clearing. Your report should be a scientifically-sound analysis and presentation of the original research data we collected on the field trip. In addition, you should critically explore the published scientific literature relevant to this topic, including the relative costs and benefits of the passive versus active approach to forest regrowth and restoration. A key focus of this task will be developing and communicating a practical, achievable conservation solution that could be implemented in a real-world context! In terms of both content and style, authoring this document will help you to develop professional skills in writing, analysis and presentation that will be directly applicable to your future career, and it will give you the opportunity to apply your learning to a practical problem in rainforest conservation. Please note that further details to assist you in the preparation of this document will be provided in class tutorials and on blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description",
+      "assessment_security": "Open assessment: In this assessment you can use resources such as your notes, course materials, and other tools, including AI, while completing the task. The focus is not on memorising information, but on understanding, applying judgement, and demonstrating your own thinking.",
+      "submission_guidelines": "Online submission by Turnitin only by the due date and time. Refer to Blackboard for the submission link. No hard copy or assignment cover sheets are required. Submission via email is not accepted.\nDeferral or extension\nYou may be able to apply for an extension .\nThe maximum extension allowed is 28 days. Extensions are given in multiples of 24 hours.\nSee the Additional Assessment Information section below for information relating to extension applications.\nLate submission\nA penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.\nYou are required to submit assessable items on time. If you fail to meet the submission deadline for any assessment item, then 10% of the maximum possible mark for the assessment item (the assessment ‘marked from’ value) will be deducted as a late penalty for every day (or part day) late after the due date.\nFor example, if you submit your assignment 1 hour late, you will be penalised 10%; if your assignment is 24.5 hours late, you will be penalised 20% (because it is late by one 24-hour period plus part of another 24-hour period).",
+      "deferral_or_extension": "You may be able to apply for an extension .",
+      "late_submission": "A penalty of 10% of the maximum possible mark will be deducted per 24 hours from time submission is due for up to 7 days. After 7 days, you will receive a mark of 0.",
+      "ai_statement": "In this project report, you will write up a scientific investigation, incorporating both the analysis of original field data and a critical review of scientific literature, into an illustrated report in a format suitable for communication with a target audience of non-scientists (i.e, a “consultant report” for a local government or community group with a conservation focus). This written report will be based on the ecology we investigated on the CONS7025 field trip, and will be entitled “An assessment of the conservation values of camphor laurel regrowth versus intact native rainforest\". Your task is to provide an evidence-based assessment of the conservation values of camphor laurel regrowth in the Tweed valley relative to the original subtropical rainforests that they replaced following a history of land clearing. Your report should be a scientifically-sound analysis and presentation of the original research data we collected on the field trip. In addition, you should critically explore the published scientific literature relevant to this topic, including the relative costs and benefits of the passive versus active approach to forest regrowth and restoration. A key focus of this task will be developing and communicating a practical, achievable conservation solution that could be implemented in a real-world context! In terms of both content and style, authoring this document will help you to develop professional skills in writing, analysis and presentation that will be directly applicable to your future career, and it will give you the opportunity to apply your learning to a practical problem in rainforest conservation. Please note that further details to assist you in the preparation of this document will be provided in class tutorials and on blackboard. Use of Artificial Intelligence (AI) and Machine Translation (MT) Artificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct. Read full task description Hide full task description\nUse of Artificial Intelligence (AI) and Machine Translation (MT)\nArtificial Intelligence (AI) and Machine Translation (MT) are emerging tools that may support students in completing this assessment task. Students may appropriately use AI and/or MT in completing this assessment task. Students must clearly reference any use of AI or MT in each instance. A failure to reference generative AI or MT use may constitute student misconduct under the Student Code of Conduct."
+    }
+  ],
+  "learning_resources": {
+    "library_resources": "Library resources are available on the UQ Library website ."
+  },
+  "learning_activities": [
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "Course Introduction : Welcome to Rainforest Conservation! Aims and scope of the course - schedule of learning activities - details of the assessment - introduction to the class discussions and readings - logistical arrangements for the field trip (Dr John Hall). Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "\"The Chaos of Delight\" : An Introduction to Rainforest Ecology An introduction to Rainforest Ecology (Dr John Hall). Please note this will be a two-hour lecture with a short break in the middle. Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "\"Echoes in the Cathedral\" : Issues and Ways Forward in Rainforest Conservation Issues and Ways Forward in Rainforest Conservation (Dr John Hall). Please note this will be a two-hour lecture with a short break in the middle. Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Lecture",
+      "topic": "\"Regrowing Rainforests\" : Secondary forests and reforestation An introduction to the ecology of reforestation and secondary forests (Dr John Dwyer). Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Tutorial",
+      "topic": "Class Discussion of Rainforest Conservation Issues A structured class discussion; each class member to bring details of a paper on the topic of rainforest conservation that they found interesting or inspiring. Be prepared to briefly explain the \"story\" of your chosen paper to the class in an informal tutorial discussion setting.The tutorial will be run during morning and afternoon sessions with a lunch break in between (Dr John Hall). Learning outcomes: L01, L02, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 1",
+      "activity_type": "Workshop",
+      "topic": "Preparation for Field Trip Field Trip Briefing - Background on the Ecological question - the disputed conservation significance of Camphor laurel. Overview of our field methods and analytical approaches. Logistical arrangements for the field trip (Dr John Hall). Learning outcomes: L01, L02",
+      "learning_outcomes": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "learning_period": "Week 2",
+      "activity_type": "Fieldwork",
+      "topic": "Rainforest Conservation Field Trip The CONS7025 field trip is a week-long field trip that will run from Monday 1st February to Friday 5th February. Accommodation, meals and transport will be provided. Full details of this field trip will be communicated during class time and in the course materials posted on Blackboard. Learning outcomes: L01, L02, L03, L04, L05, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L03",
+        "L04",
+        "L05",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Practical",
+      "topic": "Plant Identification Skills Workshop A practical class in which you will learn tips and techniques for identifying rainforest plants, followed by a plant identification lab session (Prof. Rod Fensham). We will use this time to identify the plant specimens collected on the field trip. IMPORTANT NOTE: You MUST wear ENCLOSED SHOES or BOOTS to participate in this lab! Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Practical",
+      "topic": "Rainforest Data Entry In this session, we will work together to enter the field trip data that you will need to author your report. Learning outcomes: L03, L04",
+      "learning_outcomes": [
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Workshop on Scientific Writing A practical class focused on improving your writing skills generally, in science and science communication (Dr John Hall). The skills reviewed in this class will be of direct assistance to you in writing up the report which is the major assessment item for CONS7025! Learning outcomes: L05",
+      "learning_outcomes": [
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "\"Estimating the Carbon Content of Forests\" Allometric equations, their value and importance for incorporating forests into carbon markets (Dr John Dwyer). Learning outcomes: L01, L02, L04, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Workshop on Quantifying Carbon Sequestration Calculating carbon sequestration in subtropical rainforest camphor laurel forests from our field trip data (Dr John Dwyer). The skills reviewed in this class will be of direct assistance to you in writing up your carbon worksheet AND the report which is the major assessment item for CONS7025! Learning outcomes: L02, L03, L04",
+      "learning_outcomes": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Lecture",
+      "topic": "\"Can Carbon Markets Avoid Deforestation?\" Is the emergence of global carbon markets a viable mechanism to prevent deforestation?(Dr John Dwyer). Learning outcomes: L01, L02, L04, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Using Carbon Markets for Conservation Gains A structured class discussion on how carbon markets might be used to achieve positive conservation gains (Dr John Dwyer). To be based on the set readings provided. Learning outcomes: L01, L02, L04, L06",
+      "learning_outcomes": [
+        "L01",
+        "L02",
+        "L04",
+        "L06"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Workshop on quantifying biodiversity Quantifying and comparing diversity in subtropical rainforest camphor laurel forests - don't miss this essential tutorial in which we anylyse our field trip data! (Dr John Dwyer). The skills reviewed in this class will be of direct assistance to you in writing up the report which is the major assessment item for CONS7025! Learning outcomes: L03",
+      "learning_outcomes": [
+        "L03"
+      ]
+    },
+    {
+      "learning_period": "Week 3",
+      "activity_type": "Tutorial",
+      "topic": "Workshop on Writing Your Report A detailed overview on how to go about writing your report for this subject (Dr John Hall). The skills reviewed in this class will be of direct assistance to you in writing up the report which is the major assessment item for CONS7025! Learning outcomes: L05",
+      "learning_outcomes": [
+        "L05"
+      ]
+    },
+    {
+      "learning_period": "Week 4",
+      "activity_type": "Consultation",
+      "topic": "Consultations on draft reports The fourth week of CONS7025 will be spent writing-up your report. There are no scheduled classes during this week, but you MUST make an appointment with Dr John Hall during this week to discuss your draft. Details on how to arrange a time for this discussion will be communicated during class. Learning outcomes: L02, L05",
+      "learning_outcomes": [
+        "L02",
+        "L05"
+      ]
+    }
+  ],
+  "policies_and_procedures": "University policies and procedures apply to all aspects of student life. As a UQ student, you must comply with University-wide and program-specific requirements, including the: Student Code of Conduct Policy Student Integrity and Misconduct Policy and Procedure Assessment Procedure Examinations Procedure Reasonable Adjustments for Students Policy and Procedure Recording of Teaching Policy and Procedure Learn more about UQ policies on my.UQ and the Policy and Procedure Library . Use of AI in Teaching: The University is exploring careful and responsible ways to use approved AI tools to support learning and teaching at UQ. The course Blackboard site will have further information about how AI tools might be used in this course. Please be aware that it is possible that student work may be used with approved AI tools. If you have questions about this, please consult the AI Student Hub and your Blackboard site and contact your Course Coordinator if you have any further questions. Learning activities"
+}

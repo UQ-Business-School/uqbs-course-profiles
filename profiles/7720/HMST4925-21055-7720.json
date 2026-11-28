@@ -1,6 +1,6 @@
 {
   "url": "https://course-profiles.uq.edu.au/course-profiles/HMST4925-21055-7720",
-  "scraped_at": "2026-11-21T11:05:41.191128+00:00",
+  "scraped_at": "2026-11-28T11:05:54.755034+00:00",
   "course_code": "HMST4925",
   "class_code": "21055",
   "semester_code": "7720",
@@ -58,7 +58,7 @@
   ],
   "assessment_summary": [
     {
-      "category": "Paper/ Report/ Annotation, Project",
+      "category": "Written assessment, Project",
       "title": "Research Proposal and Study Plan",
       "weight": "15% (Part A: 15% and Part B: Pass/Fail)",
       "due_date": "19/03/2027 2:00 pm",
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "category": "Paper/ Report/ Annotation, Project, Reflection",
+      "category": "Written assessment, Project, Reflection",
       "title": "Written research report",
       "weight": "50%",
       "due_date": "7/06/2027 2:00 pm"
@@ -93,7 +93,7 @@
       "id": "assessment-detail-0",
       "title": "Research Proposal and Study Plan",
       "mode": "Written",
-      "category": "Paper/ Report/ Annotation, Project",
+      "category": "Written assessment, Project",
       "weight": "15% (Part A: 15% and Part B: Pass/Fail)",
       "due_date": "19/03/2027 2:00 pm",
       "learning_outcomes_assessed": "L01, L02",
@@ -125,7 +125,7 @@
       "id": "assessment-detail-2",
       "title": "Written research report",
       "mode": "Written",
-      "category": "Paper/ Report/ Annotation, Project, Reflection",
+      "category": "Written assessment, Project, Reflection",
       "weight": "50%",
       "due_date": "7/06/2027 2:00 pm",
       "other_conditions": "Student specific. See the conditions definitions",
